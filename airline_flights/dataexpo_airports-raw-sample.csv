@@ -1,0 +1,100 @@
+"iata","airport","city","state","country","lat","long"
+"ABQ","Albuquerque International","Albuquerque","NM","USA",35.04022222,-106.6091944
+"ALB","Albany Cty","Albany","NY","USA",42.74811944,-73.80297861
+"ANC","Ted Stevens Anchorage International","Anchorage","AK","USA",61.17432028,-149.9961856
+"ATL","William B Hartsfield-Atlanta Intl","Atlanta","GA","USA",33.64044444,-84.42694444
+"AUS","Austin-Bergstrom International","Austin","TX","USA",30.19453278,-97.66987194
+"BDL","Bradley International","Windsor Locks","CT","USA",41.93887417,-72.68322833
+"BHM","Birmingham International","Birmingham","AL","USA",33.56294306,-86.75354972
+"BNA","Nashville International","Nashville","TN","USA",36.12447667,-86.67818222
+"BOI","Boise Air Terminal","Boise","ID","USA",43.56444444,-116.2227778
+"BOS","Gen Edw L Logan Intl","Boston","MA","USA",42.3643475,-71.00517917
+"BQN","Rafael Hernandez","Aguadilla","PR","USA",18.49486111,-67.12944444
+"BUF","Buffalo Niagara Intl","Buffalo","NY","USA",42.94052472,-78.73216667
+"BUR","Burbank-Glendale-Pasadena","Burbank","CA","USA",34.20061917,-118.3584969
+"BWI","Baltimore-Washington International","Baltimore","MD","USA",39.17540167,-76.66819833
+"CAE","Columbia Metropolitan","Columbia","SC","USA",33.93884,-81.11953944
+"CAK","Akron-Canton Regional","Akron","OH","USA",40.91631194,-81.44246556
+"CHS","Charleston AFB/International","Charleston","SC","USA",32.89864639,-80.04050583
+"CLE","Cleveland-Hopkins Intl","Cleveland","OH","USA",41.41089417,-81.84939667
+"CLT","Charlotte/Douglas International","Charlotte","NC","USA",35.21401111,-80.94312583
+"CMH","Port Columbus Intl","Columbus","OH","USA",39.99798528,-82.89188278
+"COS","City of Colorado Springs Muni","Colorado Springs","CO","USA",38.80580556,-104.70025
+"CVG","Cincinnati Northern Kentucky Intl","Covington","KY","USA",39.04614278,-84.6621725
+"DAY","James M Cox Dayton Intl","Dayton","OH","USA",39.90237583,-84.219375
+"DCA","Ronald Reagan Washington National","Arlington","VA","USA",38.85208333,-77.03772222
+"DEN","Denver Intl","Denver","CO","USA",39.85840806,-104.6670019
+"DFW","Dallas-Fort Worth International","Dallas-Fort Worth","TX","USA",32.89595056,-97.0372
+"DTW","Detroit Metropolitan-Wayne County","Detroit","MI","USA",42.21205889,-83.34883583
+"ELP","El Paso International","El Paso","TX","USA",31.80666667,-106.3778056
+"EWR","Newark Intl","Newark","NJ","USA",40.69249722,-74.16866056
+"FAI","Fairbanks International","Fairbanks","AK","USA",64.8136775,-147.8596694
+"FAT","Fresno Yosemite International","Fresno","CA","USA",36.77619444,-119.7181389
+"FLL","Fort Lauderdale-Hollywood Int'l","Ft. Lauderdale","FL","USA",26.07258333,-80.15275
+"GEG","Spokane Intl","Spokane","WA","USA",47.61985556,-117.5338425
+"GSO","Piedmont Triad International","Greensboro","NC","USA",36.09774694,-79.9372975
+"GSP","Greenville-Spartanburg","Greer","SC","USA",34.89566722,-82.21885833
+"HNL","Honolulu International","Honolulu","HI","USA",21.31869111,-157.9224072
+"HOU","William P Hobby","Houston","TX","USA",29.64541861,-95.27888889
+"IAD","Washington Dulles International","Chantilly","VA","USA",38.94453194,-77.45580972
+"IAH","George Bush Intercontinental","Houston","TX","USA",29.98047222,-95.33972222
+"IND","Indianapolis International","Indianapolis","IN","USA",39.71732917,-86.29438417
+"JAX","Jacksonville International","Jacksonville","FL","USA",30.49405556,-81.68786111
+"JFK","John F Kennedy Intl","New York","NY","USA",40.63975111,-73.77892556
+"KOA","Kona International At Keahole","Kailua/Kona","HI","USA",19.73876583,-156.0456314
+"LAS","McCarran International","Las Vegas","NV","USA",36.08036111,-115.1523333
+"LAX","Los Angeles International","Los Angeles","CA","USA",33.94253611,-118.4080744
+"LGA","LaGuardia","New York","NY","USA",40.77724306,-73.87260917
+"LGB","Long Beach (Daugherty )","Long Beach","CA","USA",33.81772222,-118.1516111
+"LIH","Lihue","Lihue","HI","USA",21.97598306,-159.3389581
+"LIT","Adams ","Little Rock","AR","USA",34.72939611,-92.22424556
+"MCI","Kansas City International","Kansas City","MO","USA",39.29760528,-94.71390556
+"MCO","Orlando International","Orlando","FL","USA",28.42888889,-81.31602778
+"MDW","Chicago Midway","Chicago","IL","USA",41.7859825,-87.75242444
+"MEM","Memphis International","Memphis","TN","USA",35.04241667,-89.97666667
+"MHT","Manchester","Manchester","NH","USA",42.93451639,-71.43705583
+"MIA","Miami International","Miami","FL","USA",25.79325,-80.29055556
+"MKE","General Mitchell International","Milwaukee","WI","USA",42.94722222,-87.89658333
+"MSP","Minneapolis-St Paul Intl","Minneapolis","MN","USA",44.88054694,-93.2169225
+"MSY","New Orleans International ","New Orleans","LA","USA",29.99338889,-90.25802778
+"MYR","Myrtle Beach International","Myrtle Beach","SC","USA",33.67975,-78.92833333
+"OAK","Metropolitan Oakland International","Oakland","CA","USA",37.72129083,-122.2207167
+"OGG","Kahului","Kahului","HI","USA",20.89864972,-156.4304578
+"OKC","Will Rogers World","Oklahoma City","OK","USA",35.39308833,-97.60073389
+"OMA","Eppley Airfield","Omaha","NE","USA",41.30251861,-95.89417306
+"ONT","Ontario International","Ontario","CA","USA",34.056,-117.6011944
+"ORD","Chicago O'Hare International","Chicago","IL","USA",41.979595,-87.90446417
+"ORF","Norfolk International","Norfolk","VA","USA",36.89461111,-76.20122222
+"PBI","Palm Beach International","West Palm Beach","FL","USA",26.68316194,-80.09559417
+"PDX","Portland Intl","Portland","OR","USA",45.58872222,-122.5975
+"PHF","Newport News/Williamsburg International","Newport News","VA","USA",37.13189556,-76.4929875
+"PHL","Philadelphia Intl","Philadelphia","PA","USA",39.87195278,-75.24114083
+"PHX","Phoenix Sky Harbor International","Phoenix","AZ","USA",33.43416667,-112.0080556
+"PIT","Pittsburgh International","Pittsburgh","PA","USA",40.49146583,-80.23287083
+"PSP","Palm Springs International","Palm Springs","CA","USA",33.82921556,-116.5062531
+"PVD","Theodore F Green State","Providence","RI","USA",41.72399917,-71.42822111
+"PWM","Portland International Jetport","Portland","ME","USA",43.64616667,-70.30875
+"RDU","Raleigh-Durham International","Raleigh","NC","USA",35.87763889,-78.78747222
+"RIC","Richmond International","Richmond","VA","USA",37.50516667,-77.31966667
+"RNO","Reno/Tahoe International","Reno","NV","USA",39.49857611,-119.7680647
+"ROC","Greater Rochester Int'l","Rochester","NY","USA",43.11886611,-77.67238389
+"RSW","Southwest Florida International","Ft. Myers","FL","USA",26.53616667,-81.75516667
+"SAN","San Diego International-Lindbergh ","San Diego","CA","USA",32.73355611,-117.1896567
+"SAT","San Antonio International","San Antonio","TX","USA",29.53369444,-98.46977778
+"SAV","Savannah International","Savannah","GA","USA",32.12758333,-81.20213889
+"SBA","Santa Barbara Municipal","Santa Barbara","CA","USA",34.42621194,-119.8403733
+"SDF","Louisville International-Standiford ","Louisville","KY","USA",38.17438889,-85.736
+"SEA","Seattle-Tacoma Intl","Seattle","WA","USA",47.44898194,-122.3093131
+"SFO","San Francisco International","San Francisco","CA","USA",37.61900194,-122.3748433
+"SJC","San Jose International","San Jose","CA","USA",37.36186194,-121.9290089
+"SJU","Luis Munoz Marin International","San Juan","PR","USA",18.43941667,-66.00183333
+"SLC","Salt Lake City Intl","Salt Lake City","UT","USA",40.78838778,-111.9777731
+"SMF","Sacramento International","Sacramento","CA","USA",38.69542167,-121.5907669
+"SNA","John Wayne /Orange Co","Santa Ana","CA","USA",33.67565861,-117.8682225
+"SRQ","Sarasota Bradenton International","Sarasota","FL","USA",27.39533333,-82.55411111
+"STL","Lambert-St Louis International","St Louis","MO","USA",38.74768694,-90.35998972
+"STT","Cyril E. King","Charlotte Amalie","VI","USA",18.33730556,-64.97336111
+"SYR","Syracuse-Hancock Intl","Syracuse","NY","USA",43.11118694,-76.10631056
+"TPA","Tampa International ","Tampa","FL","USA",27.97547222,-82.53325
+"TUL","Tulsa International","Tulsa","OK","USA",36.19837222,-95.88824167
+"TUS","Tucson International","Tucson","AZ","USA",32.11608333,-110.9410278
