@@ -1,5 +1,5 @@
 "iata","airport","city","state","country","lat","long"
-"00M","Thigpen ","Bay Springs","MS","USA",31.95376472,-89.23450472
+"00M","Thigpen","Bay Springs","MS","USA",31.95376472,-89.23450472
 "00R","Livingston Municipal","Livingston","TX","USA",30.68586111,-95.01792778
 "00V","Meadow Lake","Colorado Springs","CO","USA",38.94574889,-104.5698933
 "01G","Perry-Warsaw","Perry","NY","USA",42.74134667,-78.05208056
@@ -14,7 +14,7 @@
 "05C","Griffith-Merrillville ","Griffith","IN","USA",41.51961917,-87.40109333
 "05F","Gatesville - City/County","Gatesville","TX","USA",31.42127556,-97.79696778
 "05U","Eureka","Eureka","NV","USA",39.60416667,-116.0050597
-"06A","Moton  Municipal","Tuskegee","AL","USA",32.46047167,-85.68003611
+"06A","Moton Municipal","Tuskegee","AL","USA",32.46047167,-85.68003611
 "06C","Schaumburg","Chicago/Schaumburg","IL","USA",41.98934083,-88.10124278
 "06D","Rolla Municipal","Rolla","ND","USA",48.88434111,-99.62087694
 "06M","Eupora Municipal","Eupora","MS","USA",33.53456583,-89.31256917
@@ -142,7 +142,7 @@
 "1B9","Mansfield Municipal","Mansfield","MA","USA",42.00013306,-71.19677139
 "1C5","Clow","Chicago/Plainfield","IL","USA",41.69597444,-88.12923056
 "1D1","Milbank Municipal","Milbank","SD","USA",45.23053806,-96.56596556
-"1D2","Canton -Plymouth -  Mettetal","Plymouth","MI","USA",42.35003667,-83.45826833
+"1D2","Canton -Plymouth - Mettetal","Plymouth","MI","USA",42.35003667,-83.45826833
 "1D3","Platte Municipal","Platte","SD","USA",43.40332833,-98.82952972
 "1D6","Hector Municipal","Hector","MN","USA",44.73107278,-94.71471333
 "1D7","Webster Municipal","Webster","SD","USA",45.29329111,-97.51369889
@@ -167,7 +167,7 @@
 "1K4","David J. Perry","Goldsby","OK","USA",35.1550675,-97.47039389
 "1K5","Waynoka Municipal","Waynoka","OK","USA",36.56670028,-98.85231333
 "1K9","Satanta Municipal","Satanta","KS","USA",37.45419111,-100.9921119
-"1L0","St. John the Baptist Parish","Reserve","LA","USA",30.08720833,-90.58266528
+"1L0","St John the Baptist Parish","Reserve","LA","USA",30.08720833,-90.58266528
 "1L1","Lincoln Co","Panaca","NV","USA",37.78746444,-114.4216567
 "1L7","Escalante Municipal","Escalante","UT","USA",37.74532639,-111.5701653
 "1L9","Parowan","Parowan","UT","USA",37.85969694,-112.816055
@@ -342,7 +342,7 @@
 "3J7","Greene County Airpark","Greensboro","GA","USA",33.59766667,-83.139
 "3JC","Freeman ","Junction City","KS","USA",39.04327556,-96.84328694
 "3K3","Syracuse-Hamilton County Municipal","Syracuse","KS","USA",37.99167972,-101.7462822
-"3K6","St Louis-Metro East","Troy/Marine/St. Louis","IL","USA",38.73290861,-89.80656722
+"3K6","St Louis-Metro East","Troy/Marine/St Louis","IL","USA",38.73290861,-89.80656722
 "3K7","Mark Hoard Memorial","Leoti","KS","USA",38.45696333,-101.3532161
 "3LC","Logan County","Lincoln","IL","USA",40.15847222,-89.33497222
 "3LF","Litchfield Municipal","Litchfield","IL","USA",39.16635306,-89.67489694
@@ -429,7 +429,7 @@
 "4F2","Panola County-Sharpe ","Carthage","TX","USA",32.17608333,-94.29880556
 "4F4","Gilmer-Upshur County","Gilmer","TX","USA",32.699,-94.94886111
 "4G1","Greenville Muni","Greenville","PA","USA",41.44683167,-80.39126167
-"4G2","Hamburg Inc.","Hamburg","NY","USA",42.7008925,-78.91475694
+"4G2","Hamburg Inc","Hamburg","NY","USA",42.7008925,-78.91475694
 "4G5","Monroe County","Woodsfield","OH","USA",39.77904472,-81.10277222
 "4G6","Hornell Muni","Hornell","NY","USA",42.38214444,-77.6821125
 "4G7","Fairmont Muni","Fairmont","WV","USA",39.44816667,-80.16702778
@@ -485,7 +485,7 @@
 "52A","Madison Municipal","Madison","GA","USA",33.61212528,-83.46044333
 "52E","Timberon ","Timberon","NM","USA",32.63388889,-105.6863889
 "52J","Lee County","Bishopville","SC","USA",34.24459889,-80.23729333
-"53A","Dr. C.P. Savage, Sr.","Montezuma","GA","USA",32.302,-84.00747222
+"53A","Dr. C.P. Savage, Sr","Montezuma","GA","USA",32.302,-84.00747222
 "53K","Osage City Municipal","Osage City","KS","USA",38.63334222,-95.80859806
 "54J","Defuniak Springs","Defuniak Springs","FL","USA",30.7313,-86.15160833
 "55D","Grayling Army Airfield","Grayling","MI","USA",44.68032028,-84.72886278
@@ -530,9 +530,9 @@
 "5R4","Foley Municipal","Foley","AL","USA",30.42769722,-87.70082
 "5R5","Wharton Municipal","Wharton","TX","USA",29.25427778,-96.15438889
 "5R8","De Quincy Industrial Airpark","De Quincy","LA","USA",30.44117222,-93.47349722
-"5S8","St. Michael","St. Michael","AK","USA",63.49005056,-162.1103692
+"5S8","St Michael","St Michael","AK","USA",63.49005056,-162.1103692
 "5T5","Hillsboro Municipal","Hillsboro","TX","USA",32.08348611,-97.09722722
-"5T6","Dona Ana County  At Santa Teresa","Santa Teresa","NM","USA",31.88098556,-106.7048131
+"5T6","Dona Ana County at Santa Teresa","Santa Teresa","NM","USA",31.88098556,-106.7048131
 "5T9","Maverick County Meml Intl","Eagle Pass","TX","USA",28.85719361,-100.5122997
 "5TE","Tetlin","Tetlin","AK","USA",63.13382361,-142.5219339
 "5U3","Ennis - Big Sky","Ennis","MT","USA",45.27175833,-111.6486389
@@ -821,13 +821,13 @@
 "AKN","King Salmon","King Salmon","AK","USA",58.67680167,-156.6492175
 "AKO","Akron-Washington Co","Akron","CO","USA",40.17563333,-103.2220278
 "AKP","Anaktuvuk Pass","Anaktuvuk Pass","AK","USA",68.1343225,-151.74168
-"AKR","Akron Fulton Intl.","Akron","OH","USA",41.0375,-81.46693944
+"AKR","Akron Fulton Intl","Akron","OH","USA",41.0375,-81.46693944
 "AKW","Klawock","Klawock","AK","USA",55.57923333,-133.0759972
 "AL08","Vaiden ","Marion","AL","USA",32.51235611,-87.38555472
 "ALB","Albany Cty","Albany","NY","USA",42.74811944,-73.80297861
 "ALI","Alice International","Alice","TX","USA",27.74088889,-98.02694444
 "ALM","Alamogordo-White Sands Regional","Alamogordo","NM","USA",32.83994444,-105.9905833
-"ALN","St. Louis Regional","Alton/St. Louis","IL","USA",38.89029083,-90.04604306
+"ALN","St Louis Regional","Alton/St Louis","IL","USA",38.89029083,-90.04604306
 "ALO","Waterloo Municipal","Waterloo","IA","USA",42.55708139,-92.40034361
 "ALS","San Luis Valley Regional/Bergman ","Alamosa","CO","USA",37.43491667,-105.8665556
 "ALW","Walla Walla Regional","Walla Walla","WA","USA",46.09456167,-118.2880367
@@ -977,7 +977,7 @@
 "BLH","Blythe","Blythe","CA","USA",33.61916278,-114.7168764
 "BLI","Bellingham Intl","Bellingham","WA","USA",48.79275,-122.5375278
 "BLM","Allaire Arpt","Belmar/Farmingdale","NJ","USA",40.18691806,-74.12488694
-"BLV","Scott AFB/MidAmerica ","Belleville/St. Louis","IL","USA",38.54517861,-89.83518444
+"BLV","Scott AFB/MidAmerica ","Belleville/St Louis","IL","USA",38.54517861,-89.83518444
 "BMC","Brigham City","Brigham City","UT","USA",41.55239139,-112.0622625
 "BMG","Monroe County","Bloomington","IN","USA",39.14602139,-86.61668278
 "BMI","Central Illinois Regional","Bloomington","IL","USA",40.47798556,-88.91595278
@@ -1172,7 +1172,7 @@
 "CPK","Chesapeake Municipal","Norfolk","VA","USA",36.66561833,-76.32066389
 "CPM","Compton/Woodley","Compton","CA","USA",33.89001611,-118.2436831
 "CPR","Natrona County Intl","Casper","WY","USA",42.90835556,-106.4644661
-"CPS","St. Louis Downtown","Cahokia/St. Louis","IL","USA",38.57072444,-90.15622111
+"CPS","St Louis Downtown","Cahokia/St Louis","IL","USA",38.57072444,-90.15622111
 "CPX","Benjamin Rivera Noriega","Isla De Culebra","PR","USA",18.31328917,-65.30432444
 "CQA","Lakefield","Celina","OH","USA",40.48408333,-84.56011111
 "CQB","Chandler Municipal","Chandler","OK","USA",35.72381556,-96.82027306
@@ -1246,15 +1246,15 @@
 "D98","Romeo","Romeo","MI","USA",42.79699083,-82.97526583
 "DAB","Daytona Beach International","Daytona Beach","FL","USA",29.17991667,-81.05805556
 "DAG","Barstow-Daggett","Daggett","CA","USA",34.85371333,-116.7866875
-"DAL","Dallas Love ","Dallas","TX","USA",32.84711389,-96.85177222
+"DAL","Dallas Love","Dallas","TX","USA",32.84711389,-96.85177222
 "DAN","Danville Regional","Danville","VA","USA",36.57286111,-79.33611111
 "DAW","Skyhaven","Rochester","NH","USA",43.28406194,-70.92925472
 "DAY","James M Cox Dayton Intl","Dayton","OH","USA",39.90237583,-84.219375
-"DBN","W. H. \"Bud\" Barron ","Dublin","GA","USA",32.56445806,-82.98525556
+"DBN","W. H. 'Bud' Barron ","Dublin","GA","USA",32.56445806,-82.98525556
 "DBQ","Dubuque Municipal","Dubuque","IA","USA",42.40295944,-90.70916722
 "DCA","Ronald Reagan Washington National","Arlington","VA","USA",38.85208333,-77.03772222
 "DCK","Dahl Creek","Dahl Creek","AK","USA",66.94333806,-156.9046739
-"DCU","Pryor  Regional","Decatur","AL","USA",34.65264667,-86.94536778
+"DCU","Pryor Regional","Decatur","AL","USA",34.65264667,-86.94536778
 "DCY","Daviess County","Washington","IN","USA",38.70042333,-87.12973222
 "DDC","Dodge City Regional","Dodge City","KS","USA",37.76312194,-99.96542389
 "DDH","William H. Morse State","Bennington","VT","USA",42.8913325,-73.2464075
@@ -1303,7 +1303,7 @@
 "DTL","Detroit Lakes -Wething ","Detroit Lakes","MN","USA",46.82520861,-95.8856875
 "DTN","Shreveport Downtown","Shreveport","LA","USA",32.54021889,-93.7450225
 "DTO","Denton Municipal","Denton","TX","USA",33.20072167,-97.19797722
-"DTS","Destin-Ft. Walton Beach","Destin","FL","USA",30.40006111,-86.47147722
+"DTS","Destin-Fort Walton Beach","Destin","FL","USA",30.40006111,-86.47147722
 "DTW","Detroit Metropolitan-Wayne County","Detroit","MI","USA",42.21205889,-83.34883583
 "DUA","Eaker ","Durant","OK","USA",33.942265,-96.39451806
 "DUC","Halliburton ","Duncan","OK","USA",34.470875,-97.95986111
@@ -1519,14 +1519,14 @@
 "FKR","Frankfort Municipal","Frankfort","IN","USA",40.27343083,-86.56217028
 "FLD","Fond Du Lac County","Fond Du Lac","WI","USA",43.77117417,-88.48842917
 "FLG","Flagstaff Pulliam","Flagstaff","AZ","USA",35.13845472,-111.6712183
-"FLL","Fort Lauderdale-Hollywood Int'l","Ft. Lauderdale","FL","USA",26.07258333,-80.15275
+"FLL","Fort Lauderdale-Hollywood Int'l","Fort Lauderdale","FL","USA",26.07258333,-80.15275
 "FLO","Florence Regional","Florence","SC","USA",34.18536111,-79.72388889
 "FLP","Marion County Regional","Flippin","AR","USA",36.29087528,-92.59023417
 "FLT","Flat","Flat","AK","USA",62.45264889,-157.98907
 "FLX","Fallon Municipal","Fallon","NV","USA",39.499545,-118.7490197
 "FME","Tipton ","Odenton","MD","USA",39.08538667,-76.75941444
 "FMN","Four Corners Regional","Farmington","NM","USA",36.74125,-108.2299444
-"FMY","Page ","Ft. Myers","FL","USA",26.58661111,-81.86325
+"FMY","Page ","Fort Myers","FL","USA",26.58661111,-81.86325
 "FMZ","Fairmont State","Fairmont","NE","USA",40.58569444,-97.57305556
 "FNB","Brenner ","Falls City","NE","USA",40.07878611,-95.59199167
 "FNL","Fort Collins-Loveland ","Fort Collins/Loveland","CO","USA",40.45182722,-105.0113356
@@ -1537,7 +1537,7 @@
 "FOE","Forbes ","Topeka","KS","USA",38.95095194,-95.66361444
 "FOK","Francis Gabreski","Westhampton Beach","NY","USA",40.84365472,-72.63178917
 "FOT","Rohnerville","Fortuna","CA","USA",40.55393583,-124.1326589
-"FPR","St. Lucie County International","Ft. Pierce","FL","USA",27.49505556,-80.36827778
+"FPR","St Lucie County International","Fort Pierce","FL","USA",27.49505556,-80.36827778
 "FQD","Rutherford County-Marchman ","Rutherfordton","NC","USA",35.42822222,-81.93507778
 "FRG","Republic","Farmingdale","NY","USA",40.72878111,-73.41340722
 "FRH","French Lick Municipal","French Lick","IN","USA",38.50622139,-86.63693528
@@ -1562,7 +1562,7 @@
 "FWC","Fairfield Municipal","Fairfield","IL","USA",38.37863306,-88.41265222
 "FWN","Sussex ","Sussex","NJ","USA",41.20020667,-74.62305056
 "FWS","Spinks","Fort Worth","TX","USA",32.56522778,-97.30807778
-"FXE","Fort Lauderdale Executive","Ft. Lauderdale","FL","USA",26.19728,-80.17070833
+"FXE","Fort Lauderdale Executive","Fort Lauderdale","FL","USA",26.19728,-80.17070833
 "FXY","Forest City Municipal","Forest City","IA","USA",43.23473417,-93.6241025
 "FYE","Fayette County","Somerville","TN","USA",35.20592,-89.39441667
 "FYM","Fayetteville Municipal","Fayetteville","TN","USA",35.05836278,-86.56441139
@@ -1576,7 +1576,7 @@
 "GAF","Grafton Municipal","Grafton","ND","USA",48.40469444,-97.37094444
 "GAG","Gage","Gage","OK","USA",36.29553889,-99.77642361
 "GAI","Montgomery Co Airpark","Gaithersburg","MD","USA",39.16833611,-77.166
-"GAL","Edward G. Pitka Sr.","Galena","AK","USA",64.73617806,-156.9374164
+"GAL","Edward G. Pitka Sr","Galena","AK","USA",64.73617806,-156.9374164
 "GAM","Gambell","Gambell","AK","USA",63.76676556,-171.7328236
 "GAS","Gallia - Meigs Regional","Gallipolis","OH","USA",38.83410833,-82.16342306
 "GBD","Great Bend Municipal","Great Bend","KS","USA",38.34441861,-98.85917028
@@ -1773,7 +1773,7 @@
 "HTL","Roscommon County","Houghton Lake","MI","USA",44.35980556,-84.67111111
 "HTO","East Hampton","East Hampton","NY","USA",40.95957778,-72.25185056
 "HTS","Tri-State/Walker-Long ","Huntington","WV","USA",38.36666667,-82.55802778
-"HTW","Lawrence County Airpark,Inc","Chesapeake","OH","USA",38.41924861,-82.4943225
+"HTW","Lawrence County Airpark, Inc","Chesapeake","OH","USA",38.41924861,-82.4943225
 "HUF","Terre Haute International-Hulman ","Terre Haute","IN","USA",39.45146361,-87.30756111
 "HUL","Houlton International","Houlton","ME","USA",46.12308333,-67.79205556
 "HUM","Houma-Terrebonne","Houma","LA","USA",29.5665,-90.66041667
@@ -1787,7 +1787,7 @@
 "HWD","Hayward Executive","Hayward","CA","USA",37.65926528,-122.1224083
 "HWI","Hawk Inlet SPB","Hawk Inlet","AK","USA",58.12744139,-134.7559531
 "HWO","North Perry","Hollywood","FL","USA",26.00142417,-80.24052056
-"HWQ","Wheatland County  At Harlowton","Harlowton","MT","USA",46.4541225,-109.8549061
+"HWQ","Wheatland County at Harlowton","Harlowton","MT","USA",46.4541225,-109.8549061
 "HWV","Brookhaven","Shirley","NY","USA",40.81676528,-72.86204722
 "HXD","Hilton Head","Hilton Head Island","SC","USA",32.22436111,-80.69747222
 "HXF","Hartford Municipal","Hartford","WI","USA",43.34927806,-88.39112528
@@ -1929,7 +1929,7 @@
 "JOT","Joliet Park District","Chicago/Joliet","IL","USA",41.51805833,-88.17525583
 "JQF","Concord Regional","Concord","NC","USA",35.38520694,-80.70971389
 "JRA","Port Authority-W 30th St Midtown Heliport","New York","NY","USA",40.75454583,-74.00708389
-"JRB","Downtown Manhattan/Wall St. Heliport","New York","NY","USA",40.70121361,-74.00902833
+"JRB","Downtown Manhattan/Wall St Heliport","New York","NY","USA",40.70121361,-74.00902833
 "JRF","Kalaeloa (John Rodgers )","Kapolei","HI","USA",21.30735389,-158.0703017
 "JSO","Jacksonville-Cherokee County","Jacksonville","TX","USA",31.86933667,-95.21739028
 "JST","Johnstown-Cambria Cty","Johnstown","PA","USA",40.31611111,-78.83394444
@@ -1966,7 +1966,7 @@
 "K62","Falmouth Pendleton County","Falmouth","KY","USA",38.70423611,-84.39160417
 "K67","Oswego Municipal","Oswego","KS","USA",37.15978667,-95.04246222
 "K68","Garnett Municipal","Garnett","KS","USA",38.27918833,-95.21691833
-"K78","Abilene Municipal","Abilene.","KS","USA",38.90405583,-97.23585389
+"K78","Abilene Municipal","Abilene","KS","USA",38.90405583,-97.23585389
 "K81","Miami County","Paola","KS","USA",38.53751389,-94.92524194
 "K82","Smith Center Municipal","Smith Center","KS","USA",39.76112278,-98.79343639
 "K83","Sabetha Municipal","Sabetha","KS","USA",39.90416667,-95.7794325
@@ -1994,7 +1994,7 @@
 "KPB","Point Baker SPB","Point Baker","AK","USA",56.35185972,-133.6225864
 "KPH","Pauloff Harbor SPB","Pauloff Harbor","AK","USA",54.45912028,-162.6936406
 "KQA","Akutan SPB","Akutan","AK","USA",54.13246694,-165.7853111
-"KSM","St. Mary's","St. Mary's","AK","USA",62.06048639,-163.3021108
+"KSM","St Mary's","St Mary's","AK","USA",62.06048639,-163.3021108
 "KTB","Thorne Bay","Thorne Bay","AK","USA",55.68796194,-132.5366758
 "KTN","Ketchikan International","Ketchikan","AK","USA",55.35556861,-131.71374
 "KTS","Brevig Mission","Brevig Mission","AK","USA",65.33136111,-166.4631667
@@ -2014,7 +2014,7 @@
 "L18","Fallbrook Community Airpark","Fallbrook","CA","USA",33.35419806,-117.2508686
 "L19","Wasco-Kern County","Wasco","CA","USA",35.61967889,-119.3537242
 "L26","Hesperia","Hesperia","CA","USA",34.37722333,-117.3158783
-"L31","Greater St. Tammany Parish ","Covington","LA","USA",30.44505417,-89.98887889
+"L31","Greater St Tammany Parish ","Covington","LA","USA",30.44505417,-89.98887889
 "L35","Big Bear City","Big Bear","CA","USA",34.26361944,-116.854475
 "L38","Louisiana Regional","Gonzales","LA","USA",30.17135306,-90.94039583
 "L39","Leesville","Leesville","LA","USA",31.16819444,-93.34245833
@@ -2037,7 +2037,7 @@
 "LAN","Capital City","Lansing","MI","USA",42.7787,-84.58735806
 "LAR","Laramie Regional","Laramie","WY","USA",41.31205,-105.6749864
 "LAS","McCarran International","Las Vegas","NV","USA",36.08036111,-115.1523333
-"LAW","Lawton-Ft Sill Regional","Lawton","OK","USA",34.56771444,-98.41663667
+"LAW","Lawton-Fort Sill Regional","Lawton","OK","USA",34.56771444,-98.41663667
 "LAX","Los Angeles International","Los Angeles","CA","USA",33.94253611,-118.4080744
 "LBB","Lubbock International","Lubbock","TX","USA",33.66363889,-101.8227778
 "LBE","Arnold Palmer Regional","Latrobe","PA","USA",40.27594,-79.40479722
@@ -2096,7 +2096,7 @@
 "LOL","Derby ","Lovelock","NV","USA",40.066405,-118.5651664
 "LOT","Lewis University","Chicago/Romeoville","IL","USA",41.60844444,-88.09094444
 "LOU","Bowman ","Louisville","KY","USA",38.228,-85.66372222
-"LOZ","London-Corbin  Magee ","London","KY","USA",37.08727778,-84.07677778
+"LOZ","London-Corbin Magee ","London","KY","USA",37.08727778,-84.07677778
 "LPC","Lompoc","Lompoc","CA","USA",34.66561028,-120.4667883
 "LPR","Lorain Co Regional","Lorain/Elyria","OH","USA",41.34427778,-82.17763889
 "LQK","Pickens County","Pickens","SC","USA",34.80997222,-82.70288889
@@ -2239,7 +2239,7 @@
 "MGJ","Orange Cty","Montgomery","NY","USA",41.50998278,-74.26465056
 "MGM","Montgomery Regional Apt","Montgomery","AL","USA",32.30064417,-86.39397611
 "MGR","Moultrie Municipal","Moultrie","GA","USA",31.08490917,-83.80325528
-"MGW","Morgantown Muni-Walter L. Bill Hart Fld.","Morgantown","WV","USA",39.6429075,-79.91631417
+"MGW","Morgantown Muni-Walter L. Bill Hart Fld","Morgantown","WV","USA",39.6429075,-79.91631417
 "MGY","Dayton Wright Brothers","Dayton","OH","USA",39.58897222,-84.22486111
 "MHE","Mitchell Municipal","Mitchell","SD","USA",43.77483333,-98.03861111
 "MHK","Manhattan Regional","Manhattan","KS","USA",39.14096722,-96.67083278
@@ -2427,7 +2427,7 @@
 "O11","Cherokee Nation","Stilwell","OK","USA",35.75703083,-94.64994417
 "O15","Turlock Municipal","Turlock","CA","USA",37.48743556,-120.6968669
 "O16","Garberville","Garberville","CA","USA",40.08597806,-123.8136397
-"O17","Nevada County  Air Park","Grass Valley","CA","USA",39.22402778,-121.0030833
+"O17","Nevada County Air Park","Grass Valley","CA","USA",39.22402778,-121.0030833
 "O19","Kneeland","Eureka","CA","USA",40.7193,-123.9275531
 "O21","Hoopa","Hoopa","CA","USA",41.04290778,-123.6683894
 "O22","Columbia","Columbia","CA","USA",38.03042306,-120.4145556
@@ -2587,7 +2587,7 @@
 "PBF","Grider ","Pine Bluff","AR","USA",34.17498722,-91.93472028
 "PBH","Price County","Phillips","WI","USA",45.70895028,-90.40248472
 "PBI","Palm Beach International","West Palm Beach","FL","USA",26.68316194,-80.09559417
-"PBV","St. George","St. George","AK","USA",56.57735278,-169.6637361
+"PBV","St George","St George","AK","USA",56.57735278,-169.6637361
 "PCK","Porcupine Creek","Porcupine Creek","AK","USA",67.23789833,-150.2860608
 "PCM","Plant City Municipal","Plant City","FL","USA",28.00021667,-82.16424167
 "PCW","Carl R. Keller ","Port Clinton","OH","USA",41.51627778,-82.86869444
@@ -2620,7 +2620,7 @@
 "PHX","Phoenix Sky Harbor International","Phoenix","AZ","USA",33.43416667,-112.0080556
 "PIA","Greater Peoria Regional","Peoria","IL","USA",40.66424333,-89.69330556
 "PIB","Hattiesburg-Laurel Regional","Hattiesburg-Laurel","MS","USA",31.46714944,-89.33705778
-"PIE","St. Petersburg-Clearwater International","St. Petersburg","FL","USA",27.91076333,-82.68743944
+"PIE","St Petersburg-Clearwater International","St Petersburg","FL","USA",27.91076333,-82.68743944
 "PIH","Pocatello Regional","Pocatello","ID","USA",42.91130556,-112.5958611
 "PIL","Port Isabel-Cameron County","Port Isabel","TX","USA",26.16621,-97.34588611
 "PIM","Callaway Gardens-Harris County","Pine Mountain","GA","USA",32.84069444,-84.88244444
@@ -2634,7 +2634,7 @@
 "PKF","Park Falls Municipal","Park Falls","WI","USA",45.95502361,-90.42441806
 "PLB","Clinton Cty","Plattsburgh","NY","USA",44.68751861,-73.52452306
 "PLD","Portland Municipal","Portland","IN","USA",40.45076167,-84.99007917
-"PLN","Pellston Regional  of Emmet County","Pellston","MI","USA",45.5709275,-84.796715
+"PLN","Pellston Regional of Emmet County","Pellston","MI","USA",45.5709275,-84.796715
 "PLR","St Clair County","Pell City","AL","USA",33.55883333,-86.24905556
 "PMB","Pembina Municipal","Pembina","ND","USA",48.9425,-97.24083333
 "PMD","Palmdale Production Flight","Palmdale","CA","USA",34.62938889,-118.0845528
@@ -2693,7 +2693,7 @@
 "PTW","Pottstown Limerick","Pottstown","PA","USA",40.23957167,-75.55662528
 "PUB","Pueblo Memorial","Pueblo","CO","USA",38.28908722,-104.4965722
 "PUC","Carbon County","Price","UT","USA",39.61391556,-110.7514183
-"PUW","Pullman/Moscow Regional","Pullman/Moscow,ID","WA","USA",46.74386111,-117.1095833
+"PUW","Pullman/Moscow Regional","Pullman/Moscow, ID","WA","USA",46.74386111,-117.1095833
 "PVB","Platteville Municipal","Platteville","WI","USA",42.68935583,-90.44439278
 "PVC","Provincetown Municipal","Provincetown","MA","USA",42.07199833,-70.22137667
 "PVD","Theodore F Green State","Providence","RI","USA",41.72399917,-71.42822111
@@ -2741,7 +2741,7 @@
 "Q88","Paradise Skypark","Paradise","CA","USA",39.70960639,-121.6163617
 "Q94","Rio Linda","Rio Linda","CA","USA",38.67601389,-121.4455092
 "Q95","Ruth","Ruth","CA","USA",40.21125917,-123.2975231
-"Q99","South County  of Santa Clara Co","San Martin","CA","USA",37.08158611,-121.5968056
+"Q99","South County of Santa Clara Co","San Martin","CA","USA",37.08158611,-121.5968056
 "RAC","John H Batten ","Racine","WI","USA",42.76119139,-87.81389806
 "RAL","Riverside Municipal","Riverside","CA","USA",33.95187528,-117.4451017
 "RAP","Rapid City Regional","Rapid City","SD","USA",44.04532139,-103.0573708
@@ -2755,7 +2755,7 @@
 "RCR","Fulton County","Rochester","IN","USA",41.06554833,-86.18170444
 "RCX","Rusk County","Ladysmith","WI","USA",45.49825694,-91.00186361
 "RDD","Redding Municipal","Redding","CA","USA",40.50898361,-122.2934019
-"RDG","Reading Muni,Gen Carl A Spaatz","Reading","PA","USA",40.3785,-75.96525
+"RDG","Reading Muni, Gen Carl A Spaatz","Reading","PA","USA",40.3785,-75.96525
 "RDK","Red Oak Municipal","Red Oak","IA","USA",41.01052778,-95.25986111
 "RDM","Roberts ","Redmond","OR","USA",44.25406722,-121.1499633
 "RDR","Grand Forks AFB",NA,NA,"USA",47.961167,-97.401167
@@ -2810,7 +2810,7 @@
 "RSN","Ruston Regional","Ruston","LA","USA",32.51444444,-92.58833333
 "RST","Rochester International","Rochester","MN","USA",43.90882639,-92.49798722
 "RSV","Robinson Municipal","Robinson","IL","USA",39.01604222,-87.649775
-"RSW","Southwest Florida International","Ft. Myers","FL","USA",26.53616667,-81.75516667
+"RSW","Southwest Florida International","Fort Myers","FL","USA",26.53616667,-81.75516667
 "RTN","Raton Municipal/Crews ","Raton","NM","USA",36.74152778,-104.5021833
 "RUE","Russellville Municipal","Russellville","AR","USA",35.25914667,-93.09326611
 "RUG","Rugby Municipal","Rugby","ND","USA",48.39035917,-100.0242739
@@ -2819,7 +2819,7 @@
 "RVJ","Reidsville","Reidsville","GA","USA",32.05897222,-82.15172222
 "RVL","Mifflin Cty","Reedsville","PA","USA",40.67737417,-77.62682833
 "RVN","Hawkins County","Rogersville","TN","USA",36.45757917,-82.88503722
-"RVS","Richard Lloyd Jones, Jr.","Tulsa","OK","USA",36.0396275,-95.984635
+"RVS","Richard Lloyd Jones, Jr","Tulsa","OK","USA",36.0396275,-95.984635
 "RWF","Redwood Falls Muni","Redwood Falls","MN","USA",44.54720389,-95.082255
 "RWI","Rocky Mount Wilson","Rocky Mount","NC","USA",35.85498861,-77.89295611
 "RWL","Rawlins Muni","Rawlins","WY","USA",41.8055975,-107.19994
@@ -2895,7 +2895,7 @@
 "SBS","Steamboat Springs","Steamboat Springs","CO","USA",40.51625944,-106.8663006
 "SBU","Blue Earth Municipal","Blue Earth","MN","USA",43.59534389,-94.09284833
 "SBX","Shelby","Shelby","MT","USA",48.54125278,-111.8720722
-"SBY","Salisbury-Ocean City: Wicomico Regional","Salisbury","MD","USA",38.34052611,-75.51028806
+"SBY","Salisbury-Ocean City (Wicomico Regional)","Salisbury","MD","USA",38.34052611,-75.51028806
 "SCB","Scribner State","Scribner","NE","USA",41.61033333,-96.62986111
 "SCC","Deadhorse","Deadhorse","AK","USA",70.19475583,-148.4651608
 "SCD","Merkel Field Sylacauga Municipal ","Sylacauga","AL","USA",33.17183583,-86.30553778
@@ -2917,12 +2917,12 @@
 "SDA","Shenandoah Municipal","Shenandoah","IA","USA",40.75148167,-95.41347222
 "SDF","Louisville International-Standiford ","Louisville","KY","USA",38.17438889,-85.736
 "SDL","Scottsdale","Scottsdale","AZ","USA",33.622875,-111.9105333
-"SDM","Brown  Municipal","San Diego","CA","USA",32.57230556,-116.98025
+"SDM","Brown Municipal","San Diego","CA","USA",32.57230556,-116.98025
 "SDP","Sand Point Municipal","Sand Point","AK","USA",55.31502778,-160.5176944
 "SDY","Sidney-Richland Municipal","Sidney","MT","USA",47.70685778,-104.1925544
 "SEA","Seattle-Tacoma Intl","Seattle","WA","USA",47.44898194,-122.3093131
 "SEE","Gillespie ","San Diego (El Cajon)","CA","USA",32.82623111,-116.9724497
-"SEF","Sebring  And Industrial Park","Sebring","FL","USA",27.45640278,-81.3424
+"SEF","Sebring and Industrial Park","Sebring","FL","USA",27.45640278,-81.3424
 "SEG","Penn Valley","Selinsgrove","PA","USA",40.82052917,-76.86377611
 "SEM","Craig ","Selma","AL","USA",32.34394667,-86.98780333
 "SEP","Clark Field Municipal","Stephenville","TX","USA",32.21532333,-98.17766722
@@ -2939,9 +2939,9 @@
 "SFZ","North Central State","Pawtucket","RI","USA",41.92076333,-71.49138139
 "SGF","Springfield-Branson Regional","Springfield","MO","USA",37.24432611,-93.38685806
 "SGH","Springfield-Beckley Municipal","Springfield","OH","USA",39.84028194,-83.84015056
-"SGJ","St. Augustine","St. Augustine","FL","USA",29.95925,-81.33975
+"SGJ","St Augustine","St Augustine","FL","USA",29.95925,-81.33975
 "SGR","Sugar Land Municipal/Hull ","Houston","TX","USA",29.62225306,-95.65652889
-"SGS","South St.Paul Municipal","South St Paul","MN","USA",44.85713278,-93.03285389
+"SGS","South St Paul Municipal","South St Paul","MN","USA",44.85713278,-93.03285389
 "SGT","Stuttgart Municipal","Stuttgart","AR","USA",34.60054,-91.57457417
 "SGU","St George Muni","St George","UT","USA",37.09058333,-113.5930556
 "SGY","Skagway","Skagway","AK","USA",59.46006194,-135.3156636
@@ -2988,7 +2988,7 @@
 "SNH","Savannah Hardin County","Savannah","TN","USA",35.17036,-88.21587
 "SNK","Winston ","Snyder","TX","USA",32.69338667,-100.9504525
 "SNL","Shawnee Municipal","Shawnee","OK","USA",35.35730333,-96.94282833
-"SNP","St. Paul","St. Paul","AK","USA",57.16733333,-170.2204444
+"SNP","St Paul","St Paul","AK","USA",57.16733333,-170.2204444
 "SNS","Salinas Municipal","Salinas","CA","USA",36.66279222,-121.6063603
 "SNY","Sidney Municipal","Sidney","NE","USA",41.10133333,-102.9852778
 "SOP","Moore County","Pinehurst/Southern Pines","NC","USA",35.23735278,-79.39116944
@@ -2997,7 +2997,7 @@
 "SPA","Spartanburg Downtown Memorial","Spartanburg","SC","USA",34.91572222,-81.9565
 "SPB","Scappoose Industrial Airpark","Scappoose","OR","USA",45.77250444,-122.8623611
 "SPF","Black Hills-Clyde Ice ","Spearfish","SD","USA",44.48022222,-103.7768889
-"SPG","Albert Whitted Municipal ","St. Petersburg","FL","USA",27.76511111,-82.62697222
+"SPG","Albert Whitted Municipal ","St Petersburg","FL","USA",27.76511111,-82.62697222
 "SPH","Springhill","Springhill","LA","USA",32.98316472,-93.41081028
 "SPI","Capital","Springfield","IL","USA",39.84395194,-89.67761861
 "SPN","Tinian International Airport",NA,NA,"N Mariana Islands",14.996111,145.621384
@@ -3265,7 +3265,7 @@
 "VVV","Ortonville Municipal","Ortonville","MN","USA",45.30566472,-96.42442278
 "VYS","Illinois Valley Regional","Peru/Lasalle","IL","USA",41.35186806,-89.15308417
 "W04","Ocean Shores Municipal","Ocean Shores","WA","USA",47.00369806,-124.143785
-"W05","Gettysburg  & Travel Center","Gettysburg","PA","USA",39.84092833,-77.27415139
+"W05","Gettysburg and Travel Center","Gettysburg","PA","USA",39.84092833,-77.27415139
 "W11","Menomonie Municipal - Score ","Menomonie","WI","USA",44.89234639,-91.86777944
 "W22","Upshur County Regional","Buckhannon","WV","USA",39.00035833,-80.27392778
 "W29","Bay Bridge Industrial","Stevensville","MD","USA",38.97638889,-76.32963889
@@ -3320,7 +3320,7 @@
 "X21","Arthur Dunn Airpark","Titusville","FL","USA",28.62234556,-80.835695
 "X23","Umatilla Municipal","Umatilla","FL","USA",28.922765,-81.65174111
 "X26","Sebastian Municipal","Sebastian","FL","USA",27.81280389,-80.49560833
-"X35","Dunnellon/Marion Co.","Dunellon","FL","USA",29.06177778,-82.37658333
+"X35","Dunnellon/Marion Co","Dunellon","FL","USA",29.06177778,-82.37658333
 "X40","Inverness","Inverness","FL","USA",28.80859639,-82.31648167
 "X44","Watson Island Base","Miami","FL","USA",25.77833333,-80.17027778
 "X46","Opa-Locka West","Miami","FL","USA",25.94898194,-80.42338694
@@ -3367,7 +3367,7 @@
 "Z40","Goose Bay","Goose Bay","AK","USA",61.39445139,-149.8455556
 "Z55","Lake Louise","Lake Louise","AK","USA",62.29368944,-146.5794219
 "Z73","Nelson Lagoon","Nelson Lagoon","AK","USA",56.00753611,-161.1603672
-"Z84","Clear","Clear A.F.B.","AK","USA",64.30120361,-149.1201436
+"Z84","Clear","Clear AFB","AK","USA",64.30120361,-149.1201436
 "Z91","Birch Creek","Birch Creek","AK","USA",66.27399583,-145.8240381
 "Z95","Cibecue","Cibecue","AZ","USA",34.00333333,-110.4441667
 "ZEF","Elkin Municipal","Elkin","NC","USA",36.28002361,-80.78606861
