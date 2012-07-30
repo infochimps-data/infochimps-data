@@ -60,7 +60,6 @@ BGMQ	JSU		Maniitsoq Airport	Maniitsoq, Greenland
 BGNN	JNN		Nanortalik Heliport	Nanortalik, Greenland
 BGNQ	NUG		Nuugaatsiaq Heliport	Nuugaatsiaq, Greenland
 BGNS	JNS		Narsaq Heliport	Narsaq, Greenland
-BGNU	NUS		Nuussuaq Heliport	Nuussuaq, Greenland
 BGPT	JFR		Paamiut Airport	Paamiut, Greenland
 BGSC	OBY		Ittoqqortoormiit Heliport	Ittoqqortoormiit, Greenland
 BGSF	SFJ		Kangerlussuaq Airport	Kangerlussuaq, Greenland
@@ -835,7 +834,6 @@ EGXC	QCY		RAF Coningsby	Coningsby, England, United Kingdom
 EGXH	BEQ		RAF Honington	Bury St. Edmunds, England, United Kingdom
 EGXJ	OKH		RAF Cottesmor	Oakham, England, United Kingdom
 EGXU	HRT		Linton-On-Ouse Airport	Harrogate, England, United Kingdom
-EGYM	KNF		RAF Marham	Marham, Norfolk, East Anglia, United Kingdom
 EGYP	MPN		RAF Mount Pleasant	Falkland Islands
 EHAM	AMS		Schiphol Airport	Haarlemmermeer, Netherlands
 EHBK	MST		Maastricht Aachen Airport	Maastricht, Limburg, Netherlands
@@ -844,7 +842,6 @@ EHGG	GRQ		Groningen Airport Eelde	Groningen / Eelde, Netherlands
 EHGR	GLZ		Gilze-Rijen Air Base	Breda, Netherlands
 EHKD	DHR		De Kooy Airport	Den Helder, Netherlands
 EHLE	LEY		Lelystad Airport	Lelystad, Netherlands
-EHLW	LWR		Leeuwarden Airport	Leeuwarden, Netherlands
 EHRD	RTM		Rotterdam The Hague Airport	Rotterdam, Netherlands
 EHTW	ENS		Enschede Airport Twente	Enschede, Netherlands
 EHVB	LID		Valkenburg Airport	Leiden, Netherlands
@@ -878,7 +875,6 @@ EKOD	ODE		Odense Airport	Odense, Denmark
 EKRK	RKE		Roskilde Airport	Roskilde (near Copenhagen), Denmark
 EKRN	RNN		Bornholm Airport	Rønne, Denmark
 EKSB	SGD		Sønderborg Airport	Sønderborg, Denmark
-EKSN	CNL		Sindal Airport	Sindal, Denmark
 EKSP	SKS		Skrydstrup Airport	Vojens, Denmark
 EKSV	SQW		Skive Airport	Skive, Denmark
 EKTS	TED		Thisted Airport	Thisted, Denmark
@@ -909,7 +905,6 @@ ENHF	HFT		Hammerfest Airport	Hammerfest, Finnmark, Norway
 ENHK	HAA		Hasvik Airport	Hasvik, Norway
 ENHV	HVG		Honningsvåg Airport, Valan	Nordkapp, Finnmark, Norway
 ENKB	KSU		Kristiansund Airport, Kvernberget	Kristiansund, Norway
-ENKL	GLL		Gol Airport, Klanten	Gol, Norway
 ENKR	KKN		Kirkenes Airport, Høybuktmoen	Kirkenes, Finnmark, Norway
 ENLI	FAN		Lista Airport	Farsund, Norway
 ENLK	LKN		Leknes Airport	Leknes, Norway
@@ -926,7 +921,6 @@ ENRM	RVK		Rørvik Airport, Ryum	Rørvik, Norway
 ENRO	RRS		Røros Airport	Røros, Norway
 ENRS	RET		Røst Airport	Røst, Nordland, Norway
 ENRY	RYG		Moss Airport, Rygge / Rygge Air Station	Rygge (near Moss), Norway
-ENSA	SRP		Stord Airport, Sørstokken	Stord, Hordaland, Norway
 ENSB	LYR		Svalbard Airport, Longyear	Longyearbyen, Svalbard, Norway
 ENSD	SDN		Sandane Airport, Anda	Gloppen, Sogn og Fjordane, Norway
 ENSG	SOG		Sogndal Airport, Haukåsen	Sogndal, Norway
@@ -1016,7 +1010,6 @@ ETHE	ZPQ		Rheine Air Base	Rhine, Germany
 ETHF	FRZ		Fritzlar Air Base	Fritzlar, Hessen, Germany
 ETIK	ILH		Illisheim Army Airfield	Illisheim, Bavaria, Germany
 ETIN	KZG		Kitzingen Air Base	Kitzingen, Bavaria, Germany
-ETMN	NDZ		Fliegerhorst Nordholz	Nordholz, Germany
 ETNG	GKE		NATO Air Base Geilenkirchen	Geilenkirchen, North Rhine-Westphalia, Germany
 ETNL	RLG		Rostock Laage Airport	Rostock, Germany
 ETNS	WBG		Fliegerhorst Schleswig	Schleswig, Germany
@@ -1067,7 +1060,6 @@ FAKZ	KLZ		Kleinzee Airport	Kleinzee, South Africa
 FALA	HLA		Lanseria Airport	Lanseria, South Africa
 FALC	LMR		Finsch Mine Airport	Lime Acres, South Africa
 FALE	DUR		King Shaka International Airport	Durban, KwaZulu-Natal, South Africa
-FALO	LCD		Louis Trichardt Airport	Louis Trichardt, South Africa
 FALY	LAY		Ladysmith Airport	Ladysmith, KwaZulu-Natal, South Africa
 FAMD	AAM		Mala Mala Airport	Mala Mala, South Africa
 FAMG	MGH		Margate Airport	Margate, KwaZulu-Natal, South Africa
@@ -1296,7 +1288,6 @@ FVCZ	BFO		Buffalo Range Airport	Chiredzi, Zimbabwe
 FVFA	VFA		Victoria Falls Airport	Victoria Falls, Zimbabwe
 FVHA	HRE		Harare International Airport	Harare, Zimbabwe
 FVKB	KAB		Kariba Airport	Kariba, Zimbabwe
-FVMU	UTA		Mutare Airport	Mutare, Zimbabwe
 FVMV	MVZ		Masvingo International Airport	Masvingo, Zimbabwe
 FVTL	GWE		Thornhill Air Base	Gweru, Zimbabwe
 FVWN	HWN		Hwange National Park Airport	Hwange National Park, Zimbabwe
@@ -1324,7 +1315,6 @@ FYGB	GOG		Gobabis Airport	Gobabis, Namibia
 FYGF	GFY		Grootfontein Airport	Grootfontein, Namibia
 FYHI	HAL		Halali Airport	Halali, Namibia
 FYKB	KAS		Karasburg Airport	Karasburg, Namibia
-FYKM	MPA		Katima Mulilo Airport (Mpacha Airport)	Katima Mulilo, Namibia
 FYKT	KMP		Keetmanshoop Airport	Keetmanshoop, Namibia
 FYLZ	LUD		Luderitz Airport (Diaz Point Airport)	Luderitz, Namibia
 FYRU	NDU		Rundu Airport	Rundu, Okavango Region, Namibia
@@ -1364,7 +1354,6 @@ FZNA	GOM		Goma Airport	Goma, Democratic Republic of the Congo
 FZNP	BNC		Beni Airport	Beni, Nord-Kivu, Democratic Republic of the Congo
 FZOA	KND		Kindu Airport	Kindu, Democratic Republic of the Congo
 FZOD	KLY		Kalima Airport (Kinkungwa Airport, Kakungwa Airport)	Kalima, Democratic Republic of the Congo
-FZOK	KGN		Kasongo Lunda Airport	Kasongo Lunda, Democratic Republic of the Congo
 FZQA	FBM		Lubumbashi International Airport	Lubumbashi, Democratic Republic of the Congo
 FZQG	KEC		Kasenga Airport	Kasenga, Democratic Republic of the Congo
 FZQM	KWZ		Kolwezi Airport	Kolwezi, Lualaba District, Democratic Republic of the Congo
@@ -1661,7 +1650,6 @@ HUMA	MBQ		Mbarara Airport	Mbarara, Uganda
 HUMI	KCU		Masindi Airport	Masindi, Uganda
 HUPA	PAF		Pakuba Airport	Pakuba, Uganda
 HUSO	SRT		Soroti Airport	Soroti, Uganda
-HWHF	WHF		Wadi Halfa Airport	Wadi Halfa, Sudan
 KAAF	AAF	AAF	Apalachicola Municipal Airport	Apalachicola, Florida, United States
 KAAP		AAP	Andrau Airpark	Houston, Texas, United States
 KABE	ABE	ABE	Lehigh Valley International Airport	Allentown, Pennsylvania, United States
@@ -3317,7 +3305,6 @@ LFLU	VAF		Valence-Chabeuil Airport	Valence, France
 LFLW	AUR		Aurillac Airport	Aurillac, France
 LFLX	CHR		Châteauroux-Déols (Marcel Dassault) Airport	Châteauroux / Déols, France
 LFLY	LYN		Lyon Bron Airport	Lyon, France
-LFMA	QXB		Aix Les Milles Airport	Aix-en-Provence / Les Milles, France
 LFMD	CEQ		Cannes - Mandelieu Airport	Cannes, France
 LFMH	EBU		Saint-Étienne - Bouthéon Airport	Saint-Étienne / Bouthéon, France
 LFMI	QIE		Istres-Le Tubé Air Base	Istres, France
@@ -3354,7 +3341,6 @@ LFPO	ORY		Orly International Airport	Paris-Orly, Paris, France
 LFPT	POX		Pontoise Airport	Paris, France
 LFQB	QYR		Barberey Airport	Troyes, France
 LFQD	QRV		Arras - Roclincourt Airport	Arras / Roclincourt, France
-LFQM	QBQ		Besançon - La Vèze Aerodrome	Besançon / La Vèze, France
 LFQQ	LIL		Lille Lesquin International Airport	Lille, France
 LFQT	HZB		Merville - Calonne Airport	Merville / Calonne, France
 LFRB	BES		Brest Bretagne Airport	Brest, France
@@ -3381,7 +3367,6 @@ LFSB	MLH		EuroAirport Basel-Mulhouse-Freiburg	Mulhouse, France
 LFSD	DIJ		Dijon-Bourgogne Airport	Dijon, France
 LFSF	MZM		Frescaty Airport	Metz, France
 LFSG	EPL		Épinal - Mirecourt Airport	Juvaincourt, Vosges, France
-LFSL	BVE		Brive - Souillac Airport	Brive-la-Gaillarde, France
 LFSM	XMF		Montbéliard Courcelles Airport	Montbéliard, France
 LFSN	ENC		Essey Airport	Nancy, France
 LFSQ	BOR		Belfort - Fontaine Airport	Belfort, France
@@ -3821,7 +3806,6 @@ MRIA	PBP		Punta Islita Airport	Punta Islita, Costa Rica
 MRLB	LIR		Daniel Oduber Quirós International Airport	Liberia, Costa Rica
 MRLC	LSL		Los Chiles Airport	Los Chiles, Costa Rica
 MRLM	LIO		Puerto Limón International Airport	Puerto Limón, Costa Rica
-MRNS	NOB		Nosara Airport	Nosara, Costa Rica
 MROC	SJO		Juan Santamaría International Airport	San José, Costa Rica
 MRPJ	PJM		Puerto Jimenez Airport	Puerto Jimenez, Costa Rica
 MRPM	PMZ		Palmar Sur Airport	Palmar Sur, Costa Rica
@@ -3852,7 +3836,6 @@ MUMO	MOA		Orestes Acosta Airport	Moa, Cuba
 MUMZ	MZO		Sierra Maestra Airport	Manzanillo, Cuba
 MUNC	ICR		Nicaro Airport	Nicaro, Cuba
 MUNG	GER		Rafael Perez Airport	Nueva Gerona, Cuba
-MUOC	CCC		Jardines del Rey Airport	Cayo Coco, Cuba
 MUSC	SNU		Abel Santamaría Airport	Santa Clara, Cuba
 MUVR	VRA		Juan Gualberto Gómez Airport	Varadero, Cuba
 MWCB	CYB		Gerrard Smith International Airport	Cayman Brac, Cayman Islands
@@ -3933,7 +3916,6 @@ NSFA	APW		Faleolo International Airport	Apia, Upolu Island, Samoa
 NSFI	FGI		Fagali'i Airport	Apia, Samoa
 NSFQ	FTI	FAQ	Fitiuta Airport (FAA: FAQ)	Fiti'uta, American Samoa, United States
 NSMA	MXS		Maota Airport	Maota, Samoa
-NSMU	NUX		Novy Urengoy Airport	Novy Urengoy, Russia
 NSTU	PPG		Pago Pago International Airport	Pago Pago, American Samoa
 NTAA	PPT		Faa'a International Airport	Papeete, Tahiti, French Polynesia
 NTAR	RUR		Rurutu Airport	Rurutu, French Polynesia
@@ -4062,7 +4044,6 @@ OAUZ	UND		Kunduz Airport	Kunduz, Afghanistan
 OAZJ	ZAJ		Zaranj Airport	Zaranj, Afghanistan
 OBBI	BAH		Bahrain International Airport	Al Muharraq, Bahrain
 ODAL	DHL		Dhala Airport	Dhala, Yemen
-ODAS	EAB		Abbse Airport	Abbse, Yemen
 ODKM	KAM		Kamaran Airport	Kamaran, Yemen
 OEAB	AHB		Abha Regional Airport	Abha / Khamis Mushait, Saudi Arabia
 OEAH	HOF		al-Ahsa Airport (al-Hasa Airport)	Hofuf, Saudi Arabia
@@ -4076,7 +4057,6 @@ OEGS	ELQ		Gassim Regional Airport	Buraidah, Saudi Arabia
 OEHL	HAS		Ha'il Regional Airport	Ha'il, Saudi Arabia
 OEJN	JED		King Abdulaziz International Airport	Jeddah, Saudi Arabia
 	HBT		Hafar Al-Batin Domestic Airport	King Khalid Military City / Hafar Al-Batin, Saudi Arabia
-OEKK	KMC		King Khaled Military City Airport	King Khaled Military City, Saudi Arabia
 OEKM	KMX		King Khaled Air Base	Khamis Mushait, Saudi Arabia
 OEMA	MED		Prince Mohammad Bin Abdulaziz Airport	Medina, Saudi Arabia
 OENG	EAM		Najran Domestic Airport	Najran (Nejran), Saudi Arabia
@@ -4133,7 +4113,6 @@ OIZH	ZAH		Zahedan Airport	Zahedan, Iran
 OJAI	AMM		Queen Alia International Airport	Amman, Jordan
 OJAM	ADJ		Marka International Airport	Amman, Jordan
 OJAQ	AQJ		King Hussein International Airport	Aqaba, Jordan
-OJJR	JRS		Atarot Airport (Jerusalem International Airport)	Jerusalem, Israel
 OJMN	MPQ		Ma'an Airport	Ma'an, Jordan
 OKBK	KWI		Kuwait International Airport	Kuwait City, Kuwait
 OLBA	BEY		Beirut Air Base/Beirut Rafic Hariri International Airport	Beirut, Lebanon
@@ -4230,7 +4209,6 @@ PABR	BRW		Wiley Post-Will Rogers Memorial Airport	Barrow, Alaska, United States
 PABT	BTT		Bettles Airport	Bettles, Alaska, United States
 PACA	CSP		Cape Spencer Coast Guard Heliport	Cape Spencer, Alaska, United States
 PACD	CDB		Cold Bay Airport	Cold Bay, Alaska, United States
-PACE	CDE		Cape Decision Coast Guard Heliport	Cape Decision, Alaska, United States
 PACI	CIK		Chalkyitsik Airport	Chalkyitsik, Alaska, United States
 PACK	CYF	CFK	Chefornak Airport (FAA: CFK)	Chefornak, Alaska, United States
 PACR	IRC	CRC	Circle City (New) Airport (FAA: CRC)	Circle, Alaska, United States
@@ -4275,7 +4253,6 @@ PAGY	SGY		Skagway Airport	Skagway, Alaska, United States
 PAGZ	GMT	GSZ	Granite Mountain Air Station (FAA: GSZ)	Granite Mountain, Alaska, United States
 PAHC	HCR	HCA	Holy Cross Airport (FAA: HCA)	Holy Cross, Alaska, United States
 PAHE	HNE		Tahneta Pass Airport (closed)	Tahneta Pass Lodge, Alaska, United States
-PAHG	SHG		Shungnak Airport	Shungnak, Alaska, United States
 PAHL	HSL	HLA	Huslia Airport (FAA: HLA)	Huslia, Alaska, United States
 PAHN	HNS		Haines Airport	Haines, Alaska, United States
 PAHO	HOM		Homer Airport	Homer, Alaska, United States
@@ -4355,7 +4332,6 @@ PAPR	PPC		Prospect Creek Airport	Prospect Creek, Alaska, United States
 PAQH	KWN	AQH	Quinhagak Airport (FAA: AQH)	Quinhagak, Alaska, United States
 PAQT	NUI	AQT	Nuiqsut Airport (FAA: AQT)	Nuiqsut, Alaska, United States
 PARC	ARC		Arctic Village Airport	Arctic Village, Alaska, United States
-PARL	CEM		Central Airport	Central, Alaska, United States
 PARS	RSH		Russian Mission Airport	Russian Mission, Alaska, United States
 PARY	RBY		Ruby Airport	Ruby, Alaska, United States
 PASA	SVA		Savoonga Airport	Savoonga, Alaska, United States
@@ -4593,7 +4569,6 @@ RPMZ	ZAM		Zamboanga International Airport	Zamboanga City, Philippines
 RPNO	XSO		Siocon Airport	Siocon, Zamboanga del Norte, Philippines
 RPSD	RZP		Cesar Lim Rodriguez (Taytay-Sandoval) Airport	Taytay, Palawan, Philippines
 RPSG	ICO		Sicogon Airport	Carles, Iloilo, Philippines
-RPSN	SOS		Sayak (Siargao) Airport	Del Carmen, Surigao del Norte, Philippines
 RPUB	BAG		Loakan Airport	Baguio City, Philippines
 RPUD	DTE		Bagasbas Airport	Daet, Camarines Norte, Philippines
 RPUH	SJI		San Jose Airport	San Jose, Occidental Mindoro, Philippines
@@ -4763,7 +4738,6 @@ SBJU	JDO		Cariri Regional Airport	Juazeiro do Norte, Ceará, Brazil
 SBJV	JOI		Joinville Airport (Cubatao Airport)	Joinville, Santa Catarina, Brazil
 SBKG	CPV		Campina Grande Airport (João Suassuna Airport)	Campina Grande, Paraíba, Brazil
 SBKP	VCP		Viracopos-Campinas International Airport	Campinas, São Paulo State, Brazil
-SBLE	LEC		Chapada Diamantina Airport	Lençõis, Bahia, Brazil
 SBLJ	LAJ		Lages Airport	Lages, Santa Catarina, Brazil
 SBLN	LIP		Lins Airport	Lins, São Paulo, Brazil
 SBLO	LDB		Londrina Airport	Londrina, Paraná, Brazil
@@ -4835,7 +4809,6 @@ SCES	ESR		El Salvador Bajo Airport	El Salvador, Chile
 SCFA	ANF		Cerro Moreno International Airport	Antofagasta, Chile
 SCFI	FRT		Frutillar Airport	Frutillar, Chile
 SCFT	FFU		Futaleufu Airport	Futaleufu, Chile
-SCGE	LSQ		Maria Dolores Airport	Los Ángeles, Biobío, Chile
 SCHA	CPO		Chamonate Airport	Copiapó, Atacama Region, Chile
 SCHR	LGR		Cochrane Airport	Cochrane, Chile
 SCIE	CCP		Carriel Sur International Airport	Concepción, Biobío Region, Chile
@@ -4869,13 +4842,10 @@ SEMC	XMS		Macas Airport (Edmundo Carvajal Airport)	Macas, Ecuador
 SEMH	MCH		General Serrano Airport (Machala Airport)	Machala, Ecuador
 SEMT	MEC		Eloy Alfaro International Airport	Manta, Manabí, Ecuador
 SENL	LGQ		Lago Agrio Airport	Nueva Loja, Ecuador
-SEPA	PTZ		Rio Amazonas Airport	Shell Mera, Ecuador
 SEPV	PVO		Reales Tamarindos Airport	Portoviejo, Ecuador
 SEQU	UIO		Mariscal Sucre International Airport	Quito, Ecuador
 SESA	SNC		General Ulpiano Paez Airport	Salinas, Ecuador
 SEST	SCY		San Cristóbal Airport	San Cristóbal Island, Galápagos Islands, Ecuador
-SESV	BHA		Los Perales	Bahía de Caráquez, Ecuador
-SETM	LOH		Camilo Ponce Enriquez Airport	Loja, Ecuador
 SETN	ESM		General Rivadeneira Airport	Esmeraldas, Ecuador
 SETU	TUA		Teniente Coronel Luis a Mantilla International Airport	Tulcán, Ecuador
 SFAL	PSY		Port Stanley Airport	Stanley, Falkland Islands, United Kingdom
@@ -4894,7 +4864,6 @@ SKAC	ACR		Araracuara Airport	Araracuara, Colombia
 SKAD	ACD		Alcides Fernández Airport	Acandí, Colombia
 SKAG	ACL		Cesar Airport	Aguaclara, Colombia
 SKAM	AFI		Amalfi Airport	Amalfi, Colombia
-SKAN	ADN		Andes Airport	Andes, Colombia
 SKAP	API		Gomez Nino-Apiay Airport	Apiay, Colombia
 SKAR	AXM		El Edén International Airport	Armenia, Colombia
 SKAS	PUU		Tres de Mayo Airport	Puerto Asís, Colombia
@@ -5050,7 +5019,6 @@ SPJI	JJI		Juanjuí Airport	Juanjuí, Peru
 SPJJ	JAU		Francisco Carle Airport	Jauja, Peru
 SPJL	JUL		Inca Manco Capac Airport	Juliaca, Peru
 SPJR	CJA		Major General FAP Armando Revoredo Iglesias Airport	Cajamarca, Peru
-SPLO	ILQ		Ilo Airport	Ilo, Moquegua Region, Peru
 SPME	TBP		Cap. FAP Pedro Canga Rodríguez Airport	Tumbes, Peru
 SPMS	YMS		Moisés Benzaquén Rengifo Airport	Yurimaguas, Peru
 SPNC	HUU		Alférez FAP David Figueroa Fernandini Airport	Huánuco, Huánuco Region, Peru
@@ -5077,7 +5045,6 @@ SSIQ	ITQ		Itaqui Airport	Itaqui, Rio Grande do Sul, Brazil
 SSJA	JCB		Joaçaba Airport	Joaçaba, Santa Catarina, Brazil
 SSKM	CBW		Campo Mourão Airport	Campo Mourão, Paraná, Brazil
 SSLI	LVB		Dos Galpoes Airport	Santana do Livramento, Rio Grande do Sul, Brazil
-SSLT	ALQ		Alegrete Airport	Alegrete, Rio Grande do Sul, Brazil
 SSOG	APX		Arapongas Airport	Arapongas, Paraná, Brazil
 SSUV	QVB		União da Vitória Airport	União da Vitória, Paraná, Brazil
 SSVI	VIA		Videira Airport	Videira, Santa Catarina, Brazil
@@ -5095,7 +5062,6 @@ SVAN	AAO		Anaco Airport	Anaco, Venezuela
 SVAS	LPJ		Armando Schwarck Airport	Pijiguaos, Venezuela
 SVBC	BLA		Generál José Antonio Anzoátegui International Airport	Barcelona, Anzoátegui, Venezuela
 SVBI	BNS		Barinas Airport	Barinas, Barinas, Venezuela
-SVBL	MYC		El Libertador Air Base	Maracay, Venezuela
 SVBM	BRM		Jacinto Lara International Airport	Barquisimeto, Venezuela
 SVCB	CBL		Tomás de Heres Airport	Ciudad Bolívar, Venezuela
 SVCD	CXA		Caicara de Orinoco Airport	Caicara de Orinoco, Venezuela
@@ -5123,7 +5089,6 @@ SVMT	MUN		Maturín Airport	Maturín, Venezuela
 SVON	CBS		Oro Negro Airport	Cabimas, Venezuela
 SVPA	PYH		Cacique Aramare Airport	Puerto Ayacucho, Venezuela
 	CGU		General Manuel Carlos Piar Airport	Ciudad Guayana, Venezuela
-SVPR	PZO		Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
 SVRS	LRV		Los Roques Airport	Los Roques, Venezuela
 SVSA	SVZ		Juan Vicente Gómez International Airport	San Antonio del Táchira, Venezuela
 SVSO	STD		Mayor Buenaventura Vivas Airport	Santo Domingo (near San Cristóbal, Táchira), Venezuela
@@ -5133,7 +5098,6 @@ SVSZ	STB		Miguel Urdaneta Fernández Airport	Santa Bárbara del Zulia, Venezuela
 SVVA	VLN		Arturo Michelena International Airport	Valencia, Carabobo, Venezuela
 SVVG	VIG		Juan Pablo Perez Alfonso Airport	El Vigía, Venezuela
 SVVL	VLV		Dr. Antonio Nicolás Briceno Airport	Valera, Venezuela
-SVVP	VDP		Valle de la Pascua Airport	Valle de la Pascua, Guárico, Venezuela
 SWBC	BAZ		Barcelos Airport	Barcelos, Amazonas, Brazil
 SWBR	RBB		Borba Airport	Borba, Amazonas, Brazil
 SWCA	CAF		Carauari Airport	Carauari, Amazonas, Brazil
@@ -5145,14 +5109,12 @@ SWEI	ERN		Eirunepe Airport	Eirunepe, Amazonas, Brazil
 SWGI	GRP		Gurupi Airport	Gurupi, Goiás, Brazil
 SWGN	AUX		Araguaína Airport	Araguaína, Tocantins, Brazil
 SWII	IPG		Ipiranga Airport	Santo Antônio do Içá, Amazonas, Brazil
-SWIY	IDO		Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins, Brazil
 SWJI	JPR		Ji-Paraná Airport	Ji-Paraná, Rondônia, Brazil
 SWJN	JIA		Juina Airport	Juina, Mato Grosso, Brazil
 SWJU	JRN		Juruena Airport	Juruena, Mato Grosso, Brazil
 SWKC	CCX		Cáceres Airport	Cáceres, Minas Gerais, Brazil
 SWKN	CLV		Caldas Novas Airport	Caldas Novas, Goiás, Brazil
 SWKO	CIZ		Coari Airport	Coari, Amazonas, Brazil
-SWLB	LBR		Lábrea Airport	Lábrea, Amazonas, Brazil
 SWMW	MBZ		Maués Airport	Maués, Amazonas, Brazil
 SWNK	BCR		Novo Campo Airport	Boca do Acre, Amazonas, Brazil
 SWNS	APS		Anápolis Airport	Anápolis, Goiás, Brazil
@@ -5165,7 +5127,6 @@ SYAN	NAI		Annai Airport	Annai, Guyana
 SYBR	BMJ		Baramita Airport	Baramita, Guyana
 SYBT	GFO		Bartica Airport	Bartica, Guyana
 SYCJ	GEO		Cheddi Jagan International Airport (Timehri Int'l)	Georgetown, Guyana
-SYDR	ORJ		Orinduik Airport	Orinduik, Guyana
 SYGO	OGL		Ogle Airport	Georgetown, Guyana
 SYIB	IMB		Imbaimadai Airport	Imbaimadai, Guyana
 SYKA	KAI		Kaieteur Airport	Kaieteur, Guyana
@@ -5188,7 +5149,6 @@ TDPD	DOM		Melville Hall Airport	Melville Hall (near Roseau), Dominica
 TFFA	DSD		Grande Anse Airport	Grande Anse, La Desirade, Guadeloupe
 TFFB	BBR		Baillif Airport	Basse-Terre, Guadeloupe
 TFFF	FDF		Martinique Aimé Césaire International Airport	Le Lamentin / Fort de France, Martinique
-TFFG	CCE		L'Espérance Airport (Grand Case Airport)	Saint Martin, Guadeloupe
 TFFJ	SBH		Gustaf III Airport	Gustavia, Saint Barthélemy, Saint Barthélemy
 TFFM	GBJ		Marie Galante Airport (Les Bases)	Marie Galante, Grand Bourg, Guadeloupe
 TFFR	PTP		Guadeloupe Pôle Caraïbes Airport	Pointe-à-Pitre, Guadeloupe
@@ -5243,12 +5203,10 @@ UARR	URA		Oral Ak Zhol Airport	Oral (Uralsk), Kazakhstan
 UASB	EKB		Ekibastuz Airport	Ekibastuz, Kazakhstan
 UASK	UKK		Oskemen Airport	Oskemen (Ust-Kamenogorsk), Kazakhstan
 UASP	PWQ		Pavlodar Airport	Pavlodar, Kazakhstan
-UASS	PLX		Semey Airport	Semey, Kazakhstan
 UATE	SCO		Aktau Airport	Aktau, Kazakhstan
 UATG	GUW		Atyrau Airport	Atyrau, Kazakhstan
 UATT	AKX		Aktobe Airport	Aktobe (Aktyubinsk), Kazakhstan
 UAUR	AYK		Arkalyk Airport	Arkalyk, Kazakhstan
-UAUU	KSN		Kostanay Airport (Narimanovka Airport)	Kostanay, Kazakhstan
 UBBB	GYD		Heydar Aliyev Airport	Baku, Azerbaijan
 UBBB	GYD		Heydar Aliyev International Airport (Bina Int'l)	Baku, Azerbaijan
 UBBG	KVD		Gyandzha Airport	Ganja, Azerbaijan
@@ -5256,7 +5214,6 @@ UBBL	LLK		Lankaran International Airport	Lankaran, Azerbaijan
 UBBY	ZTU		Zaqatala International Airport	Zaqatala, Azerbaijan
 UDSG	LWN		Shirak Airport	Gyumri, Armenia
 UDYZ	EVN		Zvartnots International Airport	Yerevan, Armenia
-UEEA	ADH		Aldan Airport	Aldan, Russia
 UEEE	YKS		Yakutsk Airport	Yakutsk, Sakha (Yakutia) Republic, Russia
 UELL	NER		Chulman Neryungri Airport	Chulman, Russia
 UERP	PYJ		Polyarny Airport	Polyarny, Yakutia, Russia
@@ -5375,7 +5332,6 @@ USHH	HMA		Khanty-Mansiysk Airport	Khanty-Mansiysk, Russia
 USHN	NYA		Nyagan Airport	Nyagan, Tyumen Oblast, Russia
 USHS	OVS		Sovetsky Airport	Sovetsky, Khanty-Mansi Autonomous Okrug, Russia
 USHU	URJ		Uray Airport	Uray, Khanty-Mansi Autonomous Okrug, Russia
-USII	IJK		Izhevsk Airport	Izhevsk, Udmurt Republic, Russia
 USKK	KVX		Pobedilovo Airport (Kirov Airport)	Kirov, Kirov Oblast, Russia
 USMM	NYM		Nadym Airport	Nadym, Yamalo-Nenets Autonomous Okrug, Russia
 USNN	NJC		Nizhnevartovsk Airport	Nizhnevartovsk, Russia
@@ -5395,11 +5351,8 @@ UTAT	TAZ		Dashoguz Airport	Daşoguz, Turkmenistan
 UTAV	CRZ		Turkmenabat Airport	Türkmenabat, Turkmenistan
 UTDD	DYU		Dushanbe Airport	Dushanbe, Tajikistan
 UTDL	LBD		Khujand Airport	Khujand, Tajikistan
-UTKA	AZN		Andizhan Airport	Andizhan, Uzbekistan
-UTKF	FEG		Fergana Airport	Fergana, Uzbekistan
 UTNN	NCU		Nukus Airport	Nukus, Uzbekistan
 UTSB	BHK		Bukhara Airport	Bukhara, Uzbekistan
-UTSL	KSQ		Karshi Airport / Karshi-Khanabad Air Base	Karshi, Uzbekistan
 UTST	TMJ		Termez Airport	Termez, Uzbekistan
 UTTT	TAS		Yuzhny Airport	Tashkent, Uzbekistan
 UUBA	KMW		Kostroma Airport	Kostroma, Russia
@@ -5412,8 +5365,6 @@ UUDD	DME		Domodedovo International Airport	Moscow, Russia
 UUDL	IAR		Yaroslavl Airport	Yaroslavl, Russia
 UUEE	SVO		Sheremetyevo International Airport	Moscow, Russia
 UUEM	KLD		Migalovo Air Base	Tver Oblast, Russia
-UUII	IKT		Irkutsk International Airport	Irkutsk, Russia
-UUMU	CKL		Chkalovsky Airport	Shchyolkovo (Moscow Oblast), Russia
 UUOB	EGO		Belgorod Airport	Belgorod, Russia
 UUOK	URS		Kursk Vostochny Airport	Kursk, Russia
 UUOL	LPK		Lipetsk Airport	Lipetsk, Russia
@@ -5423,14 +5374,12 @@ UUWR	RZN		Ryazan Airport (Turlatovo Airport)	Ryazan, Russia
 UUWW	VKO		Vnukovo International Airport	Moscow, Russia
 UUYH	UCT		Ukhta Airport	Ukhta / Sosnogorsk, Komi Republic, Russia
 UUYI	INA		Inta Airport	Inta, Russia
-UUYP	PEX		Pechora Airport	Pechora, Komi Republic, Russia
 UUYW	VKT		Vorkuta Airport	Vorkuta, Russia
 UUYY	SCW		Syktyvkar Airport	Syktyvkar, Komi Republic, Russia
 UWGG	GOJ		Strigino Airport	Nizhny Novgorod, Russia
 UWKB	UUA		Bugulma Airport	Bugulma, Republic of Tatarstan, Russia
 UWKD	KZN		Kazan International Airport	Kazan, Tatarstan, Russia
 UWKE	NBC		Begishevo Airport	Nizhnekamsk/Naberezhnye Chelny, Tatarstan, Russia
-UWKJ	JOK		Yoshkar-Ola Airport	Yoshkar-Ola, Russia
 UWKS	CSY		Cheboksary Airport	Cheboksary, Chuvashia, Russia
 UWLW	ULY		Ulyanovsk Vostochny Airport	Ulyanovsk, Russia
 UWOO	REN		Orenburg Tsentralny Airport	Orenburg, Russia
@@ -5457,7 +5406,6 @@ VABV	BHU		Bhavnagar Airport	Bhavnagar, India
 VADN	NMB		Daman Airport	Daman, India
 VADZ	DEP		Deparizo Airport	Deparizo, India
 VAGN	GUX		Guna Airport	Guna, India
-VAGO	GOI		Dabolim Airport	Goa, India
 VAHB	HBX		Hubli Airport	Hubli, India
 VAID	IDR		Devi Ahilyabai Holkar International Airport	Indore, Madhya Pradesh, India
 VAJB	JLR		Jabalpur Airport	Jabalpur, Madhya Pradesh, India
@@ -5478,7 +5426,6 @@ VASL	SSE		Solapur Airport	Sholapur (Solapur), India
 VASU	STV		Surat Airport	Surat, Gujarat, India
 VAUD	UDR		Udaipur Airport	Udaipur, India
 VBHD	HEB		Henzada Airport	Henzada, Myanmar (Burma)
-VBOZ	VGA		Vijayawada Airport	Vijayawada, Andhra Pradesh, India
 VCBI	CMB		Bandaranaike International Airport	Colombo, Sri Lanka
 VCCA	ADP		Anuradhapura Airport	Anuradhapura, Sri Lanka
 VCCB	BTC		Batticaloa Airport	Batticaloa, Sri Lanka
@@ -5498,7 +5445,6 @@ VDSR	REP		Angkor International Airport	Siem Reap, Cambodia
 VDSV	KOS		Sihanoukville Airport (Kompong Som)	Sihanoukville, Cambodia
 VEAN	IXV		Along Airport	Along, Arunachal Pradesh, India
 VEAT	IXA		Agartala Airport (Singerbhil Airport)	Agartala, India
-VEAZ	AJL		Aizawl Airport	Aizawl, India
 VEBD	IXB		Bagdogra Airport	Bagdogra, India
 VEBI	SHL		Barapani Airport	Shillong, India
 VEBS	BBI		Biju Patnaik Airport	Bhubaneswar, India
@@ -5544,7 +5490,6 @@ VGRJ	RJH		Shah Makhdum Airport	Rajshahi, Bangladesh
 VGSD	SPD		Saidpur Airport	Saidpur, Bangladesh
 VGSH	ZHM		Shamshernagar Airport	Shamshernagar, Bangladesh
 VGSY	ZYL		Osmani International Airport	Sylhet, Bangladesh
-VGZR	DAC		Shahjalal International Airport	Dhaka, Bangladesh
 VHHH	HKG		Hong Kong International Airport (succeeded Kai Tak Airport)	Chek Lap Kok, Hong Kong
 VIAG	AGR		Agra Airport/Agra Air Force Station	Agra, India
 VIAL	IXD		Allahabad Airport / Bamrauli Air Force Base	Allahabad, India
@@ -5634,9 +5579,7 @@ VOSM	SXV		Salem Airport	Salem, India
 VOTP	TIR		Tirupati Airport	Tirupati, Andhra Pradesh, India
 VOTR	TRZ		Tiruchirapalli international Airport	Tiruchirapalli (Trichy), Tamil Nadu, India
 VOTV	TRV		Trivandrum International Airport	Trivandrum, Kerala, India
-VOTY	PNY		Pondicherry Airport	Pondicherry, India
 VQPR	PBH		Paro Airport	Paro, Bhutan
-VRMF	FVM		Fuvahmulah Airport	Fuvahmulah, Maldives
 VRMG	GAN		Gan Island Airport	Gan Island, Seenu Atoll, Maldives
 VRMH	HAQ		Hanimaadhoo Airport	Hanimaadhoo, Haa Dhaalu Atoll, Maldives
 VRMK	KDO		Kadhdhoo Airport	Kadhdhoo Island, Laamu Atoll, Maldives
@@ -5694,7 +5637,6 @@ VVRG	VKG		Rach Gia Airport	Rach Gia, Kien Giang, Vietnam
 VVTS	SGN		Tan Son Nhat International Airport	Ho Chi Minh City, Vietnam
 VVVH	VII		Vinh Airport	Vinh, Nghe An, Vietnam
 VVVT	VTG		Vung Tau Airport	Vung Tau, Ba Ria - Vung Tau, Vietnam
-VYBG	BPE		Bagan Airport	Bagan, Myanmar (Burma)
 VYBM	BMO		Bhamo Airport	Bhamo, Myanmar (Burma)
 VYDW	TVY		Dawei Airport	Dawei, Myanmar (Burma)
 VYGG	GAW		Gangaw Airport	Gangaw, Myanmar (Burma)
@@ -5731,7 +5673,6 @@ WABN	KOX		Kokonao Airport	Kokonao, Indonesia
 WABO	ZRI		Serui Airport	Serui, Indonesia
 WABT	EWI		Enarotali Airport	Enarotali, Indonesia
 WADA			Selaparang Airport (closed 2011)	Mataram, Indonesia
-WADB	BMU		Bima Airport	Bima, Indonesia
 WADD	DPS		Ngurah Rai International Airport	Denpasar, Bali, Indonesia
 WADL	LOP		Lombok International Airport (Bandara Internasional Lombok)	Mataram (near Praya), Lombok, Indonesia
 WADW	WGP		Mau Hau Airport (former ICAO: WRRW)	Waingapu, Sumba, East Nusa Tenggara, Indonesia
@@ -5826,7 +5767,6 @@ WIDN	TNJ		Raja Haji Fisabilillah International Airport	Tanjung Pinang, Riau Isla
 WIHH	HLP		Halim Perdanakusuma International Airport	Jakarta, Indonesia
 WIHL	CXP		Tunggul Wulung Airport	Cilacap, Java Island, Indonesia
 WIII	CGK		Soekarno-Hatta International Airport	Jakarta, Indonesia
-WIIJ	JOG		Adisucipto International Airport	Yogyakarta, Indonesia
 WIKD	TJQ		Buluh Tumbang Airport	Tanjung Pandan, Bangka-Belitung, Indonesia
 WIMB	GNS		Binaka Airport	Gunungsitoli, Nias Island, Indonesia
 WIME	AEG		Aek Godang Airport	Padang Sidempuan, Indonesia
@@ -6422,7 +6362,6 @@ ZYTL	DLC		Dalian Zhoushuizi International Airport	Dalian, Liaoning, China
 ZYTN	TNH		Tonghua Sanyuanpu Airport	Tonghua, Jilin, China
 ZYTX	SHE		Shenyang Taoxian International Airport	Shenyang, China
 ZYXC	XEN		Xingcheng Airport	Xingcheng, Liaoning, China
-ZYYJ	YNJ		Yanji Chaoyangchuan Airport	Yanji, Jilin, China
 ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	AAJ		Cayana Airstrip	Awaradam, Suriname
 	AAS		Apalapsili Airport	Apalapsili, Indonesia
@@ -7671,3 +7610,65 @@ ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	ZUE		Zuenoula Airport	Zuenoula, Côte d'Ivoire
 	ZVG		Springvale Airport	Springvale, Western Australia, Australia
 	ZWS		Stuttgart Hauptbahnhof	Stuttgart, Germany
+
+ENKL	GLL	_	Gol Airport, Klanten	Gol, Norway
+BGNU	NUS	_	Nuussuaq Heliport	Nuussuaq, Greenland
+EGYM	KNF	_	RAF Marham	Marham, Norfolk, East Anglia, United Kingdom
+ENSA	SRP	_	Stord Airport, Sørstokken	Stord, Hordaland, Norway
+ETMN	NDZ	_	Fliegerhorst Nordholz	Nordholz, Germany
+FALO	LCD	_	Louis Trichardt Airport	Louis Trichardt, South Africa
+FVMU	UTA	_	Mutare Airport	Mutare, Zimbabwe
+FZOK	KGN	_	Kasongo Lunda Airport	Kasongo Lunda, Democratic Republic of the Congo
+HWHF	WHF	_	Wadi Halfa Airport	Wadi Halfa, Sudan
+LFMA	QXB	_	Aix Les Milles Airport	Aix-en-Provence / Les Milles, France
+LFQM	QBQ	_	Besançon - La Vèze Aerodrome	Besançon / La Vèze, France
+LFSL	BVE	_	Brive - Souillac Airport	Brive-la-Gaillarde, France
+MRNS	NOB	_	Nosara Airport	Nosara, Costa Rica
+MUOC	CCC	_	Jardines del Rey Airport	Cayo Coco, Cuba
+NSMU	NUX	_	Novy Urengoy Airport	Novy Urengoy, Russia
+ODAS	EAB	_	Abbse Airport	Abbse, Yemen
+PACE	CDE	_	Cape Decision Coast Guard Heliport	Cape Decision, Alaska, United States
+PAHG	SHG	_	Shungnak Airport	Shungnak, Alaska, United States
+FYKM	MPA	_	Katima Mulilo Airport (Mpacha Airport)	Katima Mulilo, Namibia
+OEKK	KMC	_	King Khaled Military City Airport	King Khaled Military City, Saudi Arabia
+OJJR	JRS	_	Atarot Airport (Jerusalem International Airport)	Jerusalem, Israel
+PARL	CEM	_	Central Airport	Central, Alaska, United States
+RPSN	SOS	_	Sayak (Siargao) Airport	Del Carmen, Surigao del Norte, Philippines
+SVPR	PZO	_	Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
+SPLO	ILQ	_	Ilo Airport	Ilo, Moquegua Region, Peru
+SSLT	ALQ	_	Alegrete Airport	Alegrete, Rio Grande do Sul, Brazil
+UTKA	AZN	_	Andizhan Airport	Andizhan, Uzbekistan
+UUMU	CKL	_	Chkalovsky Airport	Shchyolkovo (Moscow Oblast), Russia
+UUYP	PEX	_	Pechora Airport	Pechora, Komi Republic, Russia
+UWKJ	JOK	_	Yoshkar-Ola Airport	Yoshkar-Ola, Russia
+VAGO	GOI	_	Dabolim Airport	Goa, India
+SBLE	LEC	_	Chapada Diamantina Airport	Lençõis, Bahia, Brazil
+SCGE	LSQ	_	Maria Dolores Airport	Los Ángeles, Biobío, Chile
+SEPA	PTZ	_	Rio Amazonas Airport	Shell Mera, Ecuador
+SESV	BHA	_	Los Perales	Bahía de Caráquez, Ecuador
+SETM	LOH	_	Camilo Ponce Enriquez Airport	Loja, Ecuador
+SVBL	MYC	_	El Libertador Air Base	Maracay, Venezuela
+SVVP	VDP	_	Valle de la Pascua Airport	Valle de la Pascua, Guárico, Venezuela
+SWIY	IDO	_	Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins, Brazil
+SWLB	LBR	_	Lábrea Airport	Lábrea, Amazonas, Brazil
+SYDR	ORJ	_	Orinduik Airport	Orinduik, Guyana
+TFFG	CCE	_	L'Espérance Airport (Grand Case Airport)	Saint Martin, Guadeloupe
+UASS	PLX	_	Semey Airport	Semey, Kazakhstan
+VYBG	BPE	_	Bagan Airport	Bagan, Myanmar (Burma)
+WADB	BMU	_	Bima Airport	Bima, Indonesia
+UTKF	FEG	_	Fergana Airport	Fergana, Uzbekistan
+EHLW	LWR	_	Leeuwarden Airport	Leeuwarden, Netherlands
+EKSN	CNL	_	Sindal Airport	Sindal, Denmark
+ZYYJ	YNJ	_	Yanji Chaoyangchuan Airport	Yanji, Jilin, China
+SKAN	ADN	_	Andes Airport	Andes, Colombia
+UAUU	KSN	_	Kostanay Airport (Narimanovka Airport)	Kostanay, Kazakhstan
+UEEA	ADH	_	Aldan Airport	Aldan, Russia
+USII	IJK	_	Izhevsk Airport	Izhevsk, Udmurt Republic, Russia
+UTSL	KSQ	_	Karshi Airport / Karshi-Khanabad Air Base	Karshi, Uzbekistan
+UUII	IKT	_	Irkutsk International Airport	Irkutsk, Russia
+VBOZ	VGA	_	Vijayawada Airport	Vijayawada, Andhra Pradesh, India
+VEAZ	AJL	_	Aizawl Airport	Aizawl, India
+VGZR	DAC	_	Shahjalal International Airport	Dhaka, Bangladesh
+VOTY	PNY	_	Pondicherry Airport	Pondicherry, India
+VRMF	FVM	_	Fuvahmulah Airport	Fuvahmulah, Maldives
+WIIJ	JOG	_	Adisucipto International Airport	Yogyakarta, Indonesia

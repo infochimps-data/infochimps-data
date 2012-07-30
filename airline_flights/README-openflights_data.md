@@ -101,5 +101,6 @@ The FAA may use a code for an airport in the USA while IATA uses the same code f
         		BAK
         BAK
 
+	git diff HEAD -- airline_flights/wikipedia_icao.tsv | egrep '^(-|\+)' | cut -c 2- | sort | ~/bin/cuttab 1-2,4- | uniq -c | sort -nr
 
 
