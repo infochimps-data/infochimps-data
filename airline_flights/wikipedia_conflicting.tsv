@@ -1,121 +1,120 @@
-BGKQ	KLQ	.	Kullorsuaq Heliport	Kullorsuaq
-EGYM	MRH	.	RAF Marham	Marham, England
-EHLW	LHW	.	Leeuwarden Air Base	Leeuwarden
-EKVD	VDP	.	Vamdrup Airport	Kolding
-ENSO	SRP	.	Stord Airport, Sørstokken	Leirvik, Hordaland
-ENUK	GLL	.	Gol Airport, Klanten	Gol, Buskerud
 ETMN	FCN	.	Nordholz Naval Air Station	Nordholz
-FALM	LCD	.	AFB Makhado, SAAF	Makhado
-FVGR	UTA	.	Grand Reef Airport	Mutare
-FYMP	MPA	.	Mpacha Airport	Mpacha
-FZUF	KGN	.	Kasonga Airport	Kasonga
-LFMM	QXB	.	Marseille FIR	Aix-en-Provence
-LFSA	QBQ	.	Besançon Thise Airport	Besançon
-LLJR	JRS	.	Atarot Airport (Jerusalem International Airport)	Jerusalem (currently closed)
-LYKV	KVD	.	Kraljevo-Lađevci Airport	Kraljevo
-MRNS	NOM	.	Nosara Airport	Nosara
-NVSP	NUS	.	Norsup Airport	Norsup
-OEKK	HBT	.	Hafr al-Batin Domestic Airport (KKMC) - limited civilian flights	KKMC
-PAGH	SHG	.	Shungnak Airport	Shungnak, Alaska, United States
-RPLB	SFS	.	Subic Bay International Airport	Subic Bay Freeport Zone, Bataan
-RPNS	SOS	.	Sayak Airport (Siargao Airport)	Del Carmen, Surigao del Norte
-SBLB	LBR	.	Lábrea Airport	Lábrea, Amazonas
-SBSY	IDO	.	Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins
-SCAG	LSQ	.	El Avellano Airport	Los Angeles
-SELO	LOH	.	Camilo Ponce Enriquez Airport	Loja
-SESM	PTZ	.	Rio Amazonas Airport	Pastaza
-SNDM	LEC	.	Chapada Daimantina Airport	Lençóis, Bahia
-SPCH	TCG	.	Tocache Airport	Tocache, San Martín Region
-SPLO	ILC	.	Ilo Airport	Ilo, Moquegua Region
-SPOA	SFS	.	Saposoa Airport	Saposoa
-SVBS	MYC	.	Mariscal Sucre Airport (Venezuela)	Maracay, Aragua
-SYOR	ORJ	.	Orinduik Airport	Orinduik
-UAUU	KSN	.	Narimanovka Airport	Kostanay, Kazakhstan
-UBBG	KVD	.	Ganja Airport	Ganja
-UIII	IKT	.	Irkutsk International Airport	Irkutsk, Russia
-USMU	NUX	.	Novy Urengoy Airport	Novy Urengoy, Russia
-USPI	IJK	.	Izhevsk Airport	Izhevsk, Russia
 UTFF	FEG	.	Fergana Airport	Fergana, Uzbekistan
+UTKF	FEG	_	Fergana Airport	Fergana, Uzbekistan
+VRMF	FVM	_	Fuvahmulah Airport	Fuvahmulah, Maldives
+VRMR	FVM	.	Fuvahmulah Airport	Fuvahmulah Island, Gnaviyani Atoll
+ENKL	GLL	_	Gol Airport, Klanten	Gol, Norway
+ENUK	GLL	.	Gol Airport, Klanten	Gol, Buskerud
+VAGO	GOI	_	Dabolim Airport	Goa, India
+VOGO	GOI	.	Dabolim Airport (Goa Airport) / Dabolim Navy Airbase	Dabolim
+OEKK	HBT	.	Hafr al-Batin Domestic Airport (KKMC) - limited civilian flights	KKMC
+SBSY	IDO	.	Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins
+SWIY	IDO	_	Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins, Brazil
+USII	IJK	_	Izhevsk Airport	Izhevsk, Udmurt Republic, Russia
+USPI	IJK	.	Izhevsk Airport	Izhevsk, Russia
+UIII	IKT	.	Irkutsk International Airport	Irkutsk, Russia
+UUII	IKT	_	Irkutsk International Airport	Irkutsk, Russia
+SPLO	ILC	.	Ilo Airport	Ilo, Moquegua Region
+SPLO	ILQ	_	Ilo Airport	Ilo, Moquegua Region, Peru
+WARJ	JOG	.	Adisucipto International Airport	Yogyakarta, [[Yogyakarta (special region)]
+WIIJ	JOG	_	Adisucipto International Airport	Yogyakarta, Indonesia
+UWKI	JOK	.	Chistopol Airport	Yoshkar-Ola, Russia
+UWKJ	JOK	_	Yoshkar-Ola Airport	Yoshkar-Ola, Russia
+LLJR	JRS	.	Atarot Airport (Jerusalem International Airport)	Jerusalem (currently closed)
+OJJR	JRS	_	Atarot Airport (Jerusalem International Airport)	Jerusalem, Israel
+WAAU	KDI	.	Wolter Monginsidi Airport	Kendari, South East Sulawesi
+WAWW	KDI	_	Wolter Monginsidi Airport	Kendari, Indonesia
+FZOK	KGN	_	Kasongo Lunda Airport	Kasongo Lunda, Democratic Republic of the Congo
+FZUF	KGN	.	Kasonga Airport	Kasonga
+VTBH	KKM	_	Sa Pran Nak Airport	Lop Buri, Thailand
+VTBL	KKM	.	Khok Kathiam Air Force Base	Lopburi
+BGKQ	KLQ	.	Kullorsuaq Heliport	Kullorsuaq
+WIPV	KLQ	.	Keluang Airport	Keluang
+WIPV	KLQ	_	Keluang Airport	Keluang, Indonesia
+OEKK	KMC	_	King Khaled Military City Airport	King Khaled Military City, Saudi Arabia
+EGYM	KNF	_	RAF Marham	Marham, Norfolk, East Anglia, United Kingdom
+WATT	KOE	_	Eltari Airport	Kupang, East Nusa Tenggara, Indonesia
+WRKK	KOE	.	El Tari Airport (Eltari Airport)	Kupang, East Nusa Tenggara
+UAUU	KSN	.	Narimanovka Airport	Kostanay, Kazakhstan
+UAUU	KSN	_	Kostanay Airport (Narimanovka Airport)	Kostanay, Kazakhstan
 UTSK	KSQ	.	Karshi Airport	Qarshi/Karshi, Uzbekistan
 UTSL	KSQ	.	Karshi-Khanabad	near Qarshi/Karshi, Uzbekistan
-UUYP	PBX	.	Pechora Airport	Pechora, Russia
-UWKI	JOK	.	Chistopol Airport	Yoshkar-Ola, Russia
-VOBZ	VGA	.	Vijayawada Airport	Vijayawada
-VOGO	GOI	.	Dabolim Airport (Goa Airport) / Dabolim Navy Airbase	Dabolim
-VOPC	PNY	.	Pondicherry Airport	Pondicherry
-VRMR	FVM	.	Fuvahmulah Airport	Fuvahmulah Island, Gnaviyani Atoll
-VTBL	KKM	.	Khok Kathiam Air Force Base	Lopburi
-WAAU	KDI	.	Wolter Monginsidi Airport	Kendari, South East Sulawesi
-WARJ	JOG	.	Adisucipto International Airport	Yogyakarta, [[Yogyakarta (special region)]
+UTSL	KSQ	_	Karshi Airport / Karshi-Khanabad Air Base	Karshi, Uzbekistan
+LYKV	KVD	.	Kraljevo-Lađevci Airport	Kraljevo
+UBBG	KVD	.	Ganja Airport	Ganja
+UBBG	KVD	_	Gyandzha Airport	Ganja, Azerbaijan
 WATO	LBJ	.	Komodo Airport	Labuan Bajo, East Nusa Tenggara
-WIAS	MLG	.	Abdul Rachman Saleh Airport	Malang, East Java
-WIIT	TKG	.	Radin Inten II Airport (Branti Airport)	Bandar Lampung, Lampung
+WRKO	LBJ	.	Komodo Airport	Labuhan Bajo
+SBLB	LBR	.	Lábrea Airport	Lábrea, Amazonas
+SWLB	LBR	_	Lábrea Airport	Lábrea, Amazonas, Brazil
+FALM	LCD	.	AFB Makhado, SAAF	Makhado
+FALO	LCD	_	Louis Trichardt Airport	Louis Trichardt, South Africa
+SBLE	LEC	_	Chapada Diamantina Airport	Lençõis, Bahia, Brazil
+SNDM	LEC	.	Chapada Daimantina Airport	Lençóis, Bahia
+EHLW	LHW	.	Leeuwarden Air Base	Leeuwarden
 WIKL	LLG	.	Silampari Airport	Lubuk Linggau, Musi Rawas, South Sumatra
+YCGO	LLG	_	Chillagoe Airport	Chillagoe, Queensland, Australia
+SELO	LOH	.	Camilo Ponce Enriquez Airport	Loja
+SETM	LOH	_	Camilo Ponce Enriquez Airport	Loja, Ecuador
+SCAG	LSQ	.	El Avellano Airport	Los Angeles
+SCGE	LSQ	_	Maria Dolores Airport	Los Ángeles, Biobío, Chile
+EHLW	LWR	_	Leeuwarden Airport	Leeuwarden, Netherlands
+WARA	MLG	_	Abdul Rachman Saleh Airport	Malang, East Java, Indonesia
+WIAS	MLG	.	Abdul Rachman Saleh Airport	Malang, East Java
+WATC	MOF	_	Wai Oti Airport (Maumere Airport)	Maumere, Indonesia
+WRKC	MOF	.	Maumere Airport	Maumere
+FYKM	MPA	_	Katima Mulilo Airport (Mpacha Airport)	Katima Mulilo, Namibia
+FYMP	MPA	.	Mpacha Airport	Mpacha
+EGYM	MRH	.	RAF Marham	Marham, England
+SVBL	MYC	_	El Libertador Air Base	Maracay, Venezuela
+SVBS	MYC	.	Mariscal Sucre Airport (Venezuela)	Maracay, Aragua
+ETMN	NDZ	_	Fliegerhorst Nordholz	Nordholz, Germany
+MRNS	NOB	_	Nosara Airport	Nosara, Costa Rica
+MRNS	NOM	.	Nosara Airport	Nosara
+BGNU	NUS	_	Nuussuaq Heliport	Nuussuaq, Greenland
+NVSP	NUS	.	Norsup Airport	Norsup
+NSMU	NUX	_	Novy Urengoy Airport	Novy Urengoy, Russia
+USMU	NUX	.	Novy Urengoy Airport	Novy Urengoy, Russia
+SYDR	ORJ	_	Orinduik Airport	Orinduik, Guyana
+SYOR	ORJ	.	Orinduik Airport	Orinduik
+UUYP	PBX	.	Pechora Airport	Pechora, Russia
 WIMG	PDG	.	Tabing Airport (replaced by Minangkabau International Airport)	Padang, West Sumatra
 WIPT	PDG	.	Minangkabau International Airport (replaced Tabing Airport)	Ketaping / Padang, West Sumatra
-WIPV	KLQ	.	Keluang Airport	Keluang
-WRBS	SMQ	.	Sampit Airport	Sampit
-WRKC	MOF	.	Maumere Airport	Maumere
-WRKK	KOE	.	El Tari Airport (Eltari Airport)	Kupang, East Nusa Tenggara
-WRKO	LBJ	.	Komodo Airport	Labuhan Bajo
-WRLR	TRK	.	Juwata Airport	Tarakan, East Kalimantan
-WRSQ	SOC	.	Adisumarmo International Airport (Adi Sumarmo Wiryokusumo)	Surakarta (Solo), Central Java
-ZWTC	TCG	.	Tacheng Airport	Tacheng, Xinjiang
-                        
-BGNU	NUS	_	Nuussuaq Heliport	Nuussuaq, Greenland
-EGYM	KNF	_	RAF Marham	Marham, Norfolk, East Anglia, United Kingdom
-EHLW	LWR	_	Leeuwarden Airport	Leeuwarden, Netherlands
-ENKL	GLL	_	Gol Airport, Klanten	Gol, Norway
-ENSA	SRP	_	Stord Airport, Sørstokken	Stord, Hordaland, Norway
-ETMN	NDZ	_	Fliegerhorst Nordholz	Nordholz, Germany
-FALO	LCD	_	Louis Trichardt Airport	Louis Trichardt, South Africa
-FVMU	UTA	_	Mutare Airport	Mutare, Zimbabwe
-FYKM	MPA	_	Katima Mulilo Airport (Mpacha Airport)	Katima Mulilo, Namibia
-FZOK	KGN	_	Kasongo Lunda Airport	Kasongo Lunda, Democratic Republic of the Congo
-LFMA	QXB	_	Aix Les Milles Airport	Aix-en-Provence / Les Milles, France
-LFQM	QBQ	_	Besançon - La Vèze Aerodrome	Besançon / La Vèze, France
-MRNS	NOB	_	Nosara Airport	Nosara, Costa Rica
-NSMU	NUX	_	Novy Urengoy Airport	Novy Urengoy, Russia
-OEKK	KMC	_	King Khaled Military City Airport	King Khaled Military City, Saudi Arabia
-OJJR	JRS	_	Atarot Airport (Jerusalem International Airport)	Jerusalem, Israel
-PAHG	SHG	_	Shungnak Airport	Shungnak, Alaska, United States
-RPSN	SOS	_	Sayak (Siargao) Airport	Del Carmen, Surigao del Norte, Philippines
-SBLE	LEC	_	Chapada Diamantina Airport	Lençõis, Bahia, Brazil
-SCGE	LSQ	_	Maria Dolores Airport	Los Ángeles, Biobío, Chile
-SEPA	PTZ	_	Rio Amazonas Airport	Shell Mera, Ecuador
-SETM	LOH	_	Camilo Ponce Enriquez Airport	Loja, Ecuador
-SPLO	ILQ	_	Ilo Airport	Ilo, Moquegua Region, Peru
-SVBL	MYC	_	El Libertador Air Base	Maracay, Venezuela
-SVPR	PZO	_	Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
-SVVP	VDP	_	Valle de la Pascua Airport	Valle de la Pascua, Guárico, Venezuela
-SWIY	IDO	_	Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins, Brazil
-SWLB	LBR	_	Lábrea Airport	Lábrea, Amazonas, Brazil
-SYDR	ORJ	_	Orinduik Airport	Orinduik, Guyana
-UASS	PLX	_	Semey Airport	Semey, Kazakhstan
-UAUU	KSN	_	Kostanay Airport (Narimanovka Airport)	Kostanay, Kazakhstan
-UBBG	KVD	_	Gyandzha Airport	Ganja, Azerbaijan
-USII	IJK	_	Izhevsk Airport	Izhevsk, Udmurt Republic, Russia
-UTKF	FEG	_	Fergana Airport	Fergana, Uzbekistan
-UTSL	KSQ	_	Karshi Airport / Karshi-Khanabad Air Base	Karshi, Uzbekistan
-UUII	IKT	_	Irkutsk International Airport	Irkutsk, Russia
-UUYP	PEX	_	Pechora Airport	Pechora, Komi Republic, Russia
-UWKJ	JOK	_	Yoshkar-Ola Airport	Yoshkar-Ola, Russia
-VAGO	GOI	_	Dabolim Airport	Goa, India
-VBOZ	VGA	_	Vijayawada Airport	Vijayawada, Andhra Pradesh, India
-VOTY	PNY	_	Pondicherry Airport	Pondicherry, India
-VRMF	FVM	_	Fuvahmulah Airport	Fuvahmulah, Maldives
-VTBH	KKM	_	Sa Pran Nak Airport	Lop Buri, Thailand
-WALR	TRK	_	Juwata Airport	Tarakan, East Kalimantan, Indonesia
-WAOS	SMQ	_	Sampit Airport	Sampit, Central Kalimantan (Borneo), Indonesia
-WARA	MLG	_	Abdul Rachman Saleh Airport	Malang, East Java, Indonesia
-WARQ	SOC	_	Adi Soemarmo International Airport	Solo City, Indonesia
-WATC	MOF	_	Wai Oti Airport (Maumere Airport)	Maumere, Indonesia
-WATT	KOE	_	Eltari Airport	Kupang, East Nusa Tenggara, Indonesia
-WAWW	KDI	_	Wolter Monginsidi Airport	Kendari, Indonesia
-WICT	TKG	_	Radin Inten II Airport	Bandar Lampung, Sumatra, Indonesia
-WIIJ	JOG	_	Adisucipto International Airport	Yogyakarta, Indonesia
 WIPT	PDG	_	Minangkabau International Airport	Ketaping, West Sumatra, Indonesia
-WIPV	KLQ	_	Keluang Airport	Keluang, Indonesia
-YCGO	LLG	_	Chillagoe Airport	Chillagoe, Queensland, Australia
+UUYP	PEX	_	Pechora Airport	Pechora, Komi Republic, Russia
+UASS	PLX	_	Semey Airport	Semey, Kazakhstan
+VOPC	PNY	.	Pondicherry Airport	Pondicherry
+VOTY	PNY	_	Pondicherry Airport	Pondicherry, India
+SEPA	PTZ	_	Rio Amazonas Airport	Shell Mera, Ecuador
+SESM	PTZ	.	Rio Amazonas Airport	Pastaza
+SVPR	PZO	_	Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
+LFQM	QBQ	_	Besançon - La Vèze Aerodrome	Besançon / La Vèze, France
+LFSA	QBQ	.	Besançon Thise Airport	Besançon
+LFMA	QXB	_	Aix Les Milles Airport	Aix-en-Provence / Les Milles, France
+LFMM	QXB	.	Marseille FIR	Aix-en-Provence
+RPLB	SFS	.	Subic Bay International Airport	Subic Bay Freeport Zone, Bataan
+SPOA	SFS	.	Saposoa Airport	Saposoa
+PAGH	SHG	.	Shungnak Airport	Shungnak, Alaska, United States
+PAHG	SHG	_	Shungnak Airport	Shungnak, Alaska, United States
+WAOS	SMQ	_	Sampit Airport	Sampit, Central Kalimantan (Borneo), Indonesia
+WRBS	SMQ	.	Sampit Airport	Sampit
+WARQ	SOC	_	Adi Soemarmo International Airport	Solo City, Indonesia
+WRSQ	SOC	.	Adisumarmo International Airport (Adi Sumarmo Wiryokusumo)	Surakarta (Solo), Central Java
+RPNS	SOS	.	Sayak Airport (Siargao Airport)	Del Carmen, Surigao del Norte
+RPSN	SOS	_	Sayak (Siargao) Airport	Del Carmen, Surigao del Norte, Philippines
+ENSA	SRP	_	Stord Airport, Sørstokken	Stord, Hordaland, Norway
+ENSO	SRP	.	Stord Airport, Sørstokken	Leirvik, Hordaland
+SPCH	TCG	.	Tocache Airport	Tocache, San Martín Region
+ZWTC	TCG	.	Tacheng Airport	Tacheng, Xinjiang
+WICT	TKG	_	Radin Inten II Airport	Bandar Lampung, Sumatra, Indonesia
+WIIT	TKG	.	Radin Inten II Airport (Branti Airport)	Bandar Lampung, Lampung
+WALR	TRK	_	Juwata Airport	Tarakan, East Kalimantan, Indonesia
+WRLR	TRK	.	Juwata Airport	Tarakan, East Kalimantan
+FVGR	UTA	.	Grand Reef Airport	Mutare
+FVMU	UTA	_	Mutare Airport	Mutare, Zimbabwe
+EKVD	VDP	.	Vamdrup Airport	Kolding
+SVVP	VDP	_	Valle de la Pascua Airport	Valle de la Pascua, Guárico, Venezuela
+VBOZ	VGA	_	Vijayawada Airport	Vijayawada, Andhra Pradesh, India
+VOBZ	VGA	.	Vijayawada Airport	Vijayawada
 
         
