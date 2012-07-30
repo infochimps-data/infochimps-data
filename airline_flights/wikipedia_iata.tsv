@@ -5209,7 +5209,6 @@ UATT	AKX		Aktobe Airport	Aktobe (Aktyubinsk), Kazakhstan
 UAUR	AYK		Arkalyk Airport	Arkalyk, Kazakhstan
 UBBB	GYD		Heydar Aliyev Airport	Baku, Azerbaijan
 UBBB	GYD		Heydar Aliyev International Airport (Bina Int'l)	Baku, Azerbaijan
-UBBG	KVD		Gyandzha Airport	Ganja, Azerbaijan
 UBBL	LLK		Lankaran International Airport	Lankaran, Azerbaijan
 UBBY	ZTU		Zaqatala International Airport	Zaqatala, Azerbaijan
 UDSG	LWN		Shirak Airport	Gyumri, Armenia
@@ -5587,7 +5586,6 @@ VRMM	MLE		Malé International Airport	Hulhulé Island, Maldives
 VRMT	KDM		Kaadedhdhoo Airport	Kaadedhdhoo Island, Gaafu Dhaalu Atoll, Maldives
 VRMV	VAM		Maamigili Airport	Maamigili, Maldives
 VTBD	DMK		Don Mueang International Airport	Don Muang, Bangkok, Thailand
-VTBH	KKM		Sa Pran Nak Airport	Lop Buri, Thailand
 VTBK	KDT		Kamphaeng Saen Airport	Nakhon Pathom, Thailand
 VTBO	TDX		Trat Airport	Trat, Thailand
 VTBS	BKK		Suvarnabhumi Airport (New Bangkok International Airport)	Bangkok, Thailand
@@ -5675,7 +5673,6 @@ WABT	EWI		Enarotali Airport	Enarotali, Indonesia
 WADA			Selaparang Airport (closed 2011)	Mataram, Indonesia
 WADD	DPS		Ngurah Rai International Airport	Denpasar, Bali, Indonesia
 WADL	LOP		Lombok International Airport (Bandara Internasional Lombok)	Mataram (near Praya), Lombok, Indonesia
-WADW	WGP		Mau Hau Airport (former ICAO: WRRW)	Waingapu, Sumba, East Nusa Tenggara, Indonesia
 WAJA	ARJ		Arso Airport	Arso, Indonesia
 WAJB	BUI		Bokondini Airport	Bokondini, Indonesia
 WAJI	ZRM		Sarmi Airport	Sarmi, Indonesia
@@ -5689,8 +5686,6 @@ WAKP	KEI		Kepi Airport	Kepi, Indonesia
 WALJ	DTD		Datadawai Airport	Long Pahangai, West Kutai Regency, East Kalimantan, Indonesia
 WALK	BEJ		Berau Airport (Kalimaru Airport)	Tanjung Redeb, Berau, East Kalimantan, Indonesia
 WALL	BPN		Sepinggan International Airport	Balikpapan, Indonesia
-WALR	TRK		Juwata Airport	Tarakan, East Kalimantan, Indonesia
-WALV	BYQ		Bunyu Airport	Bunyu, Kalimantan (Borneo), Indonesia
 WAMA	GLX		Gamarmalamo Airport (Galela Airport)	Galela, North Maluku, Indonesia
 WAMG	GTO		Jalaluddin Airport	Gorontalo, Indonesia
 WAMH	NAH		Naha Airport	Tahuna, Indonesia
@@ -5699,8 +5694,6 @@ WAMK	KAZ		Kao Airport	Kao, Halmahera, North Maluku, Indonesia
 WAMM	MDC		Sam Ratulangi International Airport	Manado, Indonesia
 WAMN	MNA		Melangguane Airport	Melangguane, North Sulawesi, Indonesia
 WAMW	LUW		Bubung Airport	Luwuk, Central Sulawesi, Indonesia
-WAOC	BTW		Batu Licin Airport	Batu Licin, Kalimantan, Indonesia
-WAOS	SMQ		Sampit Airport	Sampit, Central Kalimantan (Borneo), Indonesia
 WAPA	AHI		Amahai Airport	Amahai, Indonesia
 WAPD	DOB		Dobo Airport	Dobo, Wamar Island, Indonesia
 WAPE	MAL		Mangole Island Airport	Mangole Island, Maluku Islands, Indonesia
@@ -5708,8 +5701,6 @@ WAPG	NRE		Namrole Airport	Buru, Indonesia
 WAPK	BJK		Nangasuri Airport	Benjina, Muluku, Indonesia
 WAPL	LUV		Dumatubin Airport	Langgur, Kai Islands, Indonesia
 WAPP	AMQ		Pattimura Airport	Ambon, Indonesia
-WARA	MLG		Abdul Rachman Saleh Airport	Malang, East Java, Indonesia
-WARQ	SOC		Adi Soemarmo International Airport	Solo City, Indonesia
 WARR	SUB		Juanda International Airport	Surabaya, Indonesia
 WARS	SRG		Achmad Yani International Airport	Semarang, Indonesia
 WASB	ZKL		Bintuni Airport (Steenkool Airport)	Bintuni, Indonesia
@@ -5719,15 +5710,10 @@ WASI	INX		Inanwatan Airport	Inanwatan, Indonesia
 WASK	KNG		Kaimana Airport	Kaimana, Papua, Indonesia
 WASO	BXB		Babo Airport	Babo, Western New Guinea, Indonesia
 WASR	MKW		Rendani Airport	Manokwari, Irian Jaya, Indonesia
-WATC	MOF		Wai Oti Airport (Maumere Airport)	Maumere, Indonesia
-WATE	ENE		H. Hasan Aroeboesman Airport	Ende, Flores, Indonesia
 WATM	ARD		Alor Island Airport	Alor Island, Indonesia
 WATO	LBJ		Komodo Airport (Mutiara II Airport)	Labuan Bajo, Flores Island, Indonesia
-WATT	KOE		Eltari Airport	Kupang, East Nusa Tenggara, Indonesia
 WATW	LWE		Wonopito Airport	Lewoleba, Indonesia
-WAWB	BUW		Baubau Airport (Betoambari Airport)	Bau-Bau, Buton, Indonesia
 WAWM	MXB		Andi Jemma Airport	Masamba, Indonesia
-WAWW	KDI		Wolter Monginsidi Airport	Kendari, Indonesia
 WBGB	BTU		Bintulu Airport	Bintulu, Malaysia
 WBGC	BLG		Belaga Airport	Belaga, Sarawak, Malaysia
 WBGD	LSM		Long Semado Airport	Long Semado, Sarawak, Malaysia
@@ -5761,7 +5747,6 @@ WIBS	SEQ		Sungai Pakning Bengkalis Airport	Sungai Pakning Bengkalis, Indonesia
 WICC	BDO		Hussein Sastranegara Airport	Bandung, Indonesia
 WICD	CBN		Penggung Airport	Cirebon, Java, Indonesia
 WICM	TSY		Tasikmalaya Airport	Tasikmalaya, West Java, Indonesia
-WICT	TKG		Radin Inten II Airport	Bandar Lampung, Sumatra, Indonesia
 WIDD	BTH		Hang Nadim Airport	Batam, Riau Islands, Sumatra, Indonesia
 WIDN	TNJ		Raja Haji Fisabilillah International Airport	Tanjung Pinang, Riau Islands, Indonesia
 WIHH	HLP		Halim Perdanakusuma International Airport	Jakarta, Indonesia
@@ -5779,9 +5764,7 @@ WIPA	DJB		Sultan Thaha Airport (Sultan Taha Syarifudn Airport)	Jambi, Indonesia
 WIPH	KRC		Kerinci Airport	Kerinci, Indonesia
 WIPL	BKS		Padang Kemiling Airport (Fatmawati Soekarno Airport)	Bengkulu, Indonesia
 WIPP	PLM		Sultan Mahmud Badaruddin II Airport	Palembang, Sumatra, Indonesia
-WIPT	PDG		Minangkabau International Airport	Ketaping, West Sumatra, Indonesia
 WIPU	MPC		Muko-Muko Airport	Muko-Muko, Indonesia
-WIPV	KLQ		Keluang Airport	Keluang, Indonesia
 WITC	MEQ		Seunagan Airport	Meulaboh, Indonesia
 WITL	LSX		Lhok Sukon Airport	Lhok Sukon, Sumatra, Indonesia
 WITM	LSW		Malikus Saleh Airport	Lhoksumawe, Sumatra, Indonesia
@@ -5858,7 +5841,6 @@ YBKT	BUC		Burketown Airport	Burketown, Queensland, Australia
 YBLA	BLN		Benalla Airport	Benalla, Victoria, Australia
 YBLC	LCN		Balcanoona Airport	Balcanoona, South Australia, Australia
 YBLL	BLS		Bollon Airport	Bollon, Queensland, Australia
-YBLN	BQB		Busselton Regional Airport	Busselton, Western Australia, Australia
 YBMA	ISA		Mount Isa Airport	Mount Isa, Queensland, Australia
 YBMK	MKY		Mackay Airport	Mackay, Queensland, Australia
 YBNA	BNK		Ballina Airport	Ballina, New South Wales, Australia
@@ -5899,7 +5881,6 @@ YCDR	CUD		Caloundra Airport	Caloundra, Queensland, Australia
 YCDU	CED		Ceduna Airport	Ceduna, South Australia, Australia
 YCEE	CVC		Cleve Airport	Cleve, South Australia, Australia
 YCFS	CFS		Coffs Harbour Airport	Coffs Harbour, New South Wales, Australia
-YCGO	LLG		Chillagoe Airport	Chillagoe, Queensland, Australia
 YCHT	CXT		Charters Towers Airport	Charters Towers, Queensland, Australia
 YCKI	CKI		Croker Island Airport	Croker Island, Northern Territory, Australia
 YCKN	CTN		Cooktown Airport	Cooktown, Queensland, Australia
@@ -7611,13 +7592,16 @@ ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	ZVG		Springvale Airport	Springvale, Western Australia, Australia
 	ZWS		Stuttgart Hauptbahnhof	Stuttgart, Germany
 
-ENKL	GLL	_	Gol Airport, Klanten	Gol, Norway
 BGNU	NUS	_	Nuussuaq Heliport	Nuussuaq, Greenland
 EGYM	KNF	_	RAF Marham	Marham, Norfolk, East Anglia, United Kingdom
+EHLW	LWR	_	Leeuwarden Airport	Leeuwarden, Netherlands
+EKSN	CNL	_	Sindal Airport	Sindal, Denmark
+ENKL	GLL	_	Gol Airport, Klanten	Gol, Norway
 ENSA	SRP	_	Stord Airport, Sørstokken	Stord, Hordaland, Norway
 ETMN	NDZ	_	Fliegerhorst Nordholz	Nordholz, Germany
 FALO	LCD	_	Louis Trichardt Airport	Louis Trichardt, South Africa
 FVMU	UTA	_	Mutare Airport	Mutare, Zimbabwe
+FYKM	MPA	_	Katima Mulilo Airport (Mpacha Airport)	Katima Mulilo, Namibia
 FZOK	KGN	_	Kasongo Lunda Airport	Kasongo Lunda, Democratic Republic of the Congo
 HWHF	WHF	_	Wadi Halfa Airport	Wadi Halfa, Sudan
 LFMA	QXB	_	Aix Les Milles Airport	Aix-en-Provence / Les Milles, France
@@ -7627,48 +7611,64 @@ MRNS	NOB	_	Nosara Airport	Nosara, Costa Rica
 MUOC	CCC	_	Jardines del Rey Airport	Cayo Coco, Cuba
 NSMU	NUX	_	Novy Urengoy Airport	Novy Urengoy, Russia
 ODAS	EAB	_	Abbse Airport	Abbse, Yemen
-PACE	CDE	_	Cape Decision Coast Guard Heliport	Cape Decision, Alaska, United States
-PAHG	SHG	_	Shungnak Airport	Shungnak, Alaska, United States
-FYKM	MPA	_	Katima Mulilo Airport (Mpacha Airport)	Katima Mulilo, Namibia
 OEKK	KMC	_	King Khaled Military City Airport	King Khaled Military City, Saudi Arabia
 OJJR	JRS	_	Atarot Airport (Jerusalem International Airport)	Jerusalem, Israel
+PACE	CDE	_	Cape Decision Coast Guard Heliport	Cape Decision, Alaska, United States
+PAHG	SHG	_	Shungnak Airport	Shungnak, Alaska, United States
 PARL	CEM	_	Central Airport	Central, Alaska, United States
 RPSN	SOS	_	Sayak (Siargao) Airport	Del Carmen, Surigao del Norte, Philippines
-SVPR	PZO	_	Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
-SPLO	ILQ	_	Ilo Airport	Ilo, Moquegua Region, Peru
-SSLT	ALQ	_	Alegrete Airport	Alegrete, Rio Grande do Sul, Brazil
-UTKA	AZN	_	Andizhan Airport	Andizhan, Uzbekistan
-UUMU	CKL	_	Chkalovsky Airport	Shchyolkovo (Moscow Oblast), Russia
-UUYP	PEX	_	Pechora Airport	Pechora, Komi Republic, Russia
-UWKJ	JOK	_	Yoshkar-Ola Airport	Yoshkar-Ola, Russia
-VAGO	GOI	_	Dabolim Airport	Goa, India
 SBLE	LEC	_	Chapada Diamantina Airport	Lençõis, Bahia, Brazil
 SCGE	LSQ	_	Maria Dolores Airport	Los Ángeles, Biobío, Chile
 SEPA	PTZ	_	Rio Amazonas Airport	Shell Mera, Ecuador
 SESV	BHA	_	Los Perales	Bahía de Caráquez, Ecuador
 SETM	LOH	_	Camilo Ponce Enriquez Airport	Loja, Ecuador
+SKAN	ADN	_	Andes Airport	Andes, Colombia
+SPLO	ILQ	_	Ilo Airport	Ilo, Moquegua Region, Peru
+SSLT	ALQ	_	Alegrete Airport	Alegrete, Rio Grande do Sul, Brazil
 SVBL	MYC	_	El Libertador Air Base	Maracay, Venezuela
+SVPR	PZO	_	Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
 SVVP	VDP	_	Valle de la Pascua Airport	Valle de la Pascua, Guárico, Venezuela
 SWIY	IDO	_	Santa Isabel do Morro Airport	Santa Isabel do Morro, Tocantins, Brazil
 SWLB	LBR	_	Lábrea Airport	Lábrea, Amazonas, Brazil
 SYDR	ORJ	_	Orinduik Airport	Orinduik, Guyana
 TFFG	CCE	_	L'Espérance Airport (Grand Case Airport)	Saint Martin, Guadeloupe
 UASS	PLX	_	Semey Airport	Semey, Kazakhstan
-VYBG	BPE	_	Bagan Airport	Bagan, Myanmar (Burma)
-WADB	BMU	_	Bima Airport	Bima, Indonesia
-UTKF	FEG	_	Fergana Airport	Fergana, Uzbekistan
-EHLW	LWR	_	Leeuwarden Airport	Leeuwarden, Netherlands
-EKSN	CNL	_	Sindal Airport	Sindal, Denmark
-ZYYJ	YNJ	_	Yanji Chaoyangchuan Airport	Yanji, Jilin, China
-SKAN	ADN	_	Andes Airport	Andes, Colombia
 UAUU	KSN	_	Kostanay Airport (Narimanovka Airport)	Kostanay, Kazakhstan
+UBBG	KVD	_	Gyandzha Airport	Ganja, Azerbaijan
 UEEA	ADH	_	Aldan Airport	Aldan, Russia
 USII	IJK	_	Izhevsk Airport	Izhevsk, Udmurt Republic, Russia
+UTKA	AZN	_	Andizhan Airport	Andizhan, Uzbekistan
+UTKF	FEG	_	Fergana Airport	Fergana, Uzbekistan
 UTSL	KSQ	_	Karshi Airport / Karshi-Khanabad Air Base	Karshi, Uzbekistan
 UUII	IKT	_	Irkutsk International Airport	Irkutsk, Russia
+UUMU	CKL	_	Chkalovsky Airport	Shchyolkovo (Moscow Oblast), Russia
+UUYP	PEX	_	Pechora Airport	Pechora, Komi Republic, Russia
+UWKJ	JOK	_	Yoshkar-Ola Airport	Yoshkar-Ola, Russia
+VAGO	GOI	_	Dabolim Airport	Goa, India
 VBOZ	VGA	_	Vijayawada Airport	Vijayawada, Andhra Pradesh, India
 VEAZ	AJL	_	Aizawl Airport	Aizawl, India
 VGZR	DAC	_	Shahjalal International Airport	Dhaka, Bangladesh
 VOTY	PNY	_	Pondicherry Airport	Pondicherry, India
 VRMF	FVM	_	Fuvahmulah Airport	Fuvahmulah, Maldives
+VTBH	KKM	_	Sa Pran Nak Airport	Lop Buri, Thailand
+VYBG	BPE	_	Bagan Airport	Bagan, Myanmar (Burma)
+WADB	BMU	_	Bima Airport	Bima, Indonesia
+WADW	WGP	_	Mau Hau Airport (former ICAO: WRRW)	Waingapu, Sumba, East Nusa Tenggara, Indonesia
+WALR	TRK	_	Juwata Airport	Tarakan, East Kalimantan, Indonesia
+WALV	BYQ	_	Bunyu Airport	Bunyu, Kalimantan (Borneo), Indonesia
+WAOC	BTW	_	Batu Licin Airport	Batu Licin, Kalimantan, Indonesia
+WAOS	SMQ	_	Sampit Airport	Sampit, Central Kalimantan (Borneo), Indonesia
+WARA	MLG	_	Abdul Rachman Saleh Airport	Malang, East Java, Indonesia
+WARQ	SOC	_	Adi Soemarmo International Airport	Solo City, Indonesia
+WATC	MOF	_	Wai Oti Airport (Maumere Airport)	Maumere, Indonesia
+WATE	ENE	_	H. Hasan Aroeboesman Airport	Ende, Flores, Indonesia
+WATT	KOE	_	Eltari Airport	Kupang, East Nusa Tenggara, Indonesia
+WAWB	BUW	_	Baubau Airport (Betoambari Airport)	Bau-Bau, Buton, Indonesia
+WAWW	KDI	_	Wolter Monginsidi Airport	Kendari, Indonesia
+WICT	TKG	_	Radin Inten II Airport	Bandar Lampung, Sumatra, Indonesia
 WIIJ	JOG	_	Adisucipto International Airport	Yogyakarta, Indonesia
+WIPT	PDG	_	Minangkabau International Airport	Ketaping, West Sumatra, Indonesia
+WIPV	KLQ	_	Keluang Airport	Keluang, Indonesia
+YBLN	BQB	_	Busselton Regional Airport	Busselton, Western Australia, Australia
+YCGO	LLG	_	Chillagoe Airport	Chillagoe, Queensland, Australia
+ZYYJ	YNJ	_	Yanji Chaoyangchuan Airport	Yanji, Jilin, China
