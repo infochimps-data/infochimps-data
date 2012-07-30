@@ -1,4 +1,3 @@
-ZZBG	ZBG		Bogus Airport
 AGAF	AFT		Afutara Airport	Afutara
 AGAR	RNA		Ulawa Airport	Arona, Ulawa Island
 AGAT	ATD		Uru Harbour	Atoifi, Malaita
@@ -101,7 +100,7 @@ BGKM			Kuummiit Heliport	Kuummiit
 BGKQ	KLQ		Kullorsuaq Heliport	Kullorsuaq
 BGKS	KAQ		Kangersuatsiaq Heliport	Kangersuatsiaq
 BGKT			Kitsissuarsuit Heliport	Kitsissuarsuit
-BGLL	ILL		Illorsuit Heliport	Illorsuit
+BGLL			Illorsuit Heliport	Illorsuit
 BGMO			Moriussaq Heliport	Moriusaq
 BGMQ	JSU		Maniitsoq Airport	Maniitsoq (Sukkertoppen)
 BGNK			Niaqornaarsuk Heliport	Niaqornaarsuk
@@ -110,7 +109,7 @@ BGNN	JNN		Nanortalik Heliport	Nanortalik
 BGNQ	NUG		Nuugaatsiaq Heliport	Nuugaatsiaq
 BGNS	JNS		Narsaq Heliport	Narsaq
 BGNT			Niaqornat Heliport	Niaqornat
-BGNU	NUS		Nuussuaq Heliport	Nuussuaq
+BGNU			Nuussuaq Heliport	Nuussuaq
 BGPT	JFR		Paamiut Airport	Paamiut (Frederikshåb)
 BGQA			(see BGQQ)
 BGQE	QQT		Qeqertaq Heliport	Qeqertaq
@@ -150,7 +149,7 @@ BIKP	OPA		Kopasker Airport	Kópasker
 BIKR	SAK		Sauðárkrókur Airport	Sauðárkrókur
 BINF	NOR		Nordfjordur Airport	Nordfjordur
 BIPA	PFJ		Patreksfjörður Airport	Patreksfjörður
-BIRF	OLI		Rif Airport	Ólafsvík
+BIRF			Rif Airport	Ólafsvík
 BIRG	RFN		Raufarhöfn Airport	Raufarhöfn
 BIRK	RKV		Reykjavík Airport	Reykjavík
 BISF			Selfoss Airport	Selfoss
@@ -179,7 +178,7 @@ CYAZ	YAZ		Tofino/Long Beach Airport	Tofino, British Columbia
 CYBA			Banff Airport	Banff, Alberta
 CYBB	YBB		Kugaaruk Airport	Kugaaruk, Nunavut
 CYBC	YBC		Baie-Comeau Airport	Baie-Comeau, Quebec
-CYBD	YBD		Bella Coola Airport	Bella Coola, British Columbia
+CYBD	QBC		Bella Coola Airport	Bella Coola, British Columbia
 CYBE	YBE		Uranium City Airport	Uranium City, Saskatchewan
 CYBF			Bonnyville Airport	Bonnyville, Alberta
 CYBG	YBG		CFB Bagotville (Bagotville Airport)	Bagotville, Quebec
@@ -219,7 +218,7 @@ CYDC			Princeton Aerodrome	Princeton, British Columbia
 CYDF	YDF		Deer Lake Regional Airport	Deer Lake, Newfoundland and Labrador
 CYDH			Ottawa/Dwyer Hill Heliport	Ottawa, Ontario
 CYDL	YDL		Dease Lake Airport	Dease Lake, British Columbia
-CYDM	YDM		Ross River Airport	Ross River, Yukon
+CYDM	XRR		Ross River Airport	Ross River, Yukon
 CYDN	YDN		Lt. Col W.G. (Billy) Barker VC Airport (Dauphin (Lt. Col W.G. (Billy) Barker VC Airport))	Dauphin, Manitoba
 CYDO	YDO		Dolbeau-Saint-Félicien Airport	Dolbeau-Mistassini, Quebec
 CYDP	YDP		Nain Airport	Nain, Newfoundland and Labrador
@@ -712,7 +711,7 @@ DRZR	ZND		Zinder Airport	Zinder
 DTKA	TBJ		Tabarka - 7 Novembre International Airport	Tabarka
 DTMB	MIR		Monastir - Habib Bourguiba International Airport	Monastir
 DTTA	TUN		Tunis - Carthage International Airport	Tunis
-DTTB	OIZ		Bizerte-Sidi Ahmed Air Base	Bizerte
+DTTB			Bizerte-Sidi Ahmed Air Base	Bizerte
 DTTF	GAF		Gafsa - Ksar International Airport	Gafsa
 DTTG	GAE		Gabès - Matmata International Airport	Gabès
 DTTJ	DJE		Djerba - Zarzis International Airport	Djerba
@@ -940,7 +939,7 @@ EFHM			Hämeenkyrö Airport	Hämeenkyrö
 EFHN			Hanko Airport (Hangö Airport)	Hanko (Hangö)
 EFHV	HYV		Hyvinkää Airport	Hyvinkää
 EFIK			Kiikala Airport	Kiikala
-EFIL	SJY		Seinäjoki Airport	Seinäjoki / Ilmajoki
+EFIL			Seinäjoki Airport	Seinäjoki / Ilmajoki
 EFIM			Immola Airport	Immola
 EFIT	KTQ		Kitee Airport	Kitee
 EFIV	IVL		Ivalo Airport	Ivalo / Inari
@@ -1072,6 +1071,7 @@ EGHL	QLA		Lasham Airfield	Basingstoke, England
 EGHN			Isle of Wight/Sandown Airport	Sandown, England
 EGHO			Thruxton Aerodrome	Andover, England
 EGHP			Popham Airfield	Popham, England
+EGDG			Newquay Cornwall Airport (obsolete)	St Mawgan, Cornwall, England
 EGHQ	NQY		Newquay Cornwall Airport	St Mawgan, Cornwall, England
 EGHR			Chichester (Goodwood) Airfield	Chichester, West Sussex, England
 EGHS			Henstridge Airfield	Henstridge, England
@@ -1112,7 +1112,7 @@ EGMT			Thurrock Aerodrome	Thurrock, England
 EGNA			Hucknall Airfield	Nottingham, England
 EGNB			Brough Aerodrome	Brough, England
 EGNC	CAX		Carlisle Lake District Airport	Carlisle, England
-EGNE	RGA		Gamston Airport	Retford, England
+EGNE			Gamston Airport	Retford, England
 EGNF			Netherthorpe Airfield	Worksop, England
 EGNH	BLK		Blackpool International Airport	Blackpool, England
 EGNJ	HUY		Humberside Airport	Kingston upon Hull, England
@@ -1131,7 +1131,7 @@ EGOD			Llanbedr Airport	Llanbedr, Wales
 EGOE			RAF Ternhill	Ternhill, England
 EGOQ			RAF Mona	Anglesey, Wales
 EGOS			RAF Shawbury	Shawbury, England
-EGOV	HCY		RAF Valley/Anglesey Airport	Anglesey, Wales
+EGOV	HLY		RAF Valley/Anglesey Airport	Anglesey, Wales
 EGOW			RAF Woodvale	Formby, England
 EGPA	KOI		Kirkwall Airport	Kirkwall, Scotland
 EGPB	LSI		Sumburgh Airport	Shetland Islands, Scotland
@@ -1177,7 +1177,7 @@ EGST			Elmsett Airport	Ipswich, England
 EGSU	QFO		Duxford	Cambridge, England
 EGSV			Old Buckenham Airport	Norwich, England
 EGSX			North Weald Airfield	North Weald, England
-EGSY	SZE		Sheffield City Airport	Sheffield, England
+EGSY	SZD		Sheffield City Airport	Sheffield, England
 EGTB			Wycombe Air Park/Booker Airport	High Wycombe, England
 EGTC			Cranfield Airport	Cranfield, England
 EGTD			Dunsfold Aerodrome	Dunsfold, England
@@ -1277,7 +1277,7 @@ EINN	SNN		Shannon Airport	Shannon, County Clare
 EIRT			Rathcoole Aerodrome	Rathcoole (Ráth Chúil), County Cork (Contae Chorcaí)
 EISG	SXL		Sligo Airport	Strandhill, near Sligo
 EIWF	WAT		Waterford Airport	Waterford
-EIWT	WST		Weston Airport	Leixlip, County Kildare
+EIWT			Weston Airport	Leixlip, County Kildare
 EKAH	AAR		Aarhus Airport	Tirstrup near Aarhus
 EKBI	BLL		Billund Airport	Billund
 EKCH	CPH		Copenhagen Airport	Kastrup near Copenhagen
@@ -1390,7 +1390,7 @@ ENUL			Vaksinen Airport	Ulven, Hordaland
 ENUK	GLL		Gol Airport, Klanten	Gol, Buskerud
 ENVA	TRD		Trondheim Airport, Værnes	Stjørdal, Nord-Trøndelag
 ENVD	VDS		Vadsø Airport	Vadsø, Finnmark
-ENVR	VDS		Værøy Heliport	Værøy, Nordland
+ENVR	VRY		Værøy Heliport	Værøy, Nordland
 ENZV	SVG		Stavanger Airport, Sola	Stavanger, Rogaland
 EPBY	BZG		Bydgoszcz Ignacy Jan Paderewski Airport	Bydgoszcz
 EPGD	GDN		Gdańsk Lech Wałęsa Airport	Gdańsk
@@ -1629,7 +1629,7 @@ FAAG	AGZ		Aggeneys Airport	Aggeneys
 FAAN			Aliwal North Airport	Aliwal North
 FABE	BIY		Bhisho Airport	Bhisho
 FABL	BFN		Bloemfontein Airport	Bloemfontein
-FABM	BHM		Bethlehem Airfield	Bethlehem
+FABM			Bethlehem Airfield	Bethlehem
 FABU	UTE		Butterworth Airport	Butterworth
 FACD	CDO		Cradock Airport	Cradock
 FACN			Carnarvon Airport	Carnarvon
@@ -2109,7 +2109,7 @@ FZCA	KKW		Kikwit Airport	Kikwit
 FZCB	IDF		Idiofa Airport	Idiofa
 FZCE	LUS		Lusanga Airport	Lusanga
 FZCV	MSM		Masi-Manimba Airport	Masi-Manimba
-FZDO	MNB		Moanda Airport	Moanda
+FZDO			Moanda Airport	Moanda
 FZEA	MDK		Mbandaka Airport	Mbandaka
 FZEN	BSU		Basankusu Airport	Basankusu
 FZFA	LIE		Libenge Airport	Libenge
@@ -2278,9 +2278,9 @@ GQPF	FGD		Fderik Airport	Fderik
 GQPP	NDB		Nouadhibou International Airport	Nouadhibou
 GQPT			Bir Moghrein Airport	Bir Moghrein
 GQPZ	OUZ		Tazadit Airport	Zouérat
-GSAI	EUN		El Aaiún Airport (Hassan Airport)	El Aaiún (Laâyoune) (also see GMML)
-GSMA	SMW		Smara Airport	Smara (also see GMMA)
-GSVO	VIL		Dakhla Airport	Dakhla (Villa Cisneros) (also see GMMH)
+GSAI			El Aaiún Airport (Hassan Airport)	El Aaiún (Laâyoune) (also see GMML)
+GSMA			Smara Airport	Smara (also see GMMA)
+GSVO			Dakhla Airport	Dakhla (Villa Cisneros) (also see GMMH)
 GUCY	CKY		Conakry International Airport (Gbessia Int'l)	Conakry
 GUFA	FIG		Fria Airport	Fria
 GUFH	FAA		Faranah Airport	Faranah
@@ -2374,7 +2374,7 @@ HEBL	ABS		Abu Simbel Airport	Abu Simbel
 HECA	CAI		Cairo International Airport	Cairo
 HECW	CWE		Cairo West Airport	Cairo West
 HEGN	HRG		Hurghada Airport	Hurghada
-HEGO	HGO		El Gona Airport	Hurghada
+HEGO			El Gona Airport	Hurghada
 HEGR	EGH		El Gora Airport	El Gora
 HELX	LXR		Luxor International Airport	Luxor
 HEMA	RMF		Marsa Alam International Airport	Marsa Alam
@@ -2449,7 +2449,7 @@ HSOB	EBD		El Obeid Airport	El Obeid
 HSPN	PZU		Port Sudan New International Airport	Port Sudan
 HSSJ	JUB		Juba Airport	Juba
 HSSM	MAK		Malakal Airport	Malakal
-HSSP	PZU		Port Sudan New International Airport	Port Sudan
+HSSP			Port Sudan Airport	Port Sudan
 HSSS	KRT		Khartoum International Airport	Khartoum
 HSSW	WHF		Wadi Halfa Airport	Wadi Halfa
 HSWW	WUU		Wau Airport	Wau
@@ -2700,7 +2700,7 @@ KBIF	BIF	BIF	Biggs Army Airfield	Fort Bliss, El Paso, Texas, United States
 KBIH	BIH	BIH	Eastern Sierra Regional Airport	Bishop, California, United States
 KBIL	BIL	BIL	Billings Logan International Airport	Billings, Montana, United States
 KBIS	BIS	BIS	Bismarck Municipal Airport	Bismarck, North Dakota, United States
-KBIV	BIV	BIV	West Michigan Regional Airport	Holland, Michigan, United States
+KBIV		BIV	West Michigan Regional Airport	Holland, Michigan, United States
 KBIX	BIX	BIX	Keesler Air Force Base	Biloxi, Mississippi, United States
 KBJC	BJC	BJC	Rocky Mountain Metropolitan Airport	Denver, Colorado, United States
 KBJI	BJI	BJI	Bemidji Regional Airport	Bemidji, Minnesota, United States
@@ -2729,7 +2729,7 @@ KBMT	BMT	BMT	Beaumont Municipal Airport	Beaumont, Texas, United States
 KBNA	BNA	BNA	Nashville International Airport	Nashville, Tennessee, United States
 KBNG	BNG	BNG	Banning Municipal Airport	Banning, California, United States
 KBNL		BNL	Barnwell County Airport	Barnwell, South Carolina, United States
-KBNO	BND	BNO	Burns Municipal Airport	Burns, Oregon, United States
+KBNO	BNO	BNO	Burns Municipal Airport	Burns, Oregon, United States
 KBNW		BNW	Boone Municipal Airport	Boone, Iowa, United States
 KBOI	BOI	BOI	Boise Air Terminal (Gowen Field)	Boise, Idaho, United States
 KBOK		BOK	Brookings State Airport	Brookings, Oregon, United States
@@ -2786,14 +2786,14 @@ KCAD	CAD	CAD	Wexford County Airport	Cadillac, Michigan, United States
 KCAE	CAE	CAE	Columbia Metropolitan Airport	West Columbia, South Carolina (near Columbia), United States
 KCAG	CIG	CAG	Craig-Moffat Airport	Craig, Colorado, United States
 KCAK	CAK	CAK	Akron-Canton Regional Airport	Akron, Ohio (near Canton), United States
-KCAO	CAR	CAO	Clayton Municipal Airpark	Clayton, New Mexico, United States
-KCAR	CAV	CAR	Caribou Municipal Airport	Caribou, Maine, United States
-KCAV	CBE	CAV	Clarion Municipal Airport	Clarion, Iowa, United States
-KCBE	CBF	CBE	Greater Cumberland Regional Airport	Cumberland, Maryland, United States
-KCBF		CBF	Council Bluffs Municipal Airport	Council Bluffs, Iowa, United States
-KCBG	CBK	CBG	Cambridge Municipal Airport	Cambridge, Minnesota, United States
-KCBK	CBM	CBK	Shalz Field	Colby, Kansas, United States
-KCBM		CBM	Columbus Air Force Base	Columbus, Mississippi, United States
+KCAO	CAO	CAO	Clayton Municipal Airpark	Clayton, New Mexico, United States
+KCAR	CAR	CAR	Caribou Municipal Airport	Caribou, Maine, United States
+KCAV		CAV	Clarion Municipal Airport	Clarion, Iowa, United States
+KCBE	CBE	CBE	Greater Cumberland Regional Airport	Cumberland, Maryland, United States
+KCBF	CBF	CBF	Council Bluffs Municipal Airport	Council Bluffs, Iowa, United States
+KCBG		CBG	Cambridge Municipal Airport	Cambridge, Minnesota, United States
+KCBK	CBK	CBK	Shalz Field	Colby, Kansas, United States
+KCBM	CBM	CBM	Columbus Air Force Base	Columbus, Mississippi, United States
 KCCA		CCA	Clinton Municipal Airport	Clinton, Arkansas, United States
 KCCB	CCB	CCB	Cable Airport	Upland, California, United States
 KCCO		CCO	Newnan-Coweta County Airport	Newnan, Georgia, United States
@@ -4332,7 +4332,7 @@ KWMC		WMC	Winnemucca Municipal Airport	Winnemucca, Nevada, United States
 KWRB		WRB	Robins Air Force Base	Warner Robins, Georgia, United States
 KWRI		WRI	McGuire Air Force Base	Wrightstown, New Jersey, United States
 KWRL		WRL	Worland Municipal Airport	Worland, Wyoming, United States
-KWST		WST	Westerly State Airport	Westerly, Rhode Island, United States
+KWST	WST	WST	Westerly State Airport	Westerly, Rhode Island, United States
 KWVI		WVI	Watsonville Municipal Airport	Watsonville, California, United States
 KWVL		WVL	Waterville Robert LaFleur Airport	Waterville, Maine, United States
 KWWD		WWD	Cape May Airport	Wildwood, New Jersey, United States
@@ -4437,7 +4437,7 @@ LEBL	BCN		Barcelona International Airport	Barcelona / El Prat de Llobregat
 LEBZ	BJZ		Badajoz Airport	Badajoz
 LECD			La Cerdanya Airport	Cerdanya, Spain
 LECO	LCG		La Coruña Airport	La Coruña / A Coruña, Galicia
-LECU	MCV		Cuatro Vientos Airport	Madrid
+LECU			Cuatro Vientos Airport	Madrid
 LEGE	GRO		Girona-Costa Brava Airport	Girona / Girona (Costa Brava)
 LEGR	GRX		Granada Airport	Granada
 LEGT			Getafe Air Base	Getafe, Spain
@@ -4493,7 +4493,7 @@ LFAV	XVS		Denain Airport	Valenciennes
 LFAW			Villerupt Airport	Villerupt
 LFAX			Mortagne-au-Perche Airport	Mortagne-au-Perche
 LFAY	QAM		Amiens - Glisy Aerodrome	Amiens
-LFAZ	SBK		Saint-Brieuc Airport	Saint-Brieuc
+LFAZ			Saint-Brieuc Airport	Saint-Brieuc
 LFBA	AGF		Agen - La Garenne Aerodrome	Agen
 LFBD	BOD		Bordeaux–Mérignac Airport	Bordeaux
 LFBE	EGC		Bergerac Dordogne Périgord Airport	Bergerac
@@ -4849,7 +4849,7 @@ LFQW	XVO		Vesoul Frotey Airport	Vesoul
 LFQX			Juvancourt Airport	Juvancourt
 LFQY			Saverne Steinbourg Airport	Saverne
 LFQZ			Dieuze Gueblange Airport	Dieuze
-LFRA	ANE		Angers Avrille Airport	Angers (closed in 2003)
+LFRA			Angers Avrille Airport	Angers (closed in 2003)
 LFRB	BES		Brest Bretagne Airport	Brest
 LFRC	CER		Cherbourg Maupertus Airport	Cherbourg
 LFRD	DNR		Dinard Pleurtuit Saint-Malo Airport	Dinard
@@ -4905,7 +4905,6 @@ LFTZ	LTT		La Mole Airport	La Mole
 LFXA			Ambérieu-en-Bugey Air Base	Ambérieu-en-Bugey
 LFXB	XST		Saintes Thenac Airport	Saintes
 LFXM			Mourmelon Airport	Mourmelon
-LFXN	XNA		Narbonne Airport	Narbonne
 LFXU			Les Mureaux Airport	Les Mureaux
 LFYG			Cambrai-Niergnies Airport	Cambrai
 LFYR			Romorantin Pruniers Airport	Romorantin
@@ -4915,7 +4914,7 @@ LFVP	FSP		Saint Pierre Airport	Saint-Pierre
 LGAG	AGQ		Agrinion Airport	Agrinion
 LGAL	AXD		Alexandroupolis International Airport, (Dimokritos) (Democritus)	Alexandroupolis
 LGAD	PYR		Andravida Airport	Andravida
-LGAT	ATH		Ellinikon International Airport (closed in 2001)	Athens
+LGAT			Ellinikon International Airport (closed in 2001)	Athens
 LGAV	ATH		Athens (Eleftherios Venizelos) International Airport	Athens (Athina)
 LGBL	VOL		International Airport of Central Greece	Nea Anchialos/Volos
 LGEL			Elfesis Airport	Elfesis/Eleusis
@@ -4978,7 +4977,7 @@ LHPR	QGY		Győr-Pér International Airport	Győr, Pér
 LHSA			Szentkirályszabadja Airport	Szentkirályszabadja
 LHSM	SOB		Sármellék International Airport	Sármellék
 LHSN			Szolnok Airport	Szolnok
-LHSK	SFK		Siófok-Kiliti Airport	Ságvár
+LHSK			Siófok-Kiliti Airport	Ságvár
 LHTA	TZR		Taszár Airport	Taszár
 LHTL			Tököl Airport	Tököl
 LHUD			Szeged Airport	Szeged
@@ -5321,7 +5320,7 @@ LSHG			Gampel Heliport	Gampel
 LSMA			Alpnach Air Base	Alpnach (military)
 LSMD			Dübendorf Air Base	Dübendorf (military)
 LSME			Emmen Air Base	Emmen (military)
-LSMF	ATC		Mollis Airport	Mollis
+LSMF			Mollis Airport	Mollis
 LSMM			Meiringen Air Base	Meiringen (military)
 LSMP			Payerne Air Base	Payerne (military)
 LSMS			Sion Air Base	Sion (military)
@@ -5374,7 +5373,7 @@ LSZV			Sitterdorf Airport	Sitterdorf
 LSZW			Thun Airport	Thun
 LSZX			Schänis Airport	Schänis
 LSZY			Porrentruy Airport	Porrentruy
-LFSB	BSL		EuroAirport Basel-Mulhouse-Freiburg	Basel (Switzerland), Mulhouse (France) and Freiburg (Germany)
+	BSL		EuroAirport Basel-Mulhouse-Freiburg (alias for LFSB/MLH)	Basel (Switzerland), Mulhouse (France) and Freiburg (Germany)
 LTAB			Güvercinlik Army Air Base
 LTAC	ESB		Esenboğa International Airport	Ankara
 LTAD	ANK		Etimesgut Air Base	Ankara
@@ -5472,9 +5471,9 @@ LYBJ	LJB		Lisičji Jarak Airport	Padinska Skela / Belgrade
 LYKV	KVD		Kraljevo-Lađevci Airport	Kraljevo
 LYNI	INI		Niš Constantine the Great International Airport	Niš
 LYNS	QND		Novi Sad-Čenej Airport	Novi Sad
-LYTR	TRE		Trstenik Airport	Trstenik
+LYTR			Trstenik Airport	Trstenik
 LYUZ	UZC		Užice-Ponikve Airport	Užice
-LYVR	VRC		Vršac Airport	Vršac
+LYVR			Vršac Airport	Vršac
 LYZR	ZRE		Zrenjanin Airport	Zrenjanin
 LYBR	IVG		Berane Airport	Berane, Montenegro
 LYPJ			Golubovci Airbase	Golubovci, Montenegro
@@ -5513,7 +5512,7 @@ MDHE	HEX		Herrera International Airport	Santo Domingo (closed February 2006)
 MDJB	JBQ		La Isabela International Airport (Dr. Joaquín Balaguer)	Santo Domingo
 MDLR	LRM		La Romana International Airport	La Romana
 MDPC	PUJ		Punta Cana International Airport	Punta Cana / Higüey
-MDPO	EPS		El Portillo Airport	Samaná
+MDPO			El Portillo Airport	Samaná
 MDPP	POP		Gregorio Luperón International Airport	Puerto Plata
 MDSB	SNX		Sabana de la Mar Airport	Sabana de la Mar
 MDSD	SDQ		Las Américas-JFPG International Airport (Dr. José Fco. Peña Gómez)	Punta Caucedo (near Santo Domingo)
@@ -5686,7 +5685,7 @@ MPDA	DAV		Enrique Malek International Airport	David
 MPEJ	ONX		Enrique Adolfo Jiménez Airport	Colón
 MPFS			Fort Sherman	Fuerte Sherman
 MPHO	BLB		Howard Air Force Base (renamed)	Balboa See MPPA.
-MPPA	BLB		Panama Pacifico, former Howard Air Force Base	Balboa
+MPPA			Panama Pacifico, former Howard Air Force Base	Balboa
 MPJE	JQE		Jaque Airport	Jaque
 MPLP	PLP		Captain Ramon Xatruch Airport	La Palma
 MPMG	PAC		Albrook (Marcos A. Gelabert) International Airport	Panama City
@@ -5720,7 +5719,7 @@ MRLC	LSL		Los Chiles Airport	Los Chiles
 MRLE			Laurel Airport	Laurel
 MRLF			La Flor Airport	La Flor
 MRLM	LIO		Limón International Airport	Limón
-MRLP	LSP		Las Piedras Airport	Las Piedras
+MRLP			Las Piedras Airport	Las Piedras
 MRLT			Las Trancas Airport	Las Trancas
 MRNC	NCT		Nicoya Guanacaste Airport	Nicoya Guanacaste
 MRNS	NOM		Nosara Airport	Nosara
@@ -5931,7 +5930,7 @@ NSFA	APW		Faleolo International Airport	Apia
 NSFI	FGI		Fagali'i Airport	Fagali'i
 NSMA	MXS		Maota Airport	Salelologa
 NSAS			Ofu airstrip	Ofu Island
-NSFQ	FAQ		Fitiuta Airport	Fitiuta
+NSFQ	FTI	FAQ	Fitiuta Airport	Fitiuta
 NSTU	PPG		Pago Pago International Airport (Tutuila Intl)	Pago Pago
 NTAA	PPT		Faa'a International Airport	Faa'a, Tahiti
 NTAR	RUR		Rurutu Airport	Rurutu, Austral Islands
@@ -6149,7 +6148,7 @@ NZWN	WLG		Wellington International Airport	Wellington
 NZWO	WIR		Wairoa Aerodrome	Wairoa
 NZWP			RNZAF Base Auckland	Auckland
 NZWR	WRE		Whangarei Airport	Whangarei
-NZWL	WML		West Melton Aerodrome	West Melton
+NZWL			West Melton Aerodrome	West Melton
 NZWS	WSZ		Westport Airport	Westport
 NZWT	WTZ		Whitianga Aerodrome	Whitianga
 NZWU	WAG		Wanganui Airport	Wanganui
@@ -6207,7 +6206,7 @@ OERR	RAE		Arar Domestic Airport	Arar (also known as Ar'ar)
 OERT			Ras Tanura Airport	Ras Tanura
 OERY	XXN		Riyadh Air Base	Riyadh
 OESB			Shaybah Airport	Shaybah
-OESH	ESH		Sharurah Domestic Airport	Sharurah (also known as Sharorah)
+OESH	SHW		Sharurah Domestic Airport	Sharurah (also known as Sharorah)
 OESK	AJF		al-Jouf Domestic Airport	al-Jouf (also known as al-Jawf)
 OETB	TUU		Tabuk Regional Airport	Tabuk
 OETF	TIF		Ta’if Regional Airport	Ta’if
@@ -6325,7 +6324,7 @@ OPMI	MWD		PAF Base Mianwali	Mianwali
 OPMJ	MJD		Moenjodaro Airport	Mohenjo-daro
 OPMP	MPD		Sindhri Airport	Sindhri Tharparkar
 OPMR			PAF Base Masroor (Karachi Air Base)	Karachi
-OPMS	MNS		PAF Base Minhas (Kamra Air Base)	Kamra
+OPMS			PAF Base Minhas (Kamra Air Base)	Kamra
 OPMT	MUX		Multan International Airport	Multan
 OPNH	WNS		Nawabshah Airport	Nawabshah
 OPOR	ORW		Ormara Airport	Ormara
@@ -6405,262 +6404,262 @@ PAAL	PML	1AK3	Port Moller Air Force Station (FAA: 1AK3)	Cold Bay, Alaska, United
 PAAM		AK23	Driftwood Bay Air Force Station (FAA: AK23)	Dutch Harbor, Alaska, United States
 PAAN		AK7	Gold King Creek Airport (FAA: AK7)	Fairbanks, Alaska, United States
 PAAP	PTD	AHP	Port Alexander Seaplane Base (FAA: AHP)	Port Alexander, Alaska, United States
-PAAQ	PAQ	~	Palmer Municipal Airport	Palmer, Alaska, United States
-PAAT	ATU	~	Casco Cove Coast Guard Station	Attu Island, Alaska, United States
-PABA	BTI	~	Barter Island LRRS Airport	Barter Island, Alaska, United States
-PABE	BET	~	Bethel Airport	Bethel, Alaska, United States
+PAAQ	PAQ		Palmer Municipal Airport	Palmer, Alaska, United States
+PAAT	ATU		Casco Cove Coast Guard Station	Attu Island, Alaska, United States
+PABA	BTI	BTI	Barter Island LRRS Airport	Barter Island, Alaska, United States
+PABE	BET		Bethel Airport	Bethel, Alaska, United States
 PABG	BVU	BLG	Beluga Airport (FAA: BLG)	Beluga, Alaska, United States
-PABI	BIG	~	Allen Army Airfield (formerly Big Delta Army Airfield)	Fort Greely / Delta Junction, Alaska, United States
+PABI		BIG	Allen Army Airfield (formerly Big Delta Army Airfield)	Fort Greely / Delta Junction, Alaska, United States
 PABL	BKC	BVK	Buckland Airport (FAA: BVK)	Buckland, Alaska, United States
 PABM	BMX	37AK	Big Mountain Air Force Station (FAA: 37AK)	Big Mountain, Alaska, United States
 PABN		IBN	Devils Mountain Lodge Airport (FAA: IBN)	Nabesna, Alaska, United States
-PABR	BRW	~	Wiley Post-Will Rogers Memorial Airport	Barrow, Alaska, United States
-PABT	BTT	~	Bettles Airport	Bettles, Alaska, United States
-PABU	BTI	8AK7	Bullen Point Air Force Station (FAA: 8AK7)	Kaktovik, Alaska, United States
+PABR	BRW		Wiley Post-Will Rogers Memorial Airport	Barrow, Alaska, United States
+PABT	BTT		Bettles Airport	Bettles, Alaska, United States
+PABU		8AK7	Bullen Point Air Force Station (FAA: 8AK7)	Kaktovik, Alaska, United States
 PABV		BCV	Birchwood Airport (FAA: BCV)	Birchwood, Alaska, United States
-PACA	CSP	~	Cape Spencer Coast Guard Heliport	Cape Spencer, Alaska, United States
-PACD	CDB	~	Cold Bay Airport	Cold Bay, Alaska, United States
-PACE	CEM	~	Central Airport	Central, Alaska, United States
+PACA	CSP		Cape Spencer Coast Guard Heliport	Cape Spencer, Alaska, United States
+PACD	CDB		Cold Bay Airport	Cold Bay, Alaska, United States
+PACE	CEM		Central Airport	Central, Alaska, United States
 PACH	CHU	9A3	Chuathbaluk Airport (FAA: 9A3)	Chuathbaluk, Alaska, United States
-PACI	CIK	~	Chalkyitsik Airport	Chalkyitsik, Alaska, United States
+PACI	CIK		Chalkyitsik Airport	Chalkyitsik, Alaska, United States
 PACK	CYF	CFK	Chefornak Airport (FAA: CFK)	Chefornak, Alaska, United States
 PACL		Z84	Clear Airport / Clear Air Force Station (FAA: Z84)	Clear, Alaska, United States
-PACM	SCM	~	Scammon Bay Airport	Scammon Bay, Alaska, United States
+PACM	SCM		Scammon Bay Airport	Scammon Bay, Alaska, United States
 PACR	IRC	CRC	Circle City Airport (FAA: CRC)	Circle, Alaska, United States
 PACS		26AK	Cape Sarichef Airport (FAA: 26AK)	Cape Sarichef, Alaska, United States
-PACV	CDV	~	Merle K. (Mudhole) Smith Airport	Cordova, Alaska, United States
-PACX	CXF	~	Coldfoot Airport	Coldfoot, Alaska, United States
-PACY	CYT	~	Yakataga Airport	Cape Yakataga, Alaska, United States
-PACZ	CZF	~	Cape Romanzof LRRS Airport	Cape Romanzof, Alaska, United States
+PACV	CDV		Merle K. (Mudhole) Smith Airport	Cordova, Alaska, United States
+PACX	CXF		Coldfoot Airport	Coldfoot, Alaska, United States
+PACY	CYT		Yakataga Airport	Cape Yakataga, Alaska, United States
+PACZ	CZF		Cape Romanzof LRRS Airport	Cape Romanzof, Alaska, United States
 PADE	DRG	DEE	Deering Airport (FAA: DEE)	Deering, Alaska, United States
 PADG	RDB	DGG	Red Dog Airport (FAA: DGG)	Red Dog Mine, Alaska, United States
-PADK	ADK	~	Adak Airport (Mitchell Field)	Adak Island, Alaska, United States
-PADL	DLG	~	Dillingham Airport	Dillingham, Alaska, United States
+PADK	ADK		Adak Airport (Mitchell Field)	Adak Island, Alaska, United States
+PADL	DLG		Dillingham Airport	Dillingham, Alaska, United States
 PADM	MLL	MDM	Marshall Don Hunter Sr. Airport (FAA: MDM)	Marshall, Alaska, United States
-PADQ	ADQ	~	Kodiak Airport	Kodiak, Alaska, United States
+PADQ	ADQ		Kodiak Airport	Kodiak, Alaska, United States
 PADT		DDT	Duffy's Tavern Airport (FAA: DDT)	Slana, Alaska, United States
-PADU	DUT	~	Unalaska Airport (Tom Madsen Airport)	Unalaska, Alaska, United States
+PADU	DUT		Unalaska Airport (Tom Madsen Airport)	Unalaska, Alaska, United States
 PADY	KKH	DUY	Kongiganak Airport (FAA: DUY)	Kongiganak, Alaska, United States
-PAED	EDF	~	Elmendorf Air Force Base	Anchorage, Alaska, United States
-PAEE	EEK	~	Eek Airport	Eek, Alaska, United States
-PAEG	EAA	~	Eagle Airport	Eagle, Alaska, United States
-PAEH	EHM	~	Cape Newenham LRRS Airport	Cape Newenham, Alaska, United States
-PAEI	EIL	~	Eielson Air Force Base	Fairbanks, Alaska, United States
-PAEL	ELV	~	Elfin Cove Seaplane Base	Elfin Cove, Alaska, United States
+PAED	EDF		Elmendorf Air Force Base	Anchorage, Alaska, United States
+PAEE	EEK		Eek Airport	Eek, Alaska, United States
+PAEG	EAA		Eagle Airport	Eagle, Alaska, United States
+PAEH	EHM		Cape Newenham LRRS Airport	Cape Newenham, Alaska, United States
+PAEI	EIL		Eielson Air Force Base	Fairbanks, Alaska, United States
+PAEL	ELV		Elfin Cove Seaplane Base	Elfin Cove, Alaska, United States
 PAEM	EMK	ENM	Emmonak Airport (FAA: ENM)	Emmonak, Alaska, United States
-PAEN	ENA	~	Kenai Municipal Airport	Kenai, Alaska, United States
+PAEN	ENA		Kenai Municipal Airport	Kenai, Alaska, United States
 PAEW	WWT	EWU	Newtok Airport (FAA: EWU)	Newtok, Alaska, United States
-PAFA	FAI	~	Fairbanks International Airport	Fairbanks, Alaska, United States
-PAFB	FBK	~	Ladd Army Airfield (Fort Wainwright AAF)	Fairbanks, Alaska / Fort Wainwright
+PAFA	FAI		Fairbanks International Airport	Fairbanks, Alaska, United States
+PAFB	FBK		Ladd Army Airfield (Fort Wainwright AAF)	Fairbanks, Alaska / Fort Wainwright
 PAFE	KAE	AFE	Kake Airport (FAA: AFE)	Kake, Alaska, United States
 PAFK		FKK	Farewell Lake Seaplane Base (FAA: FKK)	Farewell Lake, Alaska, United States
 PAFL		TNW	Tin Creek Airport (FAA: TNW)	Farewell Lake, Alaska, United States
 PAFM	ABL	AFM	Ambler Airport (FAA: AFM)	Ambler, Alaska, United States
-PAFR	FRN	~	Bryant Army Heliport (has a runway)	Fort Richardson
+PAFR	FRN		Bryant Army Heliport (has a runway)	Fort Richardson
 PAFS	NIB	FSP	Nikolai Airport (FAA: FSP)	Nikolai, Alaska, United States
 PAFV	FMC	FVM	Five Mile Airport (FAA: FVM)	Five Mile, Alaska, United States
-PAFW	FWL	~	Farewell Airport	Farewell, Alaska, United States
-PAGA	GAL	~	Edward G. Pitka Sr. Airport	Galena, Alaska, United States
-PAGB	GBH	~	Galbraith Lake Airport	Galbraith Lake, Alaska, United States
+PAFW	FWL		Farewell Airport	Farewell, Alaska, United States
+PAGA	GAL		Edward G. Pitka Sr. Airport	Galena, Alaska, United States
+PAGB	GBH		Galbraith Lake Airport	Galbraith Lake, Alaska, United States
 PAGG		GGV	Kwigillingok Airport (FAA: GGV)	Kwigillingok, Alaska, United States
-PAGH	SHG	~	Shungnak Airport	Shungnak, Alaska, United States
-PAGK	GKN	~	Gulkana Airport	Gulkana, Alaska, United States
+PAGH	SHG		Shungnak Airport	Shungnak, Alaska, United States
+PAGK	GKN		Gulkana Airport	Gulkana, Alaska, United States
 PAGL	GLV	N93	Golovin Airport (FAA: N93)	Golovin, Alaska, United States
-PAGM	GAM	~	Gambell Airport	Gambell, Alaska, United States
-PAGN	AGN	~	Angoon Seaplane Base	Angoon, Alaska, United States
-PAGQ	BGQ	~	Big Lake Airport	Big Lake, Alaska, United States
-PAGS	GST	~	Gustavus Airport	Gustavus, Alaska, United States
+PAGM	GAM		Gambell Airport	Gambell, Alaska, United States
+PAGN	AGN		Angoon Seaplane Base	Angoon, Alaska, United States
+PAGQ	BGQ		Big Lake Airport	Big Lake, Alaska, United States
+PAGS	GST		Gustavus Airport	Gustavus, Alaska, United States
 PAGT	NME	IGT	Nightmute Airport (FAA: IGT)	Nightmute, Alaska, United States
-PAGY	SGY	~	Skagway Airport	Skagway, Alaska, United States
+PAGY	SGY		Skagway Airport	Skagway, Alaska, United States
 PAHC	HCR	HCA	Holy Cross Airport (FAA: HCA)	Holy Cross, Alaska, United States
 PAHL	HSL	HLA	Huslia Airport (FAA: HLA)	Huslia, Alaska, United States
-PAHN	HNS	~	Haines Airport	Haines, Alaska, United States
-PAHO	HOM	~	Homer Airport	Homer, Alaska, United States
-PAHP	HPB	~	Hooper Bay Airport	Hooper Bay, Alaska, United States
-PAHU	HUS	~	Hughes Airport	Hughes, Alaska, United States
+PAHN	HNS		Haines Airport	Haines, Alaska, United States
+PAHO	HOM		Homer Airport	Homer, Alaska, United States
+PAHP	HPB		Hooper Bay Airport	Hooper Bay, Alaska, United States
+PAHU	HUS		Hughes Airport	Hughes, Alaska, United States
 PAHV	HKB	HRR	Healy River Airport (FAA: HRR)	Healy, Alaska, United States
-PAHX	SHX	~	Shageluk Airport	Shageluk, Alaska, United States
-PAHY	HYG	~	Hydaburg Seaplane Base	Hydaburg, Alaska, United States
-PAIG	IGG	~	Igiugig Airport	Igiugig, Alaska, United States
+PAHX	SHX		Shageluk Airport	Shageluk, Alaska, United States
+PAHY	HYG		Hydaburg Seaplane Base	Hydaburg, Alaska, United States
+PAIG	IGG		Igiugig Airport	Igiugig, Alaska, United States
 PAII	EGX	EII	Egegik Airport (FAA: EII)	Egegik, Alaska, United States
-PAIK	IAN	~	Bob Baker Memorial Airport	Kiana, Alaska, United States
-PAIL	ILI	~	Iliamna Airport	Iliamna, Alaska, United States
-PAIM	UTO	~	Indian Mountain LRRS Airport	Indian Mountain, Alaska, United States
+PAIK	IAN		Bob Baker Memorial Airport	Kiana, Alaska, United States
+PAIL	ILI		Iliamna Airport	Iliamna, Alaska, United States
+PAIM	UTO		Indian Mountain LRRS Airport	Indian Mountain, Alaska, United States
 PAIN	MCL	INR	McKinley National Park Airport (FAA: INR)	McKinley Park, Alaska, United States
 PAIW	WAA	IWK	Wales Airport (FAA: IWK)	Wales, Alaska, United States
-PAJC	KCQ	AJC	Chignik Airport (FAA: AJC)	Chignik, Alaska, United States
-PAJN	JNU	~	Juneau International Airport	Juneau, Alaska, United States
+PAJC		AJC	Chignik Airport (FAA: AJC)	Chignik, Alaska, United States
+PAJN	JNU		Juneau International Airport	Juneau, Alaska, United States
 PAJO		2AK5	Johnstone Point Airport (FAA: 2AK5)	Hinchinbrook, Alaska, United States
 PAJV		JVM	Jonesville Mine Airport (FAA: JVM)	Sutton, Alaska, United States
 PAJZ	KGK	JZZ	Koliganek Airport (FAA: JZZ)	Koliganek, Alaska, United States
-PAKD	KDK	~	Kodiak Municipal Airport	Kodiak, Alaska, United States
-PAKF	KFP	~	False Pass Airport	Aleutians East Borough, Alaska, United States
-PAKH	AKK	~	Akhiok Airport	Akhiok, Alaska, United States
+PAKD	KDK		Kodiak Municipal Airport	Kodiak, Alaska, United States
+PAKF	KFP		False Pass Airport	Aleutians East Borough, Alaska, United States
+PAKH	AKK		Akhiok Airport	Akhiok, Alaska, United States
 PAKI	KPN	IIK	Kipnuk Airport (FAA: IIK)	Kipnuk, Alaska, United States
-PAKK	KKA	~	Koyuk Alfred Adams Airport	Koyuk, Alaska, United States
-PAKL	LKK	~	Kulik Lake Airport	Kulik Lake, Alaska, United States
-PAKN	AKN	~	King Salmon Airport	King Salmon, Alaska, United States
-PAKO	IKO	~	Nikolski Air Station	Nikolski, Alaska, United States
-PAKP	AKP	~	Anaktuvuk Pass Airport	Anaktuvuk Pass, Alaska, United States
-PAKT	KTN	~	Ketchikan International Airport	Ketchikan, Alaska, United States
+PAKK	KKA		Koyuk Alfred Adams Airport	Koyuk, Alaska, United States
+PAKL	LKK		Kulik Lake Airport	Kulik Lake, Alaska, United States
+PAKN	AKN		King Salmon Airport	King Salmon, Alaska, United States
+PAKO	IKO		Nikolski Air Station	Nikolski, Alaska, United States
+PAKP	AKP		Anaktuvuk Pass Airport	Anaktuvuk Pass, Alaska, United States
+PAKT	KTN		Ketchikan International Airport	Ketchikan, Alaska, United States
 PAKU	UUK	UBW	Ugnu-Kuparuk Airport (FAA: UBW)	Kuparuk, Alaska, United States
-PAKV	KAL	~	Kaltag Airport	Kaltag, Alaska, United States
+PAKV	KAL		Kaltag Airport	Kaltag, Alaska, United States
 PAKW	KLW	AKW	Klawock Airport (FAA: AKW)	Klawock, Alaska, United States
-PAKY	KYK	~	Karluk Airport	Karluk, Alaska, United States
+PAKY	KYK		Karluk Airport	Karluk, Alaska, United States
 PALB	KLN	2A3	Larsen Bay Airport (FAA: 2A3)	Larsen Bay, Alaska, United States
-PALG	KLG	~	Kalskag Airport	between the cities of Upper Kalskag and Lower Kalskag
+PALG	KLG		Kalskag Airport	between the cities of Upper Kalskag and Lower Kalskag
 PALH		LHD	Lake Hood Seaplane Base (FAA: LHD)	Anchorage, Alaska, United States
 PALJ	PTA	TPO	Port Alsworth Airport (FAA: TPO)	Port Alsworth, Alaska, United States
 PALN	LNI	AK71	Lonely Air Station (FAA: AK71)	Lonely, Alaska, United States
 PALP		AK15	Alpine Airstrip (FAA: AK15)	Deadhorse, Alaska, United States
-PALR	WCR	~	Chandalar Lake Airport	Chandalar Lake, Alaska, United States
-PALU	LUR	~	Cape Lisburne LRRS Airport	Cape Lisburne, Alaska, United States
+PALR	WCR		Chandalar Lake Airport	Chandalar Lake, Alaska, United States
+PALU	LUR		Cape Lisburne LRRS Airport	Cape Lisburne, Alaska, United States
 PAMB	KMO	MBA	Manokotak Airport (FAA: MBA)	Manokotak, Alaska, United States
-PAMC	MCG	~	McGrath Airport	McGrath, Alaska, United States
-PAMD	MDO	~	Middleton Island Airport	Middleton Island, Alaska, United States
-PAMH	MHM	~	Minchumina Airport	Lake Minchumina, Alaska, United States
-PAMK	SMK	~	St. Michael Airport	St. Michael, Alaska, United States
-PAML	MLY	~	Manley Hot Springs Airport	Manley Hot Springs, Alaska, United States
-PAMM	MTM	~	Metlakatla Seaplane Base	Metlakatla, Alaska, United States
-PAMO	MOU	~	Mountain Village Airport	Mountain Village, Alaska, United States
-PAMR	MRI	~	Merrill Field	Anchorage, Alaska, United States
+PAMC	MCG		McGrath Airport	McGrath, Alaska, United States
+PAMD	MDO		Middleton Island Airport	Middleton Island, Alaska, United States
+PAMH	MHM		Minchumina Airport	Lake Minchumina, Alaska, United States
+PAMK	SMK		St. Michael Airport	St. Michael, Alaska, United States
+PAML	MLY		Manley Hot Springs Airport	Manley Hot Springs, Alaska, United States
+PAMM	MTM		Metlakatla Seaplane Base	Metlakatla, Alaska, United States
+PAMO	MOU		Mountain Village Airport	Mountain Village, Alaska, United States
+PAMR	MRI		Merrill Field	Anchorage, Alaska, United States
 PAMX	MXY	15Z	McCarthy Airport (FAA: 15Z)	McCarthy, Alaska, United States
-PAMY	MYU	~	Mekoryuk Airport	Mekoryuk, Alaska, United States
-PANA	WNA	~	Napakiak Airport	Napakiak, Alaska, United States
-PANC	ANC	~	Ted Stevens Anchorage International Airport	Anchorage, Alaska, United States
-PANI	ANI	~	Aniak Airport	Aniak, Alaska, United States
-PANN	ENN	~	Nenana Municipal Airport	Nenana, Alaska, United States
+PAMY	MYU		Mekoryuk Airport	Mekoryuk, Alaska, United States
+PANA	WNA		Napakiak Airport	Napakiak, Alaska, United States
+PANC	ANC		Ted Stevens Anchorage International Airport	Anchorage, Alaska, United States
+PANI	ANI		Aniak Airport	Aniak, Alaska, United States
+PANN	ENN		Nenana Municipal Airport	Nenana, Alaska, United States
 PANO	NNL	5NN	Nondalton Airport (FAA: 5NN)	Nondalton, Alaska, United States
-PANR	FNR	~	Funter Bay Seaplane Base	Funter Bay, Alaska, United States
-PANT	ANN	~	Annette Island Airport	Annette Island, Alaska, United States
-PANU	NUL	~	Nulato Airport	Nulato, Alaska, United States
-PANV	ANV	~	Anvik Airport	Anvik, Alaska, United States
-PANW	KNW	~	New Stuyahok Airport	New Stuyahok, Alaska, United States
-PAOB	OBU	~	Kobuk Airport	Kobuk, Alaska, United States
+PANR	FNR		Funter Bay Seaplane Base	Funter Bay, Alaska, United States
+PANT	ANN		Annette Island Airport	Annette Island, Alaska, United States
+PANU	NUL		Nulato Airport	Nulato, Alaska, United States
+PANV	ANV		Anvik Airport	Anvik, Alaska, United States
+PANW	KNW		New Stuyahok Airport	New Stuyahok, Alaska, United States
+PAOB	OBU		Kobuk Airport	Kobuk, Alaska, United States
 PAOC	PCA	A14	Portage Creek Airport (FAA: A14)	Portage Creek, Alaska, United States
-PAOH	HNH	~	Hoonah Airport	Hoonah, Alaska, United States
-PAOM	OME	~	Nome Airport	Nome, Alaska, United States
-PAOO	OOK	~	Toksook Bay Airport	Toksook Bay, Alaska, United States
-PAOR	ORT	~	Northway Airport	Northway, Alaska, United States
-PAOT	OTZ	~	Ralph Wien Memorial Airport	Kotzebue, Alaska, United States
+PAOH	HNH		Hoonah Airport	Hoonah, Alaska, United States
+PAOM	OME		Nome Airport	Nome, Alaska, United States
+PAOO	OOK		Toksook Bay Airport	Toksook Bay, Alaska, United States
+PAOR	ORT		Northway Airport	Northway, Alaska, United States
+PAOT	OTZ		Ralph Wien Memorial Airport	Kotzebue, Alaska, United States
 PAOU	NLG	OUL	Nelson Lagoon Airport (FAA: OUL)	Nelson Lagoon, Alaska, United States
 PAPB	STG	PBV	St. George Airport (FAA: PBV)	St. George, Alaska, United States
-PAPC	KPC	~	Port Clarence Coast Guard Station	Port Clarence, Alaska, United States
+PAPC	KPC		Port Clarence Coast Guard Station	Port Clarence, Alaska, United States
 PAPE	KPV	PEV	Perryville Airport (FAA: PEV)	Perryville, Alaska, United States
-PAPG	PSG	~	Petersburg James A. Johnson Airport	Petersburg, Alaska, United States
-PAPH	PTH	~	Port Heiden Airport	Port Heiden, Alaska, United States
-PAPK	PKA	~	Napaskiak Airport	Napaskiak, Alaska, United States
-PAPM	PTU	~	Platinum Airport	Platinum, Alaska, United States
+PAPG	PSG		Petersburg James A. Johnson Airport	Petersburg, Alaska, United States
+PAPH	PTH		Port Heiden Airport	Port Heiden, Alaska, United States
+PAPK	PKA		Napaskiak Airport	Napaskiak, Alaska, United States
+PAPM	PTU		Platinum Airport	Platinum, Alaska, United States
 PAPN	PIP	PNP	Pilot Point Airport (FAA: PNP)	Pilot Point, Alaska, United States
-PAPO	PHO	~	Point Hope Airport	Point Hope, Alaska, United States
-PAPR	PPC	~	Prospect Creek Airport	Prospect Creek, Alaska, United States
+PAPO	PHO		Point Hope Airport	Point Hope, Alaska, United States
+PAPR	PPC		Prospect Creek Airport	Prospect Creek, Alaska, United States
 PAQC		AQC	Klawock Seaplane Base (FAA: AQC)	Klawock, Alaska, United States
 PAQH	KWN	AQH	Quinhagak Airport (FAA: AQH)	Quinhagak, Alaska, United States
 PAQT	NUI	AQT	Nuiqsut Airport (FAA: AQT)	Nuiqsut, Alaska, United States
-PARC	ARC	~	Arctic Village Airport	Arctic Village, Alaska, United States
-PARS	RSH	~	Russian Mission Airport	Russian Mission, Alaska, United States
-PARY	RBY	~	Ruby Airport	Ruby, Alaska, United States
-PASA	SVA	~	Savoonga Airport	Savoonga, Alaska, United States
-PASC	SCC	~	Deadhorse Airport	Deadhorse, Alaska, United States
-PASD	SDP	~	Sand Point Airport	Sand Point, Alaska, United States
-PASH	SHH	~	Shishmaref Airport	Shishmaref, Alaska, United States
-PASI	SIT	~	Sitka Rocky Gutierrez Airport	Sitka, Alaska, United States
-PASK	WLK	~	Selawik Airport	Selawik, Alaska, United States
-PASL	SLQ	~	Sleetmute Airport	Sleetmute, Alaska, United States
-PASM	KSM	~	St. Mary's Airport	St. Mary's, Alaska, United States
-PASN	SNP	~	St. Paul Island Airport	St. Paul Island, Alaska, United States
-PASO	SOV	~	Seldovia Airport	Seldovia, Alaska, United States
-PASP	SMU	~	Sheep Mountain Airport	Sheep Mountain, Alaska, United States
-PAST	UMM	~	Summit Airport	Summit, Alaska, United States
-PASV	SVW	~	Sparrevohn LRRS Airport	Sparrevohn, Alaska, United States
-PASW	SKW	~	Skwentna Airport	Skwentna, Alaska, United States
-PASX	SXQ	~	Soldotna Airport	Soldotna, Alaska, United States
-PASY	SYA	~	Eareckson Air Station	Shemya Island, Alaska, United States
-PATA	TAL	~	Ralph M. Calhoun Memorial Airport	Tanana, Alaska, United States
-PATC	TNC	~	Tin City LRRS Airport	Tin City, Alaska, United States
+PARC	ARC		Arctic Village Airport	Arctic Village, Alaska, United States
+PARS	RSH		Russian Mission Airport	Russian Mission, Alaska, United States
+PARY	RBY		Ruby Airport	Ruby, Alaska, United States
+PASA	SVA		Savoonga Airport	Savoonga, Alaska, United States
+PASC	SCC		Deadhorse Airport	Deadhorse, Alaska, United States
+PASD	SDP		Sand Point Airport	Sand Point, Alaska, United States
+PASH	SHH		Shishmaref Airport	Shishmaref, Alaska, United States
+PASI	SIT		Sitka Rocky Gutierrez Airport	Sitka, Alaska, United States
+PASK	WLK		Selawik Airport	Selawik, Alaska, United States
+PASL	SLQ		Sleetmute Airport	Sleetmute, Alaska, United States
+PASM	KSM		St. Mary's Airport	St. Mary's, Alaska, United States
+PASN	SNP		St. Paul Island Airport	St. Paul Island, Alaska, United States
+PASO	SOV		Seldovia Airport	Seldovia, Alaska, United States
+PASP	SMU		Sheep Mountain Airport	Sheep Mountain, Alaska, United States
+PAST	UMM		Summit Airport	Summit, Alaska, United States
+PASV	SVW		Sparrevohn LRRS Airport	Sparrevohn, Alaska, United States
+PASW	SKW		Skwentna Airport	Skwentna, Alaska, United States
+PASX	SXQ		Soldotna Airport	Soldotna, Alaska, United States
+PASY	SYA		Eareckson Air Station	Shemya Island, Alaska, United States
+PATA	TAL		Ralph M. Calhoun Memorial Airport	Tanana, Alaska, United States
+PATC	TNC		Tin City LRRS Airport	Tin City, Alaska, United States
 PATE	TLA	TER	Teller Airport (FAA: TER)	Teller, Alaska, United States
-PATG	TOG	~	Togiak Airport	Togiak, Alaska, United States
-PATJ	TKJ	~	Tok Airport	Tok, Alaska, United States
-PATK	TKA	~	Talkeetna Airport	Talkeetna, Alaska, United States
-PATL	TLJ	~	Tatalina LRRS Airport	Tatalina, Alaska, United States
-PATQ	ATK	~	Atqasuk Edward Burnell Sr. Memorial Airport	Atqasuk, Alaska, United States
+PATG	TOG		Togiak Airport	Togiak, Alaska, United States
+PATJ	TKJ		Tok Airport	Tok, Alaska, United States
+PATK	TKA		Talkeetna Airport	Talkeetna, Alaska, United States
+PATL	TLJ		Tatalina LRRS Airport	Tatalina, Alaska, United States
+PATQ	ATK		Atqasuk Edward Burnell Sr. Memorial Airport	Atqasuk, Alaska, United States
 PATW		TTW	Cantwell Airport (FAA: TTW)	Cantwell, Alaska, United States
-PAUK	AUK	~	Alakanuk Airport	Alakanuk, Alaska, United States
-PAUM	UMT	~	Umiat Airport	Umiat, Alaska, United States
-PAUN	UNK	~	Unalakleet Airport	Unalakleet, Alaska, United States
+PAUK	AUK		Alakanuk Airport	Alakanuk, Alaska, United States
+PAUM	UMT		Umiat Airport	Umiat, Alaska, United States
+PAUN	UNK		Unalakleet Airport	Unalakleet, Alaska, United States
 PAUO	WOW	UUO	Willow Airport (FAA: UUO)	Willow, Alaska, United States
-PAVA	VAK	~	Chevak Airport	Chevak, Alaska, United States
-PAVC	KVC	~	King Cove Airport	King Cove, Alaska, United States
-PAVD	VDZ	~	Valdez Airport (Pioneer Field)	Valdez, Alaska, United States
-PAVE	VEE	~	Venetie Airport	Venetie, Alaska, United States
-PAVL	KVL	~	Kivalina Airport	Kivalina, Alaska, United States
-PAWB	WBQ	~	Beaver Airport	Beaver, Alaska, United States
-PAWD	SWD	~	Seward Airport	Seward, Alaska, United States
-PAWG	WRG	~	Wrangell Airport	Wrangell, Alaska, United States
+PAVA	VAK		Chevak Airport	Chevak, Alaska, United States
+PAVC	KVC		King Cove Airport	King Cove, Alaska, United States
+PAVD	VDZ		Valdez Airport (Pioneer Field)	Valdez, Alaska, United States
+PAVE	VEE		Venetie Airport	Venetie, Alaska, United States
+PAVL	KVL		Kivalina Airport	Kivalina, Alaska, United States
+PAWB	WBQ		Beaver Airport	Beaver, Alaska, United States
+PAWD	SWD		Seward Airport	Seward, Alaska, United States
+PAWG	WRG		Wrangell Airport	Wrangell, Alaska, United States
 PAWI	AIN	AWI	Wainwright Airport (FAA: AWI)	Wainwright, Alaska, United States
-PAWM	WMO	~	White Mountain Airport	White Mountain, Alaska, United States
-PAWN	WTK	~	Noatak Airport	Noatak, Alaska, United States
+PAWM	WMO		White Mountain Airport	White Mountain, Alaska, United States
+PAWN	WTK		Noatak Airport	Noatak, Alaska, United States
 PAWR		IEM	Whittier Airport (FAA: IEM)	Whittier, Alaska, United States
 PAWS	WWA	IYS	Wasilla Airport (FAA: IYS)	Wasilla, Alaska, United States
 PAWT		AK03	Wainwright Air Station (FAA: AK03)	Wainwright, Alaska, United States
 PAXK		PXK	Paxson Airport (FAA: PXK)	Paxson, Alaska, United States
-PAYA	YAK	~	Yakutat Airport	Yakutat, Alaska, United States
-PFAK	AKI	~	Akiak Airport	Akiak, Alaska, United States
+PAYA	YAK		Yakutat Airport	Yakutat, Alaska, United States
+PFAK	AKI		Akiak Airport	Akiak, Alaska, United States
 PFAL	AET	6A8	Allakaket Airport (FAA: 6A8)	Allakaket, Alaska, United States
 PFCB	NCN	C05	Chenega Bay Airport (FAA: C05)	Chenega, Alaska, United States
-PFCL	CLP	~	Clarks Point Airport	Clarks Point, Alaska, United States
-PFEL	ELI	~	Elim Airport	Elim, Alaska, United States
+PFCL	CLP		Clarks Point Airport	Clarks Point, Alaska, United States
+PFEL	ELI		Elim Airport	Elim, Alaska, United States
 PFKA	KUK	Z09	Kasigluk Airport (FAA: Z09)	Kasigluk, Alaska, United States
 PFKK	KNK	9K2	Kokhanok Airport (FAA: 9K2)	Kokhanok, Alaska, United States
 PFKO	KOT	2A9	Kotlik Airport (FAA: 2A9)	Kotlik, Alaska, United States
-PFKT	KTS	~	Brevig Mission Airport	Brevig Mission, Alaska, United States
-PFKU	KYU	~	Koyukuk Airport	Koyukuk, Alaska, United States
-PFKW	KWT	~	Kwethluk Airport	Kwethluk, Alaska, United States
+PFKT	KTS		Brevig Mission Airport	Brevig Mission, Alaska, United States
+PFKU	KYU		Koyukuk Airport	Koyukuk, Alaska, United States
+PFKW	KWT		Kwethluk Airport	Kwethluk, Alaska, United States
 PFNO	ORV	D76	Robert (Bob) Curtis Memorial Airport (FAA: D76)	Noorvik, Alaska, United States
 PFSH	SKK	2C7	Shaktoolik Airport (FAA: 2C7)	Shaktoolik, Alaska, United States
 PFTO		6K8	Tok Junction Airport (FAA: 6K8)	Tok, Alaska, United States
-PFWS	WSN	~	South Naknek Nr 2 Airport	South Naknek, Alaska, United States
-PFYU	FYU	~	Fort Yukon Airport	Fort Yukon, Alaska, United States
-POLI	OLI	~	Oliktok LRRS Airport	Oliktok Point, Alaska, United States
-PPIZ	PIZ	~	Point Lay LRRS Airport	Point Lay, Alaska, United States
-PCIS	CIS	~	Canton Airfield (abandoned)	Canton Island
-PGUA	UAM	~	Andersen Air Force Base	Agana
-PGUM	GUM	~	Antonio B. Won Pat International Airport (Guam International)	Agana
+PFWS	WSN		South Naknek Nr 2 Airport	South Naknek, Alaska, United States
+PFYU	FYU		Fort Yukon Airport	Fort Yukon, Alaska, United States
+POLI	OLI		Oliktok LRRS Airport	Oliktok Point, Alaska, United States
+PPIZ	PIZ		Point Lay LRRS Airport	Point Lay, Alaska, United States
+PCIS	CIS		Canton Airfield (abandoned)	Canton Island
+PGUA	UAM		Andersen Air Force Base	Agana
+PGUM	GUM		Antonio B. Won Pat International Airport (Guam International)	Agana
 PGRO	ROP	GRO	Rota International Airport (FAA: GRO)	Rota Island
 PGSN	SPN	GSN	Saipan International Airport (Francisco C. Ada) (FAA: GSN)	Saipan Island
 PGWT	TIQ	TNI	Tinian International Airport (West Tinian) (FAA: TNI)	Tinian Island
-PHDH	HDH	~	Dillingham Airfield	Waialua, Hawaii, United States
-PHHF		~	French Frigate Shoals Airport	Tern Island, French Frigate Shoals
-PHHI	HHI	~	Wheeler Army Airfield	Wahiawa, Hawaii, United States
-PHHN	HNM	~	Hana Airport	Hana, Hawaii, United States
-PHIK	HIK	~	Hickam AFB	Honolulu, Hawaii, United States
-PHJH	JHM	~	Kapalua Airport (Kapalua West Mau'i Airport)	Lahaina, Hawaii, United States
-PHJR		~	Kalaeloa Airport (John Rodgers Field)	Kapolei, Hawaii, United States
-PHKO	KOA	~	Kona International Airport	Kailua-Kona, Hawaii, United States
-PHLI	LIH	~	Lihu'e Airport	Lihue, Hawaii, United States
-PHLU	LUP	~	Kalaupapa Airport	Kalaupapa, Hawaii, United States
-PHMK	MKK	~	Molokai Airport	Kaunakakai, Hawaii, United States
-PHMU	MUE	~	Waimea-Kohala Airport	Kamuela, Hawaii, United States
-PHNG		~	Marine Corps Air Station Kaneohe Bay	Kaneohe, Hawaii, Honolulu, Hawaii, United States
-PHNL	HNL	~	Honolulu International Airport	Honolulu, Hawaii, United States
-PHNY	LNY	~	Lanai Airport	Lanai City, Hawaii, United States
-PHOG	OGG	~	Kahului Airport	Kahului, Hawaii, United States
-PHTO	ITO	~	Hilo International Airport	Hilo, Hawaii, United States
-PHUP	UPP	~	Upolu Airport	Hawi, Hawaii, United States
-PJON	JON	~	Johnston Atoll Airport (closed 2005)
-PKMA	ENT	~	Enewetak Auxiliary Airfield	Enewetak
-PKMJ	MAJ	~	Marshall Islands International Airport (Amata Kabua Int'l)	Majuro
-PKRO		~	Dyess Army Airfield (Freeflight International Airport)	Roi-Namur
-PKWA	KWA	~	Kwajalein Airport	Kwajalein
-PLCH	CXI	~	Cassidy International Airport	Kiritimati (Christmas Island)
-PLPA		~	Palmyra (Cooper) Airport	Palmyra Atoll
-PMDY	MDY	~	Henderson Field (Naval Air Facility)	Sand Island
-PTKK	TKK	~	Chuuk International Airport	Weno, Chuuk
-PTPN	PNI	~	Pohnpei International Airport	Pohnpei
+PHDH	HDH		Dillingham Airfield	Waialua, Hawaii, United States
+PHHF			French Frigate Shoals Airport	Tern Island, French Frigate Shoals
+PHHI	HHI		Wheeler Army Airfield	Wahiawa, Hawaii, United States
+PHHN	HNM		Hana Airport	Hana, Hawaii, United States
+PHIK	HIK		Hickam AFB	Honolulu, Hawaii, United States
+PHJH	JHM		Kapalua Airport (Kapalua West Mau'i Airport)	Lahaina, Hawaii, United States
+PHJR			Kalaeloa Airport (John Rodgers Field)	Kapolei, Hawaii, United States
+PHKO	KOA		Kona International Airport	Kailua-Kona, Hawaii, United States
+PHLI	LIH		Lihu'e Airport	Lihue, Hawaii, United States
+PHLU	LUP		Kalaupapa Airport	Kalaupapa, Hawaii, United States
+PHMK	MKK		Molokai Airport	Kaunakakai, Hawaii, United States
+PHMU	MUE		Waimea-Kohala Airport	Kamuela, Hawaii, United States
+PHNG			Marine Corps Air Station Kaneohe Bay	Kaneohe, Hawaii, Honolulu, Hawaii, United States
+PHNL	HNL		Honolulu International Airport	Honolulu, Hawaii, United States
+PHNY	LNY		Lanai Airport	Lanai City, Hawaii, United States
+PHOG	OGG		Kahului Airport	Kahului, Hawaii, United States
+PHTO	ITO		Hilo International Airport	Hilo, Hawaii, United States
+PHUP	UPP		Upolu Airport	Hawi, Hawaii, United States
+PJON	JON		Johnston Atoll Airport (closed 2005)
+PKMA	ENT		Enewetak Auxiliary Airfield	Enewetak
+PKMJ	MAJ		Marshall Islands International Airport (Amata Kabua Int'l)	Majuro
+PKRO			Dyess Army Airfield (Freeflight International Airport)	Roi-Namur
+PKWA	KWA		Kwajalein Airport	Kwajalein
+PLCH	CXI		Cassidy International Airport	Kiritimati (Christmas Island)
+PLPA			Palmyra (Cooper) Airport	Palmyra Atoll
+PMDY	MDY		Henderson Field (Naval Air Facility)	Sand Island
+PTKK	TKK		Chuuk International Airport	Weno, Chuuk
+PTPN	PNI		Pohnpei International Airport	Pohnpei
 PTSA	KSA	TTK	Kosrae International Airport (FAA: TTK)	Kosrae
 PTYA	YAP	T11	Yap International Airport (FAA: T11)	Yap
-PTRO	ROR	~	Palau International Airport (Babelthuap/Koror Airport)	Airai, Palau
-PWAK	AWK	~	Wake Island Airfield
+PTRO	ROR		Palau International Airport (Babelthuap/Koror Airport)	Airai, Palau
+PWAK	AWK		Wake Island Airfield
 RCBS	KNH		Kinmen Airport	Kinmen
 RCCM	CMJ		Cimei Airport	Penghu
 RCFG	LZN		Matsu Nangan Airport	Lianchiang
@@ -7086,7 +7085,7 @@ SAZV	VLG		Villa Gesell Airport	Villa Gesell, Buenos Aires Province
 SAZW	CUT		Cutral Có Airport	Cutral Có, Neuquén Province
 SAZY	CPC		Aviador Carlos Campos Airport (Chapelco Airport)	San Martín de los Andes, Neuquén Province
 SBAA	CDJ		Conceicao do Araguaia Airport	Conceição do Araguaia, Pará
-SBAN	APS		Anápolis Air Base	Anápolis, Goiás
+SBAN			Anápolis Air Base	Anápolis, Goiás
 SBAQ	AQA		Araraquara Airport	Araraquara, São Paulo
 SBAR	AJU		Santa Maria Airport	Aracaju, Sergipe
 SBAS	AIF		Assis Airport	Assis, São Paulo
@@ -7106,7 +7105,7 @@ SBBW	BPG		Barra do Garças Airport	Barra do Garças, Mato Grosso
 SBBZ	BZC		Umberto Modiano Airport	Búzios, Rio de Janeiro
 SBCA	CAC		Cascavel Airport	Cascavel, Paraná
 SBCB	CFB		Cabo Frio International Airport	Cabo Frio, Rio de Janeiro
-SBCC	ITB		Cachimbo Airport	Itaituba, Pará
+SBCC			Cachimbo Airport	Itaituba, Pará
 SBCD	CFC		Caçador Airport (Carlos Alberto da Costa Neves Airport)	Caçador, Brazil
 SBCF	CNF		Tancredo Neves International Airport	Belo Horizonte, Minas Gerais
 SBCG	CGR		Campo Grande International Airport	Campo Grande, Mato Grosso do Sul
@@ -7125,7 +7124,6 @@ SBCZ	CZS		Cruzeiro do Sul International Airport	Cruzeiro do Sul, Acre
 SBDN	PPB		Presidente Prudente Airport	Presidente Prudente, São Paulo
 SBEG	MAO		Eduardo Gomes International Airport	Manaus, Amazonas
 SBEK	JCR		Jacare-Acanga Airport	Jacareacanga, Pará
-SBEX	ERM		Erechim Airport	Erechim, Rio Grande do Sul
 SBFI	IGU		Foz do Iguaçu International Airport (Cataratas Int'l)	Foz do Iguaçu, Paraná
 SBFL	FLN		Hercilio Luz International Airport	Florianópolis, Santa Catarina
 SBFN	FEN		Fernando de Noronha Airport	Fernando de Noronha, Pernambuco
@@ -7178,7 +7176,8 @@ SBPA	POA		Salgado Filho International Airport	Porto Alegre, Rio Grande do Sul
 SBPB	PHB		Parnaíba-Prefeito Dr. João Silva Filho International Airport	Piauí, Parnaíba
 SBPC	POO		Poços de Caldas Airport	Poços de Caldas, Minas Gerais
 SBPF	PFB		Lauro Kurtz Airport	Passo Fundo, Rio Grande do Sul
-SBPG	PNG		Paranaguá Airport	Paranaguá, Paraná
+SBPG			Paranaguá Airport	Paranaguá, Paraná
+SSPG	PNG		Paranaguá Airport	Paranaguá, Paraná
 SBPI	QPE		Pico do Couto Airport	Petrópolis, Rio de Janeiro
 SBPJ	PMW		Palmas Airport	Palmas, Tocantins
 SBPK	PET		Pelotas Airport	Pelotas, Rio Grande do Sul
@@ -7222,7 +7221,7 @@ SBUR	UBA		Uberaba Airport	Uberaba, Minas Gerais
 SBVG	VAG		Major-Brigadeiro Trompowsky Airport	Varginha, Minas Gerais
 SBVH	BVH		Vilhena Airport	Vilhena, Rondônia
 SBVT	VIX		Goiabeiras Airport	Vitória, Espírito Santo
-SBWX	STM		Santarém Airport	Santarém, Pará
+SBWX			Santarém Airport	Santarém, Pará
 SBYS	QPS		Campo Fontenelle Airport	Pirassununga, São Paulo
 SBZM	IZA		Zona da Mata Regional Airport	Juiz de Fora, Zona da Mata
 SDAE			São Pedro Municipal Airport	São Pedro, São Paulo
@@ -7283,7 +7282,6 @@ SSJA	JCB		Joaçaba Airport	Joaçaba, Santa Catarina
 SSKM	CBW		Campo Mourão Airport	Campo Mourão, Paraná
 SSLI	LVB		Dos Galpoes Airport	Santana do Livramento, Rio Grande do Sul
 SSPB	PTO		Pato Branco Airport	Pato Branco, Paraná
-SSPG	PNG		Paranaguá Airport	Paranaguá, Paraná
 SSPS			Palmas Airport	Palmas, Paraná
 SSTB	TBA		Três Barras Airport; Três Barras, Santa Catarina
 SSUV	QVB		União da Vitória Airport	União da Vitória, Paraná
@@ -7365,7 +7363,6 @@ SEBC	BHA		Los Perales Airport	Bahia de Caraquez
 SECE	WSE		Santa Cecilia Airport	Santa Cecilia
 SECO	OCC		Francisco de Orellana Airport	Coca
 SECU	CUE		Mariscal Lamar Airport	Cuenca
-SEES	ESM		General Rivadeneira Airport	Esmeraldas
 SEGS	GPS		Seymour Airport	Galápagos (Baltra)
 SEGU	GYE		José Joaquín de Olmedo International Airport	Guayaquil
 SEJI	JIP		Jipijapa Airport	Jipijapa
@@ -7405,7 +7402,7 @@ SKAD	ACD		Alcides Fernández Airport	Acandí
 SKAG	ACL		Hacaritama Airport	Aguachica
 SKAM	AFI		Amalfi Airport	Amalfi
 SKAN	ADN		Andes Airport	Andes
-SKAP	APY		Gomez Nino-Apiay Airport	Apiay
+SKAP	API		Gomez Nino-Apiay Airport	Apiay
 SKAR	AXM		El Edén International Airport	Armenia
 SKAS	PUU		Tres de Mayo Airport	Puerto Asís
 SKBC	ELB		Las Flores Airport	El Banco
@@ -7475,7 +7472,7 @@ SKSP	ADZ		Gustavo Rojas Pinilla International Airport (Sesquicentenario Airport)
 SKSR	SRS		San Marcos Airport	San Marcos
 SKSV	SVI		Eduardo Falla Solano Airport	San Vicente del Caguán
 SKTD	TDA		Trinidad Airport	Trinidad
-SKTJ	TNJ		Gustavo Rojas Pinilla Airport	Tunja
+SKTJ			Gustavo Rojas Pinilla Airport	Tunja
 SKTM	TME		Tame Airport	Tame
 SKTQ	TQS		Tres Esquinas AB	Tres Esquinas
 SKTU	TRB		Gonzalo Mejía Airport	Turbo
@@ -7555,7 +7552,7 @@ SPBR	IBP		Iberia Airport	Iberia
 SPBS			Bellavista Airport	Jeberos, Loreto Region
 SPCH	TCG		Tocache Airport	Tocache, San Martín Region
 SPCL	PCL		Capitán Rolden Airport (or Capitán FAP David Abenzur Rengifo Airport)	Pucallpa, Ucayali Region
-SPCM	CTF		Contamana Airport	Contamana, Loreto Region
+SPCM			Contamana Airport	Contamana, Loreto Region
 SPDR			Trompeteros Airport	Corrientes
 SPEO	CHM		Teniente FAP Jaime A. de Montreuil Morales Airport	Chimbote, Ancash Region
 SPEQ			Cesar Torque Podesta Airport	Moquegua, Moquegua Region
@@ -7568,7 +7565,7 @@ SPHY	ANS		Andahuaylas Airport	Andahuaylas, Apurímac Region
 SPHZ	ATA		Comandante FAP Germán Arias Graziani Airport	Anta/Huaraz, Ancash Region
 SPIL	UMI		Quince Mil Airport	Quince Mil, Cusco Region
 SPIM	LIM		Jorge Chávez International Airport	Callao/Lima, Lima Metropolitan Area
-SPIP	SFK		Satipo Airport	Satipo
+SPIP			Satipo Airport	Satipo
 SPIZ	UCZ		Uchiza Airport	Uchiza
 SPJA	RIJ		Juan Simons Vela Airport	Rioja, San Martín Region
 SPJB			Pampa Grande Airport	Cajabamba, Cajamarca Region
@@ -7616,7 +7613,7 @@ SUDU	DZO		Santa Bernardina International Airport	Durazno
 SULS	PDP		Capitan Corbeta CA Curbelo International Airport	Maldonado
 SUMO	MLZ		Cerro Largo International Airport	Melo
 SUMU	MVD		Carrasco International Airport	Montevideo
-SUPE	PDP		El Jagüel International Airport	Punta del Este
+SUPE			El Jagüel International Airport	Punta del Este
 SUPU	PDU		Paysandú International Airport
 SURV	RVY		Rivera International Airport
 SUSO	STY		Salto International Airport
@@ -7710,7 +7707,7 @@ TGPY	GND		Maurice Bishop International Airport	St. George's
 TGPZ	CRU		Lauriston Airport (Carriacou Island Airport)	Hillsborough, Carriacou Island
 TIST	STT		Cyril E. King Airport	St. Thomas
 TISX	STX		Henry E. Rohlsen Airport	St. Croix
-TJAB	ABO		Antonio (Nery) Juarbe Pol Airport	Arecibo
+TJAB	ARE	ABO	Antonio (Nery) Juarbe Pol Airport	Arecibo
 TJBQ	BQN		Rafael Hernández Airport	Aquadilla Borinquen
 TJVQ	VQS		Vieques Airport (Antonio Rivera Rodríguez Airport)	Vieques
 TJCP	CPX		Benjamin Rivera Noriega Airport	Culebra
@@ -7733,7 +7730,7 @@ TNCC	CUR		Hato International Airport	Willemstad, Curaçao,
 TNCM	SXM		Princess Juliana International Airport	Philipsburg, Sint Maarten
 TQPF	AXA		Anguilla Wallblake Airport	The Valley
 TRPG	MNI		Gerald's Airport	Gerald's Park
-TRPM	MNI		W.H. Bramble Airport (Blackburne)	Plymouth (closed)
+TRPM			W.H. Bramble Airport (Blackburne)	Plymouth (closed)
 TTCP	TAB		Arthur Napoleon Raymond Robinson International Airport	Scarborough, Tobago
 TTPP	POS		Piarco International Airport	Port of Spain, Trinidad
 TUPA	NGD		Auguste George Airport	Anegada
@@ -8112,7 +8109,7 @@ VIJP	JAI		Jaipur Airport (Sanganer Airport)	Jaipur
 VIJR	JSA		Jaisalmer Airport	Jaisalmer (Jaiselmer)
 VIJU	IXJ		Jammu Airport	Jammu
 VIKA	KNU		Kanpur Airport (Chakeri Airport)	Kanpur
-VIKJ	HJR		Khajuraho Airport	Khajuraho (see VAKJ)
+VIKJ			Khajuraho Airport	Khajuraho (see VAKJ)
 VIKO	KTU		Kota Airport	Kota
 VILD	LUH		Sahnewal Airport	Ludhiana
 VILH	IXL		Leh Kushok Bakula Rimpochee Airport	Leh
@@ -8385,7 +8382,7 @@ VYYY	RGN		Yangon International Airport	Yangon (Rangoon)
 WAAA	UPG		Sultan Hasanuddin International Airport	Makassar / Ujung Pandang, South Sulawesi
 WAAB	BUW		Betoambari Airport	Bau Bau
 WAAJ	MJU		Tampa Padang Airport	Mamuju, West Sulawesi
-WAAM	MXB		Andi Jemma Airport	Masamba
+WAWM	MXB		Andi Jemma Airport	Masamba
 WAAS	SQR		Soroako Airport	Soroako
 WAAU	KDI		Wolter Monginsidi Airport	Kendari, South East Sulawesi
 WABB	BIK		Frans Kaisiepo Airport	Biak, Papua
@@ -8397,7 +8394,7 @@ WABL	ILA		Ilaga Airport	Ilaga (Papua)
 WABP	TIM		Timika Airport	Tembagapura
 WABT	EWI		Enarotali Airport	Enarotali
 WADD	DPS		Ngurah Rai International Airport	Denpasar, Bali (ICAO code also given as WRRR)
-WADL	AMI		Lombok International Airport	Praya, Lombok	(pending)
+WADL	LOP		Lombok International Airport	Praya, Lombok	(pending)
 WAJA	ARJ		Arso Airport	Arso
 WAJB	BUI		Bokondini Airport	Bokondini
 WAJJ	DJJ		Sentani Airport	Jayapura, Papua
@@ -8466,13 +8463,11 @@ WIHL	CXP		Tunggul Wulung Airport	Cilacap, Central Java
 WIIC	CBN		Penggung Airport	Cirebon, West Java
 WIII	CGK		Soekarno-Hatta International Airport	Cengkareng, Banten (near Jakarta)]
 WIIP	PCB		Pondok Cabe Airport	Jakarta
-WIIS	SRG		Achmad Yani International Airport	Semarang, Central Java
 WIIT	TKG		Radin Inten II Airport (Branti Airport)	Bandar Lampung, Lampung
 WIIX	JKT		Jakarta (City) Airport	Jakarta
 WIKD	TJQ		Bulutumbang Airport	Tanjung Pandan
 WIKK	PGK		Pangkal Pinang Airport	Pangkal Pinang, Bangka-Belitung Islands
 WIKL	LLG		Silampari Airport	Lubuk Linggau, Musi Rawas, South Sumatra
-WIKN	TNJ		Raja Haji Fisabilillah Airport	Tanjung Pinang, Riau Islands
 WIKS	SIQ		Dabo Airport	Singkep, Riau
 WIMB	GNS		Binaka Airport	Gunungsitoli, North Sumatra
 WIME	AEG		Aek Godang Airport	Padang Sidempuan
@@ -8522,7 +8517,7 @@ WRLR	TRK		Juwata Airport	Tarakan, East Kalimantan
 WRLS	SRI		Temindung Airport	Samarinda, East Kalimantan
 WRLT	TSX		Santan Airport	Tanjung Santan
 WRLV	BYQ		Bunyu Airport	Bunyu, East Kalimantan
-WRRA	AMI		Selaparang Airport	Mataram, West Nusa Tenggara
+WADA			Selaparang Airport	Mataram, West Nusa Tenggara
 WRRB	BMU		Muhammad Salahuddin Airport	Bima
 WRRS	SWQ		Sumbawa Besar Airport	Sumbawa, West Nusa Tenggara
 WRRT	TMC		Tambolaka Airport	Waikabubak, East Nusa Tenggara
@@ -8772,7 +8767,7 @@ YLOX			Loxton Airport	Loxton, South Australia
 YLRD	LHG		Lightning Ridge Airport	Lightning Ridge, New South Wales
 YLRE	LRE		Longreach Airport	Longreach, Queensland
 YLST	LER		Leinster Airport	Leinster, Western Australia
-YLTN	LTO		Laverton Airport	Laverton, Western Australia
+YLTN	LVO		Laverton Airport	Laverton, Western Australia
 YLTV	LTB		Latrobe Valley Airport	Morwell, Victoria
 YLVK			Lavarack Barracks	Townsville, Queensland
 YMAV	AVV		Avalon Airport	Avalon, Victoria
@@ -8837,7 +8832,7 @@ YPOD	PTJ		Portland Airport	Portland, Victoria
 YPPD	PHE		Port Hedland International Airport	Port Hedland, Western Australia
 YPPF	PAL		Parafield Airport	Salisbury, South Australia
 YPPH	PER		Perth International Airport	Redcliffe, Western Australia
-YPSV	KSV		Springvale Airport	Springvale, Queensland
+YSPV	KSV		Springvale Airport	Springvale, Queensland
 YPTN	KTR		RAAF Tindal	Katherine, Northern Territory
 YPWR	UMR		RAAF Woomera	Woomera, South Australia
 YPXM	XCH		Christmas Island Airport	Christmas Island
@@ -8854,7 +8849,7 @@ YSCB	CBR		Canberra International Airport	Canberra, Australian Capital Territory
 YSCN	CDU		Camden Airport	Camden, New South Wales
 YSDU	DBO		Dubbo Airport	Dubbo, New South Wales
 YSGE	SGO		St George Airport	St George, Queensland
-YSHK	DNM		Shark Bay Airport	Denham, Western Australia
+YSHK			Shark Bay Airport	Denham, Western Australia
 YSHR			Whitsunday Airport	Shute Harbour, Airlie Beach, Queensland
 YSHT	SHT		Shepparton Airport	Shepparton, Victoria
 YSHW			Holsworthy Barracks	Holsworthy, New South Wales
@@ -8863,7 +8858,7 @@ YSNB	SNB		Snake Bay Airport	Melville Island, Northern Territory
 YSNF	NLK		Norfolk Island Airport	Norfolk Island
 YSNW	NOA		HMAS Albatross	Nowra, New South Wales
 YSPT	SHQ		Southport Airport	Southport, Queensland
-YSRI	RCM		RAAF Richmond	Richmond, New South Wales
+YSRI			RAAF Richmond	Richmond, New South Wales
 YSRN	SRN		Strahan Airport	Strahan, Tasmania
 YSSY	SYD		Sydney Airport	Mascot, New South Wales
 YSTH	HLS		St Helens Airport	Saint Helens, Tasmania
@@ -9034,7 +9029,7 @@ ZSYW	YIW		Yiwu Airport	Yiwu, Zhejiang
 ZSZS	HSN		Zhoushan Putuoshan Airport	Zhoushan, Zhejiang
 ZUAL	NGQ		Ngari Gunsa Airport	Shiquanhe, Tibet Autonomous Region
 ZUAS	AVA		Anshun Huangguoshu Airport	Anshun, Guizhou
-ZUBD	PBX		Qamdo Bangda Airport	Qamdo, Tibet Autonomous Region
+ZUBD	BPX		Qamdo Bangda Airport	Qamdo, Tibet Autonomous Region
 ZUCK	CKG		Chongqing Jiangbei International Airport	Chongqing
 ZUDX	DAX		Dazhou Heshi Airport	Dazhou, Sichuan
 ZUGU	GYS		Guangyuan Panlong Airport	Guangyuan, Sichuan

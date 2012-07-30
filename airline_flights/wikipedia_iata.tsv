@@ -1,4 +1,3 @@
-ZZBG	ZB1		Bogus Airport
 AGAF	AFT		Afutara Airport	Afutara, Solomon Islands
 AGAR	RNA		Ulawa Airport	Arona, Ulawa Island, Solomon Islands
 AGAT	ATD		Atoifi Airport	Atoifi, Malaita, Solomon Islands
@@ -41,7 +40,7 @@ AYMR	MXH		Moro Airport	Moro, Papua New Guinea
 AYMS	MIS		Misima Island Airport	Misima Island, Papua New Guinea
 AYNZ	LAE		Lae Nadzab Airport	Lae, Papua New Guinea, Papua New Guinea
 AYPY	POM		Jacksons International Airport (Port Moresby Airport)	Port Moresby, Papua New Guinea
-AYRB	RAB		Rabaul Airport	Rabaul, Papua New Guinea
+AYTK	RAB		Rabaul Airport	Rabaul, Papua New Guinea
 BGAA	JEG		Aasiaat Airport	Aasiaat, Greenland
 BGAM	AGM		Tasiilaq Heliport	Tasiilaq, Greenland
 BGAP	LLU		Alluitsup Paa Heliport	Alluitsup Paa, Greenland
@@ -603,7 +602,7 @@ DTTF	GAF		Gafsa - Ksar International Airport	Gafsa, Tunisia
 DTTG	GAE		Gabès - Matmata International Airport	Gabès, Tunisia
 DTTJ	DJE		Zarzis Airport	Djerba, Tunisia
 DTTK	QKN		Kairouan Airport	Kairouan, Tunisia
-DTTP	OIZ		Bizerte-Sidi Ahmed Air Base	Bizerte, Tunisia
+DTTB			Bizerte-Sidi Ahmed Air Base	Bizerte, Tunisia
 DTTR	EBM		El Borma Airport	El Borma, Tunisia
 DTTX	SFA		Thyna/El Maou Airport	Sfax, Tunisia
 DTTZ	TOE		Tozeur, Tunisia (Aeroport International Tozeur Nefta)	Tozeur, Tunisia, Tunisia
@@ -736,7 +735,7 @@ EGBJ	GLO		Gloucester Airport	Gloucester / Cheltenham, England, United Kingdom
 EGBK	ORM		Sywell Aerodrome	Northampton / Peterborough, United Kingdom
 EGCC	MAN		Manchester Airport	Manchester, United Kingdom
 EGCN	DSA		Robin Hood Airport Doncaster Sheffield	Doncaster, England, United Kingdom
-EGDG	NQY		Newquay Cornwall International Airport	Newquay, England, United Kingdom
+EGHQ	NQY		Newquay Cornwall International Airport	Newquay, England, United Kingdom
 EGDL	LYE		RAF Lyneham	Wiltshire, England, United Kingdom
 EGDX	DGX		RAF St Athan	St Athan, Wales, United Kingdom
 EGDY	YEO		RNAS Yeovilton	Yeovilton, England, United Kingdom
@@ -768,7 +767,7 @@ EGKA	ESH		Shoreham Airport	Lancing, West Sussex, United Kingdom
 EGKB	BQH		London Biggin Hill Airport	Biggin Hill / London, England, United Kingdom
 EGKK	LGW		London Gatwick Airport	London, England, United Kingdom
 EGKR	KRH		Redhill Airport	Redhill, Surrey, England, United Kingdom
-EGKT	OXF		London Oxford Airport	Oxford, England, United Kingdom
+EGTK	OXF		London Oxford Airport	Oxford, England, United Kingdom
 EGLC	LCY		London City Airport	London, England, United Kingdom
 EGLF	FAB		Farnborough Airport	Farnborough, United Kingdom
 EGLK	BBS		Blackbushe Airport	Yateley, Hampshire, England, United Kingdom
@@ -903,7 +902,6 @@ ENEV	EVE		Harstad/Narvik Airport, Evenes	Evenes, Norway
 ENFB	FBU		Fornebu Airport (closed)	Oslo, Norway
 ENFG	VDB		Fagernes Airport, Leirin	Fagernes, Norway
 ENFL	FRO		Florø Airport	Florø, Sogn og Fjordane, Norway
-ENGM	GEN		Oslo Airport, Gardermoen	Oslo, Norway
 ENGM	OSL		Oslo Airport, Gardermoen (succeeding Oslo Airport, Fornebu)	Ullensaker (near Oslo), Norway
 ENHA	HMR		Hamar Airport, Stafsberg	Hamar, Norway
 ENHD	HAU		Haugesund Airport, Karmøy	Haugesund / Karmøy, Norway
@@ -1018,8 +1016,7 @@ ETHE	ZPQ		Rheine Air Base	Rhine, Germany
 ETHF	FRZ		Fritzlar Air Base	Fritzlar, Hessen, Germany
 ETIK	ILH		Illisheim Army Airfield	Illisheim, Bavaria, Germany
 ETIN	KZG		Kitzingen Air Base	Kitzingen, Bavaria, Germany
-ETMN	FCN		Fliegerhorst Nordholz	Nordholz, Germany
-ETMN	NDZ		Cuxhaven Airport	Nordholz-Spieka, Lower Saxony, Germany
+ETMN	NDZ		Fliegerhorst Nordholz	Nordholz, Germany
 ETNG	GKE		NATO Air Base Geilenkirchen	Geilenkirchen, North Rhine-Westphalia, Germany
 ETNL	RLG		Rostock Laage Airport	Rostock, Germany
 ETNS	WBG		Fliegerhorst Schleswig	Schleswig, Germany
@@ -1147,8 +1144,7 @@ FKKH	KLE		Kaélé Airport	Kaélé, Cameroon
 FKKI	OUR		Batouri Airport	Batouri, Cameroon
 FKKJ	GXX		Yagoua Airport	Yagoua, Cameroon
 FKKL	MVR		Salak Airport	Maroua, Far North Region, Cameroon
-FKKM	FOM		Nkounja Airport	Foumban, Cameroon
-FKKM	KOB		Foumban Airport (Koutaba Airport)	Koutaba, Cameroon
+FKKM	FOM		Foumban Nkounja Airport (Koutaba Airport)	Koutaba, Cameroon
 FKKO	BTA		Bertoua Airport	Bertoua, Cameroon
 FKKR	GOU		Garoua International Airport	Garoua, Cameroon
 FKKS	DSC		Dschang Airport	Dschang, Cameroon
@@ -1184,7 +1180,7 @@ FMMC	WML		Malaimbandy Airport	Malaimbandy, Madagascar
 FMME	ATJ		Antsirabe Airport	Antsirabe, Madagascar
 FMMI	TNR		Ivato Airport	Antananarivo, Madagascar
 FMMK	JVA		Ankavandra Airport	Ankavandra, Madagascar
-FMMK	WTS		Tsiroanomandidy Airport	Tsiroanomandidy, Madagascar
+FMMX	WTS		Tsiroanomandidy Airport	Tsiroanomandidy, Madagascar
 FMML	BMD		Belo sur Tsiribihina Airport	Belo sur Tsiribihina, Madagascar
 FMMN	ZVA		Miandrivazo Airport	Miandrivazo, Madagascar
 FMMO	MXT		Maintirano Airport	Maintirano, Madagascar
@@ -1667,7 +1663,7 @@ HUPA	PAF		Pakuba Airport	Pakuba, Uganda
 HUSO	SRT		Soroti Airport	Soroti, Uganda
 HWHF	WHF		Wadi Halfa Airport	Wadi Halfa, Sudan
 KAAF	AAF	AAF	Apalachicola Municipal Airport	Apalachicola, Florida, United States
-KAAP	AAP	AAP	Andrau Airpark	Houston, Texas, United States
+KAAP		AAP	Andrau Airpark	Houston, Texas, United States
 KABE	ABE	ABE	Lehigh Valley International Airport	Allentown, Pennsylvania, United States
 KABI	ABI	ABI	Abilene Regional Airport	Abilene, Texas, United States
 KABQ	ABQ	ABQ	Albuquerque International Sunport	Albuquerque, New Mexico, United States
@@ -1976,7 +1972,7 @@ KCRT	CRT	CRT	Z.M. Jack Stell Field	Crossett, Arkansas, United States
 KCRW	CRW	CRW	Yeager Airport	Charleston, West Virginia, United States
 KCRX	CRX	CRX	Roscoe Turner Airport	Corinth, Mississippi, United States
 KCSG	CSG	CSG	Columbus Airport	Columbus, Georgia, United States
-KCSL	CSL	CSL	O'Sullivan Army Heliport	Camp San Luis Obispo, California, United States
+KCSL		CSL	O'Sullivan Army Heliport	Camp San Luis Obispo, California, United States
 KCSM	CSM	CSM	Clinton-Sherman Airport	Clinton, Oklahoma, United States
 KCSQ	CSQ	CSQ	Creston Municipal Airport	Creston, Iowa, United States
 KCSV	CSV	CSV	Crossville Memorial-Whitson Field	Crossville, Tennessee, United States
@@ -2219,7 +2215,7 @@ KGDV	GDV	GDV	Dawson Community Airport	Glendive, Montana, United States
 KGDW	GDW	GDW	Gladwin Zettel Memorial Airport	Gladwin, Michigan, United States
 KGED	GED	GED	Sussex County Airport	Georgetown, Delaware, United States
 KGEG	GEG	GEG	Spokane International Airport	Spokane, Washington, United States
-KGEO	GEO	GEO	Brown County Airport	Georgetown, Ohio, United States
+KGEO		GEO	Brown County Airport	Georgetown, Ohio, United States
 KGEY	GEY	GEY	South Big Horn County Airport	Greybull, Wyoming, United States
 KGFA	GFA	GFA	Malmstrom Air Force Base (heliport)	Great Falls, Montana, United States
 KGFD	GFD	GFD	Pope Field	Greenfield, Indiana, United States
@@ -2291,8 +2287,7 @@ KHDE	HDE	HDE	Brewster Field	Holdrege, Nebraska, United States
 KHDN	HDN	HDN	Yampa Valley Airport	Hayden, Colorado, United States
 KHDO	HDO	HDO	Hondo Municipal Airport (former Hondo AAF)	Hondo, Texas, United States
 KHEE	HEE	HEE	Thompson-Robbins Airport	Helena / West Helena, Arkansas, United States
-KHEF	HEF	HEF	Manassas Regional Airport (Harry P. Davis Field)	Manassas, Virginia, United States
-KHEF	MNZ	HEF	Manassas Regional Airport (FAA: HEF)	Manassas, Virginia, United States
+KHEF	MNZ	HEF	Manassas Regional Airport (Harry P. Davis Field) (FAA: HEF)	Manassas, Virginia, United States
 KHEY	HEY	HEY	Hanchey Army Heliport	Fort Rucker, Dale County, Alabama, United States
 KHEZ	HEZ	HEZ	Natchez-Adams County Airport (Hardy-Anders Field)	Natchez, Mississippi, United States
 KHFD	HFD	HFD	Hartford-Brainard Airport	Hartford, Connecticut, United States
@@ -2372,7 +2367,6 @@ KIDA	IDA	IDA	Idaho Falls Regional Airport	Idaho Falls, Idaho, United States
 KIDG	IDG	IDG	Ida Grove Municipal Airport	Ida Grove, Iowa, United States
 KIDI	IDI	IDI	Indiana County Airport (Jimmy Stewart Field)	Indiana, Pennsylvania, United States
 KIDP	IDP	IDP	Independence Municipal Airport	Independence, Kansas, United States
-KIEN	IEN	IEN	Pine Ridge Airport	Pine Ridge, South Dakota, United States
 KIEN	XPR	IEN	Pine Ridge Airport (FAA: IEN)	Pine Ridge, South Dakota, United States
 KIFA	IFA	IFA	Iowa Falls Municipal Airport	Iowa Falls, Iowa, United States
 KIFP	IFP	IFP	Laughlin/Bullhead International Airport	Bullhead City, Arizona, United States
@@ -2382,7 +2376,7 @@ KIKK	IKK	IKK	Greater Kankakee Airport	Kankakee, Illinois, United States
 KIKV	IKV	IKV	Ankeny Regional Airport	Ankeny, Iowa, United States
 KILE	ILE	ILE	Skylark Field	Killeen, Texas, United States
 KILG	ILG	ILG	New Castle Airport	Wilmington, Delaware, United States
-KILL	ILL	ILL	Willmar Municipal Airport (John L. Rice Field) (closed 2006)	Willmar, Minnesota, United States
+KILL		ILL	Willmar Municipal Airport (John L. Rice Field) (closed 2006)	Willmar, Minnesota, United States
 KILM	ILM	ILM	Wilmington International Airport	Wilmington, North Carolina, United States
 KILN	ILN	ILN	Airborne Airpark	Wilmington, Ohio, United States
 KIML	IML	IML	Imperial Municipal Airport	Imperial, Nebraska, United States
@@ -2679,7 +2673,7 @@ KMZJ	MZJ	MZJ	Pinal Airpark	Marana, Arizona, United States
 KMZZ	MZZ	MZZ	Marion Municipal Airport	Marion, Indiana, United States
 KNBG	NBG	NBG	NAS JRB New Orleans (Alvin Callender Field)	New Orleans, Louisiana, United States
 KNBJ	NHX	NBJ	NOLF Barin (FAA: NBJ)	Foley, Alabama, United States
-KNBW	NBW	NBW	NAS Guantanamo Bay	Guantanamo Bay, Cuba
+MUGM	NBW	NBW	NAS Guantanamo Bay	Guantanamo Bay, Cuba
 KNDY	DGN	NDY	Dahlgren Naval Surface Warfare Center (FAA: NDY)	Dahlgren, Virginia, United States
 KNEL	NEL	NEL	NAES Lakehurst (Maxfield Field)	Lakehurst, New Jersey, United States
 KNEN	NEN	NEN	NOLF Whitehouse	Jacksonville, Florida, United States
@@ -2760,7 +2754,7 @@ KOOA	OOA	OOA	Oskaloosa Municipal Airport	Oskaloosa, Iowa, United States
 KOPF	OPF	OPF	Opa-locka Airport	Miami, Florida, United States
 KOPL	OPL	OPL	St. Landry Parish Airport (Ahart Field)	Opelousas, Louisiana, United States
 KOQN	OQN	OQN	Brandywine Airport	West Chester, Pennsylvania, United States
-KORC	ORC	ORC	Orange City Municipal Airport	Orange City, Iowa, United States
+KORC		ORC	Orange City Municipal Airport	Orange City, Iowa, United States
 KORD	ORD	ORD	O'Hare International Airport (formerly Orchard Depot Field)	Chicago, Illinois, United States
 KORF	ORF	ORF	Norfolk International Airport	Norfolk, Virginia (near Virginia Beach and Williamsburg), United States
 KORH	ORH	ORH	Worcester Regional Airport	Worcester, Massachusetts, United States
@@ -2776,7 +2770,7 @@ KOTH	OTH	OTH	North Bend Municipal Airport	North Bend, Oregon, United States
 KOTM	OTM	OTM	Ottumwa Industrial Airport	Ottumwa, Iowa, United States
 KOUN	OUN	OUN	University of Oklahoma Westheimer Airport	Norman, Oklahoma, United States
 KOVE	OVE	OVE	Oroville Municipal Airport	Oroville, California, United States
-KOVL	OVL	OVL	Olivia Regional Airport	Olivia, Minnesota, United States
+KOVL		OVL	Olivia Regional Airport	Olivia, Minnesota, United States
 KOWA	OWA	OWA	Owatonna Degner Regional Airport	Owatonna, Minnesota, United States
 KOWB	OWB	OWB	Owensboro-Daviess County Airport	Owensboro, Kentucky, United States
 KOWD	OWD	OWD	Norwood Memorial Airport	Norwood, Massachusetts, United States
@@ -2846,10 +2840,9 @@ KPOH	POH	POH	Pocahontas Municipal Airport	Pocahontas, Iowa, United States
 KPOU	POU	POU	Dutchess County Airport	Poughkeepsie, New York, United States
 KPOY	POY	POY	Powell Municipal Airport	Powell, Wyoming, United States
 KPPA	PPA	PPA	Perry Lefors Field	Pampa, Texas, United States
-KPPE	PPE	PPE	Mar de Cortés International Airport	La Jolla de Cortes, Sonora, Mexico
+MMPE	PPE		Punta Peñasco (Mar de Cortés) International Airport	La Jolla de Cortes, Sonora, Mexico
 KPPF	PPF	PPF	Tri-City Airport	Parsons, Kansas, United States
 KPPO	LPO	PPO	La Porte Municipal Airport (FAA: PPO)	La Porte, Indiana, United States
-KPPO	PPO	PPO	La Porte Municipal Airport	La Porte, Indiana, United States
 KPQI	PQI	PQI	Northern Maine Regional Airport at Presque Isle	Presque Isle, Maine, United States
 KPQL	PGL	PQL	Trent Lott International Airport (FAA: PQL)	Pascagoula, Mississippi, United States
 KPRB	PRB	PRB	Paso Robles Municipal Airport	Paso Robles, California, United States
@@ -3194,7 +3187,7 @@ KWRB	WRB	WRB	Robins Air Force Base	Warner Robins, Georgia, United States
 KWRI	WRI	WRI	McGuire Air Force Base	Wrightstown, New Jersey, United States
 KWRL	WRL	WRL	Worland Municipal Airport	Worland, Wyoming, United States
 KWSD	WSD	WSD	Condron Army Airfield	White Sands, New Mexico, United States
-KWST	WST	WST	Weston Airport	Leixlip, Irland
+KWST	WST	WST	Westerly State Airport	Westerly, Rhode Island, United States
 KWVI	WVI	WVI	Watsonville Municipal Airport	Watsonville, California, United States
 KWVL	WVL	WVL	Waterville Robert LaFleur Airport	Waterville, Maine, United States
 KWWD	WWD	WWD	Cape May Airport	Wildwood, New Jersey, United States
@@ -3232,7 +3225,6 @@ LDZD	ZAD		Zadar Airport	Zadar, Croatia
 LEAL	ALC		El Altet Airport	Alicante, Spain
 LEAM	LEI		Almería International Airport	Almería, Spain
 LEAS	OVD		Asturias Airport (Oviedo Airport)	Oviedo, Asturias, Spain
-LEBA	OBD		Córdoba Airport	Córdoba, Spain
 LEBA	ODB		Córdoba Airport	Córdoba, Spain
 LEBB	BIO		Bilbao Airport	Bilbao, Spain
 LEBG	RGS		Burgos Airport	Burgos, Spain
@@ -3384,7 +3376,7 @@ LFRT	SBK		Saint-Brieuc - Armor Airport	Saint-Brieuc, France
 LFRU	MXN		Morlaix Ploujean Airport	Morlaix, France
 LFRV	VNE		Vannes-Meucon Airport	Vannes, France
 LFRZ	SNR		Saint-Nazaire Montoir Airport	Saint-Nazaire, France
-LFSB	BSL		EuroAirport Basel-Mulhouse-Freiburg	Basel, Switzerland
+	BSL		EuroAirport Basel-Mulhouse-Freiburg	Basel, Switzerland
 LFSB	MLH		EuroAirport Basel-Mulhouse-Freiburg	Mulhouse, France
 LFSD	DIJ		Dijon-Bourgogne Airport	Dijon, France
 LFSF	MZM		Frescaty Airport	Metz, France
@@ -3876,11 +3868,10 @@ MYBC	CCZ		Chub Cay International Airport	Chub Cay, Berry Islands, Bahamas
 MYBG	GHC		Great Harbour Cay Airport	Bullock Harbour, Berry Islands, Bahamas
 MYBS	BIM		South Bimini Airport	Bimini, Bahamas
 MYCA	ATC		Arthur's Town Airport	Arthur's Town, Cat Island, Bahamas
-MYCB	NET		New Bight Airport	New Bight, Cat Island, Bahamas
-MYCB	TBI		New Bight Airport	New Bight, Cat Island, Bahamas
+MYCB	TBI		The Bight Airport	New Bight, Cat Island, Bahamas
+MYCX	CAT		Cutlass Bay Airport	Cat Island, Bahamas
 MYCC	CXY		Cat Cay Airport	Cat Cay, Bimini Islands, Bahamas
 MYCI	CRI		Colonel Hill Airport (Crooked Island Airport)	Colonel Hill, Crooked Island, Bahamas
-MYCX	CAT		Cutlass Bay Airport	Cat Island, Bahamas
 MYEC	CEL		Cape Eleuthera Airport	Cape Eleuthera, Eleuthera, Bahamas
 MYEF	GGT		Exuma International Airport	Moss Town, Great Exuma Island, Bahamas
 MYEH	ELH		North Eleuthera Airport	North Eleuthera, Eleuthera Island, Bahamas
@@ -4084,7 +4075,7 @@ OEGN	GIZ		Prince Abdullah Bin Abdulaziz Airport (Gizan Airport)	Jazan, Saudi Ara
 OEGS	ELQ		Gassim Regional Airport	Buraidah, Saudi Arabia
 OEHL	HAS		Ha'il Regional Airport	Ha'il, Saudi Arabia
 OEJN	JED		King Abdulaziz International Airport	Jeddah, Saudi Arabia
-OEKK	HBT		Hafar Al-Batin Domestic Airport	King Khalid Military City / Hafar Al-Batin, Saudi Arabia
+	HBT		Hafar Al-Batin Domestic Airport	King Khalid Military City / Hafar Al-Batin, Saudi Arabia
 OEKK	KMC		King Khaled Military City Airport	King Khaled Military City, Saudi Arabia
 OEKM	KMX		King Khaled Air Base	Khamis Mushait, Saudi Arabia
 OEMA	MED		Prince Mohammad Bin Abdulaziz Airport	Medina, Saudi Arabia
@@ -4227,11 +4218,11 @@ PAAL	PML	1AK3	Port Moller Airport (FAA: 1AK3)	Cold Bay, Alaska, United States
 PAAP	PTD	AHP	Port Alexander Seaplane Base (FAA: AHP)	Port Alexander, Alaska, United States
 PAAQ	PAQ		Palmer Municipal Airport	Palmer, Alaska, United States
 PAAT	ATU		Casco Cove Coast Guard Station	Attu Island, Alaska, United States
-PABA	BTI		Barter Island LRRS Airport	Barter Island, Alaska, United States
+PABA	BTI	BTI	Barter Island LRRS Airport	Barter Island, Alaska, United States
 PABE	BET		Bethel Airport	Bethel, Alaska, United States
 PABG	BVU	BLG	Beluga Airport (FAA: BLG)	Beluga, Alaska, United States
-PABI	BIG		Allen Army Airfield (formerly Big Delta Army Airfield)	Fort Greely, Delta Junction, Alaska, United States
-PABI	DJN	D66	Delta Junction Airport (FAA: D66)	Delta Junction, Alaska, United States
+PABI		BIG	Allen Army Airfield (formerly Big Delta Army Airfield)	Fort Greely, Delta Junction, Alaska, United States
+	DJN	D66	Delta Junction Airport (FAA: D66)	Delta Junction, Alaska, United States
 PABK	MTX	MTF	Metro Field (FAA: MTF)	Fairbanks, Alaska, United States
 PABL	BKC	BVK	Buckland Airport (FAA: BVK)	Buckland, Alaska, United States
 PABM	BMX	37AK	Big Mountain Air Force Station (FAA: 37AK)	Big Mountain, Alaska, United States
@@ -4428,7 +4419,7 @@ PGSN	SPN	GSN	Saipan International Airport (Francisco C. Ada) (FAA: GSN)	Saipan I
 PGUA	UAM		Andersen Air Force Base	Agana, Guam
 PGUM	GUM		Antonio B. Won Pat International Airport (Guam International)	Hagåtña, Guam
 PGWT	TIQ	TNI	Tinian International Airport (West Tinian) (FAA: TNI)	Tinian Island, Northern Mariana Islands
-PGWT	TNI		Satna Airport	Satna, India
+VIST	TNI		Satna Airport	Satna, India
 PHBK	BKH		Barking Sands PMRF	Kekaha, Hawaii, United States
 PHDH	HDH		Dillingham Airfield	Mokuleia, Hawaii, United States
 PHHI	HHI		Wheeler Army Airfield	Wahiawa, Hawaii, United States
@@ -4689,8 +4680,8 @@ SAVR	ARR		Alto Río Senguer Airport	Alto Río Senguer, Chubut, Argentina
 SAVT	REL		Almirante Marco Andrés Zar Airport	Trelew, Chubut, Argentina
 SAVV	VDM		Gobernador Edgardo Castello Airport	Viedma, Argentina
 SAVY	PMY		El Tehuelche Airport	Puerto Madryn, Argentina
-SAWA	FTE		Comandante Armando Tola International Airport	El Calafate, Santa Cruz Province, Argentina
 SAWA	ING		Lago Argentino Airport (closed 2006)	El Calafate, Santa Cruz, Argentina
+SAWC	FTE		Comandante Armando Tola International Airport	El Calafate, Santa Cruz Province, Argentina
 SAWD	PUD		Puerto Deseado Airport	Puerto Deseado, Santa Cruz Province, Argentina
 SAWE	RGA		Hermes Quijada International Airport	Río Grande, Tierra del Fuego, Argentina
 SAWG	RGL		Piloto Civil Norberto Fernández International Airport	Río Gallegos, Santa Cruz, Argentina
@@ -4839,7 +4830,7 @@ SCCI	PUQ		Carlos Ibanez Del Campo International Airport	Punta Arenas, Chile
 SCCY	GXQ		Teniente Vidal Airport	Coyhaique, Chile
 SCDA	IQQ		Diego Aracena International Airport	Iquique, Chile
 SCEL	SCL		Comodoro Arturo Merino Benítez International Airport	Santiago, Chile
-SCEL	SDC		Sandcreek Airport	Sandcreek Village, Guyana
+	SDC		Sandcreek Airport	Sandcreek Village, Guyana
 SCES	ESR		El Salvador Bajo Airport	El Salvador, Chile
 SCFA	ANF		Cerro Moreno International Airport	Antofagasta, Chile
 SCFI	FRT		Frutillar Airport	Frutillar, Chile
@@ -5131,7 +5122,7 @@ SVMI	CCS		Simón Bolívar International Airport	Maiquetia (near Caracas), Venezu
 SVMT	MUN		Maturín Airport	Maturín, Venezuela
 SVON	CBS		Oro Negro Airport	Cabimas, Venezuela
 SVPA	PYH		Cacique Aramare Airport	Puerto Ayacucho, Venezuela
-SVPR	CGU		General Manuel Carlos Piar Airport	Ciudad Guayana, Venezuela
+	CGU		General Manuel Carlos Piar Airport	Ciudad Guayana, Venezuela
 SVPR	PZO		Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Venezuela
 SVRS	LRV		Los Roques Airport	Los Roques, Venezuela
 SVSA	SVZ		Juan Vicente Gómez International Airport	San Antonio del Táchira, Venezuela
@@ -5528,7 +5519,7 @@ VEKW	IXN		Khowai Airport	Khowai, India
 VELR	IXI		Lilabari Airport (North Lakhimpur Airport)	Assam, India
 VEMH	LDA		Malda Airport	Malda, India
 VEMN	DIB		Dibrugarh Airport (Chabua Airport)	Dibrugarh, India
-VEMN	MOH		Mohanbari Airport	Mohanbari, India
+	MOH		Mohanbari Airport	Mohanbari, India
 VEMR	DMU		Dimapur Airport	Dimapur, India
 VEMZ	MZU		Muzzafarpur Airport	Muzzafarpur, India
 VEPG	IXT		Pasighat Airport (Passighat Airport)	Pasighat (Passighat), India
@@ -5657,7 +5648,6 @@ VTBH	KKM		Sa Pran Nak Airport	Lop Buri, Thailand
 VTBK	KDT		Kamphaeng Saen Airport	Nakhon Pathom, Thailand
 VTBO	TDX		Trat Airport	Trat, Thailand
 VTBS	BKK		Suvarnabhumi Airport (New Bangkok International Airport)	Bangkok, Thailand
-VTBS	NBK		Suvarnabhumi International Airport	Bangkok, Thailand
 VTBU	UTP		U-Tapao International Airport	Rayong, Thailand
 VTCC	CNX		Chiang Mai International Airport	Chiang Mai, Thailand
 VTCH	HGN		Mae Hong Son Airport	Mae Hong Son, Thailand
@@ -5740,7 +5730,7 @@ WABL	ILA		Illaga Airport	Illaga, Indonesia
 WABN	KOX		Kokonao Airport	Kokonao, Indonesia
 WABO	ZRI		Serui Airport	Serui, Indonesia
 WABT	EWI		Enarotali Airport	Enarotali, Indonesia
-WADA	AMI		Selaparang Airport (closed 2011)	Mataram, Indonesia
+WADA			Selaparang Airport (closed 2011)	Mataram, Indonesia
 WADB	BMU		Bima Airport	Bima, Indonesia
 WADD	DPS		Ngurah Rai International Airport	Denpasar, Bali, Indonesia
 WADL	LOP		Lombok International Airport (Bandara Internasional Lombok)	Mataram (near Praya), Lombok, Indonesia
@@ -6103,7 +6093,7 @@ YKMP	KPS		Kempsey Airport	Kempsey, New South Wales, Australia
 YKNG	KNI		Katanning Airport	Katanning, Western Australia, Australia
 YKOW	KWM		Kowanyama Airport	Kowanyama, Queensland, Australia
 YKPR	KPP		Kalpowar Airport	Kalpowar, Queensland, Australia
-YKPT	PKT		Port Keats Airfield	Wadeye, Northern Territory, Australia
+YPKT	PKT		Port Keats Airfield	Wadeye, Northern Territory, Australia
 YKRY	KGY		Kingaroy Airport	Kingaroy, Queensland, Australia
 YKSC	KGC		Kingscote Airport	Kingscote, South Australia, Australia
 YKUB	KUG		Kubin Airport	Kubin, Moa Island, Queensland, Australia
@@ -6182,7 +6172,7 @@ YMWT	MWT		Moolawatana Airport	Moolawatana, South Australia, Australia
 YMWX	MXD		Marion Downs Airport	Marion Downs, Queensland, Australia
 YMYB	MBH		Maryborough Airport	Maryborough, Queensland, Australia
 YMYR	MYO		Camballin Airport	Myroodah Station, Western Australia, Australia
-YNSF	NLK		Norfolk Island Airport	Norfolk Island, Australia
+YSNF	NLK		Norfolk Island Airport	Norfolk Island, Australia
 YNWN	ZNE		Newman Airport	Newman, Western Australia, Australia
 YOLA	XCO		Colac Airport	Colac, Victoria, Australia
 YOOM	MOO		Moomba Airport	Moomba, South Australia, Australia
@@ -6268,7 +6258,6 @@ ZGDY	DYG		Zhangjiajie Airport (formerly Dayong Airport)	Zhangjiajie, Hunan, Chin
 ZGFS	FUO		Foshan Airport	Foshan, Guangdong, China
 ZGGG	CAN		Guangzhou Baiyun International Airport	Guangzhou, Guangdong, China
 ZGHA	CSX		Changsha Huanghua International Airport	Changsha, Hunan, China
-ZGHA	HHA		Changsha Huanghua International Airport	Changsha, Hunan, China
 ZGHY	HNY		Hengyang Airport	Hengyang, Hunan, China
 ZGHZ	HUZ		Huizhou Airport	Huizhou, Guangdong, China
 ZGKL	KWL		Guilin Liangjiang International Airport	Guilin, Guangxi, China
@@ -6351,7 +6340,7 @@ ZSJJ	JIU		Jiujiang Lushan Airport	Jiujiang, Jiangxi, China
 ZSJN	TNA		Jinan Yaoqiang International Airport	Jinan, Shandong, China
 ZSJU	JUZ		Quzhou Airport	Quzhou, Zhejiang, China
 ZSLG	LYG		Lianyungang Baitabu Airport	Lianyungang, Jiangsu, China
-ZSLO	LCX		Longyan Guanzhishan Airport	Longyan, Fujian, China
+ZSLD	LCX		Longyan Guanzhishan Airport	Longyan, Fujian, China
 ZSLQ	HYN		Taizhou Luqiao Airport	Taizhou, Zhejiang, China
 ZSLY	LYI		Linyi Shubuling Airport	Linyi, Shandong, China
 ZSNB	NGB		Ningbo Lishe International Airport	Ningbo, Zhejiang, China
@@ -7062,10 +7051,10 @@ ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	KCC		Coffman Cove Seaplane Base	Coffman Cove, Alaska, United States
 	KCD		Kamur Airport	Kamur, Indonesia
 	KCF		Kadanwari Airport	Kadanwari, Pakistan
-	KCG		Chignik Fisheries Airport (closed)	Chignik, Alaska, United States.
+	KCG	KCG	Chignik Fisheries Airport (closed)	Chignik, Alaska, United States.
 	KCI		Kon Airport	Kon, Indonesia
 	KCJ		Komaio Airport	Komaio, Papua New Guinea
-	KCL		Chignik Lagoon Airport (Chignik Flats Airport)	Chignik Lagoon, Alaska, United States
+	KCL	KCL	Chignik Lagoon Airport (Chignik Flats Airport)	Chignik Lagoon, Alaska, United States
 	KCN		Chernofski Harbor Seaplane Base	Chernofski Harbor, Alaska, United States
 	KCP		Kamenets-Podolskiy Airport	Kamianets-Podilskyi, Ukraine
 	KCQ	A79	Chignik Lake Airport (FAA: A79)	Chignik Lake, Alaska, United States
