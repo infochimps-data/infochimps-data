@@ -69,8 +69,24 @@ Any corrections will be gratefully received.
 * 8274: IATA was FRP, should be FPR for St Lucie County International 
 * 8275: bogus ICAO -- ALX_
 
-In case you're wondering, the ICAO is not *always* the FAA plus a 'K' : the (missing Beluga airport) has iata BVU / icao PABG / faa BLG. Note the near-conflict between Beluga (BVU/PABG/BLG) with Boulder City Municipal Airport (BLD/KBVU/BVU) -- Beluga's IATA is Boulder's FAA, and Beluga's ICAO doesn't match its FAA.
+In case you're wondering: 
 
+From [airportguide.com](http://airportguide.com/airport_ids_paper.html), "Where a four-letter ICAO code starting with K exists for a location, its FAA three-letter code is identical to the last three letters of the ICAO code (eg KMIA/MIA)"
+
+From Wikipedia:
+
+> > In the United States, the IATA identifier usually equals the FAA identifier, but this is not always the case. A prominent example is Sawyer International Airport, Michigan, which uses the FAA identifier SAW and the IATA identifier MQT.
+>
+> **Transplanted identifiers**: There have been rare instances where identifiers have been transplanted to new locations, mainly due to the closure of the original airport. Prominent examples are DEN/KDEN, which migrated from Stapleton International Airport to Denver International Airport in 1996, and AUS/KAUS, which migrated from Austin Mueller Municipal Airport to Austin-Bergstrom International Airport in 1999. Both of these cases occurred because the original locations were closed.
+>
+> Occasionally a code will be discontinued entirely, with no successor. Sometimes this is a small airport that has closed, such as Stone Mountain Airport, whose identifier 00A is now used for an R/C heliport in Bensalem, Pennsylvania. In another case, the identifiers for Idlewild Airport in New York were changed to JFK and KJFK when it was renamed after John F. Kennedy, and its original IDL and KIDL were later reused for Indianola Municipal Airport in Indianola, Mississippi.
+>
+> Transplanted identifiers tend to be poorly documented, and can cause problems in data systems and software which process historical records and in research and legal work. A similar problem also exists for broadcast callsigns.
+>
+
+IATA use QBC for Bella Coola, BC, whereas the Transport Canada use YBD).
+eg MIA), but may be different (eg IATA use GNY for Granby, Colorado, whereas the FAA use GNB).
+The FAA may use a code for an airport in the USA while IATA uses the same code for a completely different airport elsewhere (eg the FAA use BAK for Columbus, Indiana, whereas IATA use the same code for Baku, Azerbaijan). 
 
         iata	icao	faa
         BVU	PABG	BLG	IATA: BVU, ICAO: PABG, FAA LID: BLG
@@ -79,6 +95,11 @@ In case you're wondering, the ICAO is not *always* the FAA plus a 'K' : the (mis
         LKE		W55	IATA: LKE,             FAA LID: W55
         UST	KSGJ	SGJ	IATA: UST, ICAO: KSGJ, FAA LID: SGJ
 	BLD	KBVU	BVU	IATA: BLD, ICAO: KBVU, FAA LID: BVU
+        QBC		YBD
+        GNY		GNB
+        MQT		SAW
+        		BAK
+        BAK
 
-	ruby -ne 'puts $_ unless $_ =~ /^[\-\~A-Z0-9]{1,3}\t[A-Z]{4}\t([A-Z]*)\t([^\t]+)(?:\t([^\t]*))?/'
+
 
