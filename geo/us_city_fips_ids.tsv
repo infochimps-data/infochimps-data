@@ -1,0 +1,1315 @@
+fips	state	City Name                                      	Type	CBSA Parent
+f00100	22   	Abbeville, LA                              	Cit  	10020
+f00100	46   	Aberdeen, SD                               	Cit  	10100
+f00100	53   	Aberdeen, WA                               	Cit  	10140
+f01000	48   	Abilene, TX                                	Cit  	10180
+f00200	40   	Ada, OK                                    	Cit  	10220
+f00358	72   	Adjuntas, PR                               	Cit  	10260
+f00440	26   	Adrian, MI                                 	Cit  	10300
+f00745	72   	Aguadilla, PR                              	Cit  	10380
+f36478	72   	Isabela, PR                                	Cit  	10380
+f77500	72   	San Sebastián, PR                          	Cit  	10380
+f01000	39   	Akron, OH                                  	Cit  	10420
+f01780	35   	Alamogordo, NM                             	Cit  	10460
+f01052	13   	Albany, GA                                 	Cit  	10500
+f01000	41   	Albany, OR                                 	Cit  	10540
+f41650	41   	Lebanon, OR                                	Cit  	10540
+f01000	36   	Albany, NY                                 	Cit  	10580
+f65508	36   	Schenectady, NY                            	Cit  	10580
+f75484	36   	Troy, NY                                   	Cit  	10580
+f00680	37   	Albemarle, NC                              	Cit  	10620
+f00694	27   	Albert Lea, MN                             	Cit  	10660
+f00988	01   	Albertville, AL                            	Cit  	10700
+f02000	35   	Albuquerque, NM                            	Cit  	10740
+f01132	01   	Alexander City, AL                         	Cit  	10760
+f00975	22   	Alexandria, LA                             	Cit  	10780
+f00928	27   	Alexandria, MN                             	Cit  	10820
+f01852	48   	Alice, TX                                  	Cit  	10860
+f38640	26   	Holland, MI (part)                         	Cit  	10880
+f02000	42   	Allentown, PA                              	Cit  	10900
+f06088	42   	Bethlehem, PA                              	Cit  	10900
+f01540	26   	Alma, MI                                   	Cit  	10940
+f01740	26   	Alpena, MI                                 	Cit  	10980
+f02184	42   	Altoona, PA                                	Cit  	11020
+f01700	40   	Altus, OK                                  	Cit  	11060
+f03000	48   	Amarillo, TX                               	Cit  	11100
+f02116	13   	Americus, GA                               	Cit  	11140
+f01855	19   	Ames, IA                                   	Cit  	11180
+f02066	36   	Amsterdam, NY                              	Cit  	11220
+f03000	02   	Anchorage, AK                              	Cit  	11260
+f01468	18   	Anderson, IN                               	Cit  	11300
+f01360	45   	Anderson, SC                               	Cit  	11340
+f03216	48   	Andrews, TX                                	Cit  	11380
+f01666	18   	Angola, IN                                 	Cit  	11420
+f03000	26   	Ann Arbor, MI                              	Cit  	11460
+f01852	01   	Anniston, AL                               	Cit  	11500
+f57576	01   	Oxford, AL                                 	Cit  	11500
+f02375	55   	Appleton, WI                               	Cit  	11540
+f01750	12   	Arcadia, FL                                	Cit  	11580
+f02600	40   	Ardmore, OK                                	Cit  	11620
+f01870	05   	Arkadelphia, AR                            	Cit  	11660
+f02140	37   	Asheville, NC                              	Cit  	11700
+f02568	39   	Ashland, OH                                	Cit  	11740
+f02638	39   	Ashtabula, OH                              	Cit  	11780
+f03150	41   	Astoria, OR                                	Cit  	11820
+f02900	20   	Atchison, KS                               	Cit  	11860
+f02736	39   	Athens, OH                                 	Cit  	11900
+f02320	47   	Athens, TN                                 	Cit  	11940
+f04504	48   	Athens, TX                                 	Cit  	11980
+f03440	13   	Athens-Clarke County (balance), GA         	Cit  	12020
+f04000	13   	Atlanta, GA                                	Cit  	12060
+f68516	13   	Sandy Springs, GA                          	Cit  	12060
+f49756	13   	Marietta, GA                               	Cit  	12060
+f02080	34   	Atlantic City, NJ                          	Cit  	12100
+f29430	34   	Hammonton, NJ                              	Cit  	12100
+f02674	18   	Auburn, IN                                 	Cit  	12140
+f03078	36   	Auburn, NY                                 	Cit  	12180
+f03076	01   	Auburn, AL                                 	Cit  	12220
+f57048	01   	Opelika, AL                                	Cit  	12220
+f04204	13   	Augusta-Richmond County (balance), GA      	Cit  	12260
+f02100	23   	Augusta, ME                                	Cit  	12300
+f80740	23   	Waterville, ME                             	Cit  	12300
+f02908	27   	Austin, MN                                 	Cit  	12380
+f05000	48   	Austin, TX                                 	Cit  	12420
+f63500	48   	Round Rock, TX                             	Cit  	12420
+f65600	48   	San Marcos, TX                             	Cit  	12420
+f04896	13   	Bainbridge, GA                             	Cit  	12460
+f03526	06   	Bakersfield, CA                            	Cit  	12540
+f18394	06   	Delano, CA                                 	Cit  	12540
+f04000	24   	Baltimore, MD                              	Cit  	12580
+f78425	24   	Towson, MD                                 	Cit  	12580
+f02795	23   	Bangor, ME                                 	Cit  	12620
+f04625	55   	Baraboo, WI                                	Cit  	12660
+f03690	25   	Barnstable Town, MA                        	Cit  	12700
+f03175	50   	Barre, VT                                  	Cit  	12740
+f04450	40   	Bartlesville, OK                           	Cit  	12780
+f04685	22   	Bastrop, LA                                	Cit  	12820
+f04715	36   	Batavia, NY                                	Cit  	12860
+f04030	05   	Batesville, AR                             	Cit  	12900
+f05000	22   	Baton Rouge, LA                            	Cit  	12940
+f05920	26   	Battle Creek, MI                           	Cit  	12980
+f06020	26   	Bay City, MI                               	Cit  	13020
+f05984	48   	Bay City, TX                               	Cit  	13060
+f03390	31   	Beatrice, NE                               	Cit  	13100
+f07000	48   	Beaumont, TX                               	Cit  	13140
+f58820	48   	Port Arthur, TX                            	Cit  	13140
+f05900	55   	Beaver Dam, WI                             	Cit  	13180
+f05332	54   	Beckley, WV                                	Cit  	13220
+f04114	18   	Bedford, IN                                	Cit  	13260
+f07192	48   	Beeville, TX                               	Cit  	13300
+f05130	39   	Bellefontaine, OH                          	Cit  	13340
+f05280	53   	Bellingham, WA                             	Cit  	13380
+f05068	27   	Bemidji, MN                                	Cit  	13420
+f05800	41   	Bend, OR                                   	Cit  	13460
+f05680	45   	Bennettsville, SC                          	Cit  	13500
+f04750	50   	Bennington, VT                             	Cit  	13540
+f05140	33   	Berlin, NH                                 	Cit  	13620
+f08300	26   	Big Rapids, MI                             	Cit  	13660
+f08236	48   	Big Spring, TX                             	Cit  	13700
+f06550	30   	Billings, MT                               	Cit  	13740
+f06607	36   	Binghamton, NY                             	Cit  	13780
+f07000	01   	Birmingham, AL                             	Cit  	13820
+f35896	01   	Hoover, AL                                 	Cit  	13820
+f06798	06   	Bishop, CA                                 	Cit  	13860
+f07200	38   	Bismarck, ND                               	Cit  	13900
+f07840	16   	Blackfoot, ID                              	Cit  	13940
+f07784	51   	Blacksburg, VA                             	Cit  	13980
+f16608	51   	Christiansburg, VA                         	Cit  	13980
+f65392	51   	Radford, VA                                	Cit  	13980
+f05860	18   	Bloomington, IN                            	Cit  	14020
+f06613	17   	Bloomington, IL                            	Cit  	14060
+f53234	17   	Normal, IL                                 	Cit  	14060
+f07128	42   	Bloomsburg, PA                             	Cit  	14100
+f05888	42   	Berwick, PA                                	Cit  	14100
+f08524	54   	Bluefield, WV                              	Cit  	14140
+f07330	05   	Blytheville, AR                            	Cit  	14180
+f08150	22   	Bogalusa, LA                               	Cit  	14220
+f08830	16   	Boise City, ID                             	Cit  	14260
+f56260	16   	Nampa, ID                                  	Cit  	14260
+f09328	48   	Bonham, TX                                 	Cit  	14300
+f07480	19   	Boone, IA                                  	Cit  	14340
+f07080	37   	Boone, NC                                  	Cit  	14380
+f09556	48   	Borger, TX                                 	Cit  	14420
+f07000	25   	Boston, MA                                 	Cit  	14460
+f11000	25   	Cambridge, MA                              	Cit  	14460
+f55745	25   	Quincy, MA                                 	Cit  	14460
+f45560	25   	Newton, MA                                 	Cit  	14460
+f24960	25   	Framingham, MA                             	Cit  	14460
+f72600	25   	Waltham, MA                                	Cit  	14460
+f52490	25   	Peabody, MA                                	Cit  	14460
+f07850	08   	Boulder, CO                                	Cit  	14500
+f08902	21   	Bowling Green, KY                          	Cit  	14540
+f08950	30   	Bozeman, MT                                	Cit  	14580
+f08040	42   	Bradford, PA                               	Cit  	14620
+f07300	27   	Brainerd, MN                               	Cit  	14660
+f07966	29   	Branson, MO                                	Cit  	14700
+f07695	53   	Bremerton, WA                              	Cit  	14740
+f64365	53   	Silverdale, WA                             	Cit  	14740
+f10156	48   	Brenham, TX                                	Cit  	14780
+f07720	37   	Brevard, NC                                	Cit  	14820
+f08000	09   	Bridgeport, CT                             	Cit  	14860
+f73000	09   	Stamford, CT                               	Cit  	14860
+f55990	09   	Norwalk, CT                                	Cit  	14860
+f18430	09   	Danbury, CT                                	Cit  	14860
+f74260	09   	Stratford, CT                              	Cit  	14860
+f08460	49   	Brigham City, UT                           	Cit  	14940
+f08820	28   	Brookhaven, MS                             	Cit  	15020
+f08650	41   	Brookings, OR                              	Cit  	15060
+f07580	46   	Brookings, SD                              	Cit  	15100
+f08920	47   	Brownsville, TN                            	Cit  	15140
+f10768	48   	Brownsville, TX                            	Cit  	15180
+f32372	48   	Harlingen, TX                              	Cit  	15180
+f10780	48   	Brownwood, TX                              	Cit  	15220
+f11560	13   	Brunswick, GA                              	Cit  	15260
+f10030	39   	Bucyrus, OH                                	Cit  	15340
+f11000	36   	Buffalo, NY                                	Cit  	15380
+f15000	36   	Cheektowaga, NY                            	Cit  	15380
+f74183	36   	Tonawanda, NY                              	Cit  	15380
+f51055	36   	Niagara Falls, NY                          	Cit  	15380
+f11260	16   	Burley, ID                                 	Cit  	15420
+f09550	19   	Burlington, IA                             	Cit  	15460
+f09060	37   	Burlington, NC                             	Cit  	15500
+f10675	50   	Burlington, VT                             	Cit  	15540
+f66175	50   	South Burlington, VT                       	Cit  	15540
+f11397	30   	Butte-Silver Bow (balance), MT             	Cit  	15580
+f12320	26   	Cadillac, MI                               	Cit  	15620
+f12456	13   	Calhoun, GA                                	Cit  	15660
+f12400	24   	Cambridge, MD                              	Cit  	15700
+f10996	39   	Cambridge, OH                              	Cit  	15740
+f10720	05   	Camden, AR                                 	Cit  	15780
+f12160	21   	Campbellsville, KY                         	Cit  	15820
+f11810	08   	Cañon City, CO                             	Cit  	15860
+f11007	17   	Canton, IL                                 	Cit  	15900
+f12000	39   	Canton, OH                                 	Cit  	15940
+f48244	39   	Massillon, OH                              	Cit  	15940
+f10275	12   	Cape Coral, FL                             	Cit  	15980
+f24125	12   	Fort Myers, FL                             	Cit  	15980
+f11242	29   	Cape Girardeau, MO                         	Cit  	16020
+f35648	29   	Jackson, MO                                	Cit  	16020
+f11163	17   	Carbondale, IL                             	Cit  	16060
+f12150	35   	Carlsbad, NM                               	Cit  	16100
+f05220	35   	Artesia, NM                                	Cit  	16100
+f09700	32   	Carson City, NV                            	Cit  	16180
+f13150	56   	Casper, WY                                 	Cit  	16220
+f11320	49   	Cedar City, UT                             	Cit  	16260
+f12000	19   	Cedar Rapids, IA                           	Cit  	16300
+f14500	13   	Cedartown, GA                              	Cit  	16340
+f12868	39   	Celina, OH                                 	Cit  	16380
+f13978	21   	Central City, KY                           	Cit  	16420
+f12164	17   	Centralia, IL                              	Cit  	16460
+f11160	53   	Centralia, WA                              	Cit  	16500
+f12536	42   	Chambersburg, PA                           	Cit  	16540
+f12385	17   	Champaign, IL                              	Cit  	16580
+f77005	17   	Urbana, IL                                 	Cit  	16580
+f14600	54   	Charleston, WV                             	Cit  	16620
+f12567	17   	Charleston, IL                             	Cit  	16660
+f47553	17   	Mattoon, IL                                	Cit  	16660
+f13330	45   	Charleston, SC                             	Cit  	16700
+f50875	45   	North Charleston, SC                       	Cit  	16700
+f70270	45   	Summerville, SC                            	Cit  	16700
+f12000	37   	Charlotte, NC                              	Cit  	16740
+f25580	37   	Gastonia, NC                               	Cit  	16740
+f61405	45   	Rock Hill, SC                              	Cit  	16740
+f14100	37   	Concord, NC                                	Cit  	16740
+f14968	51   	Charlottesville, VA                        	Cit  	16820
+f14000	47   	Chattanooga, TN                            	Cit  	16860
+f14095	45   	Chester, SC                                	Cit  	16900
+f13900	56   	Cheyenne, WY                               	Cit  	16940
+f14000	17   	Chicago, IL                                	Cit  	16980
+f38570	17   	Joliet, IL                                 	Cit  	16980
+f51622	17   	Naperville, IL                             	Cit  	16980
+f23074	17   	Elgin, IL                                  	Cit  	16980
+f27000	18   	Gary, IN                                   	Cit  	16980
+f24582	17   	Evanston, IL                               	Cit  	16980
+f02154	17   	Arlington Heights, IL                      	Cit  	16980
+f68003	17   	Schaumburg, IL                             	Cit  	16980
+f70122	17   	Skokie, IL                                 	Cit  	16980
+f19642	17   	Des Plaines, IL                            	Cit  	16980
+f35411	17   	Hoffman Estates, IL                        	Cit  	16980
+f13014	06   	Chico, CA                                  	Cit  	17020
+f14184	39   	Chillicothe, OH                            	Cit  	17060
+f15000	39   	Cincinnati, OH                             	Cit  	17140
+f49840	39   	Middletown, OH                             	Cit  	17140
+f12900	33   	Claremont, NH                              	Cit  	17200
+f15628	54   	Clarksburg, WV                             	Cit  	17220
+f13820	28   	Clarksdale, MS                             	Cit  	17260
+f15160	47   	Clarksville, TN                            	Cit  	17300
+f13945	06   	Clearlake, CA                              	Cit  	17340
+f14260	28   	Cleveland, MS                              	Cit  	17380
+f15400	47   	Cleveland, TN                              	Cit  	17420
+f16000	39   	Cleveland, OH                              	Cit  	17460
+f25256	39   	Elyria, OH                                 	Cit  	17460
+f49056	39   	Mentor, OH                                 	Cit  	17460
+f13000	12   	Clewiston, FL                              	Cit  	17500
+f14430	19   	Clinton, IA                                	Cit  	17540
+f16420	35   	Clovis, NM                                 	Cit  	17580
+f18719	72   	Coamo, PR                                  	Cit  	17620
+f16750	16   	Coeur d'Alene, ID                          	Cit  	17660
+f14600	20   	Coffeyville, KS                            	Cit  	17700
+f17020	26   	Coldwater, MI                              	Cit  	17740
+f15976	48   	College Station, TX                        	Cit  	17780
+f10912	48   	Bryan, TX                                  	Cit  	17780
+f16000	08   	Colorado Springs, CO                       	Cit  	17820
+f15670	29   	Columbia, MO                               	Cit  	17860
+f16000	45   	Columbia, SC                               	Cit  	17900
+f16540	47   	Columbia, TN                               	Cit  	17940
+f19000	13   	Columbus, GA                               	Cit  	17980
+f14734	18   	Columbus, IN                               	Cit  	18020
+f15380	28   	Columbus, MS                               	Cit  	18060
+f10110	31   	Columbus, NE                               	Cit  	18100
+f18000	39   	Columbus, OH                               	Cit  	18140
+f14200	33   	Concord, NH                                	Cit  	18180
+f14932	18   	Connersville, IN                           	Cit  	18220
+f16920	47   	Cookeville, TN                             	Cit  	18260
+f15250	41   	Coos Bay, OR                               	Cit  	18300
+f17362	21   	Corbin, KY                                 	Cit  	18340
+f19616	13   	Cordele, GA                                	Cit  	18380
+f15700	28   	Corinth, MS                                	Cit  	18420
+f19728	13   	Cornelia, GA                               	Cit  	18460
+f18256	36   	Corning, NY                                	Cit  	18500
+f17000	48   	Corpus Christi, TX                         	Cit  	18580
+f17060	48   	Corsicana, TX                              	Cit  	18620
+f18388	36   	Cortland, NY                               	Cit  	18660
+f15800	41   	Corvallis, OR                              	Cit  	18700
+f18868	39   	Coshocton, OH                              	Cit  	18740
+f15742	18   	Crawfordsville, IN                         	Cit  	18820
+f17022	06   	Crescent City, CA                          	Cit  	18860
+f15475	12   	Crestview, FL                              	Cit  	18880
+f24475	12   	Fort Walton Beach, FL                      	Cit  	18880
+f17325	12   	Destin, FL                                 	Cit  	18880
+f18540	47   	Crossville, TN                             	Cit  	18900
+f18650	22   	Crowley, LA                                	Cit  	18940
+f18976	01   	Cullman, AL                                	Cit  	18980
+f20752	51   	Culpeper, VA                               	Cit  	19020
+f21325	24   	Cumberland, MD                             	Cit  	19060
+f19000	48   	Dallas, TX                                 	Cit  	19100
+f27000	48   	Fort Worth, TX                             	Cit  	19100
+f04000	48   	Arlington, TX                              	Cit  	19100
+f58016	48   	Plano, TX                                  	Cit  	19100
+f37000	48   	Irving, TX                                 	Cit  	19100
+f13024	48   	Carrollton, TX                             	Cit  	19100
+f19972	48   	Denton, TX                                 	Cit  	19100
+f45744	48   	McKinney, TX                               	Cit  	19100
+f61796	48   	Richardson, TX                             	Cit  	19100
+f21380	13   	Dalton, GA                                 	Cit  	19140
+f18563	17   	Danville, IL                               	Cit  	19180
+f19882	21   	Danville, KY                               	Cit  	19220
+f21344	51   	Danville, VA                               	Cit  	19260
+f19648	01   	Daphne, AL                                 	Cit  	19300
+f25240	01   	Fairhope, AL                               	Cit  	19300
+f26992	01   	Foley, AL                                  	Cit  	19300
+f32272	01   	Gulf Shores, AL                            	Cit  	19300
+f19000	19   	Davenport, IA                              	Cit  	19340
+f49867	17   	Moline, IL                                 	Cit  	19340
+f65078	17   	Rock Island, IL                            	Cit  	19340
+f21000	39   	Dayton, OH                                 	Cit  	19380
+f20104	01   	Decatur, AL                                	Cit  	19460
+f18823	17   	Decatur, IL                                	Cit  	19500
+f17074	18   	Decatur, IN                                	Cit  	19540
+f21308	39   	Defiance, OH                               	Cit  	19580
+f19792	48   	Del Rio, TX                                	Cit  	19620
+f17200	12   	Deltona, FL                                	Cit  	19660
+f16525	12   	Daytona Beach, FL                          	Cit  	19660
+f53150	12   	Ormond Beach, FL                           	Cit  	19660
+f20270	35   	Deming, NM                                 	Cit  	19700
+f20000	08   	Denver, CO                                 	Cit  	19740
+f04000	08   	Aurora, CO                                 	Cit  	19740
+f09280	08   	Broomfield, CO                             	Cit  	19740
+f20610	22   	DeRidder, LA                               	Cit  	19760
+f21000	19   	Des Moines, IA                             	Cit  	19780
+f83910	19   	West Des Moines, IA                        	Cit  	19780
+f22000	26   	Detroit, MI                                	Cit  	19820
+f84000	26   	Warren, MI                                 	Cit  	19820
+f49000	26   	Livonia, MI                                	Cit  	19820
+f21000	26   	Dearborn, MI                               	Cit  	19820
+f80700	26   	Troy, MI                                   	Cit  	19820
+f27440	26   	Farmington Hills, MI                       	Cit  	19820
+f74900	26   	Southfield, MI                             	Cit  	19820
+f65440	26   	Pontiac, MI                                	Cit  	19820
+f79000	26   	Taylor, MI                                 	Cit  	19820
+f59440	26   	Novi, MI                                   	Cit  	19820
+f19620	38   	Dickinson, ND                              	Cit  	19860
+f19420	45   	Dillon, SC                                 	Cit  	19900
+f20162	17   	Dixon, IL                                  	Cit  	19940
+f18250	20   	Dodge City, KS                             	Cit  	19980
+f21184	01   	Dothan, AL                                 	Cit  	20020
+f23872	13   	Douglas, GA                                	Cit  	20060
+f21200	10   	Dover, DE                                  	Cit  	20100
+f24376	13   	Dublin, GA                                 	Cit  	20140
+f20136	42   	DuBois, PA                                 	Cit  	20180
+f22395	19   	Dubuque, IA                                	Cit  	20220
+f17000	27   	Duluth, MN                                 	Cit  	20260
+f21556	48   	Dumas, TX                                  	Cit  	20300
+f21900	40   	Duncan, OK                                 	Cit  	20340
+f18320	37   	Dunn, NC                                   	Cit  	20380
+f22035	08   	Durango, CO                                	Cit  	20420
+f22050	40   	Durant, OK                                 	Cit  	20460
+f19000	37   	Durham, NC                                 	Cit  	20500
+f11800	37   	Chapel Hill, NC                            	Cit  	20500
+f22200	47   	Dyersburg, TN                              	Cit  	20540
+f21892	48   	Eagle Pass, TX                             	Cit  	20580
+f23730	39   	East Liverpool, OH                         	Cit  	20620
+f69834	39   	Salem, OH                                  	Cit  	20620
+f24475	24   	Easton, MD                                 	Cit  	20660
+f20700      East Stroudsburg, PA                                                  42   21872
+f22300	55   	Eau Claire, WI                             	Cit  	20740
+f23300	08   	Edwards, CO                                	Cit  	20780
+f22736	17   	Effingham, IL                              	Cit  	20820
+f22864	48   	El Campo, TX                               	Cit  	20900
+f21782	06   	El Centro, CA                              	Cit  	20940
+f21070	05   	El Dorado, AR                              	Cit  	20980
+f20580	37   	Elizabeth City, NC                         	Cit  	21020
+f24274	21   	Elizabethtown, KY                          	Cit  	21060
+f23500	40   	Elk City, OK                               	Cit  	21120
+f20728	18   	Elkhart, IN                                	Cit  	21140
+f28386	18   	Goshen, IN                                 	Cit  	21140
+f22500	32   	Elko, NV                                   	Cit  	21220
+f21240	53   	Ellensburg, WA                             	Cit  	21260
+f24229	36   	Elmira, NY                                 	Cit  	21300
+f24000	48   	El Paso, TX                                	Cit  	21340
+f21275	20   	Emporia, KS                                	Cit  	21380
+f23950	40   	Enid, OK                                   	Cit  	21420
+f24184	01   	Enterprise, AL                             	Cit  	21460
+f57648	01   	Ozark, AL                                  	Cit  	21460
+f24000	42   	Erie, PA                                   	Cit  	21500
+f26360	26   	Escanaba, MI                               	Cit  	21540
+f25170	35   	Espanola, NM                               	Cit  	21580
+f24568	01   	Eufaula, AL                                	Cit  	21640
+f23850	41   	Eugene, OR                                 	Cit  	21660
+f69600	41   	Springfield, OR                            	Cit  	21660
+f23042	06   	Eureka, CA                                 	Cit  	21700
+f02476	06   	Arcata, CA                                 	Cit  	21700
+f25296	06   	Fortuna, CA                                	Cit  	21700
+f25620	56   	Evanston, WY                               	Cit  	21740
+f22000	18   	Evansville, IN                             	Cit  	21780
+f24230	02   	Fairbanks, AK                              	Cit  	21820
+f20330	27   	Fairmont, MN                               	Cit  	21860
+f26452	54   	Fairmont, WV                               	Cit  	21900
+f27964	72   	Fajardo, PR                                	Cit  	21940
+f24100	32   	Fallon, NV                                 	Cit  	21980
+f25700	38   	Fargo, ND                                  	Cit  	22020
+f20546	27   	Faribault, MN                              	Cit  	22060
+f46924	27   	Northfield, MN                             	Cit  	22060
+f23752	29   	Farmington, MO                             	Cit  	22100
+f25800	35   	Farmington, NM                             	Cit  	22140
+f22920	37   	Fayetteville, NC                           	Cit  	22180
+f23290	05   	Fayetteville, AR                           	Cit  	22220
+f66080	05   	Springdale, AR                             	Cit  	22220
+f60410	05   	Rogers, AR                                 	Cit  	22220
+f05320	05   	Bentonville, AR                            	Cit  	22220
+f20906	27   	Fergus Falls, MN                           	Cit  	22260
+f24900	32   	Fernley, NV                                	Cit  	22280
+f27048	39   	Findlay, OH                                	Cit  	22300
+f29528	13   	Fitzgerald, GA                             	Cit  	22340
+f23620	04   	Flagstaff, AZ                              	Cit  	22380
+f29000	26   	Flint, MI                                  	Cit  	22420
+f25810	45   	Florence, SC                               	Cit  	22500
+f26896	01   	Florence, AL                               	Cit  	22520
+f53016	01   	Muscle Shoals, AL                          	Cit  	22520
+f26275	55   	Fond du Lac, WI                            	Cit  	22540
+f24080	37   	Forest City, NC                            	Cit  	22580
+f24430	05   	Forrest City, AR                           	Cit  	22620
+f27425	08   	Fort Collins, CO                           	Cit  	22660
+f46465	08   	Loveland, CO                               	Cit  	22660
+f28515	19   	Fort Dodge, IA                             	Cit  	22700
+f25264	29   	Fort Leonard Wood, MO                      	Cit  	22780
+f28605	19   	Fort Madison, IA                           	Cit  	22800
+f40845	19   	Keokuk, IA                                 	Cit  	22800
+f27810	08   	Fort Morgan, CO                            	Cit  	22820
+f27616	01   	Fort Payne, AL                             	Cit  	22840
+f26757	22   	Fort Polk South, LA                        	Cit  	22860
+f24550	05   	Fort Smith, AR                             	Cit  	22900
+f31096	13   	Fort Valley, GA                            	Cit  	22980
+f25000	18   	Fort Wayne, IN                             	Cit  	23060
+f25324	18   	Frankfort, IN                              	Cit  	23140
+f28900	21   	Frankfort, KY                              	Cit  	23180
+f27348	48   	Fredericksburg, TX                         	Cit  	23240
+f27884	17   	Freeport, IL                               	Cit  	23300
+f17670	31   	Fremont, NE                                	Cit  	23340
+f28826	39   	Fremont, OH                                	Cit  	23380
+f27000	06   	Fresno, CA                                 	Cit  	23420
+f28696	01   	Gadsden, AL                                	Cit  	23460
+f28060	45   	Gaffney, SC                                	Cit  	23500
+f25175	12   	Gainesville, FL                            	Cit  	23540
+f31908	13   	Gainesville, GA                            	Cit  	23580
+f27984	48   	Gainesville, TX                            	Cit  	23620
+f28326	17   	Galesburg, IL                              	Cit  	23660
+f28460	35   	Gallup, NM                                 	Cit  	23700
+f25325	20   	Garden City, KS                            	Cit  	23780
+f26500	32   	Gardnerville Ranchos, NV                   	Cit  	23820
+f28870	45   	Georgetown, SC                             	Cit  	23860
+f28960	42   	Gettysburg, PA                             	Cit  	23900
+f31855	56   	Gillette, WY                               	Cit  	23940
+f31114	21   	Glasgow, KY                                	Cit  	23980
+f29333	36   	Glens Falls, NY                            	Cit  	24020
+f29443	36   	Gloversville, NY                           	Cit  	24100
+f26880	37   	Goldsboro, NC                              	Cit  	24140
+f30416	48   	Granbury, TX                               	Cit  	24180
+f32060	38   	Grand Forks, ND                            	Cit  	24220
+f19595	31   	Grand Island, NE                           	Cit  	24260
+f31660	08   	Grand Junction, CO                         	Cit  	24300
+f34000	26   	Grand Rapids, MI                           	Cit  	24340
+f88940	26   	Wyoming, MI                                	Cit  	24340
+f30490	35   	Grants, NM                                 	Cit  	24380
+f30550	41   	Grants Pass, OR                            	Cit  	24420
+f28300	20   	Great Bend, KS                             	Cit  	24460
+f32800	30   	Great Falls, MT                            	Cit  	24500
+f32155	08   	Greeley, CO                                	Cit  	24540
+f31000	55   	Green Bay, WI                              	Cit  	24580
+f30980	47   	Greeneville, TN                            	Cit  	24620
+f28000	37   	Greensboro, NC                             	Cit  	24660
+f31400	37   	High Point, NC                             	Cit  	24660
+f29718	18   	Greensburg, IN                             	Cit  	24700
+f29180	28   	Greenville, MS                             	Cit  	24740
+f28080	37   	Greenville, NC                             	Cit  	24780
+f32340	39   	Greenville, OH                             	Cit  	24820
+f30850	45   	Greenville, SC                             	Cit  	24860
+f45115	45   	Mauldin, SC                                	Cit  	24860
+f21985	45   	Easley, SC                                 	Cit  	24860
+f29340	28   	Greenwood, MS                              	Cit  	24900
+f30895	45   	Greenwood, SC                              	Cit  	24940
+f29460	28   	Grenada, MS                                	Cit  	24980
+f32221	72   	Guayama, PR                                	Cit  	25020
+f29700	28   	Gulfport, MS                               	Cit  	25060
+f06220	28   	Biloxi, MS                                 	Cit  	25060
+f31750	40   	Guymon, OK                                 	Cit  	25100
+f36075	24   	Hagerstown, MD                             	Cit  	25180
+f52060	54   	Martinsburg, WV                            	Cit  	25180
+f32755	22   	Hammond, LA                                	Cit  	25220
+f31960	06   	Hanford, CA                                	Cit  	25260
+f16224	06   	Corcoran, CA                               	Cit  	25260
+f30214	29   	Hannibal, MO                               	Cit  	25300
+f32520	47   	Harriman, TN                               	Cit  	25340
+f33136	17   	Harrisburg, IL                             	Cit  	25380
+f32800	42   	Harrisburg, PA                             	Cit  	25420
+f11272	42   	Carlisle, PA                               	Cit  	25420
+f30460	05   	Harrison, AR                               	Cit  	25460
+f35624	51   	Harrisonburg, VA                           	Cit  	25500
+f37000	09   	Hartford, CT                               	Cit  	25540
+f82660	09   	West Hartford, CT                          	Cit  	25540
+f22700	09   	East Hartford, CT                          	Cit  	25540
+f47290	09   	Middletown, CT                             	Cit  	25540
+f21415	31   	Hastings, NE                               	Cit  	25580
+f31020	28   	Hattiesburg, MS                            	Cit  	25620
+f35050	30   	Havre, MT                                  	Cit  	25660
+f31100	20   	Hays, KS                                   	Cit  	25700
+f34200	49   	Heber, UT                                  	Cit  	25720
+f35600	30   	Helena, MT                                 	Cit  	25740
+f31190	05   	Helena-West Helena, AR                     	Cit  	25760
+f30660	37   	Henderson, NC                              	Cit  	25780
+f33320	48   	Hereford, TX                               	Cit  	25820
+f31060	37   	Hickory, NC                                	Cit  	25860
+f37760	37   	Lenoir, NC                                 	Cit  	25860
+f44400	37   	Morganton, NC                              	Cit  	25860
+f14650	15   	Hilo, HI                                   	Cit  	25900
+f34045	45   	Hilton Head Island, SC                     	Cit  	25940
+f04690	45   	Beaufort, SC                               	Cit  	25940
+f38964	13   	Hinesville, GA                             	Cit  	25980
+f31068	13   	Fort Stewart, GA                           	Cit  	25980
+f32520	35   	Hobbs, NM                                  	Cit  	26020
+f38640	26   	Holland, MI (part)                         	Cit  	26100
+f33340	26   	Grand Haven, MI                            	Cit  	26100
+f32400	12   	Homosassa Springs, FL                      	Cit  	26140
+f17000	15   	Honolulu, HI                               	Cit  	26180
+f34900	41   	Hood River, OR                             	Cit  	26220
+f33190	05   	Hope, AR                                   	Cit  	26260
+f33400	05   	Hot Springs, AR                            	Cit  	26300
+f39360	26   	Houghton, MI                               	Cit  	26340
+f36255	22   	Houma, LA                                  	Cit  	26380
+f05210	22   	Bayou Cane, LA                             	Cit  	26380
+f75425	22   	Thibodaux, LA                              	Cit  	26380
+f35000	48   	Houston, TX                                	Cit  	26420
+f70808	48   	Sugar Land, TX                             	Cit  	26420
+f06128	48   	Baytown, TX                                	Cit  	26420
+f28068	48   	Galveston, TX                              	Cit  	26420
+f16432	48   	Conroe, TX                                 	Cit  	26420
+f35969	36   	Hudson, NY                                 	Cit  	26460
+f36460	47   	Humboldt, TN                               	Cit  	26480
+f36368	42   	Huntingdon, PA                             	Cit  	26500
+f35302	18   	Huntington, IN                             	Cit  	26540
+f02368	21   	Ashland, KY                                	Cit  	26580
+f39460	54   	Huntington, WV                             	Cit  	26580
+f37000	01   	Huntsville, AL                             	Cit  	26620
+f35528	48   	Huntsville, TX                             	Cit  	26660
+f31060	46   	Huron, SD                                  	Cit  	26700
+f33625	20   	Hutchinson, KS                             	Cit  	26740
+f30644	27   	Hutchinson, MN                             	Cit  	26780
+f39700	16   	Idaho Falls, ID                            	Cit  	26820
+f36816	42   	Indiana, PA                                	Cit  	26860
+f36003	18   	Indianapolis city (balance), IN            	Cit  	26900
+f10342	18   	Carmel, IN                                 	Cit  	26900
+f34740	28   	Indianola, MS                              	Cit  	26940
+f38595	19   	Iowa City, IA                              	Cit  	26980
+f40960	26   	Iron Mountain, MI                          	Cit  	27020
+f38077	36   	Ithaca, NY                                 	Cit  	27060
+f41420	26   	Jackson, MI                                	Cit  	27100
+f36000	28   	Jackson, MS                                	Cit  	27140
+f37640	47   	Jackson, TN                                	Cit  	27180
+f40120	56   	Jackson, WY                                	Cit  	27220
+f35000	12   	Jacksonville, FL                           	Cit  	27260
+f38115	17   	Jacksonville, IL                           	Cit  	27300
+f34200	37   	Jacksonville, NC                           	Cit  	27340
+f37216	48   	Jacksonville, TX                           	Cit  	27380
+f40580	38   	Jamestown, ND                              	Cit  	27420
+f38264	36   	Jamestown, NY                              	Cit  	27460
+f21105	36   	Dunkirk, NY                                	Cit  	27460
+f27419	36   	Fredonia, NY                               	Cit  	27460
+f37825	55   	Janesville, WI                             	Cit  	27500
+f37782	18   	Jasper, IN                                 	Cit  	27540
+f38370	72   	Jayuya, PR                                 	Cit  	27580
+f37000	29   	Jefferson City, MO                         	Cit  	27620
+f38355	22   	Jennings, LA                               	Cit  	27660
+f42268	13   	Jesup, GA                                  	Cit  	27700
+f38320	47   	Johnson City, TN                           	Cit  	27740
+f38288	42   	Johnstown, PA                              	Cit  	27780
+f35710	05   	Jonesboro, AR                              	Cit  	27860
+f37592	29   	Joplin, MO                                 	Cit  	27900
+f36400	02   	Juneau, AK                                 	Cit  	27940
+f22700	15   	Kahului, HI                                	Cit  	27980
+f77450	15   	Wailuku, HI                                	Cit  	27980
+f42160	26   	Kalamazoo, MI                              	Cit  	28020
+f65560	26   	Portage, MI                                	Cit  	28020
+f40075	30   	Kalispell, MT                              	Cit  	28060
+f38934	17   	Kankakee, IL                               	Cit  	28100
+f07744	17   	Bradley, IL                                	Cit  	28100
+f38000	29   	Kansas City, MO                            	Cit  	28140
+f53775	20   	Overland Park, KS                          	Cit  	28140
+f36000	20   	Kansas City, KS                            	Cit  	28140
+f28850	15   	Kapaa, HI                                  	Cit  	28180
+f25055	31   	Kearney, NE                                	Cit  	28260
+f39300	33   	Keene, NH                                  	Cit  	28300
+f39402	18   	Kendallville, IN                           	Cit  	28340
+f38306	29   	Kennett, MO                                	Cit  	28380
+f35275	53   	Kennewick, WA                              	Cit  	28420
+f53545	53   	Pasco, WA                                  	Cit  	28420
+f58235	53   	Richland, WA                               	Cit  	28420
+f39040	48   	Kerrville, TX                              	Cit  	28500
+f38970	02   	Ketchikan, AK                              	Cit  	28540
+f36550	12   	Key West, FL                               	Cit  	28580
+f35720	37   	Kill Devil Hills, NC                       	Cit  	28620
+f39148	48   	Killeen, TX                                	Cit  	28660
+f72176	48   	Temple, TX                                 	Cit  	28660
+f26736	48   	Fort Hood, TX                              	Cit  	28660
+f39560	47   	Kingsport, TN                              	Cit  	28700
+f08540	47   	Bristol, TN                                	Cit  	28700
+f09816	51   	Bristol, VA                                	Cit  	28700
+f39727	36   	Kingston, NY                               	Cit  	28740
+f39352	48   	Kingsville, TX                             	Cit  	28780
+f35920	37   	Kinston, NC                                	Cit  	28820
+f39026	29   	Kirksville, MO                             	Cit  	28860
+f39700	41   	Klamath Falls, OR                          	Cit  	28900
+f40000	47   	Knoxville, TN                              	Cit  	28940
+f40950	02   	Kodiak, AK                                 	Cit  	28980
+f40392	18   	Kokomo, IN                                 	Cit  	29020
+f40180	33   	Laconia, NH                                	Cit  	29060
+f40775	55   	La Crosse, WI                              	Cit  	29100
+f40788	18   	Lafayette, IN                              	Cit  	29140
+f40735	22   	Lafayette, LA                              	Cit  	29180
+f40180	47   	La Follette, TN                            	Cit  	29220
+f40350	41   	La Grande, OR                              	Cit  	29260
+f44340	13   	LaGrange, GA                               	Cit  	29300
+f41155	22   	Lake Charles, LA                           	Cit  	29340
+f37775	12   	Lake City, FL                              	Cit  	29380
+f39370	04   	Lake Havasu City, AZ                       	Cit  	29420
+f37620	04   	Kingman, AZ                                	Cit  	29420
+f38250	12   	Lakeland, FL                               	Cit  	29460
+f78275	12   	Winter Haven, FL                           	Cit  	29460
+f41164	48   	Lamesa, TX                                 	Cit  	29500
+f41216	42   	Lancaster, PA                              	Cit  	29540
+f39895	45   	Lancaster, SC                              	Cit  	29580
+f46000	26   	Lansing, MI                                	Cit  	29620
+f24120	26   	East Lansing, MI                           	Cit  	29620
+f45050	56   	Laramie, WY                                	Cit  	29660
+f41464	48   	Laredo, TX                                 	Cit  	29700
+f39380	35   	Las Cruces, NM                             	Cit  	29740
+f39940	35   	Las Vegas, NM                              	Cit  	29780
+f40000	32   	Las Vegas, NV                              	Cit  	29820
+f54600	32   	Paradise, NV                               	Cit  	29820
+f39640	28   	Laurel, MS                                 	Cit  	29860
+f37220	37   	Laurinburg, NC                             	Cit  	29900
+f38900	20   	Lawrence, KS                               	Cit  	29940
+f41340	47   	Lawrenceburg, TN                           	Cit  	29980
+f41850	40   	Lawton, OK                                 	Cit  	30020
+f41168	29   	Lebanon, MO                                	Cit  	30060
+f41300	33   	Lebanon, NH                                	Cit  	30100
+f42168	42   	Lebanon, PA                                	Cit  	30140
+f42448	48   	Levelland, TX                              	Cit  	30220
+f42976	42   	Lewisburg, PA                              	Cit  	30260
+f41860	47   	Lewisburg, TN                              	Cit  	30280
+f46540	16   	Lewiston, ID                               	Cit  	30300
+f38740	23   	Lewiston, ME                               	Cit  	30340
+f02060	23   	Auburn, ME                                 	Cit  	30340
+f43000	42   	Lewistown, PA                              	Cit  	30380
+f26910	31   	Lexington, NE                              	Cit  	30420
+f46027	21   	Lexington-Fayette, KY                      	Cit  	30460
+f46725	24   	Lexington Park, MD                         	Cit  	30500
+f39825	20   	Liberal, KS                                	Cit  	30580
+f43554	39   	Lima, OH                                   	Cit  	30620
+f43536	17   	Lincoln, IL                                	Cit  	30660
+f28000	31   	Lincoln, NE                                	Cit  	30700
+f38320	37   	Lincolnton, NC                             	Cit  	30740
+f41000	05   	Little Rock, AR                            	Cit  	30780
+f50450	05   	North Little Rock, AR                      	Cit  	30780
+f15190	05   	Conway, AR                                 	Cit  	30780
+f44128	42   	Lock Haven, PA                             	Cit  	30820
+f45860	49   	Logan, UT                                  	Cit  	30860
+f44658	18   	Logansport, IN                             	Cit  	30900
+f47476	21   	London, KY                                 	Cit  	30940
+f43888	48   	Longview, TX                               	Cit  	30980
+f40245	53   	Longview, WA                               	Cit  	31020
+f42320	35   	Los Alamos, NM                             	Cit  	31060
+f44000	06   	Los Angeles, CA                            	Cit  	31100
+f43000	06   	Long Beach, CA                             	Cit  	31100
+f69000	06   	Santa Ana, CA                              	Cit  	31100
+f02000	06   	Anaheim, CA                                	Cit  	31100
+f36770	06   	Irvine, CA                                 	Cit  	31100
+f30000	06   	Glendale, CA                               	Cit  	31100
+f58072	06   	Pomona, CA                                 	Cit  	31100
+f56000	06   	Pasadena, CA                               	Cit  	31100
+f80000	06   	Torrance, CA                               	Cit  	31100
+f53980	06   	Orange, CA                                 	Cit  	31100
+f28000	06   	Fullerton, CA                              	Cit  	31100
+f16532	06   	Costa Mesa, CA                             	Cit  	31100
+f08954	06   	Burbank, CA                                	Cit  	31100
+f15044	06   	Compton, CA                                	Cit  	31100
+f11530	06   	Carson, CA                                 	Cit  	31100
+f70000	06   	Santa Monica, CA                           	Cit  	31100
+f51182	06   	Newport Beach, CA                          	Cit  	31100
+f80854	06   	Tustin, CA                                 	Cit  	31100
+f48816	06   	Montebello, CA                             	Cit  	31100
+f48914	06   	Monterey Park, CA                          	Cit  	31100
+f28168	06   	Gardena, CA                                	Cit  	31100
+f02462	06   	Arcadia, CA                                	Cit  	31100
+f55618	06   	Paramount, CA                              	Cit  	31100
+f25380	06   	Fountain Valley, CA                        	Cit  	31100
+f12552	06   	Cerritos, CA                               	Cit  	31100
+f48006	21   	Louisville/Jefferson County (balance), KY  	Cit  	31140
+f45000	48   	Lubbock, TX                                	Cit  	31180
+f45072	48   	Lufkin, TX                                 	Cit  	31260
+f39700	37   	Lumberton, NC                              	Cit  	31300
+f47672	51   	Lynchburg, VA                              	Cit  	31340
+f45889	17   	Macomb, IL                                 	Cit  	31380
+f49000	13   	Macon, GA                                  	Cit  	31420
+f45022	06   	Madera, CA                                 	Cit  	31460
+f13294	06   	Chowchilla, CA                             	Cit  	31460
+f45990	18   	Madison, IN                                	Cit  	31500
+f48000	55   	Madison, WI                                	Cit  	31540
+f49368	21   	Madisonville, KY                           	Cit  	31580
+f43460	05   	Magnolia, AR                               	Cit  	31620
+f44710	36   	Malone, NY                                 	Cit  	31660
+f45140	33   	Manchester, NH                             	Cit  	31700
+f50260	33   	Nashua, NH                                 	Cit  	31700
+f44250	20   	Manhattan, KS                              	Cit  	31740
+f48500	55   	Manitowoc, WI                              	Cit  	31820
+f39878	27   	Mankato, MN                                	Cit  	31860
+f47068	27   	North Mankato, MN                          	Cit  	31860
+f47138	39   	Mansfield, OH                              	Cit  	31900
+f46584	48   	Marble Falls, TX                           	Cit  	31920
+f49300	55   	Marinette, WI                              	Cit  	31940
+f46908	18   	Marion, IN                                 	Cit  	31980
+f47754	39   	Marion, OH                                 	Cit  	32020
+f46916	17   	Marion, IL                                 	Cit  	32060
+f34358	17   	Herrin, IL                                 	Cit  	32060
+f51900	26   	Marquette, MI                              	Cit  	32100
+f40688	27   	Marshall, MN                               	Cit  	32140
+f46316	29   	Marshall, MO                               	Cit  	32180
+f46776	48   	Marshall, TX                               	Cit  	32220
+f49755	19   	Marshalltown, IA                           	Cit  	32260
+f49675	55   	Marshfield, WI                             	Cit  	32270
+f88200	55   	Wisconsin Rapids, WI                       	Cit  	32270
+f46240	47   	Martin, TN                                 	Cit  	32280
+f49784	51   	Martinsville, VA                           	Cit  	32300
+f46640	29   	Maryville, MO                              	Cit  	32340
+f50160	19   	Mason City, IA                             	Cit  	32380
+f52431	72   	Mayagüez, PR                               	Cit  	32420
+f50898	21   	Mayfield, KY                               	Cit  	32460
+f51024	21   	Maysville, KY                              	Cit  	32500
+f44800	40   	McAlester, OK                              	Cit  	32540
+f45384	48   	McAllen, TX                                	Cit  	32580
+f22660	48   	Edinburg, TX                               	Cit  	32580
+f48768	48   	Mission, TX                                	Cit  	32580
+f57200	48   	Pharr, TX                                  	Cit  	32580
+f43280	28   	McComb, MS                                 	Cit  	32620
+f45100	47   	McMinnville, TN                            	Cit  	32660
+f43950	20   	McPherson, KS                              	Cit  	32700
+f48360	42   	Meadville, PA                              	Cit  	32740
+f47000	41   	Medford, OR                                	Cit  	32780
+f48000	47   	Memphis, TN                                	Cit  	32820
+f51025	55   	Menomonie, WI                              	Cit  	32860
+f46898	06   	Merced, CA                                 	Cit  	32900
+f46640	28   	Meridian, MS                               	Cit  	32940
+f51250	55   	Merrill, WI                                	Cit  	32980
+f47648	29   	Mexico, MO                                 	Cit  	33020
+f48000	40   	Miami, OK                                  	Cit  	33060
+f45000	12   	Miami, FL                                  	Cit  	33100
+f24000	12   	Fort Lauderdale, FL                        	Cit  	33100
+f58050	12   	Pompano Beach, FL                          	Cit  	33100
+f76600	12   	West Palm Beach, FL                        	Cit  	33100
+f45025	12   	Miami Beach, FL                            	Cit  	33100
+f36100	12   	Kendall, FL                                	Cit  	33100
+f07300	12   	Boca Raton, FL                             	Cit  	33100
+f16725	12   	Deerfield Beach, FL                        	Cit  	33100
+f07875	12   	Boynton Beach, FL                          	Cit  	33100
+f17100	12   	Delray Beach, FL                           	Cit  	33100
+f32275	12   	Homestead, FL                              	Cit  	33100
+f48798	18   	Michigan City, IN                          	Cit  	33140
+f42246	18   	La Porte, IN                               	Cit  	33140
+f51924	21   	Middlesborough, KY                         	Cit  	33180
+f53780	26   	Midland, MI                                	Cit  	33220
+f48072	48   	Midland, TX                                	Cit  	33260
+f51492	13   	Milledgeville, GA                          	Cit  	33300
+f53000	55   	Milwaukee, WI                              	Cit  	33340
+f84250	55   	Waukesha, WI                               	Cit  	33340
+f85300	55   	West Allis, WI                             	Cit  	33340
+f50885	22   	Minden, LA                                 	Cit  	33380
+f48684	48   	Mineral Wells, TX                          	Cit  	33420
+f43000	27   	Minneapolis, MN                            	Cit  	33460
+f58000	27   	St. Paul, MN                               	Cit  	33460
+f06616	27   	Bloomington, MN                            	Cit  	33460
+f51730	27   	Plymouth, MN                               	Cit  	33460
+f17288	27   	Eagan, MN                                  	Cit  	33460
+f18116	27   	Eden Prairie, MN                           	Cit  	33460
+f43252	27   	Minnetonka, MN                             	Cit  	33460
+f53380	38   	Minot, ND                                  	Cit  	33500
+f50200	30   	Missoula, MT                               	Cit  	33540
+f43100	46   	Mitchell, SD                               	Cit  	33580
+f49034	29   	Moberly, MO                                	Cit  	33620
+f50000	01   	Mobile, AL                                 	Cit  	33660
+f48354	06   	Modesto, CA                                	Cit  	33700
+f51410	22   	Monroe, LA                                 	Cit  	33740
+f55020	26   	Monroe, MI                                 	Cit  	33780
+f53750	55   	Monroe, WI                                 	Cit  	33820
+f51000	01   	Montgomery, AL                             	Cit  	33860
+f51745	08   	Montrose, CO                               	Cit  	33940
+f44320	37   	Morehead City, NC                          	Cit  	33980
+f52040	22   	Morgan City, LA                            	Cit  	34020
+f55756	54   	Morgantown, WV                             	Cit  	34060
+f50280	47   	Morristown, TN                             	Cit  	34100
+f54550	16   	Moscow, ID                                 	Cit  	34140
+f47245	53   	Moses Lake, WA                             	Cit  	34180
+f53060	13   	Moultrie, GA                               	Cit  	34220
+f47390	05   	Mountain Home, AR                          	Cit  	34260
+f54730	16   	Mountain Home, ID                          	Cit  	34300
+f44800	37   	Mount Airy, NC                             	Cit  	34340
+f56020	26   	Mount Pleasant, MI                         	Cit  	34380
+f49800	48   	Mount Pleasant, TX                         	Cit  	34420
+f54084	21   	Mount Sterling, KY                         	Cit  	34460
+f51180	17   	Mount Vernon, IL                           	Cit  	34500
+f53102	39   	Mount Vernon, OH                           	Cit  	34540
+f47560	53   	Mount Vernon, WA                           	Cit  	34580
+f01990	53   	Anacortes, WA                              	Cit  	34580
+f51876	18   	Muncie, IN                                 	Cit  	34620
+f54642	21   	Murray, KY                                 	Cit  	34660
+f55110	19   	Muscatine, IA                              	Cit  	34700
+f56320	26   	Muskegon, MI                               	Cit  	34740
+f59140	26   	Norton Shores, MI                          	Cit  	34740
+f50050	40   	Muskogee, OK                               	Cit  	34780
+f49075	45   	Myrtle Beach, SC                           	Cit  	34820
+f51280	45   	North Myrtle Beach, SC                     	Cit  	34820
+f16405	45   	Conway, SC                                 	Cit  	34820
+f50256	48   	Nacogdoches, TX                            	Cit  	34860
+f50258	06   	Napa, CA                                   	Cit  	34900
+f47625	12   	Naples, FL                                 	Cit  	34940
+f43083	12   	Marco Island, FL                           	Cit  	34940
+f52006	47   	Nashville-Davidson (balance), TN           	Cit  	34980
+f51560	47   	Murfreesboro, TN                           	Cit  	34980
+f27740	47   	Franklin, TN                               	Cit  	34980
+f50440	28   	Natchez, MS                                	Cit  	35020
+f53545	22   	Natchitoches, LA                           	Cit  	35060
+f46340	37   	New Bern, NC                               	Cit  	35100
+f49570	45   	Newberry, SC                               	Cit  	35140
+f52740	18   	New Castle, IN                             	Cit  	35220
+f53368	42   	New Castle, PA                             	Cit  	35260
+f52000	09   	New Haven, CT                              	Cit  	35300
+f47515	09   	Milford city (balance), CT                 	Cit  	35300
+f54035	22   	New Iberia, LA                             	Cit  	35340
+f55000	22   	New Orleans, LA                            	Cit  	35380
+f50115	22   	Metairie, LA                               	Cit  	35380
+f39475	22   	Kenner, LA                                 	Cit  	35380
+f55216	39   	New Philadelphia, OH                       	Cit  	35420
+f22456	39   	Dover, OH                                  	Cit  	35420
+f53000	47   	Newport, TN                                	Cit  	35460
+f56505	19   	Newton, IA                                 	Cit  	35500
+f46042	27   	New Ulm, MN                                	Cit  	35580
+f51000	36   	New York, NY                               	Cit  	35620
+f51000	34   	Newark, NJ                                 	Cit  	35620
+f20260	34   	Edison, NJ                                 	Cit  	35620
+f81677	36   	White Plains, NY                           	Cit  	35620
+f77870	34   	Wayne, NJ                                  	Cit  	35620
+f74510	34   	Union, NJ                                  	Cit  	35620
+f51210	34   	New Brunswick, NJ                          	Cit  	35620
+f57760	26   	Niles, MI                                  	Cit  	35660
+f07520	26   	Benton Harbor, MI                          	Cit  	35660
+f49640	04   	Nogales, AZ                                	Cit  	35700
+f34615	31   	Norfolk, NE                                	Cit  	35740
+f35000	31   	North Platte, NE                           	Cit  	35820
+f49675	12   	North Port, FL                             	Cit  	35840
+f07950	12   	Bradenton, FL                              	Cit  	35840
+f64175	12   	Sarasota, FL                               	Cit  	35840
+f73900	12   	Venice, FL                                 	Cit  	35840
+f55116	18   	North Vernon, IN                           	Cit  	35860
+f47880	37   	North Wilkesboro, NC                       	Cit  	35900
+f57302	39   	Norwalk, OH                                	Cit  	35940
+f56200	09   	Norwich, CT                                	Cit  	35980
+f52280	09   	New London, CT                             	Cit  	35980
+f50360	53   	Oak Harbor, WA                             	Cit  	36020
+f60028	54   	Oak Hill, WV                               	Cit  	36060
+f50750	12   	Ocala, FL                                  	Cit  	36100
+f54360	34   	Ocean City, NJ                             	Cit  	36140
+f58275	24   	Ocean Pines, MD                            	Cit  	36180
+f53388	48   	Odessa, TX                                 	Cit  	36220
+f55980	49   	Ogden, UT                                  	Cit  	36260
+f13850	49   	Clearfield, UT                             	Cit  	36260
+f54485	36   	Ogdensburg, NY                             	Cit  	36300
+f46019	36   	Massena, NY                                	Cit  	36300
+f56456	42   	Oil City, PA                               	Cit  	36340
+f51200	12   	Okeechobee, FL                             	Cit  	36380
+f55000	40   	Oklahoma City, OK                          	Cit  	36420
+f54716	36   	Olean, NY                                  	Cit  	36460
+f51300	53   	Olympia, WA                                	Cit  	36500
+f37000	31   	Omaha, NE                                  	Cit  	36540
+f16860	19   	Council Bluffs, IA                         	Cit  	36540
+f54881	36   	Oneonta, NY                                	Cit  	36580
+f54900	41   	Ontario, OR                                	Cit  	36620
+f58045	22   	Opelousas, LA                              	Cit  	36660
+f24565	22   	Eunice, LA                                 	Cit  	36660
+f53080	45   	Orangeburg, SC                             	Cit  	36700
+f53000	12   	Orlando, FL                                	Cit  	36740
+f36950	12   	Kissimmee, FL                              	Cit  	36740
+f63650	12   	Sanford, FL                                	Cit  	36740
+f60500	55   	Oshkosh, WI                                	Cit  	36780
+f55750	55   	Neenah, WI                                 	Cit  	36780
+f59925	19   	Oskaloosa, IA                              	Cit  	36820
+f56926	17   	Ottawa, IL                                 	Cit  	36860
+f73170	17   	Streator, IL                               	Cit  	36860
+f60465	19   	Ottumwa, IA                                	Cit  	36900
+f49300	27   	Owatonna, MN                               	Cit  	36940
+f58620	21   	Owensboro, KY                              	Cit  	36980
+f61940	26   	Owosso, MI                                 	Cit  	37020
+f54840	28   	Oxford, MS                                 	Cit  	37060
+f54652	06   	Oxnard, CA                                 	Cit  	37100
+f78582	06   	Thousand Oaks, CA                          	Cit  	37100
+f65042	06   	San Buenaventura (Ventura), CA             	Cit  	37100
+f10046	06   	Camarillo, CA                              	Cit  	37100
+f58836	21   	Paducah, KY                                	Cit  	37140
+f53800	32   	Pahrump, NV                                	Cit  	37220
+f53875	12   	Palatka, FL                                	Cit  	37260
+f54708	48   	Palestine, TX                              	Cit  	37300
+f54000	12   	Palm Bay, FL                               	Cit  	37340
+f43975	12   	Melbourne, FL                              	Cit  	37340
+f71900	12   	Titusville, FL                             	Cit  	37340
+f54200	12   	Palm Coast, FL                             	Cit  	37380
+f54912	48   	Pampa, TX                                  	Cit  	37420
+f54700	12   	Panama City, FL                            	Cit  	37460
+f41825	12   	Lynn Haven, FL                             	Cit  	37460
+f54725	12   	Panama City Beach, FL                      	Cit  	37460
+f53390	05   	Paragould, AR                              	Cit  	37500
+f56720	47   	Paris, TN                                  	Cit  	37540
+f55080	48   	Paris, TX                                  	Cit  	37580
+f62140	54   	Parkersburg, WV                            	Cit  	37620
+f47628	39   	Marietta, OH                               	Cit  	37620
+f83500	54   	Vienna, WV                                 	Cit  	37620
+f54675	20   	Parsons, KS                                	Cit  	37660
+f55360	28   	Pascagoula, MS                             	Cit  	37700
+f53700	04   	Payson, AZ                                 	Cit  	37740
+f56516	48   	Pecos, TX                                  	Cit  	37780
+f62040	19   	Pella, IA                                  	Cit  	37800
+f57150	41   	Pendleton, OR                              	Cit  	37820
+f33700	41   	Hermiston, OR                              	Cit  	37820
+f55925	12   	Pensacola, FL                              	Cit  	37860
+f22275	12   	Ferry Pass, FL                             	Cit  	37860
+f08300	12   	Brent, FL                                  	Cit  	37860
+f59000	17   	Peoria, IL                                 	Cit  	37900
+f59328	18   	Peru, IN                                   	Cit  	37940
+f60000	42   	Philadelphia, PA                           	Cit  	37980
+f10000	34   	Camden, NJ                                 	Cit  	37980
+f77580	10   	Wilmington, DE                             	Cit  	37980
+f56871	06   	Phoenix Lake-Cedar Ridge, CA               	Cit  	38020
+f55000	04   	Phoenix, AZ                                	Cit  	38060
+f46000	04   	Mesa, AZ                                   	Cit  	38060
+f27820	04   	Glendale, AZ                               	Cit  	38060
+f65000	04   	Scottsdale, AZ                             	Cit  	38060
+f73000	04   	Tempe, AZ                                  	Cit  	38060
+f57160	28   	Picayune, MS                               	Cit  	38100
+f49600	46   	Pierre, SD                                 	Cit  	38180
+f60075	22   	Pierre Part, LA                            	Cit  	38200
+f55310	05   	Pine Bluff, AR                             	Cit  	38220
+f56025	20   	Pittsburg, KS                              	Cit  	38260
+f61000	42   	Pittsburgh, PA                             	Cit  	38300
+f53960	25   	Pittsfield, MA                             	Cit  	38340
+f57980	48   	Plainview, TX                              	Cit  	38380
+f63250	55   	Platteville, WI                            	Cit  	38420
+f58574	36   	Plattsburgh, NY                            	Cit  	38460
+f60822	18   	Plymouth, IN                               	Cit  	38500
+f64090	16   	Pocatello, ID                              	Cit  	38540
+f64708	54   	Point Pleasant, WV                         	Cit  	38580
+f59850	40   	Ponca City, OK                             	Cit  	38620
+f63820	72   	Ponce, PR                                  	Cit  	38660
+f61015	17   	Pontiac, IL                                	Cit  	38700
+f59096	29   	Poplar Bluff, MO                           	Cit  	38740
+f59260	35   	Portales, NM                               	Cit  	38780
+f55365	53   	Port Angeles, WA                           	Cit  	38820
+f60545	23   	Portland, ME                               	Cit  	38860
+f71990	23   	South Portland, ME                         	Cit  	38860
+f04860	23   	Biddeford, ME                              	Cit  	38860
+f59000	41   	Portland, OR                               	Cit  	38900
+f74060	53   	Vancouver, WA                              	Cit  	38900
+f34100	41   	Hillsboro, OR                              	Cit  	38900
+f05350	41   	Beaverton, OR                              	Cit  	38900
+f58715	12   	Port St. Lucie, FL                         	Cit  	38940
+f64304	39   	Portsmouth, OH                             	Cit  	39020
+f62432	42   	Pottsville, PA                             	Cit  	39060
+f59641	36   	Poughkeepsie, NY                           	Cit  	39100
+f50034	36   	Newburgh, NY                               	Cit  	39100
+f47042	36   	Middletown, NY                             	Cit  	39100
+f02616	36   	Arlington, NY                              	Cit  	39100
+f57380	04   	Prescott, AZ                               	Cit  	39140
+f62030	49   	Price, UT                                  	Cit  	39220
+f59850	41   	Prineville, OR                             	Cit  	39260
+f59000	44   	Providence, RI                             	Cit  	39300
+f45000	25   	New Bedford, MA                            	Cit  	39300
+f23000	25   	Fall River, MA                             	Cit  	39300
+f74300	44   	Warwick, RI                                	Cit  	39300
+f19180	44   	Cranston, RI                               	Cit  	39300
+f62470	49   	Provo, UT                                  	Cit  	39340
+f57300	49   	Orem, UT                                   	Cit  	39340
+f62000	08   	Pueblo, CO                                 	Cit  	39380
+f56625	53   	Pullman, WA                                	Cit  	39420
+f59200	12   	Punta Gorda, FL                            	Cit  	39460
+f62367	17   	Quincy, IL                                 	Cit  	39500
+f66000	55   	Racine, WI                                 	Cit  	39540
+f55000	37   	Raleigh, NC                                	Cit  	39580
+f10740	37   	Cary, NC                                   	Cit  	39580
+f52980	46   	Rapid City, SD                             	Cit  	39660
+f60836	48   	Raymondville, TX                           	Cit  	39700
+f63624	42   	Reading, PA                                	Cit  	39740
+f59892	06   	Red Bluff, CA                              	Cit  	39780
+f59920	06   	Redding, CA                                	Cit  	39820
+f53620	27   	Red Wing, MN                               	Cit  	39860
+f60600	32   	Reno, NV                                   	Cit  	39900
+f68400	32   	Sparks, NV                                 	Cit  	39900
+f67420	16   	Rexburg, ID                                	Cit  	39940
+f64260	18   	Richmond, IN                               	Cit  	39980
+f67000	51   	Richmond, VA                               	Cit  	40060
+f65226	21   	Richmond, KY                               	Cit  	40080
+f05842	21   	Berea, KY                                  	Cit  	40080
+f62168	48   	Rio Grande City, TX                        	Cit  	40100
+f63020	48   	Roma, TX                                   	Cit  	40100
+f62000	06   	Riverside, CA                              	Cit  	40140
+f65000	06   	San Bernardino, CA                         	Cit  	40140
+f53896	06   	Ontario, CA                                	Cit  	40140
+f82590	06   	Victorville, CA                            	Cit  	40140
+f78120	06   	Temecula, CA                               	Cit  	40140
+f13210	06   	Chino, CA                                  	Cit  	40140
+f33182	06   	Hemet, CA                                  	Cit  	40140
+f59962	06   	Redlands, CA                               	Cit  	40140
+f14890	06   	Colton, CA                                 	Cit  	40140
+f55184	06   	Palm Desert, CA                            	Cit  	40140
+f66220	56   	Riverton, WY                               	Cit  	40180
+f68000	51   	Roanoke, VA                                	Cit  	40220
+f56900	37   	Roanoke Rapids, NC                         	Cit  	40260
+f64746	17   	Rochelle, IL                               	Cit  	40300
+f54880	27   	Rochester, MN                              	Cit  	40340
+f63000	36   	Rochester, NY                              	Cit  	40380
+f65000	17   	Rockford, IL                               	Cit  	40420
+f57260	37   	Rockingham, NC                             	Cit  	40460
+f63590	23   	Rockland, ME                               	Cit  	40500
+f67235	56   	Rock Springs, WY                           	Cit  	40540
+f57500	37   	Rocky Mount, NC                            	Cit  	40580
+f62912	29   	Rolla, MO                                  	Cit  	40620
+f66668	13   	Rome, GA                                   	Cit  	40660
+f63650	41   	Roseburg, OR                               	Cit  	40700
+f64930	35   	Roswell, NM                                	Cit  	40740
+f65210	35   	Ruidoso, NM                                	Cit  	40760
+f61670	05   	Russellville, AR                           	Cit  	40780
+f66655	22   	Ruston, LA                                 	Cit  	40820
+f61225	50   	Rutland, VT                                	Cit  	40860
+f64000	06   	Sacramento, CA                             	Cit  	40900
+f02553	06   	Arden-Arcade, CA                           	Cit  	40900
+f62938	06   	Roseville, CA                              	Cit  	40900
+f24638	06   	Folsom, CA                                 	Cit  	40900
+f59444	06   	Rancho Cordova, CA                         	Cit  	40900
+f86328	06   	Woodland, CA                               	Cit  	40900
+f62000	04   	Safford, AZ                                	Cit  	40940
+f70520	26   	Saginaw, MI                                	Cit  	40980
+f70545	26   	Saginaw Township North, MI                 	Cit  	40980
+f56896	27   	St. Cloud, MN                              	Cit  	41060
+f65330	49   	St. George, UT                             	Cit  	41100
+f64550	29   	St. Joseph, MO                             	Cit  	41140
+f65000	29   	St. Louis, MO                              	Cit  	41180
+f64082	29   	St. Charles, MO                            	Cit  	41180
+f67984	13   	St. Marys, GA                              	Cit  	41220
+f67344	42   	St. Marys, PA                              	Cit  	41260
+f64900	41   	Salem, OR                                  	Cit  	41420
+f62700	20   	Salina, KS                                 	Cit  	41460
+f64224	06   	Salinas, CA                                	Cit  	41500
+f69925	24   	Salisbury, MD                              	Cit  	41540
+f58860	37   	Salisbury, NC                              	Cit  	41580
+f67000	49   	Salt Lake City, UT                         	Cit  	41620
+f64472	48   	San Angelo, TX                             	Cit  	41660
+f65000	48   	San Antonio, TX                            	Cit  	41700
+f50820	48   	New Braunfels, TX                          	Cit  	41700
+f66000	06   	San Diego, CA                              	Cit  	41740
+f11194	06   	Carlsbad, CA                               	Cit  	41740
+f68196	06   	San Marcos, CA                             	Cit  	41740
+f50398	06   	National City, CA                          	Cit  	41740
+f70380	39   	Sandusky, OH                               	Cit  	41780
+f59280	37   	Sanford, NC                                	Cit  	41820
+f67000	06   	San Francisco, CA                          	Cit  	41860
+f53000	06   	Oakland, CA                                	Cit  	41860
+f26000	06   	Fremont, CA                                	Cit  	41860
+f33000	06   	Hayward, CA                                	Cit  	41860
+f06000	06   	Berkeley, CA                               	Cit  	41860
+f68252	06   	San Mateo, CA                              	Cit  	41860
+f68084	06   	San Leandro, CA                            	Cit  	41860
+f60102	06   	Redwood City, CA                           	Cit  	41860
+f57792	06   	Pleasanton, CA                             	Cit  	41860
+f83346	06   	Walnut Creek, CA                           	Cit  	41860
+f73262	06   	South San Francisco, CA                    	Cit  	41860
+f68364	06   	San Rafael, CA                             	Cit  	41860
+f76167	72   	San Germán, PR                             	Cit  	41900
+f09861	72   	Cabo Rojo, PR                              	Cit  	41900
+f68000	06   	San Jose, CA                               	Cit  	41940
+f77000	06   	Sunnyvale, CA                              	Cit  	41940
+f69084	06   	Santa Clara, CA                            	Cit  	41940
+f49670	06   	Mountain View, CA                          	Cit  	41940
+f47766	06   	Milpitas, CA                               	Cit  	41940
+f55282	06   	Palo Alto, CA                              	Cit  	41940
+f17610	06   	Cupertino, CA                              	Cit  	41940
+f76770	72   	San Juan, PR                               	Cit  	41980
+f10334	72   	Caguas, PR                                 	Cit  	41980
+f32522	72   	Guaynabo, PR                               	Cit  	41980
+f68154	06   	San Luis Obispo, CA                        	Cit  	42020
+f22300	06   	El Paso de Robles (Paso Robles), CA        	Cit  	42020
+f69070	06   	Santa Barbara, CA                          	Cit  	42060
+f69196	06   	Santa Maria, CA                            	Cit  	42060
+f30378	06   	Goleta, CA                                 	Cit  	42060
+f69112	06   	Santa Cruz, CA                             	Cit  	42100
+f83668	06   	Watsonville, CA                            	Cit  	42100
+f70500	35   	Santa Fe, NM                               	Cit  	42140
+f78145	72   	Santa Isabel, PR                           	Cit  	42180
+f70098	06   	Santa Rosa, CA                             	Cit  	42220
+f56784	06   	Petaluma, CA                               	Cit  	42220
+f71740	26   	Sault Ste. Marie, MI                       	Cit  	42300
+f69000	13   	Savannah, GA                               	Cit  	42340
+f68096	42   	Sayre, PA                                  	Cit  	42380
+f44245	31   	Scottsbluff, NE                            	Cit  	42420
+f68736	01   	Scottsboro, AL                             	Cit  	42460
+f68526	18   	Scottsburg, IN                             	Cit  	42500
+f69000	42   	Scranton, PA                               	Cit  	42540
+f85152	42   	Wilkes-Barre, PA                           	Cit  	42540
+f64320	10   	Seaford, DE                                	Cit  	42580
+f63020	05   	Searcy, AR                                 	Cit  	42620
+f63000	53   	Seattle, WA                                	Cit  	42660
+f70000	53   	Tacoma, WA                                 	Cit  	42660
+f05210	53   	Bellevue, WA                               	Cit  	42660
+f22640	53   	Everett, WA                                	Cit  	42660
+f35415	53   	Kent, WA                                   	Cit  	42660
+f57745	53   	Renton, WA                                 	Cit  	42660
+f03180	53   	Auburn, WA                                 	Cit  	42660
+f64825	12   	Sebastian, FL                              	Cit  	42680
+f74150	12   	Vero Beach, FL                             	Cit  	42680
+f64875	12   	Sebring, FL                                	Cit  	42700
+f66440	29   	Sedalia, MO                                	Cit  	42740
+f69216	42   	Selinsgrove, PA                            	Cit  	42780
+f69120	01   	Selma, AL                                  	Cit  	42820
+f65095	45   	Seneca, SC                                 	Cit  	42860
+f66322	36   	Seneca Falls, NY                           	Cit  	42900
+f67120	47   	Sevierville, TN                            	Cit  	42940
+f68832	18   	Seymour, IN                                	Cit  	42980
+f66800	40   	Shawnee, OK                                	Cit  	43060
+f72975	55   	Sheboygan, WI                              	Cit  	43100
+f61200	37   	Shelby, NC                                 	Cit  	43140
+f67760	47   	Shelbyville, TN                            	Cit  	43180
+f63735	53   	Shelton, WA                                	Cit  	43220
+f69845	56   	Sheridan, WY                               	Cit  	43260
+f67496	48   	Sherman, TX                                	Cit  	43300
+f19900	48   	Denison, TX                                	Cit  	43300
+f66470	04   	Show Low, AZ                               	Cit  	43320
+f70000	22   	Shreveport, LA                             	Cit  	43340
+f08920	22   	Bossier City, LA                           	Cit  	43340
+f72424	39   	Sidney, OH                                 	Cit  	43380
+f66820	04   	Sierra Vista, AZ                           	Cit  	43420
+f20050	04   	Douglas, AZ                                	Cit  	43420
+f67790	29   	Sikeston, MO                               	Cit  	43460
+f73260	35   	Silver City, NM                            	Cit  	43500
+f70525	08   	Silverthorne, CO                           	Cit  	43540
+f73335	19   	Sioux City, IA                             	Cit  	43580
+f59020	46   	Sioux Falls, SD                            	Cit  	43620
+f68624	48   	Snyder, TX                                 	Cit  	43660
+f71688	21   	Somerset, KY                               	Cit  	43700
+f71776	42   	Somerset, PA                               	Cit  	43740
+f71000	18   	South Bend, IN                             	Cit  	43780
+f49932	18   	Mishawaka, IN                              	Cit  	43780
+f63120	37   	Southern Pines, NC                         	Cit  	43860
+f51940	37   	Pinehurst, NC                              	Cit  	43860
+f68290	45   	Spartanburg, SC                            	Cit  	43900
+f60020	46   	Spearfish, SD                              	Cit  	43940
+f74280	19   	Spencer, IA                                	Cit  	43980
+f74415	19   	Spirit Lake, IA                            	Cit  	44020
+f67000	53   	Spokane, WA                                	Cit  	44060
+f72000	17   	Springfield, IL                            	Cit  	44100
+f67000	25   	Springfield, MA                            	Cit  	44140
+f70000	29   	Springfield, MO                            	Cit  	44180
+f74118	39   	Springfield, OH                            	Cit  	44220
+f70240	28   	Starkville, MS                             	Cit  	44260
+f73808	42   	State College, PA                          	Cit  	44300
+f73256	13   	Statesboro, GA                             	Cit  	44340
+f64740	37   	Statesville, NC                            	Cit  	44380
+f44220	37   	Mooresville, NC                            	Cit  	44380
+f75216	51   	Staunton, VA                               	Cit  	44420
+f83680	51   	Waynesboro, VA                             	Cit  	44420
+f70208	48   	Stephenville, TX                           	Cit  	44500
+f73935	08   	Sterling, CO                               	Cit  	44540
+f72546	17   	Sterling, IL                               	Cit  	44580
+f74608	39   	Steubenville, OH                           	Cit  	44600
+f85156	54   	Weirton, WV                                	Cit  	44600
+f77200	55   	Stevens Point, WI                          	Cit  	44620
+f70300	40   	Stillwater, OK                             	Cit  	44660
+f75000	06   	Stockton, CA                               	Cit  	44700
+f75630	19   	Storm Lake, IA                             	Cit  	44740
+f76960	26   	Sturgis, MI                                	Cit  	44780
+f70904	48   	Sulphur Springs, TX                        	Cit  	44860
+f74376	13   	Summerville, GA                            	Cit  	44900
+f70405	45   	Sumter, SC                                 	Cit  	44940
+f75304	42   	Sunbury, PA                                	Cit  	44980
+f77364	06   	Susanville, CA                             	Cit  	45000
+f71540	48   	Sweetwater, TX                             	Cit  	45020
+f73000	36   	Syracuse, NY                               	Cit  	45060
+f72100	40   	Tahlequah, OK                              	Cit  	45140
+f74592	01   	Talladega, AL                              	Cit  	45180
+f74352	01   	Sylacauga, AL                              	Cit  	45180
+f70600	12   	Tallahassee, FL                            	Cit  	45220
+f74690	22   	Tallulah, LA                               	Cit  	45260
+f71000	12   	Tampa, FL                                  	Cit  	45300
+f63000	12   	St. Petersburg, FL                         	Cit  	45300
+f12875	12   	Clearwater, FL                             	Cit  	45300
+f39425	12   	Largo, FL                                  	Cit  	45300
+f76200	35   	Taos, NM                                   	Cit  	45340
+f74574	17   	Taylorville, IL                            	Cit  	45380
+f75428	18   	Terre Haute, IN                            	Cit  	45460
+f72368	48   	Texarkana, TX                              	Cit  	45500
+f68810	05   	Texarkana, AR                              	Cit  	45500
+f72950	41   	The Dalles, OR                             	Cit  	45520
+f71625	12   	The Villages, FL                           	Cit  	45540
+f76168	13   	Thomaston, GA                              	Cit  	45580
+f76224	13   	Thomasville, GA                            	Cit  	45620
+f67420	37   	Thomasville, NC                            	Cit  	45640
+f38060	37   	Lexington, NC                              	Cit  	45640
+f76778	39   	Tiffin, OH                                 	Cit  	45660
+f76476	13   	Tifton, GA                                 	Cit  	45700
+f76756	13   	Toccoa, GA                                 	Cit  	45740
+f77000	39   	Toledo, OH                                 	Cit  	45780
+f71000	20   	Topeka, KS                                 	Cit  	45820
+f76500	09   	Torrington, CT                             	Cit  	45860
+f80340	26   	Traverse City, MI                          	Cit  	45900
+f74000	34   	Trenton, NJ                                	Cit  	45940
+f22180	34   	Ewing, NJ                                  	Cit  	45940
+f76920	01   	Troy, AL                                   	Cit  	45980
+f80588	06   	Truckee, CA                                	Cit  	46020
+f30798	06   	Grass Valley, CA                           	Cit  	46020
+f77000	04   	Tucson, AZ                                 	Cit  	46060
+f75320	47   	Tullahoma, TN                              	Cit  	46100
+f75000	40   	Tulsa, OK                                  	Cit  	46140
+f74840	28   	Tupelo, MS                                 	Cit  	46180
+f77256	01   	Tuscaloosa, AL                             	Cit  	46220
+f77304	01   	Tuskegee, AL                               	Cit  	46260
+f82810	16   	Twin Falls, ID                             	Cit  	46300
+f74144	48   	Tyler, TX                                  	Cit  	46340
+f81134	06   	Ukiah, CA                                  	Cit  	46380
+f73105	45   	Union, SC                                  	Cit  	46420
+f75940	47   	Union City, TN                             	Cit  	46460
+f79072	39   	Urbana, OH                                 	Cit  	46500
+f76540	36   	Utica, NY                                  	Cit  	46540
+f63418	36   	Rome, NY                                   	Cit  	46540
+f84509	72   	Utuado, PR                                 	Cit  	46580
+f74588	48   	Uvalde, TX                                 	Cit  	46620
+f78800	13   	Valdosta, GA                               	Cit  	46660
+f81666	06   	Vallejo, CA                                	Cit  	46700
+f23182	06   	Fairfield, CA                              	Cit  	46700
+f78204	01   	Valley, AL                                 	Cit  	46740
+f79562	39   	Van Wert, OH                               	Cit  	46780
+f66700	46   	Vermillion, SD                             	Cit  	46820
+f80090	49   	Vernal, UT                                 	Cit  	46860
+f75308	48   	Vernon, TX                                 	Cit  	46900
+f76720	28   	Vicksburg, MS                              	Cit  	46980
+f75428	48   	Victoria, TX                               	Cit  	47020
+f79388	13   	Vidalia, GA                                	Cit  	47080
+f79208	18   	Vincennes, IN                              	Cit  	47180
+f76070	34   	Vineland, NJ                               	Cit  	47220
+f46680	34   	Millville, NJ                              	Cit  	47220
+f07600	34   	Bridgeton, NJ                              	Cit  	47220
+f82000	51   	Virginia Beach, VA                         	Cit  	47260
+f57000	51   	Norfolk, VA                                	Cit  	47260
+f56000	51   	Newport News, VA                           	Cit  	47260
+f35000	51   	Hampton, VA                                	Cit  	47260
+f64000	51   	Portsmouth, VA                             	Cit  	47260
+f82954	06   	Visalia, CA                                	Cit  	47300
+f58240	06   	Porterville, CA                            	Cit  	47300
+f79370	18   	Wabash, IN                                 	Cit  	47340
+f76000	48   	Waco, TX                                   	Cit  	47380
+f82660	38   	Wahpeton, ND                               	Cit  	47420
+f75775	53   	Walla Walla, WA                            	Cit  	47460
+f74275	45   	Walterboro, SC                             	Cit  	47500
+f80766	39   	Wapakoneta, OH                             	Cit  	47540
+f80508	13   	Warner Robins, GA                          	Cit  	47580
+f81000	42   	Warren, PA                                 	Cit  	47620
+f77092	29   	Warrensburg, MO                            	Cit  	47660
+f80306	18   	Warsaw, IN                                 	Cit  	47700
+f80504	18   	Washington, IN                             	Cit  	47780
+f71220	37   	Washington, NC                             	Cit  	47820
+f50000	11   	Washington, DC                             	Cit  	47900
+f03000	51   	Arlington, VA                              	Cit  	47900
+f01000	51   	Alexandria, VA                             	Cit  	47900
+f66672	51   	Reston, VA                                 	Cit  	47900
+f07125	24   	Bethesda, MD                               	Cit  	47900
+f67675	24   	Rockville, MD                              	Cit  	47900
+f30325	24   	Frederick, MD                              	Cit  	47900
+f31175	24   	Gaithersburg, MD                           	Cit  	47900
+f81718	39   	Washington Court House, OH                 	Cit  	47920
+f82425	19   	Waterloo, IA                               	Cit  	47940
+f11755	19   	Cedar Falls, IA                            	Cit  	47940
+f69300	46   	Watertown, SD                              	Cit  	47980
+f83975	55   	Watertown, WI                              	Cit  	48020
+f26675	55   	Fort Atkinson, WI                          	Cit  	48020
+f78608	36   	Watertown, NY                              	Cit  	48060
+f26759	36   	Fort Drum, NY                              	Cit  	48060
+f75375	12   	Wauchula, FL                               	Cit  	48100
+f84475	55   	Wausau, WI                                 	Cit  	48140
+f80956	13   	Waycross, GA                               	Cit  	48180
+f79450	40   	Weatherford, OK                            	Cit  	48220
+f77105	53   	Wenatchee, WA                              	Cit  	48300
+f20155	53   	East Wenatchee, WA                         	Cit  	48300
+f78928	29   	West Plains, MO                            	Cit  	48460
+f79120	28   	West Point, MS                             	Cit  	48500
+f86452	54   	Wheeling, WV                               	Cit  	48540
+f86925	55   	Whitewater, WI                             	Cit  	48580
+f79000	20   	Wichita, KS                                	Cit  	48620
+f79000	48   	Wichita Falls, TX                          	Cit  	48660
+f85312	42   	Williamsport, PA                           	Cit  	48700
+f85810	09   	Willimantic, CT                            	Cit  	48740
+f86220	38   	Williston, ND                              	Cit  	48780
+f70420	27   	Willmar, MN                                	Cit  	48820
+f74440	37   	Wilmington, NC                             	Cit  	48900
+f85792	39   	Wilmington, OH                             	Cit  	48940
+f74540	37   	Wilson, NC                                 	Cit  	48980
+f86720	51   	Winchester, VA                             	Cit  	49020
+f79950	20   	Winfield, KS                               	Cit  	49060
+f71032	27   	Winona, MN                                 	Cit  	49100
+f75000	37   	Winston-Salem, NC                          	Cit  	49180
+f82150	40   	Woodward, OK                               	Cit  	49260
+f86548	39   	Wooster, OH                                	Cit  	49300
+f82000	25   	Worcester, MA                              	Cit  	49340
+f71734	27   	Worthington, MN                            	Cit  	49380
+f80010	53   	Yakima, WA                                 	Cit  	49420
+f73060	46   	Yankton, SD                                	Cit  	49460
+f88035	72   	Yauco, PR                                  	Cit  	49500
+f81520	28   	Yazoo City, MS                             	Cit  	49540
+f87048	42   	York, PA                                   	Cit  	49620
+f32448	42   	Hanover, PA                                	Cit  	49620
+f88000	39   	Youngstown, OH                             	Cit  	49660
+f80892	39   	Warren, OH                                 	Cit  	49660
+f07454	39   	Boardman, OH                               	Cit  	49660
+f86972	06   	Yuba City, CA                              	Cit  	49700
+f85540	04   	Yuma, AZ                                   	Cit  	49740
+f88084	39   	Zanesville, OH                             	Cit  	49780
