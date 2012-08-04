@@ -9,6 +9,68 @@ Original:
 * [Airline Info](http://openflights.org/data.html#airline)
 * [Airflight Routes](http://openflights.org/data.html#route)
 
+## Datasets
+
+### Airports
+
+As of January 2012, the OpenFlights Airports Database contains 6977 airports
+[spanning the globe](http://openflights.org/demo/openflights-apdb-2048.png).
+If you enjoy this data, please consider [visiting their page and
+donating](http://openflights.org/data.html)
+
+> Note: Rules for daylight savings time change from year to year and from
+> country to country. The current data is an approximation for 2009, built on
+> a country level. Most airports in DST-less regions in countries that
+> generally observe DST (eg. AL, HI in the USA, NT, QL in Australia, parts of
+> Canada) are marked incorrectly.
+
+Sample entries
+
+    507,"Heathrow","London","United Kingdom","LHR","EGLL",51.4775,-0.461389,83,0,"E"
+    26,"Kugaaruk","Pelly Bay","Canada","YBB","CYBB",68.534444,-89.808056,56,-6,"A"
+    3127,"Pokhara","Pokhara","Nepal","PKR","VNPK",28.200881,83.982056,2712,5.75,"N"
+
+
+### Airlines
+
+As of January 2012, the OpenFlights Airlines Database contains 5888
+airlines. If you enjoy this data, please consider [visiting their page and
+donating](http://openflights.org/data.html)
+
+> Notes: Airlines with null codes/callsigns/countries generally represent
+> user-added airlines. Since the data is intended primarily for current
+> flights, defunct IATA codes are generally not included. For example,
+> "Sabena" is not listed with a SN IATA code, since "SN" is presently used by
+> its successor Brussels Airlines.
+
+Sample entries
+
+    324,"All Nippon Airways","ANA All Nippon Airways","NH","ANA","ALL NIPPON","Japan","Y"
+    412,"Aerolineas Argentinas",\N,"AR","ARG","ARGENTINA","Argentina","Y"
+    413,"Arrowhead Airways",\N,"","ARH","ARROWHEAD","United States","N"
+
+### Routes
+
+As of January 2012, the OpenFlights/Airline Route Mapper Route Database
+contains 59036 routes between 3209 airports on 531 airlines [spanning the
+globe](http://openflights.org/demo/openflights-routedb-2048.png).  If you
+enjoy this data, please consider [visiting their page and
+donating](http://openflights.org/data.html)
+
+> Notes: Routes are directional: if an airline operates services from A to B
+> and from B to A, both A-B and B-A are listed separately. Routes where one
+> carrier operates both its own and codeshare flights are listed only once.
+
+Sample entries
+
+    BA,1355,SIN,3316,LHR,507,,0,744 777
+    BA,1355,SIN,3316,MEL,3339,Y,0,744
+    TOM,5013,ACE,1055,BFS,465,,0,320
+
+
+
+## Details
+
 ### Encoding
 
 The data is ISO 8859-1 (Latin-1) encoded, with no special characters.
