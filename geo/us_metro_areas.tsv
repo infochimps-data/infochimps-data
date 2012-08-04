@@ -1,720 +1,724 @@
-Primary Census Statistical Area                                	2011 Estimate	2010 Census	CnsusID	Type	Rank	Change	Core Based Statistical Areas
+Primary Census Statistical Area                                	2011 Estimate	2010 Census	CnsusID	Type	Abbr	Rank	Change	Core Based Statistical Areas
 
-New York-Newark-Bridgeport, NY-NJ-CT-PA                    	     22214083	   22085649	  408	CSA	   1	+0.58%	New York-Northern New Jersey-Long Island, NY-NJ-PA MSA | Bridgeport-Stamford-Norwalk, CT MSA | New Haven-Milford, CT MSA | Poughkeepsie-Newburgh-Middletown, NY MSA | Trenton-Ewing, NJ MSA | Torrington, CT µSA | Kingston, NY MSA
-Los Angeles-Long Beach-Riverside, CA                       	     18081569	   17877006	  348	CSA	   2	+1.14%	Los Angeles-Long Beach-Santa Ana, CA MSA | Riverside-San Bernardino-Ontario, CA MSA | Oxnard-Thousand Oaks-Ventura, CA MSA
-Chicago-Naperville-Michigan City, IL-IN-WI                 	      9729825	    9686021	  176	CSA	   3	+0.45%	Chicago-Naperville-Joliet, IL-IN-WI MSA | Kankakee-Bradley, IL MSA | Michigan City-La Porte, IN MSA
-Washington-Baltimore-Northern Virginia, DC-MD-VA-WV        	      8718083	    8572971	  548	CSA	   4	+1.69%	Washington-Arlington-Alexandria, DC-VA-MD-WV MSA | Baltimore-Towson, MD MSA | Winchester, VA-WV MSA | Lexington Park, MD µSA | Culpeper, VA µSA
-Boston-Worcester-Manchester, MA-RI-NH                      	      7601061	    7559060	  148	CSA	   5	+0.56%	Boston-Cambridge-Quincy, MA-NH MSA | Providence-New Bedford-Fall River, RI-MA MSA | Worcester, MA MSA | Manchester-Nashua, NH MSA | Concord, NH µSA | Laconia, NH µSA
-San Jose-San Francisco-Oakland, CA                         	      7563460	    7468390	  488	CSA	   6	+1.27%	San Francisco-Oakland-Fremont, CA MSA | San Jose-Sunnyvale-Santa Clara, CA MSA | Santa Rosa-Petaluma, CA MSA | Vallejo-Fairfield, CA MSA | Santa Cruz-Watsonville, CA MSA | Napa, CA MSA
-Dallas-Fort Worth, TX                                      	      6887383	    6731317	  206	CSA	   7	+2.32%	Dallas-Fort Worth-Arlington, TX MSA | Sherman-Denison, TX MSA | Athens, TX µSA | Granbury, TX µSA | Gainesville, TX µSA | Bonham, TX µSA | Mineral Wells, TX µSA
-Philadelphia-Camden-Vineland, PA-NJ-DE-MD                  	      6562287	    6533683	  428	CSA	   8	+0.44%	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA | Reading, PA MSA | Vineland-Millville-Bridgeton, NJ MSA
-Houston-Baytown-Huntsville, TX                             	      6191434	    6051363	  288	CSA	   9	+2.31%	Houston-Sugar Land-Baytown, TX MSA | Huntsville, TX µSA | Bay City, TX µSA
-Atlanta-Sandy Springs-Gainesville, GA-AL                   	      5712148	    5618431	  122	CSA	  10	+1.67%	Atlanta-Sandy Springs-Marietta, GA MSA | Gainesville, GA MSA | LaGrange, GA µSA | Cedartown, GA µSA | Valley, AL µSA | Thomaston, GA µSA
-Miami-Fort Lauderdale-Pompano Beach, FL                    	      5670125	    5564635		MSA	  11	+1.90%
-Detroit-Warren-Flint, MI                                   	      5207434	    5218852	  220	CSA	  12	-0.22%	Detroit-Warren-Livonia, MI MSA | Flint, MI MSA | Ann Arbor, MI MSA | Monroe, MI MSA
-Seattle-Tacoma-Olympia, WA                                 	      4269349	    4199312	  500	CSA	  13	+1.67%	Seattle-Tacoma-Bellevue, WA MSA | Olympia, WA MSA | Bremerton-Silverdale, WA MSA | Mount Vernon-Anacortes, WA MSA | Oak Harbor, WA µSA | Shelton, WA µSA
-Phoenix-Mesa-Glendale, AZ                                  	      4263236	    4192887		MSA	  14	+1.68%
-Minneapolis-St. Paul-St. Cloud, MN-WI                      	      3655558	    3615902	  378	CSA	  15	+1.10%	Minneapolis-St. Paul-Bloomington, MN-WI MSA | St. Cloud, MN MSA | Faribault-Northfield, MN µSA | Red Wing, MN µSA | Hutchinson, MN µSA
-Denver-Aurora-Boulder, CO                                  	      3157520	    3090874	  216	CSA	  16	+2.16%	Denver-Aurora-Broomfield, CO MSA | Boulder, CO MSA | Greeley, CO MSA
-San Diego-Carlsbad-San Marcos, CA                          	      3140069	    3095313		MSA	  17	+1.45%
-St. Louis-St. Charles-Farmington, MO-IL                    	      2882932	    2878255	  476	CSA	  18	+0.16%	St. Louis, MO-IL MSA | Farmington, MO µSA
-Cleveland-Akron-Elyria, OH                                 	      2871084	    2881937	  184	CSA	  19	-0.38%	Cleveland-Elyria-Mentor, OH MSA | Akron, OH MSA | Ashtabula, OH µSA
-Orlando-Deltona-Daytona Beach, FL                          	      2861296	    2818120	  422	CSA	  20	+1.53%	Orlando-Kissimmee-Sanford, FL MSA | Deltona-Daytona Beach-Ormond Beach, FL MSA | Palm Coast, FL MSA | The Villages, FL µSA
-Tampa-St. Petersburg-Clearwater, FL                        	      2824724	    2783243		MSA	  21	+1.49%
-Sacramento-Arden+Arcade-Yuba City, CA-NV                   	      2489230	    2461780	  472	CSA	  22	+1.12%	Sacramento+Arden Arcade-Roseville, CA MSA | Yuba City, CA MSA | Truckee-Grass Valley, CA µSA | Gardnerville Ranchos, NV µSA
-Pittsburgh-New Castle, PA                                  	      2450281	    2447393	  430	CSA	  23	+0.12%	Pittsburgh, PA MSA | New Castle, PA µSA
-Charlotte-Gastonia-Salisbury, NC-SC                        	      2442564	    2402623	  172	CSA	  24	+1.66%	Charlotte-Gastonia-Concord, NC-SC MSA | Statesville-Mooresville, NC µSA | Salisbury, NC µSA | Shelby, NC µSA | Lancaster, SC µSA | Lincolnton, NC µSA | Albemarle, NC µSA | Chester, SC µSA
-Portland-Vancouver-Hillsboro, OR-WA                        	      2262605	    2226009		MSA	  25	+1.64%
-San Antonio-New Braunfels, TX                              	      2194927	    2142508		MSA	  26	+2.45%
-Cincinnati-Middletown-Wilmington, OH-KY-IN                 	      2179965	    2172191	  178	CSA	  27	+0.36%	Cincinnati-Middletown, OH-KY-IN MSA | Wilmington, OH µSA
-Kansas City-Overland Park-Kansas City, MO-KS               	      2122908	    2104853	  312	CSA	  28	+0.86%	Kansas City, MO-KS MSA | Warrensburg, MO µSA | Atchison, KS µSA
-Indianapolis-Anderson-Columbus, IN                         	      2103574	    2080782	  294	CSA	  29	+1.10%	Indianapolis-Carmel, IN MSA | Anderson, IN MSA | Columbus, IN MSA | New Castle, IN µSA | Crawfordsville, IN µSA | North Vernon, IN µSA
-Columbus-Marion-Chillicothe, OH                            	      2093185	    2071052	  198	CSA	  30	+1.07%	Columbus, OH MSA | Chillicothe, OH µSA | Marion, OH µSA | Mount Vernon, OH µSA | Washington Court House, OH µSA
-Las Vegas-Paradise-Pahrump, NV                             	      2013326	    1995215	  332	CSA	  31	+0.91%	Las Vegas-Paradise, NV MSA | Pahrump, NV µSA
-Austin-Round Rock-Marble Falls, TX                         	      1826636	    1759039	  126	CSA	  32	+3.84%	Austin-Round Rock-San Marcos, TX MSA | Marble Falls, TX µSA
-Raleigh-Durham-Cary, NC                                    	      1795750	    1749525	  450	CSA	  33	+2.64%	Raleigh-Cary, NC MSA | Durham-Chapel Hill, NC MSA | Dunn, NC µSA
-Salt Lake City-Ogden-Clearfield, UT                        	      1776528	    1744886	  482	CSA	  34	+1.81%	Salt Lake City, UT MSA | Ogden-Clearfield, UT MSA | Brigham City, UT µSA | Heber, UT µSA
-Milwaukee-Racine-Waukesha, WI                              	      1757604	    1751316	  376	CSA	  35	+0.36%	Milwaukee-Waukesha-West Allis, WI MSA | Racine, WI MSA
-Nashville+Davidson-Murfreesboro-Columbia, TN               	      1698651	    1670890	  400	CSA	  36	+1.66%	Nashville+Davidson-Murfreesboro-Franklin, TN MSA | Columbia, TN µSA
-Virginia Beach-Norfolk-Newport News, VA-NC                 	      1679894	    1671683		MSA	  37	+0.49%
-Greensboro-Winston+Salem-High Point, NC                    	      1602693	    1589200	  268	CSA	  38	+0.85%	Greensboro-High Point, NC MSA | Winston-Salem, NC MSA | Thomasville-Lexington, NC µSA | Burlington, NC MSA | Mount Airy, NC µSA
-Louisville/Jefferson County-Elizabethtown-Scottsburg, KY-IN	      1440607	    1427483	  350	CSA	  39	+0.92%	Louisville/Jefferson County, KY-IN MSA | Elizabethtown, KY MSA | Scottsburg, IN µSA
-Jacksonville, FL                                           	      1360251	    1345596		MSA	  40	+1.09%
-Oklahoma City-Shawnee, OK                                  	      1348333	    1322429	  416	CSA	  41	+1.96%	Oklahoma City, OK MSA | Shawnee, OK µSA
-Hartford-West Hartford-Willimantic, CT                     	      1331406	    1330809	  278	CSA	  42	+0.04%	Hartford-West Hartford-East Hartford, CT MSA | Willimantic, CT µSA
-Grand Rapids-Muskegon-Holland, MI                          	      1328440	    1321557	  266	CSA	  43	+0.52%	Grand Rapids-Wyoming, MI MSA | Holland-Grand Haven, MI MSA | Muskegon-Norton Shores, MI MSA | Allegan, MI µSA
-Memphis, TN-MS-AR                                          	      1325605	    1316100		MSA	  44	+0.72%
-Greenville-Spartanburg-Anderson, SC                        	      1281394	    1266995	  273	CSA	  45	+1.14%	Greenville-Mauldin-Easley, SC MSA | Spartanburg, SC MSA | Anderson, SC MSA | Seneca, SC µSA | Gaffney, SC µSA | Union, SC µSA
-Richmond, VA                                               	      1269380	    1258251		MSA	  46	+0.88%
-New Orleans-Metairie-Bogalusa, LA                          	      1238228	    1214932	  406	CSA	  47	+1.92%	New Orleans-Metairie-Kenner, LA MSA | Bogalusa, LA µSA
-Buffalo-Niagara-Cattaraugus, NY                            	      1213871	    1215826	  160	CSA	  48	-0.16%	Buffalo-Niagara Falls, NY MSA | Olean, NY µSA
-Birmingham-Hoover-Cullman, AL                              	      1212800	    1208453	  142	CSA	  49	+0.36%	Birmingham-Hoover, AL MSA | Cullman, AL µSA
-Albany-Schenectady-Amsterdam, NY                           	      1168120	    1168485	  104	CSA	  50	-0.03%	Albany-Schenectady-Troy, NY MSA | Glens Falls, NY MSA | Hudson, NY µSA | Gloversville, NY µSA | Amsterdam, NY µSA
-Rochester-Batavia-Seneca Falls, NY                         	      1150469	    1149653	  464	CSA	  51	+0.07%	Rochester, NY MSA | Batavia, NY µSA | Seneca Falls, NY µSA
-Fresno-Madera, CA                                          	      1095829	    1081315	  260	CSA	  52	+1.34%	Fresno, CA MSA | Madera-Chowchilla, CA MSA
-Dayton-Springfield-Greenville, OH                          	      1075683	    1072891	  212	CSA	  53	+0.26%	Dayton, OH MSA | Springfield, OH MSA | Greenville, OH µSA | Urbana, OH µSA
-Knoxville-Sevierville-La Follette, TN                      	      1063354	    1055086	  314	CSA	  54	+0.78%	Knoxville, TN MSA | Morristown, TN MSA | Sevierville, TN µSA | Harriman, TN µSA | La Follette, TN µSA | Newport, TN µSA
-Tulsa-Bartlesville, OK                                     	       998438	     988454	  538	CSA	  55	+1.01%	Tulsa, OK MSA | Bartlesville, OK µSA
-Tucson, AZ                                                 	       989569	     980263		MSA	  56	+0.95%
-Honolulu, HI                                               	       963607	     953207		MSA	  57	+1.09%
-Omaha-Council Bluffs-Fremont, NE-IA                        	       913883	     902041	  420	CSA	  58	+1.31%	Omaha-Council Bluffs, NE-IA MSA | Fremont, NE µSA
-Albuquerque, NM                                            	       898642	     887077		MSA	  59	+1.30%
-Little Rock-North Little Rock-Pine Bluff, AR               	       886992	     877091	  340	CSA	  60	+1.13%	Little Rock-North Little Rock-Conway, AR MSA | Pine Bluff, AR MSA | Searcy, AR µSA
-Sarasota-Bradenton-Punta Gorda, FL                         	       869866	     862259	  494	CSA	  61	+0.88%	Bradenton-Sarasota-Venice, FL MSA | Punta Gorda, FL MSA
-Bakersfield-Delano, CA                                     	       851710	     839631		MSA	  62	+1.44%
-Baton Rouge-Pierre Part, LA                                	       831395	     825905	  132	CSA	  63	+0.66%	Baton Rouge, LA MSA | Pierre Part, LA µSA
-Allentown-Bethlehem-Easton, PA-NJ                          	       824916	     821173		MSA	  64	+0.46%
-El Paso, TX                                                	       820790	     800647		MSA	  65	+2.52%
-Columbia-Newberry, SC                                      	       814837	     805106	  192	CSA	  66	+1.21%	Columbia, SC MSA | Newberry, SC µSA
-McAllen-Edinburg-Mission, TX                               	       797810	     774769		MSA	  67	+2.97%
-Syracuse-Auburn, NY                                        	       742291	     742603	  532	CSA	  68	-0.04%	Syracuse, NY MSA | Auburn, NY µSA
-Toledo-Fremont, OH                                         	       711000	     712373	  534	CSA	  69	-0.19%	Toledo, OH MSA | Fremont, OH µSA
-Chattanooga-Cleveland-Athens, TN-GA                        	       702714	     696197	  174	CSA	  70	+0.94%	Chattanooga, TN-GA MSA | Cleveland, TN MSA | Athens, TN µSA
-Lexington+Fayette-Frankfort-Richmond, KY                   	       696340	     687173	  336	CSA	  71	+1.33%	Lexington-Fayette, KY MSA | Richmond-Berea, KY µSA | Frankfort, KY µSA | Mount Sterling, KY µSA
-Stockton, CA                                               	       696214	     685306		MSA	  72	+1.59%
-Springfield, MA                                            	       693204	     692942		MSA	  73	+0.04%
-Harrisburg-Carlisle-Lebanon, PA                            	       687222	     683043	  276	CSA	  74	+0.61%	Harrisburg-Carlisle, PA MSA | Lebanon, PA MSA
-Charleston-North Charleston-Summerville, SC                	       682121	     664607		MSA	  75	+2.64%
-Youngstown-Warren-East Liverpool, OH-PA                    	       670309	     673614	  566	CSA	  76	-0.49%	Youngstown-Warren-Boardman, OH-PA MSA | East Liverpool-Salem, OH µSA
-Wichita-Winfield, KS                                       	       661798	     659372	  556	CSA	  77	+0.37%	Wichita, KS MSA | Winfield, KS µSA
-Colorado Springs, CO                                       	       660319	     645613		MSA	  78	+2.28%
-Des Moines-Newton-Pella, IA                                	       650137	     639784	  218	CSA	  79	+1.62%	Des Moines-West Des Moines, IA MSA | Newton, IA µSA | Pella, IA µSA
-Madison-Baraboo, WI                                        	       638757	     630569	  358	CSA	  80	+1.30%	Madison, WI MSA | Baraboo, WI µSA
-Cape Coral-Fort Myers, FL                                  	       631330	     618754		MSA	  81	+2.03%
-Boise City-Nampa, ID                                       	       627664	     616561		MSA	  82	+1.80%
-Portland-Lewiston-South Portland, ME                       	       623205	     621800	  438	CSA	  83	+0.23%	Portland-South Portland-Biddeford, ME MSA | Lewiston-Auburn, ME MSA
-Fort Wayne-Huntington-Auburn, IN                           	       615077	     611712	  258	CSA	  84	+0.55%	Fort Wayne, IN MSA | Kendallville, IN µSA | Auburn, IN µSA | Huntington, IN µSA | Decatur, IN µSA | Angola, IN µSA
-Lakeland-Winter Haven, FL                                  	       609492	     602095		MSA	  85	+1.23%
-Mobile-Daphne-Fairhope, AL                                 	       599294	     595257	  380	CSA	  86	+0.68%	Mobile, AL MSA | Daphne-Fairhope-Foley, AL µSA
-Huntsville-Decatur, AL                                     	       579550	     571422	  290	CSA	  87	+1.42%	Huntsville, AL MSA | Decatur, AL MSA
-Jackson-Yazoo City, MS                                     	       573280	     567122	  298	CSA	  88	+1.09%	Jackson, MS MSA | Yazoo City, MS µSA
-Port St. Lucie-Sebastian-Vero Beach, FL                    	       566768	     562135	  442	CSA	  89	+0.82%	Port St. Lucie, FL MSA | Sebastian-Vero Beach, FL MSA
-South Bend-Elkhart-Mishawaka, IN-MI                        	       564679	     563834	  515	CSA	  90	+0.15%	South Bend-Mishawaka, IN-MI MSA | Elkhart-Goshen, IN MSA | Plymouth, IN µSA
-Scranton-Wilkes-Barre, PA                                  	       563223	     563631		MSA	  91	-0.07%
-Augusta-Richmond County, GA-SC                             	       561858	     556877		MSA	  92	+0.89%
-Lafayette-Acadiana, LA                                     	       554517	     550134	  318	CSA	  93	+0.80%	Lafayette, LA MSA | Opelousas-Eunice, LA µSA | New Iberia, LA µSA | Crowley, LA µSA | Abbeville, LA µSA
-Palm Bay-Melbourne-Titusville, FL                          	       543566	     543376		MSA	  94	+0.03%
-Provo-Orem, UT                                             	       540834	     526810		MSA	  95	+2.66%
-York-Hanover-Gettysburg, PA                                	       538204	     536379	  564	CSA	  96	+0.34%	York-Hanover, PA MSA | Gettysburg, PA µSA
-Lansing-East Lansing-Owosso, MI                            	       534979	     534684	  330	CSA	  97	+0.06%	Lansing-East Lansing, MI MSA | Owosso, MI µSA
-Lancaster, PA                                              	       523594	     519445		MSA	  98	+0.80%
-Modesto, CA                                                	       518522	     514453		MSA	  99	+0.79%
-Johnson City-Kingsport-Bristol (Tri-Cities), TN-VA         	       509611	     508260	  304	CSA	 100	+0.27%	Kingsport-Bristol-Bristol, TN-VA MSA | Johnson City, TN MSA
-Reno-Sparks-Fernley, NV                                    	       481477	     477397	  456	CSA	 101	+0.85%	Reno-Sparks, NV MSA | Fernley, NV µSA
-Fayetteville-Springdale-Rogers, AR-MO                      	       473830	     463204		MSA	 102	+2.29%
-Spokane, WA                                                	       473761	     471221		MSA	 103	+0.54%
-Columbus-Auburn-Opelika, GA-AL                             	       466089	     456564	  194	CSA	 104	+2.09%	Columbus, GA-AL MSA | Auburn-Opelika, AL MSA | Tuskegee, AL µSA
-Corpus Christi-Kingsville, TX                              	       464014	     460662	  204	CSA	 105	+0.73%	Corpus Christi, TX MSA | Kingsville, TX µSA
-Asheville-Brevard, NC                                      	       461837	     457948	  120	CSA	 106	+0.85%	Asheville, NC MSA | Brevard, NC µSA
-Pensacola-Ferry Pass-Brent, FL                             	       453218	     448991		MSA	 107	+0.94%
-Visalia-Porterville, CA                                    	       449253	     442179		MSA	 108	+1.60%
-Rockford-Freeport-Rochelle, IL                             	       449038	     450639	  466	CSA	 109	-0.36%	Rockford, IL MSA | Rochelle, IL µSA | Freeport, IL µSA
-Shreveport-Bossier City-Minden, LA                         	       444883	     439811	  508	CSA	 110	+1.15%	Shreveport-Bossier City, LA MSA | Minden, LA µSA
-Springfield, MO                                            	       440142	     436712		MSA	 111	+0.79%
-Brownsville-Harlingen-Raymondville, TX                     	       436218	     428354	  154	CSA	 112	+1.84%	Brownsville-Harlingen, TX MSA | Raymondville, TX µSA
-Savannah-Hinesville-Fort Stewart, GA                       	       436163	     425528	  496	CSA	 113	+2.50%	Savannah, GA MSA | Hinesville-Fort Stewart, GA MSA
-Montgomery-Alexander City, AL                              	       430944	     427691	  388	CSA	 114	+0.76%	Montgomery, AL MSA | Alexander City, AL µSA
-Santa Barbara-Santa Maria-Goleta, CA                       	       426878	     423895		MSA	 115	+0.70%
-Salinas, CA                                                	       421898	     415057		MSA	 116	+1.65%
-Peoria-Canton, IL                                          	       416518	     416255	  426	CSA	 117	+0.06%	Peoria, IL MSA | Canton, IL µSA
-Gulfport-Biloxi-Pascagoula, MS                             	       416301	     411066	  274	CSA	 118	+1.27%	Gulfport-Biloxi, MS MSA | Pascagoula, MS MSA
-Killeen-Temple-Fort Hood, TX                               	       411595	     405300		MSA	 119	+1.55%
-Macon-Warner Robins-Fort Valley, GA                        	       404668	     399888	  356	CSA	 120	+1.20%	Macon, GA MSA | Warner Robins, GA MSA | Fort Valley, GA µSA
-Canton-Massillon, OH                                       	       403869	     404422		MSA	 121	-0.14%
-Appleton-Oshkosh-Neenah, WI                                	       395102	     392660	  118	CSA	 122	+0.62%	Appleton, WI MSA | Oshkosh-Neenah, WI MSA
-Salem, OR                                                  	       394865	     390738		MSA	 123	+1.06%
-Beaumont-Port Arthur, TX                                   	       390535	     388745		MSA	 124	+0.46%
-Anchorage, AK                                              	       387516	     380821		MSA	 125	+1.76%
-Davenport-Moline-Rock Island, IA-IL                        	       381342	     379690		MSA	 126	+0.44%
-Fayetteville, NC                                           	       374157	     366383		MSA	 127	+2.12%
-Tallahassee, FL                                            	       369758	     367413		MSA	 128	+0.64%
-Wilmington, NC                                             	       369685	     362315		MSA	 129	+2.03%
-Hickory-Lenoir-Morganton, NC                               	       364567	     365497		MSA	 130	-0.25%
-Evansville, IN-KY                                          	       359879	     358676		MSA	 131	+0.34%
-Eugene-Springfield, OR                                     	       353416	     351715		MSA	 132	+0.48%
-Myrtle Beach-Conway-Georgetown, SC                         	       336331	     329449	  396	CSA	 133	+2.09%	Myrtle Beach-North Myrtle Beach-Conway, SC MSA | Georgetown, SC µSA
-Ocala, FL                                                  	       332529	     331298		MSA	 134	+0.37%
-Kalamazoo-Portage, MI                                      	       328205	     326589		MSA	 135	+0.49%
-Naples-Marco Island, FL                                    	       328134	     321520		MSA	 136	+2.06%
-Lubbock-Levelland, TX                                      	       312894	     307825	  352	CSA	 137	+1.65%	Lubbock, TX MSA | Levelland, TX µSA
-Green Bay, WI                                              	       309469	     306241		MSA	 138	+1.05%
-Roanoke, VA                                                	       308861	     308707		MSA	 139	+0.05%
-Lincoln, NE                                                	       306503	     302157		MSA	 140	+1.44%
-Saginaw-Bay City-Saginaw Township North, MI                	       306198	     307940	  474	CSA	 141	-0.57%	Saginaw-Saginaw Township North, MI MSA | Bay City, MI MSA
-Fort Collins-Loveland, CO                                  	       305525	     299630		MSA	 142	+1.97%
-Charleston, WV                                             	       303674	     304284		MSA	 143	-0.20%
-Fort Smith, AR-OK                                          	       300087	     298592		MSA	 144	+0.50%
-Utica-Rome, NY                                             	       298447	     299397		MSA	 145	-0.32%
-Huntington-Ashland, WV-KY-OH                               	       287599	     287702		MSA	 146	-0.04%
-Longview-Marshall, TX                                      	       282962	     280000	  346	CSA	 147	+1.06%	Longview, TX MSA | Marshall, TX µSA
-Erie, PA                                                   	       280985	     280566		MSA	 148	+0.15%
-Midland-Odessa, TX                                         	       280419	     274002	  372	CSA	 149	+2.34%	Odessa, TX MSA | Midland, TX MSA
-Duluth, MN-WI                                              	       279815	     279771		MSA	 150	+0.02%
-Clarksville, TN-KY                                         	       277701	     273949		MSA	 151	+1.37%
-Atlantic City-Hammonton, NJ                                	       274338	     274549		MSA	 152	-0.08%
-Norwich-New London, CT                                     	       273502	     274055		MSA	 153	-0.20%
-San Luis Obispo-Paso Robles, CA                            	       271969	     269637		MSA	 154	+0.86%
-Hagerstown-Martinsburg, MD-WV                              	       271488	     269140		MSA	 155	+0.87%
-Gainesville, FL                                            	       266369	     264275		MSA	 156	+0.79%
-Tyler-Jacksonville, TX                                     	       264521	     260559	  540	CSA	 157	+1.52%	Tyler, TX MSA | Jacksonville, TX µSA
-Kennewick-Pasco-Richland, WA                               	       264133	     253340		MSA	 158	+4.26%
-Cedar Rapids, IA                                           	       260575	     257940		MSA	 159	+1.02%
-Merced, CA                                                 	       259898	     255793		MSA	 160	+1.60%
-Laredo, TX                                                 	       256496	     250304		MSA	 161	+2.47%
-Lynchburg, VA                                              	       254171	     252634		MSA	 162	+0.61%
-Amarillo, TX                                               	       253823	     249881		MSA	 163	+1.58%
-Binghamton, NY                                             	       250074	     251725		MSA	 164	-0.66%
-Yakima, WA                                                 	       247141	     243231		MSA	 165	+1.61%
-Dothan-Enterprise-Ozark, AL                                	       247132	     245838	  222	CSA	 166	+0.53%	Dothan, AL MSA | Enterprise-Ozark, AL µSA
-Waco, TX                                                   	       238564	     234906		MSA	 167	+1.56%
-Lafayette-Frankfort, IN                                    	       236712	     235013	  320	CSA	 168	+0.72%	Lafayette, IN MSA | Frankfort, IN µSA
-Fargo-Wahpeton, ND-MN                                      	       235008	     231674	  244	CSA	 169	+1.44%	Fargo, ND-MN MSA | Wahpeton, ND-MN µSA
-Topeka, KS                                                 	       234647	     233870		MSA	 170	+0.33%
-Lake Charles-Jennings, LA                                  	       232516	     231201	  324	CSA	 171	+0.57%	Lake Charles, LA MSA | Jennings, LA µSA
-Sioux Falls, SD                                            	       232433	     228261		MSA	 172	+1.83%
-Champaign-Urbana, IL                                       	       232336	     231891		MSA	 173	+0.19%
-College Station-Bryan, TX                                  	       231623	     228660		MSA	 174	+1.30%
-Tuscaloosa, AL                                             	       221553	     219461		MSA	 175	+0.95%
-Chico, CA                                                  	       220266	     220000		MSA	 176	+0.12%
-Claremont-Lebanon, NH-VT                                   	       218057	     218466	  180	CSA	 177	-0.19%	Lebanon, NH-VT µSA | Claremont, NH µSA
-Barnstable Town, MA                                        	       215769	     215888		MSA	 178	-0.06%
-Las Cruces, NM                                             	       213598	     209233		MSA	 179	+2.09%
-Burlington-South Burlington, VT                            	       212535	     211261		MSA	 180	+0.60%
-Prescott, AZ                                               	       211888	     211033		MSA	 181	+0.41%
-Springfield, IL                                            	       211547	     210170		MSA	 182	+0.66%
-Houma-Bayou Cane-Thibodaux, LA                             	       208583	     208178		MSA	 183	+0.19%
-Eau Claire-Menomonie, WI                                   	       206628	     205008	  232	CSA	 184	+0.79%	Eau Claire, WI MSA | Menomonie, WI µSA
-Florence, SC                                               	       206161	     205566		MSA	 185	+0.29%
-Monroe-Bastrop, LA                                         	       205259	     204420	  384	CSA	 186	+0.41%	Monroe, LA MSA | Bastrop, LA µSA
-Medford, OR                                                	       204822	     203206		MSA	 187	+0.80%
-Albany-Corvallis-Lebanon, OR                               	       204050	     202251	  102	CSA	 188	+0.89%	Albany-Lebanon, OR µSA | Corvallis, OR MSA
-Charlottesville, VA                                        	       203882	     201559		MSA	 189	+1.15%
-Bellingham, WA                                             	       203663	     201140		MSA	 190	+1.25%
-Lake Havasu City-Kingman, AZ                               	       202351	     200186		MSA	 191	+1.08%
-Yuma, AZ                                                   	       200870	     195751		MSA	 192	+2.62%
-Seaford, DE                                                	       200330	     197145		µSA	 193	+1.62%
-Bloomington, IN                                            	       194193	     192714		MSA	 194	+0.77%
-Athens-Clarke County, GA                                   	       193317	     192541		MSA	 195	+0.40%
-Greenville, NC                                             	       192690	     189510		MSA	 196	+1.68%
-Fond du Lac-Beaver Dam, WI                                 	       190740	     190392	  252	CSA	 197	+0.18%	Fond du Lac, WI MSA | Beaver Dam, WI µSA
-Hilton Head Island-Beaufort, SC                            	       189879	     187010		µSA	 198	+1.53%
-Rochester, MN                                              	       187612	     186011		MSA	 199	+0.86%
-Hilo, HI                                                   	       186738	     185079		µSA	 200	+0.90%
-Santa Fe-Espanola, NM                                      	       186094	     184416	  492	CSA	 201	+0.91%	Santa Fe, NM MSA | Espanola, NM µSA
-Crestview-Fort Walton Beach-Destin, FL                     	       183482	     180822		MSA	 202	+1.47%
-Bend-Prineville, OR                                        	       181177	     178711	  140	CSA	 203	+1.38%	Bend, OR MSA | Prineville, OR µSA
-Lima-Van Wert-Wapakoneta, OH                               	       180533	     181024	  338	CSA	 204	-0.27%	Lima, OH MSA | Wapakoneta, OH µSA | Van Wert, OH µSA
-Jacksonville, NC                                           	       179719	     177772		MSA	 205	+1.10%
-Sunbury-Lewisburg-Selinsgrove, PA                          	       179224	     179177	  526	CSA	 206	+0.03%	Sunbury, PA µSA | Lewisburg, PA µSA | Selinsgrove, PA µSA
-Idaho Falls-Blackfoot, ID                                  	       178025	     175981	  292	CSA	 207	+1.16%	Idaho Falls, ID MSA | Blackfoot, ID µSA
-Redding, CA                                                	       177774	     177223		MSA	 208	+0.31%
-El Centro, CA                                              	       177057	     174528		MSA	 209	+1.45%
-Salisbury-Ocean Pines, MD                                  	       177043	     176657	  480	CSA	 210	+0.22%	Salisbury, MD MSA | Ocean Pines, MD µSA
-Joplin, MO                                                 	       176849	     175518		MSA	 211	+0.76%
-Columbia, MO                                               	       175831	     172786		MSA	 212	+1.76%
-Terre Haute, IN                                            	       172663	     172425		MSA	 213	+0.14%
-Lumberton-Laurinburg, NC                                   	       171378	     170325	  354	CSA	 214	+0.62%	Lumberton, NC µSA | Laurinburg, NC µSA
-Bloomington-Normal, IL                                     	       170556	     169572		MSA	 215	+0.58%
-East Stroudsburg, PA                                       	       169882	     169842		µSA	 216	+0.02%
-Panama City-Lynn Haven-Panama City Beach, FL               	       169856	     168852		MSA	 217	+0.59%
-Waterloo-Cedar Falls, IA                                   	       168289	     167819		MSA	 218	+0.28%
-Mansfield-Bucyrus, OH                                      	       166899	     168259	  360	CSA	 219	-0.81%	Mansfield, OH MSA | Bucyrus, OH µSA
-Abilene, TX                                                	       166416	     165252		MSA	 220	+0.70%
-Jonesboro-Paragould, AR                                    	       165549	     163116	  308	CSA	 221	+1.49%	Jonesboro, AR MSA | Paragould, AR µSA
-Jackson-Humboldt, TN                                       	       165331	     165108	  297	CSA	 222	+0.14%	Jackson, TN MSA | Humboldt, TN µSA
-Dover, DE                                                  	       164834	     162310		MSA	 223	+1.56%
-Wausau-Merrill, WI                                         	       163002	     162806	  554	CSA	 224	+0.12%	Wausau, WI MSA | Merrill, WI µSA
-Blacksburg-Christiansburg-Radford, VA                      	       162487	     162958		MSA	 225	-0.29%
-Parkersburg-Marietta-Vienna, WV-OH                         	       162248	     162056		MSA	 226	+0.12%
-Pueblo, CO                                                 	       160545	     159063		MSA	 227	+0.93%
-Billings, MT                                               	       160097	     158050		MSA	 228	+1.30%
-Janesville, WI                                             	       160092	     160331		MSA	 229	-0.15%
-Jackson, MI                                                	       159748	     160248		MSA	 230	-0.31%
-Sioux City-Vermillion, IA-NE-SD                            	       158113	     157441	  512	CSA	 231	+0.43%	Sioux City, IA-NE-SD MSA | Vermillion, SD µSA
-Albany, GA                                                 	       157688	     157308		MSA	 232	+0.24%
-Niles-Benton Harbor, MI                                    	       156941	     156813		MSA	 233	+0.08%
-Kahului-Wailuku, HI                                        	       156674	     154834		µSA	 234	+1.19%
-Williamsport-Lock Haven, PA                                	       155955	     155349	  558	CSA	 235	+0.39%	Williamsport, PA MSA | Lock Haven, PA µSA
-Iowa City, IA                                              	       154893	     152586		MSA	 236	+1.51%
-State College, PA                                          	       154722	     153990		MSA	 237	+0.48%
-Alexandria, LA                                             	       154505	     153922		MSA	 238	+0.38%
-Ottawa-Streator, IL                                        	       154092	     154908		µSA	 239	-0.53%
-Bangor, ME                                                 	       153786	     153923		MSA	 240	-0.09%
-Hanford-Corcoran, CA                                       	       153765	     152982		MSA	 241	+0.51%
-Rocky Mount, NC                                            	       152157	     152392		MSA	 242	-0.15%
-Fairmont-Clarksburg, WV                                    	       151109	     150614	  242	CSA	 243	+0.33%	Clarksburg, WV µSA | Fairmont, WV µSA
-Ithaca-Cortland, NY                                        	       151086	     150900	  296	CSA	 244	+0.12%	Ithaca, NY MSA | Cortland, NY µSA
-Chambersburg, PA                                           	       150811	     149618		µSA	 245	+0.80%
-Jefferson City, MO                                         	       150480	     149807		MSA	 246	+0.45%
-Wichita Falls, TX                                          	       150261	     151306		MSA	 247	-0.69%
-Pottsville, PA                                             	       147513	     148289		µSA	 248	-0.52%
-Florence-Muscle Shoals, AL                                 	       147293	     147137		MSA	 249	+0.11%
-Wheeling, WV-OH                                            	       147197	     147950		MSA	 250	-0.51%
-Grand Junction, CO                                         	       147083	     146723		MSA	 251	+0.25%
-Hattiesburg, MS                                            	       145428	     142842		MSA	 252	+1.81%
-Traverse City, MI                                          	       144411	     143372		µSA	 253	+0.72%
-Johnstown, PA                                              	       143728	     143679		MSA	 254	+0.03%
-Dalton, GA                                                 	       142741	     142227		MSA	 255	+0.36%
-Valdosta, GA                                               	       142307	     139588		MSA	 256	+1.95%
-St. George, UT                                             	       141666	     138115		MSA	 257	+2.57%
-Coeur d'Alene, ID                                          	       141132	     138494		MSA	 258	+1.90%
-Homosassa Springs, FL                                      	       140031	     141236		µSA	 259	-0.85%
-Tupelo, MS                                                 	       137388	     136268		µSA	 260	+0.82%
-Paducah-Mayfield, KY-IL                                    	       136609	     135883	  424	CSA	 261	+0.53%	Paducah, KY-IL µSA | Mayfield, KY µSA
-Texarkana, TX-Texarkana, AR                                	       136552	     136027		MSA	 262	+0.39%
-Cape Girardeau-Sikeston-Jackson, MO-IL                     	       136160	     135466	  164	CSA	 263	+0.51%	Cape Girardeau-Jackson, MO-IL MSA | Sikeston, MO µSA
-Battle Creek, MI                                           	       135490	     136146		MSA	 264	-0.48%
-Kokomo-Peru, IN                                            	       135199	     135591	  316	CSA	 265	-0.29%	Kokomo, IN MSA | Peru, IN µSA
-Eureka-Arcata-Fortuna, CA                                  	       134761	     134623		µSA	 266	+0.10%
-Flagstaff, AZ                                              	       134511	     134421		MSA	 267	+0.07%
-La Crosse, WI-MN                                           	       134488	     133665		MSA	 268	+0.62%
-Jamestown-Dunkirk-Fredonia, NY                             	       134368	     134905		µSA	 269	-0.40%
-Sierra Vista-Douglas, AZ                                   	       133289	     131346		µSA	 270	+1.48%
-Morgantown, WV                                             	       132251	     129709		MSA	 271	+1.96%
-Findlay-Tiffin, OH                                         	       131525	     131527	  248	CSA	 272	0.00% 	Findlay, OH µSA | Tiffin, OH µSA
-Pittsfield, MA                                             	       130458	     131219		MSA	 273	-0.58%
-Manhattan, KS                                              	       130240	     127081		MSA	 274	+2.49%
-Rapid City, SD                                             	       128361	     126382		MSA	 275	+1.57%
-Farmington, NM                                             	       128200	     130044		MSA	 276	-1.42%
-New Bern, NC                                               	       128003	     126802		µSA	 277	+0.95%
-Bowling Green, KY                                          	       127607	     125953		MSA	 278	+1.31%
-St. Joseph, MO-KS                                          	       127574	     127329		MSA	 279	+0.19%
-Logan, UT-ID                                               	       127549	     125442		MSA	 280	+1.68%
-Altoona, PA                                                	       127099	     127089		MSA	 281	+0.01%
-Carbondale-Marion-Herrin, IL                               	       126987	     126575	  166	CSA	 282	+0.33%	Marion-Herrin, IL µSA | Carbondale, IL µSA
-Harrisonburg, VA                                           	       126562	     125228		MSA	 283	+1.07%
-Lawton, OK                                                 	       125815	     124098		MSA	 284	+1.38%
-Beckley-Oak Hill, WV                                       	       124826	     124898	  138	CSA	 285	-0.06%	Beckley, WV µSA | Oak Hill, WV µSA
-Goldsboro, NC                                              	       123697	     122623		MSA	 286	+0.88%
-Steubenville-Weirton, OH-WV                                	       123243	     124454		MSA	 287	-0.97%
-Hammond, LA                                                	       122571	     121097		µSA	 288	+1.22%
-Augusta-Waterville, ME                                     	       121935	     122151		µSA	 289	-0.18%
-Staunton-Waynesboro, VA                                    	       118629	     118502		µSA	 290	+0.11%
-Watertown-Fort Drum, NY                                    	       117910	     116229		µSA	 291	+1.45%
-Anniston-Oxford, AL                                        	       117797	     118572		MSA	 292	-0.65%
-Muncie, IN                                                 	       117660	     117671		MSA	 293	-0.01%
-Victoria, TX                                               	       116230	     115384		MSA	 294	+0.73%
-Ames-Boone, IA                                             	       115918	     115848	  112	CSA	 295	+0.06%	Ames, IA MSA | Boone, IA µSA
-Owensboro, KY                                              	       115333	     114752		MSA	 296	+0.51%
-Sheboygan, WI                                              	       115149	     115507		MSA	 297	-0.31%
-Wooster, OH                                                	       114611	     114520		µSA	 298	+0.08%
-San Angelo, TX                                             	       113443	     111823		MSA	 299	+1.45%
-Brunswick, GA                                              	       112923	     112370		MSA	 300	+0.49%
-Wenatchee-East Wenatchee, WA                               	       112448	     110884		MSA	 301	+1.41%
-Lawrence, KS                                               	       112211	     110826		MSA	 302	+1.25%
-Ogdensburg-Massena, NY                                     	       111690	     111944		µSA	 303	-0.23%
-Bismarck, ND                                               	       110879	     108779		MSA	 304	+1.93%
-Decatur, IL                                                	       110730	     110768		MSA	 305	-0.03%
-Missoula, MT                                               	       110138	     109299		MSA	 306	+0.77%
-Roseburg, OR                                               	       107490	     107667		µSA	 307	-0.16%
-Lexington Park, MD                                         	       107484	     105151		µSA	 308	+2.22%
-Sumter, SC                                                 	       107460	     107456		MSA	 309	+0.00%
-Show Low, AZ                                               	       107398	     107449		µSA	 310	-0.05%
-Meridian, MS                                               	       107364	     107449		µSA	 311	-0.08%
-Bluefield, WV-VA                                           	       107180	     107342		µSA	 312	-0.15%
-Cookeville, TN                                             	       106498	     106042		µSA	 313	+0.43%
-Danville, VA                                               	       105696	     106561		MSA	 314	-0.81%
-Gadsden, AL                                                	       104303	     104430		MSA	 315	-0.12%
-Whitewater, WI                                             	       102931	     102228		µSA	 316	+0.69%
-Cumberland, MD-WV                                          	       102884	     103299		MSA	 317	-0.40%
-Longview, WA                                               	       102478	     102410		MSA	 318	+0.07%
-Twin Falls, ID                                             	       100687	      99604		µSA	 319	+1.09%
-Tullahoma, TN                                              	       100344	     100210		µSA	 320	+0.13%
-Adrian, MI                                                 	        99440	      99892		µSA	 321	-0.45%
-Fairbanks, AK                                              	        99192	      97581		MSA	 322	+1.65%
-Corning, NY                                                	        99033	      98990		µSA	 323	+0.04%
-Sebring, FL                                                	        98630	      98786		µSA	 324	-0.16%
-Grand Forks, ND-MN                                         	        98054	      98461		MSA	 325	-0.41%
-Mankato-North Mankato, MN                                  	        97204	      96740		MSA	 326	+0.48%
-Hot Springs, AR                                            	        97124	      96024		MSA	 327	+1.15%
-Ocean City, NJ                                             	        96601	      97265		MSA	 328	-0.68%
-Rome, GA                                                   	        95989	      96317		MSA	 329	-0.34%
-Corbin-London, KY                                          	        95178	      94486	  202	CSA	 330	+0.73%	London, KY µSA | Corbin, KY µSA
-Dubuque, IA                                                	        94648	      93653		MSA	 331	+1.06%
-Albertville, AL                                            	        94166	      93019		µSA	 332	+1.23%
-Cheyenne, WY                                               	        92680	      91738		MSA	 333	+1.03%
-New Philadelphia-Dover, OH                                 	        92508	      92582		µSA	 334	-0.08%
-Orangeburg, SC                                             	        91910	      92501		µSA	 335	-0.64%
-Pocatello, ID                                              	        91457	      90656		MSA	 336	+0.88%
-Bozeman, MT                                                	        91377	      89513		µSA	 337	+2.08%
-Kalispell, MT                                              	        91301	      90928		µSA	 338	+0.41%
-Moses Lake, WA                                             	        91265	      89120		µSA	 339	+2.41%
-Brainerd, MN                                               	        91153	      91067		µSA	 340	+0.09%
-Southern Pines-Pinehurst, NC                               	        89352	      88247		µSA	 341	+1.25%
-Indiana, PA                                                	        89298	      88880		µSA	 342	+0.47%
-Elmira, NY                                                 	        88840	      88830		MSA	 343	+0.01%
-Meadville, PA                                              	        88740	      88765		µSA	 344	-0.03%
-Fort Polk South-DeRidder, LA                               	        88236	      87988	  256	CSA	 345	+0.28%	Fort Polk South, LA µSA | De Ridder, LA µSA
-Pendleton-Hermiston, OR                                    	        87894	      87062		µSA	 346	+0.96%
-Lufkin, TX                                                 	        87669	      86771		µSA	 347	+1.03%
-Ukiah, CA                                                  	        87553	      87841		µSA	 348	-0.33%
-Zanesville, OH                                             	        86237	      86074		µSA	 349	+0.19%
-Bloomsburg-Berwick, PA                                     	        85772	      85562		µSA	 350	+0.25%
-Branson, MO                                                	        84999	      83877		µSA	 351	+1.34%
-Laurel, MS                                                 	        84852	      84823		µSA	 352	+0.03%
-Russellville, AR                                           	        84391	      83939		µSA	 353	+0.54%
-Midland, MI                                                	        84063	      83629		µSA	 354	+0.52%
-Watertown-Fort Atkinson, WI                                	        83943	      83686		µSA	 355	+0.31%
-Grants Pass, OR                                            	        82987	      82713		µSA	 356	+0.33%
-Plattsburgh, NY                                            	        81945	      82128		µSA	 357	-0.22%
-Great Falls, MT                                            	        81837	      81327		MSA	 358	+0.63%
-Talladega-Sylacauga, AL                                    	        81664	      82291		µSA	 359	-0.76%
-Danville, IL                                               	        81509	      81625		MSA	 360	-0.14%
-Wilson, NC                                                 	        81452	      81234		µSA	 361	+0.27%
-DuBois, PA                                                 	        81445	      81642		µSA	 362	-0.24%
-Manitowoc, WI                                              	        80976	      81442		µSA	 363	-0.57%
-Columbus-West Point, MS                                    	        80127	      80413	  200	CSA	 364	-0.36%	Columbus, MS µSA | West Point, MS µSA
-Portsmouth, OH                                             	        79277	      79499		µSA	 365	-0.28%
-Stillwater, OK                                             	        77988	      77350		µSA	 366	+0.82%
-Somerset, PA                                               	        77405	      77742		µSA	 367	-0.43%
-Warsaw, IN                                                 	        77336	      77358		µSA	 368	-0.03%
-Quincy, IL-MO                                              	        77314	      77314		µSA	 369	0.00%
-Keene, NH                                                  	        76918	      77117		µSA	 370	-0.26%
-Sandusky, OH                                               	        76751	      77079		MSA	 371	-0.43%
-Casper, WY                                                 	        76366	      75450		MSA	 372	+1.21%
-Roanoke Rapids, NC                                         	        76066	      76790		µSA	 373	-0.94%
-Centralia, WA                                              	        75901	      75455		µSA	 374	+0.59%
-Helena, MT                                                 	        75699	      74801		µSA	 375	+1.20%
-Marshfield-Wisconsin Rapids, WI                            	        74785	      74749		µSA	 376	+0.05%
-Palatka, FL                                                	        74041	      74364		µSA	 377	-0.43%
-Key West, FL                                               	        73873	      73090		µSA	 378	+1.07%
-Gallup, NM                                                 	        73664	      71492		µSA	 379	+3.04%
-Grand Island, NE                                           	        73551	      72726		µSA	 380	+1.13%
-Union City-Martin, TN-KY                                   	        73525	      73641	  542	CSA	 381	-0.16%	Union City, TN-KY µSA | Martin, TN µSA
-Statesboro, GA                                             	        72881	      70217		µSA	 382	+3.79%
-Aberdeen, WA                                               	        72546	      72797		µSA	 383	-0.34%
-Minot, ND                                                  	        72067	      69540		µSA	 384	+3.63%
-Port Angeles, WA                                           	        71838	      71404		µSA	 385	+0.61%
-Fort Payne, AL                                             	        71375	      71109		µSA	 386	+0.37%
-Muskogee, OK                                               	        71003	      70990		µSA	 387	+0.02%
-Galesburg, IL                                              	        70735	      70626		µSA	 388	+0.15%
-Mount Pleasant, MI                                         	        70622	      70311		µSA	 389	+0.44%
-Clovis-Portales, NM                                        	        70095	      68222	  188	CSA	 390	+2.75%	Clovis, NM µSA | Portales, NM µSA
-Stevens Point, WI                                          	        70084	      70019		µSA	 391	+0.09%
-Greenwood, SC                                              	        69835	      69661		µSA	 392	+0.25%
-Marion, IN                                                 	        69793	      70061		µSA	 393	-0.38%
-Greeneville, TN                                            	        69339	      68831		µSA	 394	+0.74%
-North Wilkesboro, NC                                       	        68984	      69340		µSA	 395	-0.51%
-Richmond, IN                                               	        68643	      68917		µSA	 396	-0.40%
-Kapaa, HI                                                  	        67701	      67091		µSA	 397	+0.91%
-Marquette, MI                                              	        67694	      67077		µSA	 398	+0.92%
-Forest City, NC                                            	        67538	      67810		µSA	 399	-0.40%
-Lake City, FL                                              	        67485	      67531		µSA	 400	-0.07%
-Morehead City, NC                                          	        67373	      66469		µSA	 401	+1.36%
-Martinsville, VA                                           	        67300	      67972		µSA	 402	-0.99%
-Klamath Falls, OR                                          	        66299	      66380		µSA	 403	-0.12%
-Roswell, NM                                                	        65890	      65645		µSA	 404	+0.37%
-Alamogordo, NM                                             	        65703	      63797		µSA	 405	+2.99%
-Marinette, WI-MI                                           	        65586	      65778		µSA	 406	-0.29%
-Nacogdoches, TX                                            	        65466	      64524		µSA	 407	+1.46%
-Hobbs, NM                                                  	        65423	      64727		µSA	 408	+1.08%
-Charleston-Mattoon, IL                                     	        65012	      64921		µSA	 409	+0.14%
-Athens, OH                                                 	        64769	      64757		µSA	 410	+0.02%
-Hutchinson, KS                                             	        64607	      64511		µSA	 411	+0.15%
-Clearlake, CA                                              	        64323	      64665		µSA	 412	-0.53%
-Elizabeth City, NC                                         	        64197	      64094		µSA	 413	+0.16%
-Somerset, KY                                               	        63657	      63063		µSA	 414	+0.94%
-Red Bluff, CA                                              	        63601	      63463		µSA	 415	+0.22%
-Ruston, LA                                                 	        63179	      63009		µSA	 416	+0.27%
-Sayre, PA                                                  	        62917	      62622		µSA	 417	+0.47%
-Coos Bay, OR                                               	        62791	      63043		µSA	 418	-0.40%
-Salina, KS                                                 	        61963	      61697		µSA	 419	+0.43%
-Oneonta, NY                                                	        61917	      62259		µSA	 420	-0.55%
-Rio Grande City-Roma, TX                                   	        61715	      60968		µSA	 421	+1.23%
-Lewiston, ID-WA                                            	        61476	      60888		MSA	 422	+0.97%
-Rutland, VT                                                	        61289	      61642		µSA	 423	-0.57%
-Sturgis, MI                                                	        61136	      61295		µSA	 424	-0.26%
-Enid, OK                                                   	        60670	      60580		µSA	 425	+0.15%
-Barre, VT                                                  	        59626	      59534		µSA	 426	+0.15%
-Walla Walla, WA                                            	        59588	      58781		µSA	 427	+1.37%
-Norwalk, OH                                                	        59496	      59626		µSA	 428	-0.22%
-Kinston, NC                                                	        59339	      59495		µSA	 429	-0.26%
-Edwards, CO                                                	        59281	      59507		µSA	 430	-0.38%
-Sanford, NC                                                	        58752	      57866		µSA	 431	+1.53%
-Sterling, IL                                               	        58388	      58498		µSA	 432	-0.19%
-Palestine, TX                                              	        58308	      58458		µSA	 433	-0.26%
-Point Pleasant, WV-OH                                      	        58268	      58258		µSA	 434	+0.02%
-Dublin, GA                                                 	        57924	      58414		µSA	 435	-0.84%
-Ardmore, OK                                                	        57482	      56980		µSA	 436	+0.88%
-Fergus Falls, MN                                           	        57252	      57303		µSA	 437	-0.09%
-Crossville, TN                                             	        56632	      56053		µSA	 438	+1.03%
-Picayune, MS                                               	        55718	      55834		µSA	 439	-0.21%
-Calhoun, GA                                                	        55621	      55186		µSA	 440	+0.79%
-Carson City, NV                                            	        55439	      55274		MSA	 441	+0.30%
-Eagle Pass, TX                                             	        55405	      54258		µSA	 442	+2.11%
-Waycross, GA                                               	        55244	      55070		µSA	 443	+0.32%
-Phoenix Lake-Cedar Ridge, CA                               	        54953	      55365		µSA	 444	-0.74%
-Jasper, IN                                                 	        54927	      54734		µSA	 445	+0.35%
-Oil City, PA                                               	        54683	      54984		µSA	 446	-0.55%
-Morgan City, LA                                            	        54210	      54650		µSA	 447	-0.81%
-Muscatine, IA                                              	        54184	      54132		µSA	 448	+0.10%
-Carlsbad-Artesia, NM                                       	        54152	      53829		µSA	 449	+0.60%
-Milledgeville, GA                                          	        53817	      55149		µSA	 450	-2.42%
-Ontario, OR-ID                                             	        53692	      53936		µSA	 451	-0.45%
-McComb, MS                                                 	        53470	      53535		µSA	 452	-0.12%
-Scottsboro, AL                                             	        53291	      53227		µSA	 453	+0.12%
-Danville, KY                                               	        53281	      53174		µSA	 454	+0.20%
-Kearney, NE                                                	        53278	      52591		µSA	 455	+1.31%
-Fort Leonard Wood, MO                                      	        53175	      52274		µSA	 456	+1.72%
-Ashland, OH                                                	        53153	      53139		µSA	 457	+0.03%
-Payson, AZ                                                 	        53144	      53597		µSA	 458	-0.85%
-Natchez, MS-LA                                             	        52943	      53119		µSA	 459	-0.33%
-Glasgow, KY                                                	        52342	      52272		µSA	 460	+0.13%
-Durango, CO                                                	        51917	      51334		µSA	 461	+1.14%
-Malone, NY                                                 	        51551	      51599		µSA	 462	-0.09%
-Mason City, IA                                             	        51482	      51749		µSA	 463	-0.52%
-Elko, NV                                                   	        51470	      50805		µSA	 464	+1.31%
-Winona, MN                                                 	        51378	      51461		µSA	 465	-0.16%
-Boone, NC                                                  	        51333	      51079		µSA	 466	+0.50%
-Douglas, GA                                                	        51277	      50731		µSA	 467	+1.08%
-Platteville, WI                                            	        51210	      51208		µSA	 468	+0.00%
-Rexburg, ID                                                	        50992	      50778		µSA	 469	+0.42%
-St. Marys, GA                                              	        50410	      50513		µSA	 470	-0.20%
-Greenville, MS                                             	        50406	      51137		µSA	 471	-1.43%
-Paris, TX                                                  	        50074	      49793		µSA	 472	+0.56%
-Kerrville, TX                                              	        49783	      49625		µSA	 473	+0.32%
-Sidney, OH                                                 	        49307	      49423		µSA	 474	-0.23%
-Del Rio, TX                                                	        49106	      48879		µSA	 475	+0.46%
-Clinton, IA                                                	        49015	      49116		µSA	 476	-0.21%
-Oxford, MS                                                 	        48472	      47351		µSA	 477	+2.37%
-Vicksburg, MS                                              	        48346	      48773		µSA	 478	-0.88%
-Norfolk, NE                                                	        48302	      48271		µSA	 479	+0.06%
-Corsicana, TX                                              	        48054	      47735		µSA	 480	+0.67%
-Tahlequah, OK                                              	        47845	      46987		µSA	 481	+1.83%
-Starkville, MS                                             	        47741	      47671		µSA	 482	+0.15%
-Washington, NC                                             	        47691	      47759		µSA	 483	-0.14%
-Nogales, AZ                                                	        47676	      47420		µSA	 484	+0.54%
-Cadillac, MI                                               	        47629	      47584		µSA	 485	+0.09%
-Burlington, IA-IL                                          	        47365	      47656		µSA	 486	-0.61%
-Cañon City, CO                                             	        47347	      46824		µSA	 487	+1.12%
-Mount Vernon, IL                                           	        47138	      47284		µSA	 488	-0.31%
-Madisonville, KY                                           	        46909	      46920		µSA	 489	-0.02%
-Lewistown, PA                                              	        46858	      46682		µSA	 490	+0.38%
-Cedar City, UT                                             	        46740	      46163		µSA	 491	+1.25%
-Gillette, WY                                               	        46618	      46133		µSA	 492	+1.05%
-Rockingham, NC                                             	        46611	      46639		µSA	 493	-0.06%
-Bedford, IN                                                	        46195	      46134		µSA	 494	+0.13%
-Ponca City, OK                                             	        46159	      46562		µSA	 495	-0.87%
-Blytheville, AR                                            	        45966	      46480		µSA	 496	-1.11%
-Huntingdon, PA                                             	        45875	      45913		µSA	 497	-0.08%
-Safford, AZ                                                	        45753	      45657		µSA	 498	+0.21%
-Bellefontaine, OH                                          	        45688	      45858		µSA	 499	-0.37%
-Moultrie, GA                                               	        45645	      45498		µSA	 500	+0.32%
-McAlester, OK                                              	        45625	      45837		µSA	 501	-0.46%
-Shelbyville, TN                                            	        45509	      45058		µSA	 502	+1.00%
-Harrison, AR                                               	        45315	      45233		µSA	 503	+0.18%
-Henderson, NC                                              	        45307	      45422		µSA	 504	-0.25%
-Bemidji, MN                                                	        45264	      44442		µSA	 505	+1.85%
-Duncan, OK                                                 	        45197	      45048		µSA	 506	+0.33%
-Coldwater, MI                                              	        45197	      45248		µSA	 506	-0.11%
-Pullman, WA                                                	        45077	      44776		µSA	 508	+0.67%
-Rolla, MO                                                  	        45020	      45156		µSA	 509	-0.30%
-Thomasville, GA                                            	        44702	      44720		µSA	 510	-0.04%
-Rock Springs, WY                                           	        44175	      43806		µSA	 511	+0.84%
-Burley, ID                                                 	        43341	      43021		µSA	 512	+0.74%
-Selma, AL                                                  	        43332	      43820		µSA	 513	-1.11%
-Big Rapids, MI                                             	        43300	      42798		µSA	 514	+1.17%
-Cornelia, GA                                               	        43279	      43041		µSA	 515	+0.55%
-Bradford, PA                                               	        43222	      43450		µSA	 516	-0.52%
-Durant, OK                                                 	        43089	      42416		µSA	 517	+1.59%
-Poplar Bluff, MO                                           	        43082	      42794		µSA	 518	+0.67%
-Seymour, IN                                                	        42966	      42376		µSA	 519	+1.39%
-Fort Madison-Keokuk, IA-MO                                 	        42640	      43001		µSA	 520	-0.84%
-Greenwood, MS                                              	        42234	      42914		µSA	 521	-1.58%
-Sedalia, MO                                                	        42178	      42201		µSA	 522	-0.05%
-Willmar, MN                                                	        42173	      42239		µSA	 523	-0.16%
-Alma, MI                                                   	        42145	      42476		µSA	 524	-0.78%
-Lawrenceburg, TN                                           	        42115	      41869		µSA	 525	+0.59%
-Ellensburg, WA                                             	        41629	      40915		µSA	 526	+1.75%
-Mountain Home, AR                                          	        41536	      41513		µSA	 527	+0.06%
-Tifton, GA                                                 	        41461	      40118		µSA	 528	+3.35%
-Warren, PA                                                 	        41441	      41815		µSA	 529	-0.89%
-El Dorado, AR                                              	        41427	      41639		µSA	 530	-0.51%
-Alice, TX                                                  	        41339	      40838		µSA	 531	+1.23%
-El Campo, TX                                               	        41314	      41280		µSA	 532	+0.08%
-Montrose, CO                                               	        41011	      41276		µSA	 533	-0.64%
-Marshalltown, IA                                           	        40980	      40648		µSA	 534	+0.82%
-Aberdeen, SD                                               	        40878	      40602		µSA	 535	+0.68%
-Celina, OH                                                 	        40838	      40814		µSA	 536	+0.06%
-Jacksonville, IL                                           	        40814	      40902		µSA	 537	-0.22%
-West Plains, MO                                            	        40665	      40400		µSA	 538	+0.66%
-Riverton, WY                                               	        40579	      40123		µSA	 539	+1.14%
-Okeechobee, FL                                             	        40140	      39996		µSA	 540	+0.36%
-McMinnville, TN                                            	        39927	      39839		µSA	 541	+0.22%
-Cambridge, OH                                              	        39927	      40087		µSA	 541	-0.40%
-Rockland, ME                                               	        39708	      39736		µSA	 543	-0.07%
-Natchitoches, LA                                           	        39442	      39566		µSA	 544	-0.31%
-Austin, MN                                                 	        39349	      39163		µSA	 545	+0.47%
-Centralia, IL                                              	        39335	      39437		µSA	 546	-0.26%
-Pittsburg, KS                                              	        39220	      39134		µSA	 547	+0.22%
-Clewiston, FL                                              	        39089	      39140		µSA	 548	-0.13%
-Hannibal, MO                                               	        38998	      38948		µSA	 549	+0.13%
-Berlin, NH-VT                                              	        38979	      39361		µSA	 550	-0.97%
-Pontiac, IL                                                	        38885	      38950		µSA	 551	-0.17%
-Defiance, OH                                               	        38884	      39037		µSA	 552	-0.39%
-Logansport, IN                                             	        38828	      38966		µSA	 553	-0.35%
-Houghton, MI                                               	        38811	      38784		µSA	 554	+0.07%
-Sault Ste. Marie, MI                                       	        38797	      38520		µSA	 555	+0.72%
-Walterboro, SC                                             	        38611	      38892		µSA	 556	-0.72%
-Vincennes, IN                                              	        38500	      38440		µSA	 557	+0.16%
-Stephenville, TX                                           	        38266	      37890		µSA	 558	+0.99%
-Dyersburg, TN                                              	        38192	      38335		µSA	 559	-0.37%
-Brownwood, TX                                              	        38186	      38106		µSA	 560	+0.21%
-Easton, MD                                                 	        38025	      37782		µSA	 561	+0.64%
-Ada, OK                                                    	        37799	      37492		µSA	 562	+0.82%
-Scottsbluff, NE                                            	        37728	      37660		µSA	 563	+0.18%
-Moscow, ID                                                 	        37704	      37244		µSA	 564	+1.24%
-Hastings, NE                                               	        37702	      37906		µSA	 565	-0.54%
-Fort Dodge, IA                                             	        37660	      38013		µSA	 566	-0.93%
-Murray, KY                                                 	        37544	      37191		µSA	 567	+0.95%
-Americus, GA                                               	        37531	      37829		µSA	 568	-0.79%
-North Platte, NE                                           	        37456	      37590		µSA	 569	-0.36%
-Astoria, OR                                                	        37153	      37039		µSA	 570	+0.31%
-Escanaba, MI                                               	        37105	      37069		µSA	 571	+0.10%
-Garden City, KS                                            	        37083	      36776		µSA	 572	+0.83%
-Corinth, MS                                                	        37052	      37057		µSA	 573	-0.01%
-Bennington, VT                                             	        36970	      37125		µSA	 574	-0.42%
-Coshocton, OH                                              	        36955	      36901		µSA	 575	+0.15%
-Monroe, WI                                                 	        36891	      36842		µSA	 576	+0.13%
-Laramie, WY                                                	        36889	      36299		µSA	 577	+1.63%
-Batesville, AR                                             	        36861	      36647		µSA	 578	+0.58%
-Emporia, KS                                                	        36581	      36480		µSA	 579	+0.28%
-Owatonna, MN                                               	        36534	      36576		µSA	 580	-0.11%
-Vidalia, GA                                                	        36499	      36346		µSA	 581	+0.42%
-Plainview, TX                                              	        36498	      36273		µSA	 582	+0.62%
-Alexandria, MN                                             	        36172	      36009		µSA	 583	+0.45%
-Lebanon, MO                                                	        35636	      35571		µSA	 584	+0.18%
-Dixon, IL                                                  	        35467	      36031		µSA	 585	-1.57%
-Ottumwa, IA                                                	        35421	      35625		µSA	 586	-0.57%
-Sulphur Springs, TX                                        	        35371	      35161		µSA	 587	+0.60%
-Big Spring, TX                                             	        35122	      35012		µSA	 588	+0.31%
-Coffeyville, KS                                            	        34911	      35471		µSA	 589	-1.58%
-Arcadia, FL                                                	        34894	      34862		µSA	 590	+0.09%
-Brookhaven, MS                                             	        34889	      34869		µSA	 591	+0.06%
-Taylorville, IL                                            	        34865	      34800		µSA	 592	+0.19%
-Dodge City, KS                                             	        34568	      33848		µSA	 593	+2.13%
-Butte-Silver Bow, MT                                       	        34383	      34200		µSA	 594	+0.54%
-Kill Devil Hills, NC                                       	        34307	      33920		µSA	 595	+1.14%
-Effingham, IL                                              	        34280	      34242		µSA	 596	+0.11%
-Susanville, CA                                             	        34200	      34895		µSA	 597	-1.99%
-Brenham, TX                                                	        33791	      33718		µSA	 598	+0.22%
-Cleveland, MS                                              	        33771	      34145		µSA	 599	-1.10%
-Watertown, SD                                              	        33420	      33130		µSA	 600	+0.88%
-Vernal, UT                                                 	        33163	      32588		µSA	 601	+1.76%
-Taos, NM                                                   	        32917	      32937		µSA	 602	-0.06%
-Troy, AL                                                   	        32915	      32899		µSA	 603	+0.05%
-Cambridge, MD                                              	        32640	      32618		µSA	 604	+0.07%
-Wabash, IN                                                 	        32608	      32888		µSA	 605	-0.85%
-Mount Pleasant, TX                                         	        32596	      32334		µSA	 606	+0.81%
-Columbus, NE                                               	        32593	      32237		µSA	 607	+1.10%
-Macomb, IL                                                 	        32582	      32612		µSA	 608	-0.09%
-Paris, TN                                                  	        32352	      32330		µSA	 609	+0.07%
-Madison, IN                                                	        32249	      32428		µSA	 610	-0.55%
-Brookings, SD                                              	        32226	      31965		µSA	 611	+0.82%
-Juneau, AK                                                 	        32164	      31275		µSA	 612	+2.84%
-Beeville, TX                                               	        32095	      31861		µSA	 613	+0.73%
-Kennett, MO                                                	        31974	      31953		µSA	 614	+0.07%
-Miami, OK                                                  	        31860	      31848		µSA	 615	+0.04%
-Dillon, SC                                                 	        31758	      32062		µSA	 616	-0.95%
-St. Marys, PA                                              	        31751	      31946		µSA	 617	-0.61%
-Jackson, WY-ID                                             	        31714	      31464		µSA	 618	+0.79%
-Hope, AR                                                   	        31558	      31606		µSA	 619	-0.15%
-Maysville, KY                                              	        31531	      31360		µSA	 620	+0.55%
-Central City, KY                                           	        31272	      31499		µSA	 621	-0.72%
-Albert Lea, MN                                             	        31172	      31255		µSA	 622	-0.27%
-Camden, AR                                                 	        31024	      31488		µSA	 623	-1.47%
-Lewisburg, TN                                              	        30881	      30617		µSA	 624	+0.86%
-Iron Mountain, MI-WI                                       	        30625	      30591		µSA	 625	+0.11%
-Jesup, GA                                                  	        30327	      30099		µSA	 626	+0.76%
-Lincoln, IL                                                	        30140	      30305		µSA	 627	-0.54%
-Kirksville, MO                                             	        29933	      30038		µSA	 628	-0.35%
-Eufaula, AL-GA                                             	        29583	      29970		µSA	 629	-1.29%
-Alpena, MI                                                 	        29386	      29598		µSA	 630	-0.72%
-Silver City, NM                                            	        29380	      29514		µSA	 631	-0.45%
-Las Vegas, NM                                              	        29301	      29393		µSA	 632	-0.31%
-Indianola, MS                                              	        29296	      29450		µSA	 633	-0.52%
-McPherson, KS                                              	        29241	      29180		µSA	 634	+0.21%
-Sheridan, WY                                               	        29239	      29116		µSA	 635	+0.42%
-Washington Court House, OH                                 	        28985	      29030		µSA	 636	-0.16%
-Hays, KS                                                   	        28742	      28452		µSA	 637	+1.02%
-Middlesborough, KY                                         	        28725	      28691		µSA	 638	+0.12%
-Crescent City, CA                                          	        28659	      28610		µSA	 639	+0.17%
-Bennettsville, SC                                          	        28509	      28933		µSA	 640	-1.47%
-Fort Morgan, CO                                            	        28175	      28159		µSA	 641	+0.06%
-Silverthorne, CO                                           	        27972	      27994		µSA	 642	-0.08%
-Forrest City, AR                                           	        27970	      28258		µSA	 643	-1.02%
-Wauchula, FL                                               	        27887	      27731		µSA	 644	+0.56%
-Great Bend, KS                                             	        27841	      27674		µSA	 645	+0.60%
-Weatherford, OK                                            	        27750	      27469		µSA	 646	+1.02%
-Bainbridge, GA                                             	        27694	      27842		µSA	 647	-0.53%
-Grants, NM                                                 	        27658	      27213		µSA	 648	+1.64%
-Fitzgerald, GA                                             	        27352	      27172		µSA	 649	+0.66%
-Uvalde, TX                                                 	        26535	      26405		µSA	 650	+0.49%
-Altus, OK                                                  	        26447	      26446		µSA	 651	+0.00%
-Mountain Home, ID                                          	        26346	      27038		µSA	 652	-2.56%
-Dickinson, ND                                              	        25993	      24982		µSA	 653	+4.05%
-Toccoa, GA                                                 	        25960	      26175		µSA	 654	-0.82%
-Greensburg, IN                                             	        25944	      25740		µSA	 655	+0.79%
-Clarksdale, MS                                             	        25913	      26151		µSA	 656	-0.91%
-Marshall, MN                                               	        25891	      25857		µSA	 657	+0.13%
-La Grande, OR                                              	        25791	      25748		µSA	 658	+0.17%
-Summerville, GA                                            	        25736	      26015		µSA	 659	-1.07%
-New Ulm, MN                                                	        25734	      25893		µSA	 660	-0.61%
-Mexico, MO                                                 	        25566	      25529		µSA	 661	+0.14%
-Moberly, MO                                                	        25346	      25414		µSA	 662	-0.27%
-Deming, NM                                                 	        25281	      25095		µSA	 663	+0.74%
-The Dalles, OR                                             	        25234	      25213		µSA	 664	+0.08%
-Fredericksburg, TX                                         	        25114	      24837		µSA	 665	+1.12%
-Harrisburg, IL                                             	        24981	      24913		µSA	 666	+0.27%
-Campbellsville, KY                                         	        24731	      24512		µSA	 667	+0.89%
-Fallon, NV                                                 	        24637	      24877		µSA	 668	-0.96%
-Magnolia, AR                                               	        24401	      24552		µSA	 669	-0.62%
-Williston, ND                                              	        24374	      22398		µSA	 670	+8.82%
-Spearfish, SD                                              	        24312	      24097		µSA	 671	+0.89%
-Connersville, IN                                           	        24285	      24277		µSA	 672	+0.03%
-Cordele, GA                                                	        23710	      23439		µSA	 673	+1.16%
-Pampa, TX                                                  	        23571	      23464		µSA	 674	+0.46%
-Maryville, MO                                              	        23468	      23370		µSA	 675	+0.42%
-Liberal, KS                                                	        23328	      22952		µSA	 676	+1.64%
-Marshall, MO                                               	        23280	      23370		µSA	 677	-0.39%
-Mitchell, SD                                               	        23027	      22835		µSA	 678	+0.84%
-Arkadelphia, AR                                            	        22858	      22995		µSA	 679	-0.60%
-Sterling, CO                                               	        22619	      22709		µSA	 680	-0.40%
-Yankton, SD                                                	        22612	      22438		µSA	 681	+0.78%
-Oskaloosa, IA                                              	        22530	      22381		µSA	 682	+0.67%
-Hood River, OR                                             	        22493	      22346		µSA	 683	+0.66%
-Brookings, OR                                              	        22426	      22364		µSA	 684	+0.28%
-Elk City, OK                                               	        22288	      22119		µSA	 685	+0.76%
-Borger, TX                                                 	        22132	      22150		µSA	 686	-0.08%
-Beatrice, NE                                               	        22031	      22311		µSA	 687	-1.25%
-Dumas, TX                                                  	        21954	      21904		µSA	 688	+0.23%
-Grenada, MS                                                	        21706	      21906		µSA	 689	-0.91%
-Parsons, KS                                                	        21511	      21607		µSA	 690	-0.44%
-Helena-West Helena, AR                                     	        21442	      21757		µSA	 691	-1.45%
-Worthington, MN                                            	        21397	      21378		µSA	 692	+0.09%
-Price, UT                                                  	        21318	      21403		µSA	 693	-0.40%
-Guymon, OK                                                 	        21312	      20640		µSA	 694	+3.26%
-Jamestown, ND                                              	        21062	      21100		µSA	 695	-0.18%
-Evanston, WY                                               	        20985	      21118		µSA	 696	-0.63%
-Fairmont, MN                                               	        20689	      20840		µSA	 697	-0.72%
-Ruidoso, NM                                                	        20454	      20497		µSA	 698	-0.21%
-Storm Lake, IA                                             	        20406	      20260		µSA	 699	+0.72%
-Pierre, SD                                                 	        20294	      19988		µSA	 700	+1.53%
-Woodward, OK                                               	        20034	      20081		µSA	 701	-0.23%
-Hereford, TX                                               	        19595	      19372		µSA	 702	+1.15%
-Bishop, CA                                                 	        18478	      18546		µSA	 703	-0.37%
-Brownsville, TN                                            	        18470	      18787		µSA	 704	-1.69%
-Los Alamos, NM                                             	        18222	      17950		µSA	 705	+1.52%
-Huron, SD                                                  	        17550	      17398		µSA	 706	+0.87%
-Snyder, TX                                                 	        16919	      16921		µSA	 707	-0.01%
-Spirit Lake, IA                                            	        16899	      16667		µSA	 708	+1.39%
-Spencer, IA                                                	        16590	      16667		µSA	 709	-0.46%
-Havre, MT                                                  	        16397	      16096		µSA	 710	+1.87%
-Andrews, TX                                                	        15445	      14786		µSA	 711	+4.46%
-Sweetwater, TX                                             	        15269	      15216		µSA	 712	+0.35%
-Kodiak, AK                                                 	        13872	      13592		µSA	 713	+2.06%
-Pecos, TX                                                  	        13757	      13783		µSA	 714	-0.19%
-Lamesa, TX                                                 	        13751	      13833		µSA	 715	-0.59%
-Ketchikan, AK                                              	        13593	      13477		µSA	 716	+0.86%
-Vernon, TX                                                 	        13404	      13535		µSA	 717	-0.97%
-Tallulah, LA                                               	        12004	      12093		µSA	 718	-0.74%
+New York-Newark-Bridgeport, NY-NJ-CT-PA                    	     22214083	   22085649	  408	CSA	Ny	   1	+0.58%	New York-Northern New Jersey-Long Island, NY-NJ-PA MSA | Bridgeport-Stamford-Norwalk, CT MSA | New Haven-Milford, CT MSA | Poughkeepsie-Newburgh-Middletown, NY MSA | Trenton-Ewing, NJ MSA | Torrington, CT µSA | Kingston, NY MSA
+Los Angeles-Long Beach-Riverside, CA                       	     18081569	   17877006	  348	CSA	La	   2	+1.14%	Los Angeles-Long Beach-Santa Ana, CA MSA | Riverside-San Bernardino-Ontario, CA MSA | Oxnard-Thousand Oaks-Ventura, CA MSA
+Chicago-Naperville-Michigan City, IL-IN-WI                 	      9729825	    9686021	  176	CSA	Chi	   3	+0.45%	Chicago-Naperville-Joliet, IL-IN-WI MSA | Kankakee-Bradley, IL MSA | Michigan City-La Porte, IN MSA
+Washington-Baltimore-Northern Virginia, DC-MD-VA-WV        	      8718083	    8572971	  548	CSA	Dcb	   4	+1.69%	Washington-Arlington-Alexandria, DC-VA-MD-WV MSA | Baltimore-Towson, MD MSA | Winchester, VA-WV MSA | Lexington Park, MD µSA | Culpeper, VA µSA
+Boston-Worcester-Manchester, MA-RI-NH                      	      7601061	    7559060	  148	CSA	Bos	   5	+0.56%	Boston-Cambridge-Quincy, MA-NH MSA | Providence-New Bedford-Fall River, RI-MA MSA | Worcester, MA MSA | Manchester-Nashua, NH MSA | Concord, NH µSA | Laconia, NH µSA
+San Jose-San Francisco-Oakland, CA                         	      7563460	    7468390	  488	CSA	Sfo	   6	+1.27%	San Francisco-Oakland-Fremont, CA MSA | San Jose-Sunnyvale-Santa Clara, CA MSA | Santa Rosa-Petaluma, CA MSA | Vallejo-Fairfield, CA MSA | Santa Cruz-Watsonville, CA MSA | Napa, CA MSA
+Dallas-Fort Worth, TX                                      	      6887383	    6731317	  206	CSA	Dfw	   7	+2.32%	Dallas-Fort Worth-Arlington, TX MSA | Sherman-Denison, TX MSA | Athens, TX µSA | Granbury, TX µSA | Gainesville, TX µSA | Bonham, TX µSA | Mineral Wells, TX µSA
+Philadelphia-Camden-Vineland, PA-NJ-DE-MD                  	      6562287	    6533683	  428	CSA	Phi	   8	+0.44%	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA | Reading, PA MSA | Vineland-Millville-Bridgeton, NJ MSA
+Houston-Baytown-Huntsville, TX                             	      6191434	    6051363	  288	CSA	Hou	   9	+2.31%	Houston-Sugar Land-Baytown, TX MSA | Huntsville, TX µSA | Bay City, TX µSA
+Atlanta-Sandy Springs-Gainesville, GA-AL                   	      5712148	    5618431	  122	CSA	Atl	  10	+1.67%	Atlanta-Sandy Springs-Marietta, GA MSA | Gainesville, GA MSA | LaGrange, GA µSA | Cedartown, GA µSA | Valley, AL µSA | Thomaston, GA µSA
+Miami-Fort Lauderdale-Pompano Beach, FL                    	      5670125	    5564635		MSA	Mia	  11	+1.90%
+Detroit-Warren-Flint, MI                                   	      5207434	    5218852	  220	CSA	Det	  12	-0.22%	Detroit-Warren-Livonia, MI MSA | Flint, MI MSA | Ann Arbor, MI MSA | Monroe, MI MSA
+Seattle-Tacoma-Olympia, WA                                 	      4269349	    4199312	  500	CSA	Sea	  13	+1.67%	Seattle-Tacoma-Bellevue, WA MSA | Olympia, WA MSA | Bremerton-Silverdale, WA MSA | Mount Vernon-Anacortes, WA MSA | Oak Harbor, WA µSA | Shelton, WA µSA
+Phoenix-Mesa-Glendale, AZ                                  	      4263236	    4192887		MSA	Phx	  14	+1.68%
+Minneapolis-St. Paul-St. Cloud, MN-WI                      	      3655558	    3615902	  378	CSA	Min	  15	+1.10%	Minneapolis-St. Paul-Bloomington, MN-WI MSA | St. Cloud, MN MSA | Faribault-Northfield, MN µSA | Red Wing, MN µSA | Hutchinson, MN µSA
+Denver-Aurora-Boulder, CO                                  	      3157520	    3090874	  216	CSA	Den	  16	+2.16%	Denver-Aurora-Broomfield, CO MSA | Boulder, CO MSA | Greeley, CO MSA
+San Diego-Carlsbad-San Marcos, CA                          	      3140069	    3095313		MSA	Sd	  17	+1.45%
+St. Louis-St. Charles-Farmington, MO-IL                    	      2882932	    2878255	  476	CSA	Stl	  18	+0.16%	St. Louis, MO-IL MSA | Farmington, MO µSA
+Cleveland-Akron-Elyria, OH                                 	      2871084	    2881937	  184	CSA	Cle	  19	-0.38%	Cleveland-Elyria-Mentor, OH MSA | Akron, OH MSA | Ashtabula, OH µSA
+Orlando-Deltona-Daytona Beach, FL                          	      2861296	    2818120	  422	CSA	Orl	  20	+1.53%	Orlando-Kissimmee-Sanford, FL MSA | Deltona-Daytona Beach-Ormond Beach, FL MSA | Palm Coast, FL MSA | The Villages, FL µSA
+Tampa-St. Petersburg-Clearwater, FL                        	      2824724	    2783243		MSA	Tam	  21	+1.49%
+Sacramento-Arden+Arcade-Yuba City, CA-NV                   	      2489230	    2461780	  472	CSA	Sac	  22	+1.12%	Sacramento+Arden Arcade-Roseville, CA MSA | Yuba City, CA MSA | Truckee-Grass Valley, CA µSA | Gardnerville Ranchos, NV µSA
+Pittsburgh-New Castle, PA                                  	      2450281	    2447393	  430	CSA	Pit	  23	+0.12%	Pittsburgh, PA MSA | New Castle, PA µSA
+Charlotte-Gastonia-Salisbury, NC-SC                        	      2442564	    2402623	  172	CSA	SCCha	  24	+1.66%	Charlotte-Gastonia-Concord, NC-SC MSA | Statesville-Mooresville, NC µSA | Salisbury, NC µSA | Shelby, NC µSA | Lancaster, SC µSA | Lincolnton, NC µSA | Albemarle, NC µSA | Chester, SC µSA
+Portland-Vancouver-Hillsboro, OR-WA                        	      2262605	    2226009		MSA	Por	  25	+1.64%
+San Antonio-New Braunfels, TX                              	      2194927	    2142508		MSA	Sa	  26	+2.45%
+Cincinnati-Middletown-Wilmington, OH-KY-IN                 	      2179965	    2172191	  178	CSA	Cin	  27	+0.36%	Cincinnati-Middletown, OH-KY-IN MSA | Wilmington, OH µSA
+Kansas City-Overland Park-Kansas City, MO-KS               	      2122908	    2104853	  312	CSA	Kc	  28	+0.86%	Kansas City, MO-KS MSA | Warrensburg, MO µSA | Atchison, KS µSA
+Indianapolis-Anderson-Columbus, IN                         	      2103574	    2080782	  294	CSA	Ind	  29	+1.10%	Indianapolis-Carmel, IN MSA | Anderson, IN MSA | Columbus, IN MSA | New Castle, IN µSA | Crawfordsville, IN µSA | North Vernon, IN µSA
+Columbus-Marion-Chillicothe, OH                            	      2093185	    2071052	  198	CSA	Col	  30	+1.07%	Columbus, OH MSA | Chillicothe, OH µSA | Marion, OH µSA | Mount Vernon, OH µSA | Washington Court House, OH µSA
+Las Vegas-Paradise-Pahrump, NV                             	      2013326	    1995215	  332	CSA	Lv	  31	+0.91%	Las Vegas-Paradise, NV MSA | Pahrump, NV µSA
+Austin-Round Rock-Marble Falls, TX                         	      1826636	    1759039	  126	CSA	Aus	  32	+3.84%	Austin-Round Rock-San Marcos, TX MSA | Marble Falls, TX µSA
+Raleigh-Durham-Cary, NC                                    	      1795750	    1749525	  450	CSA	Ral	  33	+2.64%	Raleigh-Cary, NC MSA | Durham-Chapel Hill, NC MSA | Dunn, NC µSA
+Salt Lake City-Ogden-Clearfield, UT                        	      1776528	    1744886	  482	CSA	Slc	  34	+1.81%	Salt Lake City, UT MSA | Ogden-Clearfield, UT MSA | Brigham City, UT µSA | Heber, UT µSA
+Milwaukee-Racine-Waukesha, WI                              	      1757604	    1751316	  376	CSA	Mil	  35	+0.36%	Milwaukee-Waukesha-West Allis, WI MSA | Racine, WI MSA
+Nashville+Davidson-Murfreesboro-Columbia, TN               	      1698651	    1670890	  400	CSA	Nsh	  36	+1.66%	Nashville+Davidson-Murfreesboro-Franklin, TN MSA | Columbia, TN µSA
+Virginia Beach-Norfolk-Newport News, VA-NC                 	      1679894	    1671683		MSA	Vab	  37	+0.49%
+Greensboro-Winston+Salem-High Point, NC                    	      1602693	    1589200	  268	CSA	NCGr	  38	+0.85%	Greensboro-High Point, NC MSA | Winston-Salem, NC MSA | Thomasville-Lexington, NC µSA | Burlington, NC MSA | Mount Airy, NC µSA
+Louisville/Jefferson County-Elizabethtown-Scottsburg, KY-IN	      1440607	    1427483	  350	CSA	Lou	  39	+0.92%	Louisville/Jefferson County, KY-IN MSA | Elizabethtown, KY MSA | Scottsburg, IN µSA
+Jacksonville, FL                                           	      1360251	    1345596		MSA	Jax	  40	+1.09%
+Oklahoma City-Shawnee, OK                                  	      1348333	    1322429	  416	CSA	Okc	  41	+1.96%	Oklahoma City, OK MSA | Shawnee, OK µSA
+Hartford-West Hartford-Willimantic, CT                     	      1331406	    1330809	  278	CSA	Har	  42	+0.04%	Hartford-West Hartford-East Hartford, CT MSA | Willimantic, CT µSA
+Grand Rapids-Muskegon-Holland, MI                          	      1328440	    1321557	  266	CSA	MIGr	  43	+0.52%	Grand Rapids-Wyoming, MI MSA | Holland-Grand Haven, MI MSA | Muskegon-Norton Shores, MI MSA | Allegan, MI µSA
+Memphis, TN-MS-AR                                          	      1325605	    1316100		MSA	Mem	  44	+0.72%
+Greenville-Spartanburg-Anderson, SC                        	      1281394	    1266995	  273	CSA	SCGr	  45	+1.14%	Greenville-Mauldin-Easley, SC MSA | Spartanburg, SC MSA | Anderson, SC MSA | Seneca, SC µSA | Gaffney, SC µSA | Union, SC µSA
+Richmond, VA                                               	      1269380	    1258251		MSA	Ric	  46	+0.88%
+New Orleans-Metairie-Bogalusa, LA                          	      1238228	    1214932	  406	CSA	No	  47	+1.92%	New Orleans-Metairie-Kenner, LA MSA | Bogalusa, LA µSA
+Buffalo-Niagara-Cattaraugus, NY                            	      1213871	    1215826	  160	CSA	Buf	  48	-0.16%	Buffalo-Niagara Falls, NY MSA | Olean, NY µSA
+Birmingham-Hoover-Cullman, AL                              	      1212800	    1208453	  142	CSA	Bir	  49	+0.36%	Birmingham-Hoover, AL MSA | Cullman, AL µSA
+Albany-Schenectady-Amsterdam, NY                           	      1168120	    1168485	  104	CSA	Alb	  50	-0.03%	Albany-Schenectady-Troy, NY MSA | Glens Falls, NY MSA | Hudson, NY µSA | Gloversville, NY µSA | Amsterdam, NY µSA
+Rochester-Batavia-Seneca Falls, NY                         	      1150469	    1149653	  464	CSA	Roc	  51	+0.07%	Rochester, NY MSA | Batavia, NY µSA | Seneca Falls, NY µSA
+Fresno-Madera, CA                                          	      1095829	    1081315	  260	CSA	Caf	  52	+1.34%	Fresno, CA MSA | Madera-Chowchilla, CA MSA
+Dayton-Springfield-Greenville, OH                          	      1075683	    1072891	  212	CSA	Ohd	  53	+0.26%	Dayton, OH MSA | Springfield, OH MSA | Greenville, OH µSA | Urbana, OH µSA
+Knoxville-Sevierville-La Follette, TN                      	      1063354	    1055086	  314	CSA	Knx	  54	+0.78%	Knoxville, TN MSA | Morristown, TN MSA | Sevierville, TN µSA | Harriman, TN µSA | La Follette, TN µSA | Newport, TN µSA
+Tulsa-Bartlesville, OK                                     	       998438	     988454	  538	CSA	Tul	  55	+1.01%	Tulsa, OK MSA | Bartlesville, OK µSA
+Tucson, AZ                                                 	       989569	     980263		MSA	Tuc	  56	+0.95%
+Honolulu, HI                                               	       963607	     953207		MSA	Hon	  57	+1.09%
+Omaha-Council Bluffs-Fremont, NE-IA                        	       913883	     902041	  420	CSA	Oma	  58	+1.31%	Omaha-Council Bluffs, NE-IA MSA | Fremont, NE µSA
+Albuquerque, NM                                            	       898642	     887077		MSA	Abq	  59	+1.30%
+Little Rock-North Little Rock-Pine Bluff, AR               	       886992	     877091	  340	CSA	ARLr	  60	+1.13%	Little Rock-North Little Rock-Conway, AR MSA | Pine Bluff, AR MSA | Searcy, AR µSA
+Sarasota-Bradenton-Punta Gorda, FL                         	       869866	     862259	  494	CSA	FLSar	  61	+0.88%	Bradenton-Sarasota-Venice, FL MSA | Punta Gorda, FL MSA
+Bakersfield-Delano, CA                                     	       851710	     839631		MSA	CABak	  62	+1.44%
+Baton Rouge-Pierre Part, LA                                	       831395	     825905	  132	CSA	LABr	  63	+0.66%	Baton Rouge, LA MSA | Pierre Part, LA µSA
+Allentown-Bethlehem-Easton, PA-NJ                          	       824916	     821173		MSA	PAAl	  64	+0.46%
+El Paso, TX                                                	       820790	     800647		MSA	Elp	  65	+2.52%
+Columbia-Newberry, SC                                      	       814837	     805106	  192	CSA	SCCol	  66	+1.21%	Columbia, SC MSA | Newberry, SC µSA
+McAllen-Edinburg-Mission, TX                               	       797810	     774769		MSA	TXMca	  67	+2.97%
+Syracuse-Auburn, NY                                        	       742291	     742603	  532	CSA	Syr	  68	-0.04%	Syracuse, NY MSA | Auburn, NY µSA
+Toledo-Fremont, OH                                         	       711000	     712373	  534	CSA	OHTol	  69	-0.19%	Toledo, OH MSA | Fremont, OH µSA
+Chattanooga-Cleveland-Athens, TN-GA                        	       702714	     696197	  174	CSA	TNCha	  70	+0.94%	Chattanooga, TN-GA MSA | Cleveland, TN MSA | Athens, TN µSA
+Lexington+Fayette-Frankfort-Richmond, KY                   	       696340	     687173	  336	CSA	KYLex	  71	+1.33%	Lexington-Fayette, KY MSA | Richmond-Berea, KY µSA | Frankfort, KY µSA | Mount Sterling, KY µSA
+Stockton, CA                                               	       696214	     685306		MSA	CAStk	  72	+1.59%
+Springfield, MA                                            	       693204	     692942		MSA	MASpr	  73	+0.04%
+Harrisburg-Carlisle-Lebanon, PA                            	       687222	     683043	  276	CSA	PAHar	  74	+0.61%	Harrisburg-Carlisle, PA MSA | Lebanon, PA MSA
+Charleston-North Charleston-Summerville, SC                	       682121	     664607		MSA	SCCha	  75	+2.64%
+Youngstown-Warren-East Liverpool, OH-PA                    	       670309	     673614	  566	CSA	OHYng	  76	-0.49%	Youngstown-Warren-Boardman, OH-PA MSA | East Liverpool-Salem, OH µSA
+Wichita-Winfield, KS                                       	       661798	     659372	  556	CSA	KSWic	  77	+0.37%	Wichita, KS MSA | Winfield, KS µSA
+Colorado Springs, CO                                       	       660319	     645613		MSA	COCsp	  78	+2.28%
+Des Moines-Newton-Pella, IA                                	       650137	     639784	  218	CSA	IADm	  79	+1.62%	Des Moines-West Des Moines, IA MSA | Newton, IA µSA | Pella, IA µSA
+Madison-Baraboo, WI                                        	       638757	     630569	  358	CSA	WIMad	  80	+1.30%	Madison, WI MSA | Baraboo, WI µSA
+Cape Coral-Fort Myers, FL                                  	       631330	     618754		MSA	FLCcl	  81	+2.03%
+Boise City-Nampa, ID                                       	       627664	     616561		MSA	Boi	  82	+1.80%
+Portland-Lewiston-South Portland, ME                       	       623205	     621800	  438	CSA	MEPor	  83	+0.23%	Portland-South Portland-Biddeford, ME MSA | Lewiston-Auburn, ME MSA
+Fort Wayne-Huntington-Auburn, IN                           	       615077	     611712	  258	CSA	INFtw	  84	+0.55%	Fort Wayne, IN MSA | Kendallville, IN µSA | Auburn, IN µSA | Huntington, IN µSA | Decatur, IN µSA | Angola, IN µSA
+Lakeland-Winter Haven, FL                                  	       609492	     602095		MSA	FLLkl	  85	+1.23%
+Mobile-Daphne-Fairhope, AL                                 	       599294	     595257	  380	CSA	ALMob	  86	+0.68%	Mobile, AL MSA | Daphne-Fairhope-Foley, AL µSA
+Huntsville-Decatur, AL                                     	       579550	     571422	  290	CSA	ALHun	  87	+1.42%	Huntsville, AL MSA | Decatur, AL MSA
+Jackson-Yazoo City, MS                                     	       573280	     567122	  298	CSA	MSJac	  88	+1.09%	Jackson, MS MSA | Yazoo City, MS µSA
+Port St. Lucie-Sebastian-Vero Beach, FL                    	       566768	     562135	  442	CSA	FLPsl	  89	+0.82%	Port St. Lucie, FL MSA | Sebastian-Vero Beach, FL MSA
+South Bend-Elkhart-Mishawaka, IN-MI                        	       564679	     563834	  515	CSA	INSb	  90	+0.15%	South Bend-Mishawaka, IN-MI MSA | Elkhart-Goshen, IN MSA | Plymouth, IN µSA
+Scranton-Wilkes-Barre, PA                                  	       563223	     563631		MSA	PAScr	  91	-0.07%
+Mayagüez-San Germán-Cabo Rojo, PR                            	        	          	  364	CSA	     	 	       	32420: Mayagüez, PR MSA | 41900: San Germán-Cabo Rojo, PR MSA
+Ponce-Yauco-Coamo, PR                                        	        	          	  434	CSA	     	 	       	17620: Coamo, PR µSA | 38660: Ponce, PR MSA | 42180: Santa Isabel, PR µSA | 49500: Yauco, PR MSA
+San Juan-Caguas-Fajardo, PR                                  	        	          	  490	CSA	PRSj  	 	       	21940: Fajardo, PR MSA | 41980: San Juan-Caguas-Guaynabo, PR MSA | 46580: Utuado, PR µSA
+Augusta-Richmond County, GA-SC                             	       561858	     556877		MSA		  92	+0.89%
+Lafayette-Acadiana, LA                                     	       554517	     550134	  318	CSA		  93	+0.80%	Lafayette, LA MSA | Opelousas-Eunice, LA µSA | New Iberia, LA µSA | Crowley, LA µSA | Abbeville, LA µSA
+Palm Bay-Melbourne-Titusville, FL                          	       543566	     543376		MSA		  94	+0.03%
+Provo-Orem, UT                                             	       540834	     526810		MSA		  95	+2.66%
+York-Hanover-Gettysburg, PA                                	       538204	     536379	  564	CSA		  96	+0.34%	York-Hanover, PA MSA | Gettysburg, PA µSA
+Lansing-East Lansing-Owosso, MI                            	       534979	     534684	  330	CSA		  97	+0.06%	Lansing-East Lansing, MI MSA | Owosso, MI µSA
+Lancaster, PA                                              	       523594	     519445		MSA		  98	+0.80%
+Modesto, CA                                                	       518522	     514453		MSA		  99	+0.79%
+Johnson City-Kingsport-Bristol (Tri-Cities), TN-VA         	       509611	     508260	  304	CSA		 100	+0.27%	Kingsport-Bristol-Bristol, TN-VA MSA | Johnson City, TN MSA
+Reno-Sparks-Fernley, NV                                    	       481477	     477397	  456	CSA		 101	+0.85%	Reno-Sparks, NV MSA | Fernley, NV µSA
+Fayetteville-Springdale-Rogers, AR-MO                      	       473830	     463204		MSA		 102	+2.29%
+Spokane, WA                                                	       473761	     471221		MSA		 103	+0.54%
+Columbus-Auburn-Opelika, GA-AL                             	       466089	     456564	  194	CSA		 104	+2.09%	Columbus, GA-AL MSA | Auburn-Opelika, AL MSA | Tuskegee, AL µSA
+Corpus Christi-Kingsville, TX                              	       464014	     460662	  204	CSA		 105	+0.73%	Corpus Christi, TX MSA | Kingsville, TX µSA
+Asheville-Brevard, NC                                      	       461837	     457948	  120	CSA		 106	+0.85%	Asheville, NC MSA | Brevard, NC µSA
+Pensacola-Ferry Pass-Brent, FL                             	       453218	     448991		MSA		 107	+0.94%
+Visalia-Porterville, CA                                    	       449253	     442179		MSA		 108	+1.60%
+Rockford-Freeport-Rochelle, IL                             	       449038	     450639	  466	CSA		 109	-0.36%	Rockford, IL MSA | Rochelle, IL µSA | Freeport, IL µSA
+Shreveport-Bossier City-Minden, LA                         	       444883	     439811	  508	CSA		 110	+1.15%	Shreveport-Bossier City, LA MSA | Minden, LA µSA
+Springfield, MO                                            	       440142	     436712		MSA		 111	+0.79%
+Brownsville-Harlingen-Raymondville, TX                     	       436218	     428354	  154	CSA		 112	+1.84%	Brownsville-Harlingen, TX MSA | Raymondville, TX µSA
+Savannah-Hinesville-Fort Stewart, GA                       	       436163	     425528	  496	CSA		 113	+2.50%	Savannah, GA MSA | Hinesville-Fort Stewart, GA MSA
+Montgomery-Alexander City, AL                              	       430944	     427691	  388	CSA		 114	+0.76%	Montgomery, AL MSA | Alexander City, AL µSA
+Santa Barbara-Santa Maria-Goleta, CA                       	       426878	     423895		MSA		 115	+0.70%
+Salinas, CA                                                	       421898	     415057		MSA		 116	+1.65%
+Peoria-Canton, IL                                          	       416518	     416255	  426	CSA		 117	+0.06%	Peoria, IL MSA | Canton, IL µSA
+Gulfport-Biloxi-Pascagoula, MS                             	       416301	     411066	  274	CSA		 118	+1.27%	Gulfport-Biloxi, MS MSA | Pascagoula, MS MSA
+Killeen-Temple-Fort Hood, TX                               	       411595	     405300		MSA		 119	+1.55%
+Macon-Warner Robins-Fort Valley, GA                        	       404668	     399888	  356	CSA		 120	+1.20%	Macon, GA MSA | Warner Robins, GA MSA | Fort Valley, GA µSA
+Canton-Massillon, OH                                       	       403869	     404422		MSA		 121	-0.14%
+Appleton-Oshkosh-Neenah, WI                                	       395102	     392660	  118	CSA		 122	+0.62%	Appleton, WI MSA | Oshkosh-Neenah, WI MSA
+Salem, OR                                                  	       394865	     390738		MSA		 123	+1.06%
+Beaumont-Port Arthur, TX                                   	       390535	     388745		MSA		 124	+0.46%
+Anchorage, AK                                              	       387516	     380821		MSA	Anc	 125	+1.76%
+Davenport-Moline-Rock Island, IA-IL                        	       381342	     379690		MSA		 126	+0.44%
+Fayetteville, NC                                           	       374157	     366383		MSA		 127	+2.12%
+Tallahassee, FL                                            	       369758	     367413		MSA		 128	+0.64%
+Wilmington, NC                                             	       369685	     362315		MSA		 129	+2.03%
+Hickory-Lenoir-Morganton, NC                               	       364567	     365497		MSA		 130	-0.25%
+Evansville, IN-KY                                          	       359879	     358676		MSA		 131	+0.34%
+Eugene-Springfield, OR                                     	       353416	     351715		MSA		 132	+0.48%
+Myrtle Beach-Conway-Georgetown, SC                         	       336331	     329449	  396	CSA		 133	+2.09%	Myrtle Beach-North Myrtle Beach-Conway, SC MSA | Georgetown, SC µSA
+Ocala, FL                                                  	       332529	     331298		MSA		 134	+0.37%
+Kalamazoo-Portage, MI                                      	       328205	     326589		MSA		 135	+0.49%
+Naples-Marco Island, FL                                    	       328134	     321520		MSA		 136	+2.06%
+Lubbock-Levelland, TX                                      	       312894	     307825	  352	CSA		 137	+1.65%	Lubbock, TX MSA | Levelland, TX µSA
+Green Bay, WI                                              	       309469	     306241		MSA		 138	+1.05%
+Roanoke, VA                                                	       308861	     308707		MSA		 139	+0.05%
+Lincoln, NE                                                	       306503	     302157		MSA		 140	+1.44%
+Saginaw-Bay City-Saginaw Township North, MI                	       306198	     307940	  474	CSA		 141	-0.57%	Saginaw-Saginaw Township North, MI MSA | Bay City, MI MSA
+Fort Collins-Loveland, CO                                  	       305525	     299630		MSA		 142	+1.97%
+Charleston, WV                                             	       303674	     304284		MSA		 143	-0.20%
+Fort Smith, AR-OK                                          	       300087	     298592		MSA		 144	+0.50%
+Utica-Rome, NY                                             	       298447	     299397		MSA		 145	-0.32%
+Huntington-Ashland, WV-KY-OH                               	       287599	     287702		MSA		 146	-0.04%
+Longview-Marshall, TX                                      	       282962	     280000	  346	CSA		 147	+1.06%	Longview, TX MSA | Marshall, TX µSA
+Erie, PA                                                   	       280985	     280566		MSA		 148	+0.15%
+Midland-Odessa, TX                                         	       280419	     274002	  372	CSA		 149	+2.34%	Odessa, TX MSA | Midland, TX MSA
+Duluth, MN-WI                                              	       279815	     279771		MSA		 150	+0.02%
+Clarksville, TN-KY                                         	       277701	     273949		MSA		 151	+1.37%
+Atlantic City-Hammonton, NJ                                	       274338	     274549		MSA		 152	-0.08%
+Norwich-New London, CT                                     	       273502	     274055		MSA		 153	-0.20%
+San Luis Obispo-Paso Robles, CA                            	       271969	     269637		MSA		 154	+0.86%
+Hagerstown-Martinsburg, MD-WV                              	       271488	     269140		MSA		 155	+0.87%
+Gainesville, FL                                            	       266369	     264275		MSA		 156	+0.79%
+Tyler-Jacksonville, TX                                     	       264521	     260559	  540	CSA		 157	+1.52%	Tyler, TX MSA | Jacksonville, TX µSA
+Kennewick-Pasco-Richland, WA                               	       264133	     253340		MSA		 158	+4.26%
+Cedar Rapids, IA                                           	       260575	     257940		MSA		 159	+1.02%
+Merced, CA                                                 	       259898	     255793		MSA		 160	+1.60%
+Laredo, TX                                                 	       256496	     250304		MSA		 161	+2.47%
+Lynchburg, VA                                              	       254171	     252634		MSA		 162	+0.61%
+Amarillo, TX                                               	       253823	     249881		MSA		 163	+1.58%
+Binghamton, NY                                             	       250074	     251725		MSA		 164	-0.66%
+Yakima, WA                                                 	       247141	     243231		MSA		 165	+1.61%
+Dothan-Enterprise-Ozark, AL                                	       247132	     245838	  222	CSA		 166	+0.53%	Dothan, AL MSA | Enterprise-Ozark, AL µSA
+Waco, TX                                                   	       238564	     234906		MSA		 167	+1.56%
+Lafayette-Frankfort, IN                                    	       236712	     235013	  320	CSA		 168	+0.72%	Lafayette, IN MSA | Frankfort, IN µSA
+Fargo-Wahpeton, ND-MN                                      	       235008	     231674	  244	CSA		 169	+1.44%	Fargo, ND-MN MSA | Wahpeton, ND-MN µSA
+Topeka, KS                                                 	       234647	     233870		MSA		 170	+0.33%
+Lake Charles-Jennings, LA                                  	       232516	     231201	  324	CSA		 171	+0.57%	Lake Charles, LA MSA | Jennings, LA µSA
+Sioux Falls, SD                                            	       232433	     228261		MSA		 172	+1.83%
+Champaign-Urbana, IL                                       	       232336	     231891		MSA		 173	+0.19%
+College Station-Bryan, TX                                  	       231623	     228660		MSA		 174	+1.30%
+Tuscaloosa, AL                                             	       221553	     219461		MSA		 175	+0.95%
+Chico, CA                                                  	       220266	     220000		MSA		 176	+0.12%
+Claremont-Lebanon, NH-VT                                   	       218057	     218466	  180	CSA		 177	-0.19%	Lebanon, NH-VT µSA | Claremont, NH µSA
+Barnstable Town, MA                                        	       215769	     215888		MSA		 178	-0.06%
+Las Cruces, NM                                             	       213598	     209233		MSA		 179	+2.09%
+Burlington-South Burlington, VT                            	       212535	     211261		MSA		 180	+0.60%
+Prescott, AZ                                               	       211888	     211033		MSA		 181	+0.41%
+Springfield, IL                                            	       211547	     210170		MSA		 182	+0.66%
+Houma-Bayou Cane-Thibodaux, LA                             	       208583	     208178		MSA		 183	+0.19%
+Eau Claire-Menomonie, WI                                   	       206628	     205008	  232	CSA		 184	+0.79%	Eau Claire, WI MSA | Menomonie, WI µSA
+Florence, SC                                               	       206161	     205566		MSA		 185	+0.29%
+Monroe-Bastrop, LA                                         	       205259	     204420	  384	CSA		 186	+0.41%	Monroe, LA MSA | Bastrop, LA µSA
+Medford, OR                                                	       204822	     203206		MSA		 187	+0.80%
+Albany-Corvallis-Lebanon, OR                               	       204050	     202251	  102	CSA		 188	+0.89%	Albany-Lebanon, OR µSA | Corvallis, OR MSA
+Charlottesville, VA                                        	       203882	     201559		MSA		 189	+1.15%
+Bellingham, WA                                             	       203663	     201140		MSA		 190	+1.25%
+Lake Havasu City-Kingman, AZ                               	       202351	     200186		MSA		 191	+1.08%
+Yuma, AZ                                                   	       200870	     195751		MSA		 192	+2.62%
+Seaford, DE                                                	       200330	     197145		µSA		 193	+1.62%
+Bloomington, IN                                            	       194193	     192714		MSA		 194	+0.77%
+Athens-Clarke County, GA                                   	       193317	     192541		MSA		 195	+0.40%
+Greenville, NC                                             	       192690	     189510		MSA		 196	+1.68%
+Fond du Lac-Beaver Dam, WI                                 	       190740	     190392	  252	CSA		 197	+0.18%	Fond du Lac, WI MSA | Beaver Dam, WI µSA
+Hilton Head Island-Beaufort, SC                            	       189879	     187010		µSA		 198	+1.53%
+Rochester, MN                                              	       187612	     186011		MSA		 199	+0.86%
+Hilo, HI                                                   	       186738	     185079		µSA		 200	+0.90%
+Santa Fe-Espanola, NM                                      	       186094	     184416	  492	CSA		 201	+0.91%	Santa Fe, NM MSA | Espanola, NM µSA
+Crestview-Fort Walton Beach-Destin, FL                     	       183482	     180822		MSA		 202	+1.47%
+Bend-Prineville, OR                                        	       181177	     178711	  140	CSA		 203	+1.38%	Bend, OR MSA | Prineville, OR µSA
+Lima-Van Wert-Wapakoneta, OH                               	       180533	     181024	  338	CSA		 204	-0.27%	Lima, OH MSA | Wapakoneta, OH µSA | Van Wert, OH µSA
+Jacksonville, NC                                           	       179719	     177772		MSA		 205	+1.10%
+Sunbury-Lewisburg-Selinsgrove, PA                          	       179224	     179177	  526	CSA		 206	+0.03%	Sunbury, PA µSA | Lewisburg, PA µSA | Selinsgrove, PA µSA
+Idaho Falls-Blackfoot, ID                                  	       178025	     175981	  292	CSA		 207	+1.16%	Idaho Falls, ID MSA | Blackfoot, ID µSA
+Redding, CA                                                	       177774	     177223		MSA		 208	+0.31%
+El Centro, CA                                              	       177057	     174528		MSA		 209	+1.45%
+Salisbury-Ocean Pines, MD                                  	       177043	     176657	  480	CSA		 210	+0.22%	Salisbury, MD MSA | Ocean Pines, MD µSA
+Joplin, MO                                                 	       176849	     175518		MSA		 211	+0.76%
+Columbia, MO                                               	       175831	     172786		MSA		 212	+1.76%
+Terre Haute, IN                                            	       172663	     172425		MSA		 213	+0.14%
+Lumberton-Laurinburg, NC                                   	       171378	     170325	  354	CSA		 214	+0.62%	Lumberton, NC µSA | Laurinburg, NC µSA
+Bloomington-Normal, IL                                     	       170556	     169572		MSA		 215	+0.58%
+East Stroudsburg, PA                                       	       169882	     169842		µSA		 216	+0.02%
+Panama City-Lynn Haven-Panama City Beach, FL               	       169856	     168852		MSA		 217	+0.59%
+Waterloo-Cedar Falls, IA                                   	       168289	     167819		MSA		 218	+0.28%
+Mansfield-Bucyrus, OH                                      	       166899	     168259	  360	CSA		 219	-0.81%	Mansfield, OH MSA | Bucyrus, OH µSA
+Abilene, TX                                                	       166416	     165252		MSA		 220	+0.70%
+Jonesboro-Paragould, AR                                    	       165549	     163116	  308	CSA		 221	+1.49%	Jonesboro, AR MSA | Paragould, AR µSA
+Jackson-Humboldt, TN                                       	       165331	     165108	  297	CSA		 222	+0.14%	Jackson, TN MSA | Humboldt, TN µSA
+Dover, DE                                                  	       164834	     162310		MSA		 223	+1.56%
+Wausau-Merrill, WI                                         	       163002	     162806	  554	CSA		 224	+0.12%	Wausau, WI MSA | Merrill, WI µSA
+Blacksburg-Christiansburg-Radford, VA                      	       162487	     162958		MSA		 225	-0.29%
+Parkersburg-Marietta-Vienna, WV-OH                         	       162248	     162056		MSA		 226	+0.12%
+Pueblo, CO                                                 	       160545	     159063		MSA		 227	+0.93%
+Billings, MT                                               	       160097	     158050		MSA		 228	+1.30%
+Janesville, WI                                             	       160092	     160331		MSA		 229	-0.15%
+Jackson, MI                                                	       159748	     160248		MSA		 230	-0.31%
+Sioux City-Vermillion, IA-NE-SD                            	       158113	     157441	  512	CSA		 231	+0.43%	Sioux City, IA-NE-SD MSA | Vermillion, SD µSA
+Albany, GA                                                 	       157688	     157308		MSA		 232	+0.24%
+Niles-Benton Harbor, MI                                    	       156941	     156813		MSA		 233	+0.08%
+Kahului-Wailuku, HI                                        	       156674	     154834		µSA		 234	+1.19%
+Williamsport-Lock Haven, PA                                	       155955	     155349	  558	CSA		 235	+0.39%	Williamsport, PA MSA | Lock Haven, PA µSA
+Iowa City, IA                                              	       154893	     152586		MSA		 236	+1.51%
+State College, PA                                          	       154722	     153990		MSA		 237	+0.48%
+Alexandria, LA                                             	       154505	     153922		MSA		 238	+0.38%
+Ottawa-Streator, IL                                        	       154092	     154908		µSA		 239	-0.53%
+Bangor, ME                                                 	       153786	     153923		MSA		 240	-0.09%
+Hanford-Corcoran, CA                                       	       153765	     152982		MSA		 241	+0.51%
+Rocky Mount, NC                                            	       152157	     152392		MSA		 242	-0.15%
+Fairmont-Clarksburg, WV                                    	       151109	     150614	  242	CSA		 243	+0.33%	Clarksburg, WV µSA | Fairmont, WV µSA
+Ithaca-Cortland, NY                                        	       151086	     150900	  296	CSA		 244	+0.12%	Ithaca, NY MSA | Cortland, NY µSA
+Chambersburg, PA                                           	       150811	     149618		µSA		 245	+0.80%
+Jefferson City, MO                                         	       150480	     149807		MSA		 246	+0.45%
+Wichita Falls, TX                                          	       150261	     151306		MSA		 247	-0.69%
+Pottsville, PA                                             	       147513	     148289		µSA		 248	-0.52%
+Florence-Muscle Shoals, AL                                 	       147293	     147137		MSA		 249	+0.11%
+Wheeling, WV-OH                                            	       147197	     147950		MSA		 250	-0.51%
+Grand Junction, CO                                         	       147083	     146723		MSA		 251	+0.25%
+Hattiesburg, MS                                            	       145428	     142842		MSA		 252	+1.81%
+Traverse City, MI                                          	       144411	     143372		µSA		 253	+0.72%
+Johnstown, PA                                              	       143728	     143679		MSA		 254	+0.03%
+Dalton, GA                                                 	       142741	     142227		MSA		 255	+0.36%
+Valdosta, GA                                               	       142307	     139588		MSA		 256	+1.95%
+St. George, UT                                             	       141666	     138115		MSA		 257	+2.57%
+Coeur d'Alene, ID                                          	       141132	     138494		MSA		 258	+1.90%
+Homosassa Springs, FL                                      	       140031	     141236		µSA		 259	-0.85%
+Tupelo, MS                                                 	       137388	     136268		µSA		 260	+0.82%
+Paducah-Mayfield, KY-IL                                    	       136609	     135883	  424	CSA		 261	+0.53%	Paducah, KY-IL µSA | Mayfield, KY µSA
+Texarkana, TX-Texarkana, AR                                	       136552	     136027		MSA		 262	+0.39%
+Cape Girardeau-Sikeston-Jackson, MO-IL                     	       136160	     135466	  164	CSA		 263	+0.51%	Cape Girardeau-Jackson, MO-IL MSA | Sikeston, MO µSA
+Battle Creek, MI                                           	       135490	     136146		MSA		 264	-0.48%
+Kokomo-Peru, IN                                            	       135199	     135591	  316	CSA		 265	-0.29%	Kokomo, IN MSA | Peru, IN µSA
+Eureka-Arcata-Fortuna, CA                                  	       134761	     134623		µSA		 266	+0.10%
+Flagstaff, AZ                                              	       134511	     134421		MSA		 267	+0.07%
+La Crosse, WI-MN                                           	       134488	     133665		MSA		 268	+0.62%
+Jamestown-Dunkirk-Fredonia, NY                             	       134368	     134905		µSA		 269	-0.40%
+Sierra Vista-Douglas, AZ                                   	       133289	     131346		µSA		 270	+1.48%
+Morgantown, WV                                             	       132251	     129709		MSA		 271	+1.96%
+Findlay-Tiffin, OH                                         	       131525	     131527	  248	CSA		 272	0.00% 	Findlay, OH µSA | Tiffin, OH µSA
+Pittsfield, MA                                             	       130458	     131219		MSA		 273	-0.58%
+Manhattan, KS                                              	       130240	     127081		MSA		 274	+2.49%
+Rapid City, SD                                             	       128361	     126382		MSA		 275	+1.57%
+Farmington, NM                                             	       128200	     130044		MSA		 276	-1.42%
+New Bern, NC                                               	       128003	     126802		µSA		 277	+0.95%
+Bowling Green, KY                                          	       127607	     125953		MSA		 278	+1.31%
+St. Joseph, MO-KS                                          	       127574	     127329		MSA		 279	+0.19%
+Logan, UT-ID                                               	       127549	     125442		MSA		 280	+1.68%
+Altoona, PA                                                	       127099	     127089		MSA		 281	+0.01%
+Carbondale-Marion-Herrin, IL                               	       126987	     126575	  166	CSA		 282	+0.33%	Marion-Herrin, IL µSA | Carbondale, IL µSA
+Harrisonburg, VA                                           	       126562	     125228		MSA		 283	+1.07%
+Lawton, OK                                                 	       125815	     124098		MSA		 284	+1.38%
+Beckley-Oak Hill, WV                                       	       124826	     124898	  138	CSA		 285	-0.06%	Beckley, WV µSA | Oak Hill, WV µSA
+Goldsboro, NC                                              	       123697	     122623		MSA		 286	+0.88%
+Steubenville-Weirton, OH-WV                                	       123243	     124454		MSA		 287	-0.97%
+Hammond, LA                                                	       122571	     121097		µSA		 288	+1.22%
+Augusta-Waterville, ME                                     	       121935	     122151		µSA		 289	-0.18%
+Staunton-Waynesboro, VA                                    	       118629	     118502		µSA		 290	+0.11%
+Watertown-Fort Drum, NY                                    	       117910	     116229		µSA		 291	+1.45%
+Anniston-Oxford, AL                                        	       117797	     118572		MSA		 292	-0.65%
+Muncie, IN                                                 	       117660	     117671		MSA		 293	-0.01%
+Victoria, TX                                               	       116230	     115384		MSA		 294	+0.73%
+Ames-Boone, IA                                             	       115918	     115848	  112	CSA		 295	+0.06%	Ames, IA MSA | Boone, IA µSA
+Owensboro, KY                                              	       115333	     114752		MSA		 296	+0.51%
+Sheboygan, WI                                              	       115149	     115507		MSA		 297	-0.31%
+Wooster, OH                                                	       114611	     114520		µSA		 298	+0.08%
+San Angelo, TX                                             	       113443	     111823		MSA		 299	+1.45%
+Brunswick, GA                                              	       112923	     112370		MSA		 300	+0.49%
+Wenatchee-East Wenatchee, WA                               	       112448	     110884		MSA		 301	+1.41%
+Lawrence, KS                                               	       112211	     110826		MSA		 302	+1.25%
+Ogdensburg-Massena, NY                                     	       111690	     111944		µSA		 303	-0.23%
+Bismarck, ND                                               	       110879	     108779		MSA		 304	+1.93%
+Decatur, IL                                                	       110730	     110768		MSA		 305	-0.03%
+Missoula, MT                                               	       110138	     109299		MSA		 306	+0.77%
+Roseburg, OR                                               	       107490	     107667		µSA		 307	-0.16%
+Lexington Park, MD                                         	       107484	     105151		µSA		 308	+2.22%
+Sumter, SC                                                 	       107460	     107456		MSA		 309	+0.00%
+Show Low, AZ                                               	       107398	     107449		µSA		 310	-0.05%
+Meridian, MS                                               	       107364	     107449		µSA		 311	-0.08%
+Bluefield, WV-VA                                           	       107180	     107342		µSA		 312	-0.15%
+Cookeville, TN                                             	       106498	     106042		µSA		 313	+0.43%
+Danville, VA                                               	       105696	     106561		MSA		 314	-0.81%
+Gadsden, AL                                                	       104303	     104430		MSA		 315	-0.12%
+Whitewater, WI                                             	       102931	     102228		µSA		 316	+0.69%
+Cumberland, MD-WV                                          	       102884	     103299		MSA		 317	-0.40%
+Longview, WA                                               	       102478	     102410		MSA		 318	+0.07%
+Twin Falls, ID                                             	       100687	      99604		µSA		 319	+1.09%
+Tullahoma, TN                                              	       100344	     100210		µSA		 320	+0.13%
+Adrian, MI                                                 	        99440	      99892		µSA		 321	-0.45%
+Fairbanks, AK                                              	        99192	      97581		MSA		 322	+1.65%
+Corning, NY                                                	        99033	      98990		µSA		 323	+0.04%
+Sebring, FL                                                	        98630	      98786		µSA		 324	-0.16%
+Grand Forks, ND-MN                                         	        98054	      98461		MSA		 325	-0.41%
+Mankato-North Mankato, MN                                  	        97204	      96740		MSA		 326	+0.48%
+Hot Springs, AR                                            	        97124	      96024		MSA		 327	+1.15%
+Ocean City, NJ                                             	        96601	      97265		MSA		 328	-0.68%
+Rome, GA                                                   	        95989	      96317		MSA		 329	-0.34%
+Corbin-London, KY                                          	        95178	      94486	  202	CSA		 330	+0.73%	London, KY µSA | Corbin, KY µSA
+Dubuque, IA                                                	        94648	      93653		MSA		 331	+1.06%
+Albertville, AL                                            	        94166	      93019		µSA		 332	+1.23%
+Cheyenne, WY                                               	        92680	      91738		MSA		 333	+1.03%
+New Philadelphia-Dover, OH                                 	        92508	      92582		µSA		 334	-0.08%
+Orangeburg, SC                                             	        91910	      92501		µSA		 335	-0.64%
+Pocatello, ID                                              	        91457	      90656		MSA		 336	+0.88%
+Bozeman, MT                                                	        91377	      89513		µSA		 337	+2.08%
+Kalispell, MT                                              	        91301	      90928		µSA		 338	+0.41%
+Moses Lake, WA                                             	        91265	      89120		µSA		 339	+2.41%
+Brainerd, MN                                               	        91153	      91067		µSA		 340	+0.09%
+Southern Pines-Pinehurst, NC                               	        89352	      88247		µSA		 341	+1.25%
+Indiana, PA                                                	        89298	      88880		µSA		 342	+0.47%
+Elmira, NY                                                 	        88840	      88830		MSA		 343	+0.01%
+Meadville, PA                                              	        88740	      88765		µSA		 344	-0.03%
+Fort Polk South-DeRidder, LA                               	        88236	      87988	  256	CSA		 345	+0.28%	Fort Polk South, LA µSA | De Ridder, LA µSA
+Pendleton-Hermiston, OR                                    	        87894	      87062		µSA		 346	+0.96%
+Lufkin, TX                                                 	        87669	      86771		µSA		 347	+1.03%
+Ukiah, CA                                                  	        87553	      87841		µSA		 348	-0.33%
+Zanesville, OH                                             	        86237	      86074		µSA		 349	+0.19%
+Bloomsburg-Berwick, PA                                     	        85772	      85562		µSA		 350	+0.25%
+Branson, MO                                                	        84999	      83877		µSA		 351	+1.34%
+Laurel, MS                                                 	        84852	      84823		µSA		 352	+0.03%
+Russellville, AR                                           	        84391	      83939		µSA		 353	+0.54%
+Midland, MI                                                	        84063	      83629		µSA		 354	+0.52%
+Watertown-Fort Atkinson, WI                                	        83943	      83686		µSA		 355	+0.31%
+Grants Pass, OR                                            	        82987	      82713		µSA		 356	+0.33%
+Plattsburgh, NY                                            	        81945	      82128		µSA		 357	-0.22%
+Great Falls, MT                                            	        81837	      81327		MSA		 358	+0.63%
+Talladega-Sylacauga, AL                                    	        81664	      82291		µSA		 359	-0.76%
+Danville, IL                                               	        81509	      81625		MSA		 360	-0.14%
+Wilson, NC                                                 	        81452	      81234		µSA		 361	+0.27%
+DuBois, PA                                                 	        81445	      81642		µSA		 362	-0.24%
+Manitowoc, WI                                              	        80976	      81442		µSA		 363	-0.57%
+Columbus-West Point, MS                                    	        80127	      80413	  200	CSA		 364	-0.36%	Columbus, MS µSA | West Point, MS µSA
+Portsmouth, OH                                             	        79277	      79499		µSA		 365	-0.28%
+Stillwater, OK                                             	        77988	      77350		µSA		 366	+0.82%
+Somerset, PA                                               	        77405	      77742		µSA		 367	-0.43%
+Warsaw, IN                                                 	        77336	      77358		µSA		 368	-0.03%
+Quincy, IL-MO                                              	        77314	      77314		µSA		 369	0.00%
+Keene, NH                                                  	        76918	      77117		µSA		 370	-0.26%
+Sandusky, OH                                               	        76751	      77079		MSA		 371	-0.43%
+Casper, WY                                                 	        76366	      75450		MSA		 372	+1.21%
+Roanoke Rapids, NC                                         	        76066	      76790		µSA		 373	-0.94%
+Centralia, WA                                              	        75901	      75455		µSA		 374	+0.59%
+Helena, MT                                                 	        75699	      74801		µSA		 375	+1.20%
+Marshfield-Wisconsin Rapids, WI                            	        74785	      74749		µSA		 376	+0.05%
+Palatka, FL                                                	        74041	      74364		µSA		 377	-0.43%
+Key West, FL                                               	        73873	      73090		µSA		 378	+1.07%
+Gallup, NM                                                 	        73664	      71492		µSA		 379	+3.04%
+Grand Island, NE                                           	        73551	      72726		µSA		 380	+1.13%
+Union City-Martin, TN-KY                                   	        73525	      73641	  542	CSA		 381	-0.16%	Union City, TN-KY µSA | Martin, TN µSA
+Statesboro, GA                                             	        72881	      70217		µSA		 382	+3.79%
+Aberdeen, WA                                               	        72546	      72797		µSA		 383	-0.34%
+Minot, ND                                                  	        72067	      69540		µSA		 384	+3.63%
+Port Angeles, WA                                           	        71838	      71404		µSA		 385	+0.61%
+Fort Payne, AL                                             	        71375	      71109		µSA		 386	+0.37%
+Muskogee, OK                                               	        71003	      70990		µSA		 387	+0.02%
+Galesburg, IL                                              	        70735	      70626		µSA		 388	+0.15%
+Mount Pleasant, MI                                         	        70622	      70311		µSA		 389	+0.44%
+Clovis-Portales, NM                                        	        70095	      68222	  188	CSA		 390	+2.75%	Clovis, NM µSA | Portales, NM µSA
+Stevens Point, WI                                          	        70084	      70019		µSA		 391	+0.09%
+Greenwood, SC                                              	        69835	      69661		µSA		 392	+0.25%
+Marion, IN                                                 	        69793	      70061		µSA		 393	-0.38%
+Greeneville, TN                                            	        69339	      68831		µSA		 394	+0.74%
+North Wilkesboro, NC                                       	        68984	      69340		µSA		 395	-0.51%
+Richmond, IN                                               	        68643	      68917		µSA		 396	-0.40%
+Kapaa, HI                                                  	        67701	      67091		µSA		 397	+0.91%
+Marquette, MI                                              	        67694	      67077		µSA		 398	+0.92%
+Forest City, NC                                            	        67538	      67810		µSA		 399	-0.40%
+Lake City, FL                                              	        67485	      67531		µSA		 400	-0.07%
+Morehead City, NC                                          	        67373	      66469		µSA		 401	+1.36%
+Martinsville, VA                                           	        67300	      67972		µSA		 402	-0.99%
+Klamath Falls, OR                                          	        66299	      66380		µSA		 403	-0.12%
+Roswell, NM                                                	        65890	      65645		µSA		 404	+0.37%
+Alamogordo, NM                                             	        65703	      63797		µSA		 405	+2.99%
+Marinette, WI-MI                                           	        65586	      65778		µSA		 406	-0.29%
+Nacogdoches, TX                                            	        65466	      64524		µSA		 407	+1.46%
+Hobbs, NM                                                  	        65423	      64727		µSA		 408	+1.08%
+Charleston-Mattoon, IL                                     	        65012	      64921		µSA		 409	+0.14%
+Athens, OH                                                 	        64769	      64757		µSA		 410	+0.02%
+Hutchinson, KS                                             	        64607	      64511		µSA		 411	+0.15%
+Clearlake, CA                                              	        64323	      64665		µSA		 412	-0.53%
+Elizabeth City, NC                                         	        64197	      64094		µSA		 413	+0.16%
+Somerset, KY                                               	        63657	      63063		µSA		 414	+0.94%
+Red Bluff, CA                                              	        63601	      63463		µSA		 415	+0.22%
+Ruston, LA                                                 	        63179	      63009		µSA		 416	+0.27%
+Sayre, PA                                                  	        62917	      62622		µSA		 417	+0.47%
+Coos Bay, OR                                               	        62791	      63043		µSA		 418	-0.40%
+Salina, KS                                                 	        61963	      61697		µSA		 419	+0.43%
+Oneonta, NY                                                	        61917	      62259		µSA		 420	-0.55%
+Rio Grande City-Roma, TX                                   	        61715	      60968		µSA		 421	+1.23%
+Lewiston, ID-WA                                            	        61476	      60888		MSA		 422	+0.97%
+Rutland, VT                                                	        61289	      61642		µSA		 423	-0.57%
+Sturgis, MI                                                	        61136	      61295		µSA		 424	-0.26%
+Enid, OK                                                   	        60670	      60580		µSA		 425	+0.15%
+Barre, VT                                                  	        59626	      59534		µSA		 426	+0.15%
+Walla Walla, WA                                            	        59588	      58781		µSA		 427	+1.37%
+Norwalk, OH                                                	        59496	      59626		µSA		 428	-0.22%
+Kinston, NC                                                	        59339	      59495		µSA		 429	-0.26%
+Edwards, CO                                                	        59281	      59507		µSA		 430	-0.38%
+Sanford, NC                                                	        58752	      57866		µSA		 431	+1.53%
+Sterling, IL                                               	        58388	      58498		µSA		 432	-0.19%
+Palestine, TX                                              	        58308	      58458		µSA		 433	-0.26%
+Point Pleasant, WV-OH                                      	        58268	      58258		µSA		 434	+0.02%
+Dublin, GA                                                 	        57924	      58414		µSA		 435	-0.84%
+Ardmore, OK                                                	        57482	      56980		µSA		 436	+0.88%
+Fergus Falls, MN                                           	        57252	      57303		µSA		 437	-0.09%
+Crossville, TN                                             	        56632	      56053		µSA		 438	+1.03%
+Picayune, MS                                               	        55718	      55834		µSA		 439	-0.21%
+Calhoun, GA                                                	        55621	      55186		µSA		 440	+0.79%
+Carson City, NV                                            	        55439	      55274		MSA		 441	+0.30%
+Eagle Pass, TX                                             	        55405	      54258		µSA		 442	+2.11%
+Waycross, GA                                               	        55244	      55070		µSA		 443	+0.32%
+Phoenix Lake-Cedar Ridge, CA                               	        54953	      55365		µSA		 444	-0.74%
+Jasper, IN                                                 	        54927	      54734		µSA		 445	+0.35%
+Oil City, PA                                               	        54683	      54984		µSA		 446	-0.55%
+Morgan City, LA                                            	        54210	      54650		µSA		 447	-0.81%
+Muscatine, IA                                              	        54184	      54132		µSA		 448	+0.10%
+Carlsbad-Artesia, NM                                       	        54152	      53829		µSA		 449	+0.60%
+Milledgeville, GA                                          	        53817	      55149		µSA		 450	-2.42%
+Ontario, OR-ID                                             	        53692	      53936		µSA		 451	-0.45%
+McComb, MS                                                 	        53470	      53535		µSA		 452	-0.12%
+Scottsboro, AL                                             	        53291	      53227		µSA		 453	+0.12%
+Danville, KY                                               	        53281	      53174		µSA		 454	+0.20%
+Kearney, NE                                                	        53278	      52591		µSA		 455	+1.31%
+Fort Leonard Wood, MO                                      	        53175	      52274		µSA		 456	+1.72%
+Ashland, OH                                                	        53153	      53139		µSA		 457	+0.03%
+Payson, AZ                                                 	        53144	      53597		µSA		 458	-0.85%
+Natchez, MS-LA                                             	        52943	      53119		µSA		 459	-0.33%
+Glasgow, KY                                                	        52342	      52272		µSA		 460	+0.13%
+Durango, CO                                                	        51917	      51334		µSA		 461	+1.14%
+Malone, NY                                                 	        51551	      51599		µSA		 462	-0.09%
+Mason City, IA                                             	        51482	      51749		µSA		 463	-0.52%
+Elko, NV                                                   	        51470	      50805		µSA		 464	+1.31%
+Winona, MN                                                 	        51378	      51461		µSA		 465	-0.16%
+Boone, NC                                                  	        51333	      51079		µSA		 466	+0.50%
+Douglas, GA                                                	        51277	      50731		µSA		 467	+1.08%
+Platteville, WI                                            	        51210	      51208		µSA		 468	+0.00%
+Rexburg, ID                                                	        50992	      50778		µSA		 469	+0.42%
+St. Marys, GA                                              	        50410	      50513		µSA		 470	-0.20%
+Greenville, MS                                             	        50406	      51137		µSA		 471	-1.43%
+Paris, TX                                                  	        50074	      49793		µSA		 472	+0.56%
+Kerrville, TX                                              	        49783	      49625		µSA		 473	+0.32%
+Sidney, OH                                                 	        49307	      49423		µSA		 474	-0.23%
+Del Rio, TX                                                	        49106	      48879		µSA		 475	+0.46%
+Clinton, IA                                                	        49015	      49116		µSA		 476	-0.21%
+Oxford, MS                                                 	        48472	      47351		µSA		 477	+2.37%
+Vicksburg, MS                                              	        48346	      48773		µSA		 478	-0.88%
+Norfolk, NE                                                	        48302	      48271		µSA		 479	+0.06%
+Corsicana, TX                                              	        48054	      47735		µSA		 480	+0.67%
+Tahlequah, OK                                              	        47845	      46987		µSA		 481	+1.83%
+Starkville, MS                                             	        47741	      47671		µSA		 482	+0.15%
+Washington, NC                                             	        47691	      47759		µSA		 483	-0.14%
+Nogales, AZ                                                	        47676	      47420		µSA		 484	+0.54%
+Cadillac, MI                                               	        47629	      47584		µSA		 485	+0.09%
+Burlington, IA-IL                                          	        47365	      47656		µSA		 486	-0.61%
+Cañon City, CO                                             	        47347	      46824		µSA		 487	+1.12%
+Mount Vernon, IL                                           	        47138	      47284		µSA		 488	-0.31%
+Madisonville, KY                                           	        46909	      46920		µSA		 489	-0.02%
+Lewistown, PA                                              	        46858	      46682		µSA		 490	+0.38%
+Cedar City, UT                                             	        46740	      46163		µSA		 491	+1.25%
+Gillette, WY                                               	        46618	      46133		µSA		 492	+1.05%
+Rockingham, NC                                             	        46611	      46639		µSA		 493	-0.06%
+Bedford, IN                                                	        46195	      46134		µSA		 494	+0.13%
+Ponca City, OK                                             	        46159	      46562		µSA		 495	-0.87%
+Blytheville, AR                                            	        45966	      46480		µSA		 496	-1.11%
+Huntingdon, PA                                             	        45875	      45913		µSA		 497	-0.08%
+Safford, AZ                                                	        45753	      45657		µSA		 498	+0.21%
+Bellefontaine, OH                                          	        45688	      45858		µSA		 499	-0.37%
+Moultrie, GA                                               	        45645	      45498		µSA		 500	+0.32%
+McAlester, OK                                              	        45625	      45837		µSA		 501	-0.46%
+Shelbyville, TN                                            	        45509	      45058		µSA		 502	+1.00%
+Harrison, AR                                               	        45315	      45233		µSA		 503	+0.18%
+Henderson, NC                                              	        45307	      45422		µSA		 504	-0.25%
+Bemidji, MN                                                	        45264	      44442		µSA		 505	+1.85%
+Duncan, OK                                                 	        45197	      45048		µSA		 506	+0.33%
+Coldwater, MI                                              	        45197	      45248		µSA		 506	-0.11%
+Pullman, WA                                                	        45077	      44776		µSA		 508	+0.67%
+Rolla, MO                                                  	        45020	      45156		µSA		 509	-0.30%
+Thomasville, GA                                            	        44702	      44720		µSA		 510	-0.04%
+Rock Springs, WY                                           	        44175	      43806		µSA		 511	+0.84%
+Burley, ID                                                 	        43341	      43021		µSA		 512	+0.74%
+Selma, AL                                                  	        43332	      43820		µSA		 513	-1.11%
+Big Rapids, MI                                             	        43300	      42798		µSA		 514	+1.17%
+Cornelia, GA                                               	        43279	      43041		µSA		 515	+0.55%
+Bradford, PA                                               	        43222	      43450		µSA		 516	-0.52%
+Durant, OK                                                 	        43089	      42416		µSA		 517	+1.59%
+Poplar Bluff, MO                                           	        43082	      42794		µSA		 518	+0.67%
+Seymour, IN                                                	        42966	      42376		µSA		 519	+1.39%
+Fort Madison-Keokuk, IA-MO                                 	        42640	      43001		µSA		 520	-0.84%
+Greenwood, MS                                              	        42234	      42914		µSA		 521	-1.58%
+Sedalia, MO                                                	        42178	      42201		µSA		 522	-0.05%
+Willmar, MN                                                	        42173	      42239		µSA		 523	-0.16%
+Alma, MI                                                   	        42145	      42476		µSA		 524	-0.78%
+Lawrenceburg, TN                                           	        42115	      41869		µSA		 525	+0.59%
+Ellensburg, WA                                             	        41629	      40915		µSA		 526	+1.75%
+Mountain Home, AR                                          	        41536	      41513		µSA		 527	+0.06%
+Tifton, GA                                                 	        41461	      40118		µSA		 528	+3.35%
+Warren, PA                                                 	        41441	      41815		µSA		 529	-0.89%
+El Dorado, AR                                              	        41427	      41639		µSA		 530	-0.51%
+Alice, TX                                                  	        41339	      40838		µSA		 531	+1.23%
+El Campo, TX                                               	        41314	      41280		µSA		 532	+0.08%
+Montrose, CO                                               	        41011	      41276		µSA		 533	-0.64%
+Marshalltown, IA                                           	        40980	      40648		µSA		 534	+0.82%
+Aberdeen, SD                                               	        40878	      40602		µSA		 535	+0.68%
+Celina, OH                                                 	        40838	      40814		µSA		 536	+0.06%
+Jacksonville, IL                                           	        40814	      40902		µSA		 537	-0.22%
+West Plains, MO                                            	        40665	      40400		µSA		 538	+0.66%
+Riverton, WY                                               	        40579	      40123		µSA		 539	+1.14%
+Okeechobee, FL                                             	        40140	      39996		µSA		 540	+0.36%
+McMinnville, TN                                            	        39927	      39839		µSA		 541	+0.22%
+Cambridge, OH                                              	        39927	      40087		µSA		 541	-0.40%
+Rockland, ME                                               	        39708	      39736		µSA		 543	-0.07%
+Natchitoches, LA                                           	        39442	      39566		µSA		 544	-0.31%
+Austin, MN                                                 	        39349	      39163		µSA		 545	+0.47%
+Centralia, IL                                              	        39335	      39437		µSA		 546	-0.26%
+Pittsburg, KS                                              	        39220	      39134		µSA		 547	+0.22%
+Clewiston, FL                                              	        39089	      39140		µSA		 548	-0.13%
+Hannibal, MO                                               	        38998	      38948		µSA		 549	+0.13%
+Berlin, NH-VT                                              	        38979	      39361		µSA		 550	-0.97%
+Pontiac, IL                                                	        38885	      38950		µSA		 551	-0.17%
+Defiance, OH                                               	        38884	      39037		µSA		 552	-0.39%
+Logansport, IN                                             	        38828	      38966		µSA		 553	-0.35%
+Houghton, MI                                               	        38811	      38784		µSA		 554	+0.07%
+Sault Ste. Marie, MI                                       	        38797	      38520		µSA		 555	+0.72%
+Walterboro, SC                                             	        38611	      38892		µSA		 556	-0.72%
+Vincennes, IN                                              	        38500	      38440		µSA		 557	+0.16%
+Stephenville, TX                                           	        38266	      37890		µSA		 558	+0.99%
+Dyersburg, TN                                              	        38192	      38335		µSA		 559	-0.37%
+Brownwood, TX                                              	        38186	      38106		µSA		 560	+0.21%
+Easton, MD                                                 	        38025	      37782		µSA		 561	+0.64%
+Ada, OK                                                    	        37799	      37492		µSA		 562	+0.82%
+Scottsbluff, NE                                            	        37728	      37660		µSA		 563	+0.18%
+Moscow, ID                                                 	        37704	      37244		µSA		 564	+1.24%
+Hastings, NE                                               	        37702	      37906		µSA		 565	-0.54%
+Fort Dodge, IA                                             	        37660	      38013		µSA		 566	-0.93%
+Murray, KY                                                 	        37544	      37191		µSA		 567	+0.95%
+Americus, GA                                               	        37531	      37829		µSA		 568	-0.79%
+North Platte, NE                                           	        37456	      37590		µSA		 569	-0.36%
+Astoria, OR                                                	        37153	      37039		µSA		 570	+0.31%
+Escanaba, MI                                               	        37105	      37069		µSA		 571	+0.10%
+Garden City, KS                                            	        37083	      36776		µSA		 572	+0.83%
+Corinth, MS                                                	        37052	      37057		µSA		 573	-0.01%
+Bennington, VT                                             	        36970	      37125		µSA		 574	-0.42%
+Coshocton, OH                                              	        36955	      36901		µSA		 575	+0.15%
+Monroe, WI                                                 	        36891	      36842		µSA		 576	+0.13%
+Laramie, WY                                                	        36889	      36299		µSA		 577	+1.63%
+Batesville, AR                                             	        36861	      36647		µSA		 578	+0.58%
+Emporia, KS                                                	        36581	      36480		µSA		 579	+0.28%
+Owatonna, MN                                               	        36534	      36576		µSA		 580	-0.11%
+Vidalia, GA                                                	        36499	      36346		µSA		 581	+0.42%
+Plainview, TX                                              	        36498	      36273		µSA		 582	+0.62%
+Alexandria, MN                                             	        36172	      36009		µSA		 583	+0.45%
+Lebanon, MO                                                	        35636	      35571		µSA		 584	+0.18%
+Dixon, IL                                                  	        35467	      36031		µSA		 585	-1.57%
+Ottumwa, IA                                                	        35421	      35625		µSA		 586	-0.57%
+Sulphur Springs, TX                                        	        35371	      35161		µSA		 587	+0.60%
+Big Spring, TX                                             	        35122	      35012		µSA		 588	+0.31%
+Coffeyville, KS                                            	        34911	      35471		µSA		 589	-1.58%
+Arcadia, FL                                                	        34894	      34862		µSA		 590	+0.09%
+Brookhaven, MS                                             	        34889	      34869		µSA		 591	+0.06%
+Taylorville, IL                                            	        34865	      34800		µSA		 592	+0.19%
+Dodge City, KS                                             	        34568	      33848		µSA		 593	+2.13%
+Butte-Silver Bow, MT                                       	        34383	      34200		µSA		 594	+0.54%
+Kill Devil Hills, NC                                       	        34307	      33920		µSA		 595	+1.14%
+Effingham, IL                                              	        34280	      34242		µSA		 596	+0.11%
+Susanville, CA                                             	        34200	      34895		µSA		 597	-1.99%
+Brenham, TX                                                	        33791	      33718		µSA		 598	+0.22%
+Cleveland, MS                                              	        33771	      34145		µSA		 599	-1.10%
+Watertown, SD                                              	        33420	      33130		µSA		 600	+0.88%
+Vernal, UT                                                 	        33163	      32588		µSA		 601	+1.76%
+Taos, NM                                                   	        32917	      32937		µSA		 602	-0.06%
+Troy, AL                                                   	        32915	      32899		µSA		 603	+0.05%
+Cambridge, MD                                              	        32640	      32618		µSA		 604	+0.07%
+Wabash, IN                                                 	        32608	      32888		µSA		 605	-0.85%
+Mount Pleasant, TX                                         	        32596	      32334		µSA		 606	+0.81%
+Columbus, NE                                               	        32593	      32237		µSA		 607	+1.10%
+Macomb, IL                                                 	        32582	      32612		µSA		 608	-0.09%
+Paris, TN                                                  	        32352	      32330		µSA		 609	+0.07%
+Madison, IN                                                	        32249	      32428		µSA		 610	-0.55%
+Brookings, SD                                              	        32226	      31965		µSA		 611	+0.82%
+Juneau, AK                                                 	        32164	      31275		µSA		 612	+2.84%
+Beeville, TX                                               	        32095	      31861		µSA		 613	+0.73%
+Kennett, MO                                                	        31974	      31953		µSA		 614	+0.07%
+Miami, OK                                                  	        31860	      31848		µSA		 615	+0.04%
+Dillon, SC                                                 	        31758	      32062		µSA		 616	-0.95%
+St. Marys, PA                                              	        31751	      31946		µSA		 617	-0.61%
+Jackson, WY-ID                                             	        31714	      31464		µSA		 618	+0.79%
+Hope, AR                                                   	        31558	      31606		µSA		 619	-0.15%
+Maysville, KY                                              	        31531	      31360		µSA		 620	+0.55%
+Central City, KY                                           	        31272	      31499		µSA		 621	-0.72%
+Albert Lea, MN                                             	        31172	      31255		µSA		 622	-0.27%
+Camden, AR                                                 	        31024	      31488		µSA		 623	-1.47%
+Lewisburg, TN                                              	        30881	      30617		µSA		 624	+0.86%
+Iron Mountain, MI-WI                                       	        30625	      30591		µSA		 625	+0.11%
+Jesup, GA                                                  	        30327	      30099		µSA		 626	+0.76%
+Lincoln, IL                                                	        30140	      30305		µSA		 627	-0.54%
+Kirksville, MO                                             	        29933	      30038		µSA		 628	-0.35%
+Eufaula, AL-GA                                             	        29583	      29970		µSA		 629	-1.29%
+Alpena, MI                                                 	        29386	      29598		µSA		 630	-0.72%
+Silver City, NM                                            	        29380	      29514		µSA		 631	-0.45%
+Las Vegas, NM                                              	        29301	      29393		µSA		 632	-0.31%
+Indianola, MS                                              	        29296	      29450		µSA		 633	-0.52%
+McPherson, KS                                              	        29241	      29180		µSA		 634	+0.21%
+Sheridan, WY                                               	        29239	      29116		µSA		 635	+0.42%
+Washington Court House, OH                                 	        28985	      29030		µSA		 636	-0.16%
+Hays, KS                                                   	        28742	      28452		µSA		 637	+1.02%
+Middlesborough, KY                                         	        28725	      28691		µSA		 638	+0.12%
+Crescent City, CA                                          	        28659	      28610		µSA		 639	+0.17%
+Bennettsville, SC                                          	        28509	      28933		µSA		 640	-1.47%
+Fort Morgan, CO                                            	        28175	      28159		µSA		 641	+0.06%
+Silverthorne, CO                                           	        27972	      27994		µSA		 642	-0.08%
+Forrest City, AR                                           	        27970	      28258		µSA		 643	-1.02%
+Wauchula, FL                                               	        27887	      27731		µSA		 644	+0.56%
+Great Bend, KS                                             	        27841	      27674		µSA		 645	+0.60%
+Weatherford, OK                                            	        27750	      27469		µSA		 646	+1.02%
+Bainbridge, GA                                             	        27694	      27842		µSA		 647	-0.53%
+Grants, NM                                                 	        27658	      27213		µSA		 648	+1.64%
+Fitzgerald, GA                                             	        27352	      27172		µSA		 649	+0.66%
+Uvalde, TX                                                 	        26535	      26405		µSA		 650	+0.49%
+Altus, OK                                                  	        26447	      26446		µSA		 651	+0.00%
+Mountain Home, ID                                          	        26346	      27038		µSA		 652	-2.56%
+Dickinson, ND                                              	        25993	      24982		µSA		 653	+4.05%
+Toccoa, GA                                                 	        25960	      26175		µSA		 654	-0.82%
+Greensburg, IN                                             	        25944	      25740		µSA		 655	+0.79%
+Clarksdale, MS                                             	        25913	      26151		µSA		 656	-0.91%
+Marshall, MN                                               	        25891	      25857		µSA		 657	+0.13%
+La Grande, OR                                              	        25791	      25748		µSA		 658	+0.17%
+Summerville, GA                                            	        25736	      26015		µSA		 659	-1.07%
+New Ulm, MN                                                	        25734	      25893		µSA		 660	-0.61%
+Mexico, MO                                                 	        25566	      25529		µSA		 661	+0.14%
+Moberly, MO                                                	        25346	      25414		µSA		 662	-0.27%
+Deming, NM                                                 	        25281	      25095		µSA		 663	+0.74%
+The Dalles, OR                                             	        25234	      25213		µSA		 664	+0.08%
+Fredericksburg, TX                                         	        25114	      24837		µSA		 665	+1.12%
+Harrisburg, IL                                             	        24981	      24913		µSA		 666	+0.27%
+Campbellsville, KY                                         	        24731	      24512		µSA		 667	+0.89%
+Fallon, NV                                                 	        24637	      24877		µSA		 668	-0.96%
+Magnolia, AR                                               	        24401	      24552		µSA		 669	-0.62%
+Williston, ND                                              	        24374	      22398		µSA		 670	+8.82%
+Spearfish, SD                                              	        24312	      24097		µSA		 671	+0.89%
+Connersville, IN                                           	        24285	      24277		µSA		 672	+0.03%
+Cordele, GA                                                	        23710	      23439		µSA		 673	+1.16%
+Pampa, TX                                                  	        23571	      23464		µSA		 674	+0.46%
+Maryville, MO                                              	        23468	      23370		µSA		 675	+0.42%
+Liberal, KS                                                	        23328	      22952		µSA		 676	+1.64%
+Marshall, MO                                               	        23280	      23370		µSA		 677	-0.39%
+Mitchell, SD                                               	        23027	      22835		µSA		 678	+0.84%
+Arkadelphia, AR                                            	        22858	      22995		µSA		 679	-0.60%
+Sterling, CO                                               	        22619	      22709		µSA		 680	-0.40%
+Yankton, SD                                                	        22612	      22438		µSA		 681	+0.78%
+Oskaloosa, IA                                              	        22530	      22381		µSA		 682	+0.67%
+Hood River, OR                                             	        22493	      22346		µSA		 683	+0.66%
+Brookings, OR                                              	        22426	      22364		µSA		 684	+0.28%
+Elk City, OK                                               	        22288	      22119		µSA		 685	+0.76%
+Borger, TX                                                 	        22132	      22150		µSA		 686	-0.08%
+Beatrice, NE                                               	        22031	      22311		µSA		 687	-1.25%
+Dumas, TX                                                  	        21954	      21904		µSA		 688	+0.23%
+Grenada, MS                                                	        21706	      21906		µSA		 689	-0.91%
+Parsons, KS                                                	        21511	      21607		µSA		 690	-0.44%
+Helena-West Helena, AR                                     	        21442	      21757		µSA		 691	-1.45%
+Worthington, MN                                            	        21397	      21378		µSA		 692	+0.09%
+Price, UT                                                  	        21318	      21403		µSA		 693	-0.40%
+Guymon, OK                                                 	        21312	      20640		µSA		 694	+3.26%
+Jamestown, ND                                              	        21062	      21100		µSA		 695	-0.18%
+Evanston, WY                                               	        20985	      21118		µSA		 696	-0.63%
+Fairmont, MN                                               	        20689	      20840		µSA		 697	-0.72%
+Ruidoso, NM                                                	        20454	      20497		µSA		 698	-0.21%
+Storm Lake, IA                                             	        20406	      20260		µSA		 699	+0.72%
+Pierre, SD                                                 	        20294	      19988		µSA		 700	+1.53%
+Woodward, OK                                               	        20034	      20081		µSA		 701	-0.23%
+Hereford, TX                                               	        19595	      19372		µSA		 702	+1.15%
+Bishop, CA                                                 	        18478	      18546		µSA		 703	-0.37%
+Brownsville, TN                                            	        18470	      18787		µSA		 704	-1.69%
+Los Alamos, NM                                             	        18222	      17950		µSA		 705	+1.52%
+Huron, SD                                                  	        17550	      17398		µSA		 706	+0.87%
+Snyder, TX                                                 	        16919	      16921		µSA		 707	-0.01%
+Spirit Lake, IA                                            	        16899	      16667		µSA		 708	+1.39%
+Spencer, IA                                                	        16590	      16667		µSA		 709	-0.46%
+Havre, MT                                                  	        16397	      16096		µSA		 710	+1.87%
+Andrews, TX                                                	        15445	      14786		µSA		 711	+4.46%
+Sweetwater, TX                                             	        15269	      15216		µSA		 712	+0.35%
+Kodiak, AK                                                 	        13872	      13592		µSA		 713	+2.06%
+Pecos, TX                                                  	        13757	      13783		µSA		 714	-0.19%
+Lamesa, TX                                                 	        13751	      13833		µSA		 715	-0.59%
+Ketchikan, AK                                              	        13593	      13477		µSA		 716	+0.86%
+Vernon, TX                                                 	        13404	      13535		µSA		 717	-0.97%
+Tallulah, LA                                               	        12004	      12093		µSA		 718	-0.74%
+
