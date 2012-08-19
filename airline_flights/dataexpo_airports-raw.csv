@@ -1643,10 +1643,10 @@
 "GRI","Central Nebraska Regional ","Grand Island","NE","USA",40.96747222,-98.30861111
 "GRK","Robert Gray AAF","Killeen","TX","USA",31.06489778,-97.82779778
 "GRN","Gordon Municipal","Gordon","NE","USA",42.80597222,-102.17525
-"GRO","Rota International","Rota Island","CQ","USA",14.1743075,-145.2425353
+"GRO","Rota International","Rota Island","CQ","USA",14.1743075,145.2425353
 "GRR","Kent County International","Grand Rapids","MI","USA",42.88081972,-85.52276778
 "GSH","Goshen Municipal","Goshen","IN","USA",41.52716028,-85.79210278
-"GSN","Saipan International","Obyan","CQ","USA",15.11900139,-145.7293561
+"GSN","Saipan International","Obyan","CQ","USA",15.11900139,145.7293561
 "GSO","Piedmont Triad International","Greensboro","NC","USA",36.09774694,-79.9372975
 "GSP","Greenville-Spartanburg","Greer","SC","USA",34.89566722,-82.21885833
 "GST","Gustavus","Gustavus","AK","USA",58.42438139,-135.7073814
@@ -3112,7 +3112,7 @@
 "TLT","Tuluksak","Tuluksak","AK","USA",61.09676222,-160.9684167
 "TMA","Henry Tift Myers","Tifton","GA","USA",31.42879528,-83.48787167
 "TMB","Kendall-Tamiami Executive","Miami","FL","USA",25.64788889,-80.43277778
-"TNI","West Tinian","Peipeinimaru","CQ","USA",14.99685028,-145.6180383
+"TNI","West Tinian","Peipeinimaru","CQ","USA",14.99685028,145.6180383
 "TNP","Twentynine Palms","Twentynine Palms","CA","USA",34.13208528,-115.9458319
 "TNT","Dade Collier T And T","Miami","FL","USA",25.86180556,-80.897
 "TNU","Newton Municipal","Newton","IA","USA",41.67442972,-93.02172917

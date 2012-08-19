@@ -1696,7 +1696,7 @@ KALN	ALN	ALN	St. Louis Regional Airport	Alton, Illinois, United States
 KALO	ALO	ALO	Waterloo Regional Airport	Waterloo, Iowa, United States
 KALS	ALS	ALS	San Luis Valley Regional Airport	Alamosa, Colorado, United States
 KALW	ALW	ALW	Walla Walla Regional Airport	Walla Walla, Washington, United States
-KALX	ALX	ALX	Thomas C. Russell Field	Alexander City, Alabama, United States
+KALX		ALX	Thomas C. Russell Field	Alexander City, Alabama, United States
 KAMA	AMA	AMA	Rick Husband Amarillo International Airport	Amarillo, Texas, United States
 KAMN	AMN	AMN	Gratiot Community Airport	Alma, Michigan, United States
 KAMW	AMW	AMW	Ames Municipal Airport	Ames, Iowa, United States
@@ -3913,7 +3913,7 @@ NLWW	WLS		Wallis Island	Wallis and Futuna Islands
 NSAU	AAU		Asau Airport	Asau, Samoa
 NSFA	APW		Faleolo International Airport	Apia, Upolu Island, Samoa
 NSFI	FGI		Fagali'i Airport	Apia, Samoa
-NSFQ	FTI	FAQ	Fitiuta Airport (FAA: FAQ)	Fiti'uta, American Samoa, United States
+NSFQ	FTI		Fitiuta Airport	Fiti'uta, American Samoa, United States
 NSMA	MXS		Maota Airport	Maota, Samoa
 NSTU	PPG		Pago Pago International Airport	Pago Pago, American Samoa
 NTAA	PPT		Faa'a International Airport	Papeete, Tahiti, French Polynesia
@@ -7277,7 +7277,7 @@ ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	ORS		Waterport Airport	Orpheus, Queensland, Australia
 	ORU		Oruro Airport	Oruro, Bolivia
 	OSA		All Airports (was used for Osaka International Airport)	Osaka, Japan
-	OSB	K15	Grand Glaize-Osage Beach Airport (FAA: K15)	Osage Beach, Missouri, United States
+		K15	Grand Glaize-Osage Beach Airport (FAA: K15)	Osage Beach, Missouri, United States
 	OTN	2IG4	Ed-Air Airport (FAA: 2IG4)	Oaktown, Indiana, United States
 	OTS	74S	Anacortes Airport (FAA: 74S)	Anacortes, Washington, United States
 	OUM		Oum Hadjer Airport	Oum Hadjer, Chad

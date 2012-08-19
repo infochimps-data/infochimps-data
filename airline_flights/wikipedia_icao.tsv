@@ -2551,7 +2551,7 @@ KALN	ALN	ALN	St. Louis Regional Airport	Alton, Illinois, United States
 KALO	ALO	ALO	Waterloo Regional Airport	Waterloo, Iowa, United States
 KALS	ALS	ALS	San Luis Valley Regional Airport	Alamosa, Colorado, United States
 KALW	ALW	ALW	Walla Walla Regional Airport	Walla Walla, Washington, United States
-KALX	ALX	ALX	Thomas C. Russell Field	Alexander City, Alabama, United States
+KALX		ALX	Thomas C. Russell Field	Alexander City, Alabama, United States
 KAMA	AMA	AMA	Rick Husband Amarillo International Airport	Amarillo, Texas, United States
 KAMG		AMG	Bacon County Airport	Alma, Georgia, United States
 KAMN	AMN	AMN	Gratiot Community Airport	Alma, Michigan, United States
@@ -5906,7 +5906,8 @@ NSFA	APW		Faleolo International Airport	Apia
 NSFI	FGI		Fagali'i Airport	Fagali'i
 NSMA	MXS		Maota Airport	Salelologa
 NSAS			Ofu airstrip	Ofu Island
-NSFQ	FTI	FAQ	Fitiuta Airport	Fitiuta
+NSFQ	FTI		Fitiuta Airport	Fitiuta
+KFAQ		FAQ	Fitiuta Village	Fitiuta
 NSTU	PPG		Pago Pago International Airport (Tutuila Intl)	Pago Pago
 NTAA	PPT		Faa'a International Airport	Faa'a, Tahiti
 NTAR	RUR		Rurutu Airport	Rurutu, Austral Islands
