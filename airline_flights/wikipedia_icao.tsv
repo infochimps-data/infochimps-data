@@ -7,7 +7,7 @@ AGEV			Geva Airport	Geva
 AGGA	AKS		Auki Gwaunaru'u Airport	Auki
 AGGB	BNY		Bellona/Anua Airport	Bellona/Anua
 AGGC	CHY		Choiseul Bay Airport	Choiseul Bay, Taro Island
-AGGD	MBU		Mbambanakira Airport	Mbambanakira
+AGGI	MBU		Mbambanakira Airport	Mbambanakira
 AGGE	BAS		Balalae Airport	Shortland Island
 AGGF	FRE		Fera/Maringe Airport	Fera Island, Santa Isabel Island
 AGGG			Honiara FIR	Honiara, Guadalcanal
@@ -920,7 +920,6 @@ EERI			Ridali Airfield	Ridali
 EERU			Ruhnu Airfield	Ruhnu
 EETA			Tapa Airfield	Tapa
 EETN	TLL		Lennart Meri Tallinn Airport	Tallinn
-EETN			Raadi Airfield	Tartu
 EETU	TAY		Tartu Airport	Tartu
 EEVI			Viljandi Airfield	Viljandi
 EFAH			Ahmosuo Airport	Ahmosuo
@@ -1077,7 +1076,7 @@ EGHU			Eaglescott Airfield	Great Torrington, England
 EGHY			Truro Aerodrome	Truro, England
 EGJA	ACI		Alderney Airport	Alderney, Channel Islands
 EGJB	GCI		Guernsey Airport	Guernsey, Channel Islands
-EGJJ	JER		Jersey Airport & Aviation Beauport	Jersey, Channel Islands
+EGJJ	JER		Jersey Airport and Aviation Beauport	Jersey, Channel Islands
 EGKA	ESH		Shoreham Airport	Shoreham-by-Sea, England
 EGKB	BQH		London Biggin Hill Airport	London, England
 EGKE			Challock Airport	Challock, England
@@ -1238,7 +1237,7 @@ EHMC			Air Operations Control Station Nieuw-Milligen	Nieuw-Milligen
 EHMZ			Midden-Zeeland	Middelburg, Zeeland
 EHOW			Oostwold Airport	Scheemda
 EHRD	RTM		Rotterdam The Hague Airport	Rotterdam
-EHSB	SSB		Soesterberg Air Base	Soesterberg
+EHSB			Soesterberg Air Base	Soesterberg
 EHSE			Seppe Airport	Hoeven
 EHST			Stadskanaal Airfield	Stadskanaal
 EHTE			Teuge International Airport	Deventer
@@ -1287,7 +1286,7 @@ EKRK	RKE		Roskilde Airport	Tune near Roskilde
 EKRN	RNN		Bornholm Airport	Rønne
 EKSB	SGD		Sønderborg Airport	Sønderborg
 EKSP	SKS		Skrydstrup Airport	Vojens
-EKSV	SQW		Skive Airport –Skive
+EKSV	SQW		Skive Airport Skive
 EKTS	TED		Thisted Airport	Thisted
 EKVH			Vesthimmerland Airport	Aars
 EKVJ	STA		Stauning Vestjylland Airport	Skjern
@@ -1295,11 +1294,11 @@ EKYT	AAL		Aalborg Airport	Aalborg
 EKVG	FAE		Vágar Airport	Faroe Islands
 EKFA			Froðba Heliport	Faroe Islands
 EKKV			Klaksvík Heliport	Faroe Islands
-EKMS 			Mykines Heliport	Faroe Islands
-EKSY 			Skúvoy Heliport	Faroe Islands
-EKSR 			Stóra Dímun Heliport	Faroe Islands
-EKSO 			Svínoy Heliport	Faroe Islands
-EKTB 			Tórshavn/Bodanes Heliport	Faroe Islands
+EKMS			Mykines Heliport	Faroe Islands
+EKSY			Skúvoy Heliport	Faroe Islands
+EKSR			Stóra Dímun Heliport	Faroe Islands
+EKSO			Svínoy Heliport	Faroe Islands
+EKTB			Tórshavn/Bodanes Heliport	Faroe Islands
 ELLX	LUX		Luxembourg International Airport	Luxembourg
 ELMD			Medernach Ulmodrome
 ELNT			Airfield Noertrange	Luxembourg
@@ -1354,7 +1353,7 @@ ENNK	NVK		Narvik Airport, Framnes	Narvik, Nordland
 ENNM	OSY		Namsos Airport	Namsos, Nord-Trøndelag
 ENNO	NTB		Notodden Airport	Notodden, Telemark
 ENOA			Oseberg A	Oseberg oil field, North Sea
-ENOL	OLA		Ørland Main Air Station –, Sør-Trøndelag
+ENOL	OLA		Ørland Main Air Station	Sør-Trøndelag
 ENOP			Oppdal Airport, Fagerhaug	Oppdal, Sør-Trøndelag
 ENOV	HOV		Ørsta-Volda Airport, Hovden	Ørsta/Volda, Møre og Romsdal
 ENRA	MQN		Mo i Rana Airport, Røssvoll	Mo i Rana, Nordland
@@ -2190,7 +2189,7 @@ GGOV	OXB		Osvaldo Vieiro International Airport	Bissau
 GGCF			Cufar Airport	Cufar
 GLBU	UCN		Buchanan Airport	Buchanan
 GLCP	CPA		Cape Palmas Airport	Harper
-GLGE	SNI		Greenville/Sinoe Airport –Greenville (Sinoe)
+GLGE	SNI		Greenville/Sinoe Airport	Greenville (Sinoe)
 GLLB			Lamco Airport	Buchanan
 GLMR	MLW		Spriggs Payne Airport	Monrovia
 GLNA	NIA		Nimba Airport	Nimba
@@ -2725,7 +2724,7 @@ KBPG		BPG	Big Spring McMahon-Wrinkle Airport	Big Spring, Texas, United States
 KBPI	BPI	BPI	Big Piney-Marbleton Airport	Big Piney, Wyoming, United States
 KBPK	WMH	BPK	Ozark Regional Airport (formerly Baxter County Regional Airport)	Mountain Home, Arkansas, United States
 KBPP	BWM	BPP	Bowman Municipal Airport	Bowman, North Dakota, United States
-KBPT	BPT	BPT	Southeast Texas Regional Airport	Nederland, Texas (near Beaumont & Port Arthur), United States
+KBPT	BPT	BPT	Southeast Texas Regional Airport	Nederland, Texas, United States
 KBQK	BQK	BQK	Brunswick Golden Isles Airport	Brunswick, Georgia, United States
 KBQR	BQR	BQR	Buffalo-Lancaster Airport	Lancaster, New York, United States
 KBRD	BRD	BRD	Brainerd Lakes Regional Airport	Brainerd, Minnesota, United States
@@ -2750,13 +2749,13 @@ KBUY		BUY	Burlington-Alamance Regional Airport	Burlington, North Carolina, Unite
 KBVI	BFP	BVI	Beaver County Airport	Beaver Falls, Pennsylvania, United States
 KBVN		BVN	Albion Municipal Airport	Albion, Nebraska, United States
 KBVO		BVO	Bartlesville Municipal Airport	Bartlesville, Oklahoma, United States
-KBVS	MVW	BVS	Skagit Regional Airport	Burlington & Mount Vernon, Washington, United States
+KBVS	MVW	BVS	Skagit Regional Airport	Burlington and Mount Vernon, Washington, United States
 KBVX		BVX	Batesville Regional Airport	Batesville, Arkansas, United States
 KBVY	BVY	BVY	Beverly Municipal Airport	Beverly, Massachusetts, United States
 KBWC	BWC	BWC	Brawley Municipal Airport	Brawley, California, United States
 KBWD	BWD	BWD	Brownwood Regional Airport	Brownwood, Texas, United States
 KBWG	BWG	BWG	Bowling Green-Warren County Regional Airport	Bowling Green, Kentucky, United States
-KBWI	BWI	BWI	Baltimore-Washington International Thurgood Marshall Airport	Baltimore, Maryland & Washington, DC, United States
+KBWI	BWI	BWI	Baltimore-Washington International Thurgood Marshall Airport	Baltimore, Maryland and Washington, DC, United States
 KBWP		BWP	Harry Stern Airport	Wahpeton, North Dakota, United States
 KBXA		BXA	George R. Carr Memorial Airfield	Bogalusa, Louisiana, United States
 KBXG		BXG	Burke County Airport	Waynesboro, Georgia, United States
@@ -2963,7 +2962,7 @@ KDEQ		DEQ	J. Lynn Helms Sevier County Airport	De Queen, Arkansas, United States
 KDET		DET	Coleman A. Young Municipal Airport	Detroit, Michigan, United States
 KDEW		DEW	Deer Park Airport	Deer Park, Washington, United States
 KDFI		DFI	Defiance Memorial Airport	Defiance, Ohio, United States
-KDFW		DFW	Dallas-Fort Worth International Airport	Dallas & Fort Worth, Texas, United States
+KDFW		DFW	Dallas-Fort Worth International Airport	Dallas-Fort Worth, Texas, United States
 KDGL	DGL	DGL	Douglas Municipal Airport	Douglas, Arizona, United States
 KDGW		DGW	Converse County Airport	Douglas, Wyoming, United States
 KDHN	DHN	DHN	Dothan Regional Airport	Dothan, Alabama, United States
@@ -3078,7 +3077,7 @@ KEKY		EKY	Bessemer Airport	Bessemer, Alabama, United States
 KELA		ELA	Eagle Lake Airport	Eagle Lake, Texas, United States
 KELD		ELD	South Arkansas Regional Airport at Goodwin Field	El Dorado, Arkansas, United States
 KELK		ELK	Elk City Municipal Airport	Elk City, Oklahoma, United States
-KELM		ELM	Elmira/Corning Regional Airport	Big Flats, New York (near Elmira & Corning), United States
+KELM		ELM	Elmira/Corning Regional Airport	Big Flats, New York, United States
 KELN		ELN	Bowers Field	Ellensburg, Washington, United States
 KELO	LYU	ELO	Ely Municipal Airport	Ely, Minnesota, United States
 KELP		ELP	El Paso International Airport	El Paso, Texas, United States
@@ -3124,7 +3123,7 @@ KEVY		EVY	Summit Airport	Middletown, Delaware, United States
 KEWB		EWB	New Bedford Regional Airport	New Bedford, Massachusetts, United States
 KEWK		EWK	Newton City/County Airport	Newton, Kansas, United States
 KEWN		EWN	Craven County Regional Airport	New Bern, North Carolina, United States
-KEWR		EWR	Newark Liberty International Airport	Newark & Elizabeth, New Jersey, United States
+KEWR		EWR	Newark Liberty International Airport	Newark and Elizabeth, New Jersey, United States
 KEXX		EXX	Davidson County Airport	Lexington, North Carolina, United States
 KEYE		EYE	Eagle Creek Airpark	Indianapolis, Indiana, United States
 KEYF		EYF	Curtis L. Brown Jr. Field	Elizabethtown, North Carolina, United States
@@ -3308,7 +3307,7 @@ KGUS		GUS	Grissom Air Reserve Base	Peru, Indiana, United States
 KGVE		GVE	Gordonsville Municipal Airport	Gordonsville, Virginia, United States
 KGVT		GVT	Majors Airport	Greenville, Texas, United States
 KGVQ		GVQ	Genesee County Airport	Batavia, New York, United States
-KGWB		GWB	[[DeKalb County Airport]]	Auburn, Indiana, United States
+KGWB		GWB	DeKalb County Airport	Auburn, Indiana, United States
 KGWO		GWO	Greenwood-Leflore Airport	Greenwood, Mississippi, United States
 KGWR		GWR	Gwinner-Roger Melroe Field	Gwinner, North Dakota, United States
 KGWS		GWS	Glenwood Springs Municipal Airport	Glenwood Springs, Colorado, United States
@@ -4441,7 +4440,7 @@ LEPA	PMI		Palma de Mallorca Airport (or Son Sant Joan Airport)	Palma de Mallorca
 LEPP	PNA		Pamplona Airport	Pamplona / Irunea
 LERE			Requena Aerodrome	Requena / Valencia
 LERI			Alcantarilla Base Aérea	Alcantarilla / Murcia /Militar
-LERJ	RJL		Logroño-Agoncillo Airport	[Logroño, La Rioja, Spain]
+LERJ	RJL		Logroño-Agoncillo Airport	Logroño, La Rioja, Spain
 LERS	REU		Reus Airport	Reus / Tarragona /Costa Daurada
 LERT			Rota Airport (naval station)	Rota
 LESA	SLM		Matacán Airport	Salamanca, Spain
@@ -4481,7 +4480,7 @@ LFAX			Mortagne-au-Perche Airport	Mortagne-au-Perche
 LFAY	QAM		Amiens - Glisy Aerodrome	Amiens
 LFAZ			Saint-Brieuc Airport	Saint-Brieuc
 LFBA	AGF		Agen - La Garenne Aerodrome	Agen
-LFBD	BOD		Bordeaux–Mérignac Airport	Bordeaux
+LFBD	BOD		Bordeaux-Mérignac Airport	Bordeaux
 LFBE	EGC		Bergerac Dordogne Périgord Airport	Bergerac
 LFBG	CNG		Cognac - Châteaubernard Air Base	Cognac
 LFBH	LRH		La Rochelle - Île de Ré Airport	La Rochelle
@@ -4991,7 +4990,7 @@ LICZ	NSY		Sigonella Airport (military)	Catania
 LIDA			Asiago Airport	Asiago, Vicenza
 LIDB	BLX		Belluno Airport	Belluno
 LIDE			Reggio Emilia Airport	Reggio Emilia
-LIDF			Fano Airport	Fano, Pesaro & Urbino
+LIDF			Fano Airport	Fano, Pesaro and Urbino
 LIDG			Lugo di Romagna Airport	Lugo di Romagna, Ravenna
 LIDR	RAN		Ravenna Airport	Ravenna
 LIDT	ZIA		G. Caproni Airport (Mattarello Airport)	Trento
@@ -5027,7 +5026,7 @@ LIMZ	CUF		Cuneo Levaldigi Airport	Cuneo
 LIPA	AVB		Aviano Air Base	Aviano, Pordenone
 LIPB	BZO		Bolzano Dolomiti Airport	Bolzano, South Tyrol
 LIPC			Cervia Air Force Base	Cervia, Ravenna
-LIPD	UDN		Campoformido Airport (military?)	Campoformido / Udine
+LIPD	UDN		Campoformido Airport	Campoformido / Udine
 LIPE	BLQ		Bologna Airport (Guglielmo Marconi Airport)	Bologna
 LIPF			Ferrara Airport	Ferrara
 LIPH	TSF		Treviso Airport (Sant'Angelo Airport)	Treviso
@@ -5049,7 +5048,7 @@ LIPZ	VCE		Marco Polo International Airport (Marco Polo Venice Airport)	Venice (V
 LIQB	QZO		Molin Bianco Airport	Arezzo
 LIQL	LCV		Tassignano Airport	Lucca
 LIQS	SAY		Siena Airport	Siena
-LIQW			Luni Airport (military?)	Sarzana, Genoa
+LIQW			Luni Airport	Sarzana, Genoa
 LIRA	CIA		Ciampino Airport (Giovan Battista Pastine Airport)	Rome
 LIRC			Centocelle Air Force Base	Centocelle, Rome
 LIRE	QLY		Pratica di Mare Air Force Base	Pomezia, Rome
@@ -5057,8 +5056,8 @@ LIRF	FCO		Leonardo da Vinci International Airport (Fiumicino International Airpo
 LIRG			Guidonia Air Force Base	Guidonia Montecelio, Rome
 LIRI	QSR		Salerno Costa d'Amalfi Airport	Salerno
 LIRJ	EBA		Marina di Campo Airport	Marina di Campo, Elba
-LIRL	QLT		Latina Airport (military?)	Latina
-LIRM			Grazzanise Airport (military?)	Caserta
+LIRL	QLT		Latina Airport	Latina
+LIRM			Grazzanise Airport	Caserta
 LIRN	NAP		Naples International Airport (Capodichino Airport)	Naples
 LIRP	PSA		Galileo Galilei Airport (Pisa International Airport)	Pisa
 LIRQ	FLR		Amerigo Vespucci Airport (Florence Airport)	Florence (Firenze)
@@ -5184,7 +5183,7 @@ LOAN			Wiener Neustadt East Airport	Wiener Neustadt, Lower Austria
 LOAV			Vöslau-Kottingbrunn Airfield	Bad Vöslau, Lower Austria
 LOGG			Punitz Airfield	Güssing, Burgenland
 LOKF			Feldkirchen Airfield	Ossiacher See, Carinthia
-LOLG			St. Georgen Airfield [1]	Leutzmannsdorf, Lower Austria
+LOLG			St. Georgen Airfield	Leutzmannsdorf, Lower Austria
 LOLO			Linz Ost Airfield (Linz East Airfield)	Linz, Upper Austria
 LOLW			Wels Airport	Wels, Upper Austria
 LOWG	GRZ		Graz Airport (Thalerhof Airport)	Graz, Styria
@@ -5232,7 +5231,7 @@ LPSI	SIE		Sines Airport	Sines /Alentejo Litoral
 LPSR			Santarém Airport	Santarém
 LPST			Sintra Air Base	Granja do Marquês / Pero Pinheiro, Sintra
 LPTN			Tancos Air Base	Tancos, Vila Nova da Barquinha, Médio Tejo
-LPVL			Maia Airport {Maia Airfield} (Vilar da Luz Airport)	Maia
+LPVL			Maia Airport (Vilar da Luz Airport)	Maia
 LPVM			Vilamoura Airport	Vilamoura / Quarteira, Loulé TERMINATED
 LPVR	VRL		Vila Real Airport	Vila Real / Alto Douro
 LPVZ	VSE		Viseu Airport (Gonçalves Lobato Airport)	Lordosa, Viseu (Viséu)
@@ -5245,7 +5244,7 @@ LPLA	TER		Lajes Air Base Int.	Terceira Island /Praia da Vitoria /Angra do Heroí
 LPPD	PDL		Ponta Delgada João Paulo II Airport,formerlyNordela Int.	Ponta Delgada, São Miguel Island
 LPPI	PIX		Pico Airport	Pico Island (Madalena, São Roque do Pico, Lajes do Pico)
 LPSJ	SJZ		São Jorge Airport	São Jorge Island /Velas
-LPMA	FNC		Madeira Airport Int. (Funchal Airport)	Funchal, Madeira Island (Santa Cruz) /Funchal area {Madeira Island}
+LPMA	FNC		Madeira Airport Int. (Funchal Airport)	Funchal, Madeira Island (Santa Cruz)	Funchal area {Madeira Island}
 LPPS	PXO		Porto Santo Airport	Porto Santo Island / Vila Baleira {Porto Santo Island}
 LQBI			Bihać Airport	Bihać
 LQBK	BNX		Banja Luka International Airport	Banja Luka
@@ -5324,7 +5323,6 @@ LSTS			St. Stephan Airport	St. Stephan
 LSXB			Balzers Heliport	Balzers
 LSXG			Gsteigwiler Heliport	Gsteigwiler
 LSXI			Interlaken Heliport	Interlaken
-LSXK			Benken Heliport	Benken[disambiguation needed]
 LSXL			Lauterbrunnen Heliport	Lauterbrunnen
 LSXO			Trogen Heliport	Trogen
 LSXS			Schindellegi Heliport	Schindellegi
@@ -5622,7 +5620,7 @@ MMUN	CUN		Cancún International Airport	Cancún, Quintana Roo
 MMVA	VSA		Carlos Rovirosa Pérez International Airport	Villahermosa, Tabasco
 MMVR	VER		General Heriberto Jara International Airport	Veracruz, Veracruz
 MMZC	ZCL		General Leobardo C. Ruiz International Airport a.k.a. La Calera Airport	Zacatecas, Zacatecas
-MMZH	ZIH		Ixtapa-Zihuatanejo International Airport	Ixtapa–Zihuatanejo, Guerrero
+MMZH	ZIH		Ixtapa-Zihuatanejo International Airport	Ixtapa-Zihuatanejo, Guerrero
 MMZO	ZLO		Playa de Oro International Airport	Manzanillo, Colima
 MNAL			Alamikamba Airport	Alamikamba, RAAN (Zelaya)
 MNAM			Altmira Airport	Altmira, Boaco
@@ -5664,7 +5662,7 @@ MPCH	CHX		Captain Manuel Niño International Airport	Changuinola
 MPDA	DAV		Enrique Malek International Airport	David
 MPEJ	ONX		Enrique Adolfo Jiménez Airport	Colón
 MPFS			Fort Sherman	Fuerte Sherman
-MPHO	BLB		Howard Air Force Base (renamed)	Balboa See MPPA.
+MPHO	HOW		Howard Air Force Base (renamed)	Balboa See MPPA.
 MPPA			Panama Pacifico, former Howard Air Force Base	Balboa
 MPJE	JQE		Jaque Airport	Jaque
 MPLP	PLP		Captain Ramon Xatruch Airport	La Palma
@@ -5683,7 +5681,6 @@ MRBC	BCL		Barra del Colorado Airport	Barra del Colorado
 MRCA	CSC		Codela Airport	Cañas
 MRCC	OTR		Coto 47 Airport	Coto 47
 MRCH			Chacarita Airport	Chacarita
-MRCR	RIK		Carrillo Airport	Carrillo[disambiguation needed]
 MRCV			Cabo Velas Airport	Cabo Velas
 MRDK	DRK		Drake Bay Airport	Drake Bay
 MRDO			Dieciocho Airport (military)	Dieciocho
@@ -5773,6 +5770,7 @@ MUNB	QSN		San Nicolás de Bari Airport	San Nicolás de Bari, Havana (La Habana)
 MUNC	ICR		Nicaro Airport	Nicaro
 MUNG	GER		Rafael Cabrera Airport (Rafael Cabrera Mustelier Airport)	Nueva Gerona, Isla de la Juventud
 MUOC			Cayo Coco Airport	Cayo Coco, Ciego de Ávila
+MUCC	CCC		Jardines del Rey Airport	Cayo Coco, Ciego de Ávila
 MUPB	UPB		Playa Baracoa Airport	Havana, Havana (La Habana)
 MUPR	QPD		Pinar del Río Airport	Pinar del Río, Pinar del Río
 MUSA			San Antonio de los Baños Air Base	San Antonio de los Baños, Havana (La Habana)
@@ -6791,7 +6789,6 @@ RKJB	MWX		Muan International Airport	Muan
 RKJJ	KWJ		Gwangju Airport	Gwangju
 RKJK	KUV		Gunsan Airport	Gunsan
 RKJM	MPK		Mokpo Airport	Yeongam County (near Mokpo)
-RKJK	KUV		Kunsan Air Base	Kunsan
 RKJY	RSU		Yeosu Airport	Yeosu
 RKND	SHO		Sokcho Airport	Sokcho
 RKNN	KAG		Gangneung Airbase	Kangnung
@@ -6818,7 +6815,7 @@ RPLC	CRK		Diosdado Macapagal International Airport (Clark International Airport)
 RPLG			Wasig Airport	Mansalay, Oriental Mindoro
 RPLI	LAO		Laoag International Airport	Laoag City, Ilocos Norte
 RPLJ			Jomalig Airport	Jomalig, Quezon
-RPLL	MNL		Ninoy Aquino International Airport (Manila International Airport)/Villamor Air Base [military]	Metro Manila
+RPLL	MNL		Ninoy Aquino International Airport (Manila International Airport)	Metro Manila
 RPLN			Palanan Airport	Palanan, Isabela
 RPLO	CYU		Cuyo Airport	Cuyo, Palawan
 RPLP	LGP		Legazpi Airport	Legazpi City, Albay
@@ -6964,7 +6961,7 @@ SAAK	MGI		Martín García Island Airport	Isla Martín García, Buenos Aires Prov
 SAAP	PRA		General Justo José de Urquiza Airport	Paraná, Entre Ríos Province
 SAAR	ROS		Rosario - Islas Malvinas International Airport	Rosario, Santa Fe Province
 SAAV	SFN		Sauce Viejo Airport	Santa Fe, Santa Fe Province
-SABA	BUE		Buenos Aires Airport[disambiguation needed]	Buenos Aires
+SABA	BUE		Buenos Aires Airport	Buenos Aires
 SABE	AEP		Jorge Newbery Airport	Buenos Aires
 SACA			Capitán Omar Darío Gerardi Airport	Córdoba
 SACC	LCM		La Cumbre Airport	La Cumbre, Córdoba Province
@@ -7250,7 +7247,7 @@ SSKM	CBW		Campo Mourão Airport	Campo Mourão, Paraná
 SSLI	LVB		Dos Galpoes Airport	Santana do Livramento, Rio Grande do Sul
 SSPB	PTO		Pato Branco Airport	Pato Branco, Paraná
 SSPS			Palmas Airport	Palmas, Paraná
-SSTB	TBA		Três Barras Airport; Três Barras, Santa Catarina
+SSTB	TBA		Três Barras Airport	Três Barras, Santa Catarina
 SSUV	QVB		União da Vitória Airport	União da Vitória, Paraná
 SSVI	VIA		Videira Airport	Videira, Santa Catarina
 SSVN			Veranópolis Airport	Veranópolis, Rio Grande do Sul
@@ -7766,7 +7763,7 @@ URWW	VOG		Gumrak Airport	Volgograd, Russia
 USCC	CEK		Balandino Airport	Chelyabinsk, Russia
 USCM	MQF		Magnitogorsk Airport	Magnitogorsk, Russia
 USDD	SLY		Salekhard Airport	Salekhard, Russia
-USHH	HMA		Khanty-Mansiysk Airport	Khanty–Mansi Autonomous Okrug, Russia
+USHH	HMA		Khanty-Mansiysk Airport	Khanty-Mansi Autonomous Okrug, Russia
 USKK	KVX		Kirov Airport	Kirov, Russia
 USMM	NYM		Nadym Airport	Nadym, Russia
 USNN	NJC		Nizhnevartovsk Airport	Nizhnevartovsk, Russia
@@ -7880,7 +7877,7 @@ UKFW			Zavodske Airfield	Simferopol, Ukraine
 UKFY			Dzhankoy, Ukraine
 UKHE			Petrovske, Ukraine
 UKHH	HRK		Kharkiv International Airport	Kharkiv, Ukraine
-UKHK	KHU		Kremenchuk_Airport	Kremenchuk, Ukraine
+UKHK	KHU		Kremenchuk Airport	Kremenchuk, Ukraine
 UKHP	PLV		Poltava Airport	Poltava, Ukraine
 UKHS	UMY		Sumy Airport	Sumy, Ukraine
 UKKA			Ukraviatrans	Kiev, Ukraine
@@ -8072,7 +8069,7 @@ VOCP	CDP		Cuddapah Airport	Cuddapah
 VOCX	CBD		Car Nicobar Air Force Base	Car Nicobar
 VODG			Dundigul Air Force Academy	Hyderabad
 VODK			Donakonda Airport	Donakonda
-VOGB			Gulbarga Airport –Gulbarga
+VOGB			Gulbarga Airport	Gulbarga
 VOHK			Hakimpet Air Force Station	Secunderabad
 VOHY			Begumpet Airport	Hyderabad
 VOHS	HYD		Rajiv Gandhi International Airport	Hyderabad, India
@@ -8129,7 +8126,7 @@ VHSK			Shek Kong Airfield	Shek Kong (former RAF Shek Kong)
 VHST	HHP		Shun Tak Heliport	Sheung Wan
 VLAO	LVT		Vientiane Airport	Vientiane
 VLAP	AOU		Attopeu Airport	Attopeu
-VLHS 			Ban Huoeisay Airport (Ban Houei Sai/Ban Houay Xay)	Ban Hat Tai
+VLHS			Ban Huoeisay Airport (Ban Houei Sai/Ban Houay Xay)	Ban Hat Tai
 VLKG	KOG		Khong Airport	Khong Island
 VLLB	LPQ		Luang Prabang International Airport	Luang Prabang
 VLLN	LXG		Luang Namtha Airport	Luang Namtha
@@ -8379,7 +8376,7 @@ WIBB	PKU		Sultan Syarif Qasim II International Airport (Simpang Tiga Airport)	Pe
 WIBD	DUM		Pinang Kampai Airport	Dumai, Riau
 WIBR	RKO		Rokot Airport	Sipura
 WIBT	TJB		Sunjai Bati Airport	Tanjung Balai
-WICB	BTO		Budiarto Airport	Tangerang, Banten
+WICB			Budiarto Airport	Tangerang, Banten
 WICC	BDO		Husein Sastranegara International Airport	Bandung, West Java
 WICM	TSY		Tasikmalaya Airport	Tasikmalaya, West Java
 WIDD	BTH		Hang Nadim Airport	Batam, Riau Islands
@@ -8952,7 +8949,7 @@ ZUMY	MIG		Mianyang Nanjiao Airport	Mianyang, Sichuan
 ZUNC	NAO		Nanchong Gaoping Airport	Nanchong, Sichuan
 ZUNP	HZH		Liping Airport	Liping, Guizhou
 ZUNZ	LZY		Nyingchi Mainling Airport	Nyingchi, Tibet Autonomous Region
-ZUQJ	JIQ		Qianjiang Wulingshan Airport– Qianjiang, Chongqing
+ZUQJ	JIQ		Qianjiang Wulingshan Airport	Qianjiang, Chongqing
 ZURK	RKZ		Shigatse Peace Airport	Shigatse, Tibet Autonomous Region
 ZUTC	TCZ		Tengchong Tuofeng Airport	Tengchong, Yunnan
 ZUTR	TEN		Tongren Fenghuang Airport	Tongren, Guizhou
@@ -9020,28 +9017,27 @@ ZMUB	ULN		Chinggis Khaan International Airport (formerly Buyant Ukhaa Airport)	U
 ZMUG	ULO		Ulaangom Airport	Ulaangom, Uvs
 ZMUH	UNR		Öndörkhaan Airport	Öndörkhaan, Khentii
 ZMUL	ULG		Ölgii Airport	Ölgii, Bayan Ölgii
-CYNJ		.	Langley Regional Airport (Langley Airport)	Langley, British Columbia
-LFBV		.	Brive - La Roche Airport (now LFSL)	Brive
-MMAN		.	Del Norte International Airport	Monterrey, Nuevo León
-MUOC	CCC	.	Jardines del Rey Airport	Cayo Coco, Ciego de Ávila
-OYAB	EAB	.	Abbs Airport	Abbs
-PACE	CEM	.	Central Airport	Central, Alaska, United States
-SEBC		.	Los Perales (now SESV)	Bahia de Caraquez
-SKAN	ADN	.	Andes Airport	Andes
-SSAL	ALQ	.	Federal Airport	Alegrete, Rio Grande do Sul
-SVPR	CGU	.	Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Bolívar
-UASS	PLX	.	Semipalatinsk Airport	Semipalatinsk, Kazakhstan
-UEEA	ADH	.	Aldan Airport	Aldan, Russia
-UKFB	UKS	.	Sevastopol (Belbek) International Airport	Sevastopol, Ukraine
-UUMU		.	Chkalovsky Airport	Shchyolkovo (Moscow Oblast), Russia
-VELP		.	Lengpui Airport	Aizwal
-VYBG	NYU	.	Nyaung U Airport	Bagan (Pagan)
-WAWB	BUW	.	Betoambari Airport	Bau Bau
-WICD	CBN	.	Penggung Airport	Cirebon Regency, West Java
-WIIC		.	Penggung Airport	Cirebon, West Java
-WRBC		.	Batulicin Airport (now WAOC)	Batulicin, South Kalimantan
-WRLV		.	Bunyu Airport (now WALV)	Bunyu, East Kalimantan
-YBLN		.	Busselton Regional Airport	Busselton, Western Australia
-ZYYJ	YNJ	.	Yanji Chaoyangchuan Airport	Yanji, Jilin
-WRRW		.	Waingapu Airport (now WADW)	Waingapu, East Nusa Tenggara
-HSSW	WHF	.	Wadi Halfa Airport	Wadi Halfa
+CYNJ			Langley Regional Airport (Langley Airport)	Langley, British Columbia
+LFBV			Brive - La Roche Airport (now LFSL)	Brive
+MMAN			Del Norte International Airport	Monterrey, Nuevo León
+OYAB	EAB		Abbs Airport	Abbs
+PACE	CEM		Central Airport	Central, Alaska, United States
+SEBC			Los Perales (now SESV)	Bahia de Caraquez
+SKAN	ADN		Andes Airport	Andes
+SSAL	ALQ		Federal Airport	Alegrete, Rio Grande do Sul
+SVPR	CGU		Manuel Carlos Piar Guayana Airport	Ciudad Guayana, Bolívar
+UASS	PLX		Semipalatinsk Airport	Semipalatinsk, Kazakhstan
+UEEA	ADH		Aldan Airport	Aldan, Russia
+UKFB	UKS		Sevastopol (Belbek) International Airport	Sevastopol, Ukraine
+UUMU			Chkalovsky Airport	Shchyolkovo (Moscow Oblast), Russia
+VELP			Lengpui Airport	Aizwal
+VYBG	NYU		Nyaung U Airport	Bagan (Pagan)
+WAWB	BUW		Betoambari Airport	Bau Bau
+WICD	CBN		Penggung Airport	Cirebon Regency, West Java
+WIIC			Penggung Airport	Cirebon, West Java
+WRBC			Batulicin Airport (now WAOC)	Batulicin, South Kalimantan
+WRLV			Bunyu Airport (now WALV)	Bunyu, East Kalimantan
+YBLN			Busselton Regional Airport	Busselton, Western Australia
+ZYYJ	YNJ		Yanji Chaoyangchuan Airport	Yanji, Jilin
+WRRW			Waingapu Airport (now WADW)	Waingapu, East Nusa Tenggara
+HSSW	WHF		Wadi Halfa Airport	Wadi Halfa

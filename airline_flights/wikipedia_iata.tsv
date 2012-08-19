@@ -6,7 +6,7 @@ AGEV	GEF		Geva Airstrip	Liangia, Vella Lavella Island, Solomon Islands
 AGGA	AKS		Auki Gwaunaru'u Airport	Auki / Gwaunaru'u, Solomon Islands
 AGGB	BNY		Bellona/Anua Airport	Anua, Bellona Island, Solomon Islands
 AGGC	CHY		Choiseul Bay Airport	Choiseul Bay, Taro Island, Solomon Islands
-AGGD	MBU		Mbambanakira Airport	Mbambanakira, Solomon Islands
+AGGI	MBU		Mbambanakira Airport	Mbambanakira, Solomon Islands
 AGGE	BAS		Ballalae Airport	Ballalae, Solomon Islands
 AGGF	FRE		Fera Airport (Fera/Maringe Airport)	Maringe, Fera Island, Isabel Province, Solomon Islands
 AGGH	HIR		Honiara International Airport	Honiara, Guadalcanal Island, Solomon Islands
@@ -2074,7 +2074,7 @@ KEKM	EKI	EKM	Elkhart Municipal Airport (FAA: EKM)	Elkhart, Indiana, United State
 KEKN	EKN	EKN	Elkins-Randolph Co.-Jennings Randolph Field	Elkins, West Virginia, United States
 KEKO	EKO	EKO	Elko Regional Airport	Elko, Nevada, United States
 KEKX	EKX	EKX	Addington Field (Elizabethtown Regional Airport)	Elizabethtown, Kentucky, United States
-KELA	ELA	ELA	Eagle Lake Airport	Eagle Lake, Texas, United States
+KELA		ELA	Eagle Lake Airport	Eagle Lake, Texas, United States
 KELD	ELD	ELD	South Arkansas Regional Airport at Goodwin Field	El Dorado, Arkansas, United States
 KELK	ELK	ELK	Elk City Municipal Airport	Elk City, Oklahoma, United States
 KELM	ELM	ELM	Elmira/Corning Regional Airport	Elmira/Big Flats, New York, United States
@@ -2661,7 +2661,7 @@ KMZJ	MZJ	MZJ	Pinal Airpark	Marana, Arizona, United States
 KMZZ	MZZ	MZZ	Marion Municipal Airport	Marion, Indiana, United States
 KNBG	NBG	NBG	NAS JRB New Orleans (Alvin Callender Field)	New Orleans, Louisiana, United States
 KNBJ	NHX	NBJ	NOLF Barin (FAA: NBJ)	Foley, Alabama, United States
-MUGM	NBW	NBW	NAS Guantanamo Bay	Guantanamo Bay, Cuba
+MUGM	NBW		NAS Guantanamo Bay	Guantanamo Bay, Cuba
 KNDY	DGN	NDY	Dahlgren Naval Surface Warfare Center (FAA: NDY)	Dahlgren, Virginia, United States
 KNEL	NEL	NEL	NAES Lakehurst (Maxfield Field)	Lakehurst, New Jersey, United States
 KNEN	NEN	NEN	NOLF Whitehouse	Jacksonville, Florida, United States
@@ -3114,7 +3114,7 @@ KTYR	TYR	TYR	Tyler Pounds Regional Airport	Tyler, Texas, United States
 KTYS	TYS	TYS	McGhee Tyson Airport	Knoxville, Tennessee, United States
 KUBS	UBS	UBS	Columbus-Lowndes County Airport	Columbus, Mississippi, United States
 KUCA	UCA	UCA	Oneida County Airport	Utica, New York, United States
-KUCC	UCC	NV11	Yucca Airstrip (FAA: NV11)	Mercury, Nevada, United States
+	UCC	NV11	Yucca Airstrip (FAA: NV11)	Mercury, Nevada, United States
 KUCY	UCY	UCY	Everett-Stewart Airport	Union City, Tennessee, United States
 KUDD	UDD	UDD	Bermuda Dunes Airport	Palm Springs, California, United States
 KUES	UES	UES	Waukesha County Airport	Waukesha, Wisconsin, United States
@@ -3662,7 +3662,6 @@ MDCR	CBJ		Cabo Rojo Airport	Pedernales, Dominican Republic
 MDCY	AZS		Samaná El Catey International Airport	El Catey, Samaná, Dominican Republic
 MDCZ	COZ		Constanza Airport	Constanza, Dominican Republic
 MDHE	HEX		Herrera International Airport (closed)	Santo Domingo, Dominican Republic
-MDJB	JBQ		El Higuero Airport	El Higüero, Santo Domingo, Dominican Republic
 MDJB	JBQ		La Isabela International Airport (Dr. Joaquin Balaguer Int'l)	Santo Domingo, Dominican Republic
 MDLR	LRM		La Romana International Airport (Casa de Campo International Airport)	La Romana, Dominican Republic
 MDPC	PUJ		Punta Cana International Airport	Punta Cana, Dominican Republic
@@ -3787,7 +3786,7 @@ MPCE	CTD		Herrera Alonso Valderrama Airport	Chitré, Panamá
 MPCH	CHX		Captain Manuel Niño International Airport	Changuinola, Bocas del Toro, Panama
 MPDA	DAV		Enrique Malek International Airport	David, Chiriquí Province, Panama
 MPEJ	ONX		Enrique Adolfo Jiménez Airport	Colón, Panama
-MPHO	BLB		Howard Airport (private, former Howard AFB)	Balboa, Panamá
+MPHO	HOW		Howard Airport (private, former Howard AFB)	Balboa, Panamá
 MPJE	JQE		Jaqué Airport	Jaqué, Panama
 MPMG	PAC		Albrook (Marcos A. Gelabert) International Airport	Panama City, Panama
 MPSA	SYP		Ruben Cantu Airport	Santiago de Veraguas, Panama
@@ -4425,7 +4424,7 @@ PTKK	TKK		Chuuk International Airport	Weno, Federated States of Micronesia
 PTPN	PNI		Pohnpei International Airport	Kolonia, Federated States of Micronesia
 PTRO	ROR		Babelthuap Airport	Koror, Palau
 PTSA	KSA	TTK	Kosrae International Airport (FAA: TTK)	Kosrae, Federated States of Micronesia
-PTYA	YAP	T11	Yap International Airport (FAA: T11)	Yap, Federated States of Micronesia
+PTYA	YAP		Yap International Airport	Yap, Federated States of Micronesia
 PWAK	AWK		Wake Island Airfield	Wake Island, United States Minor Outlying Islands
 RCBS	KNH		Kinmen Airport	Kinmen, Taiwan
 RCCM	CMJ		Cimei Airport	Cimei, Taiwan
@@ -5207,8 +5206,7 @@ UATE	SCO		Aktau Airport	Aktau, Kazakhstan
 UATG	GUW		Atyrau Airport	Atyrau, Kazakhstan
 UATT	AKX		Aktobe Airport	Aktobe (Aktyubinsk), Kazakhstan
 UAUR	AYK		Arkalyk Airport	Arkalyk, Kazakhstan
-UBBB	GYD		Heydar Aliyev Airport	Baku, Azerbaijan
-UBBB	GYD		Heydar Aliyev International Airport (Bina Int'l)	Baku, Azerbaijan
+UBBB	GYD		Heydar Aliyev (Bina) International Airport	Baku, Azerbaijan
 UBBL	LLK		Lankaran International Airport	Lankaran, Azerbaijan
 UBBY	ZTU		Zaqatala International Airport	Zaqatala, Azerbaijan
 UDSG	LWN		Shirak Airport	Gyumri, Armenia
@@ -7591,24 +7589,24 @@ ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	ZUE		Zuenoula Airport	Zuenoula, Côte d'Ivoire
 	ZVG		Springvale Airport	Springvale, Western Australia, Australia
 	ZWS		Stuttgart Hauptbahnhof	Stuttgart, Germany
-	CDE	_	Cape Decision Coast Guard Heliport	Cape Decision, Alaska, United States
-EKSN	CNL	_	Sindal Airport	Sindal, Denmark
-LFSL	BVE	_	Brive - Souillac Airport	Brive-la-Gaillarde, France
-MUOC	CCC	_	Jardines del Rey Airport	Cayo Coco, Cuba
-SESV	BHA	_	Los Perales	Bahía de Caráquez, Ecuador
-SKAN	ADN	_	Andes Airport	Andes, Colombia
-SSLT		_	Alegrete Airport	Alegrete, Rio Grande do Sul, Brazil
-TFFG	CCE	_	L'Espérance Airport (Grand Case Airport)	Saint Martin, Guadeloupe
-UEEA	ADH	_	Aldan Airport	Aldan, Russia
-UTKA	AZN	_	Andizhan Airport	Andizhan, Uzbekistan
-VEAZ	AJL	_	Aizawl Airport	Aizawl, India
-VGZR	DAC	_	Shahjalal International Airport	Dhaka, Bangladesh
-VYBG	NYU	_	Bagan Airport	Bagan, Myanmar (Burma)
-WADB	BMU	_	Bima Airport	Bima, Indonesia
-WALV	BYQ	_	Bunyu Airport	Bunyu, Kalimantan (Borneo), Indonesia
-WAOC	BTW	_	Batu Licin Airport	Batu Licin, Kalimantan, Indonesia
-WATE	ENE	_	H. Hasan Aroeboesman Airport	Ende, Flores, Indonesia
-WAWB	BUW	_	Baubau Airport (Betoambari Airport)	Bau-Bau, Buton, Indonesia
-YBLN		_	Busselton Regional Airport	Busselton, Western Australia, Australia
-ZYYJ	YNJ	_	Yanji Chaoyangchuan Airport	Yanji, Jilin, China
-WADW	WGP	_	Mau Hau Airport (former ICAO: WRRW)	Waingapu, Sumba, East Nusa Tenggara, Indonesia
+	CDE		Cape Decision Coast Guard Heliport	Cape Decision, Alaska, United States
+EKSN	CNL		Sindal Airport	Sindal, Denmark
+LFSL			Brive - Souillac Airport	Brive-la-Gaillarde, France
+SESV	BHA		Los Perales	Bahía de Caráquez, Ecuador
+SKAN	ADN		Andes Airport	Andes, Colombia
+SSLT			Alegrete Airport	Alegrete, Rio Grande do Sul, Brazil
+TFFG	CCE		L'Espérance Airport (Grand Case Airport)	Saint Martin, Guadeloupe
+UEEA	ADH		Aldan Airport	Aldan, Russia
+UTKA	AZN		Andizhan Airport	Andizhan, Uzbekistan
+VEAZ	AJL		Aizawl Airport	Aizawl, India
+VGZR	DAC		Shahjalal International Airport	Dhaka, Bangladesh
+VYBG	NYU		Bagan Airport	Bagan, Myanmar (Burma)
+WADB	BMU		Bima Airport	Bima, Indonesia
+WALV	BYQ		Bunyu Airport	Bunyu, Kalimantan (Borneo), Indonesia
+WAOC	BTW		Batu Licin Airport	Batu Licin, Kalimantan, Indonesia
+WATE	ENE		H. Hasan Aroeboesman Airport	Ende, Flores, Indonesia
+WAWB	BUW		Baubau Airport (Betoambari Airport)	Bau-Bau, Buton, Indonesia
+YBLN			Busselton Regional Airport	Busselton, Western Australia, Australia
+ZYYJ	YNJ		Yanji Chaoyangchuan Airport	Yanji, Jilin, China
+WADW	WGP		Mau Hau Airport (former ICAO: WRRW)	Waingapu, Sumba, East Nusa Tenggara, Indonesia
+MUCC	CCC		Jardines del Rey Airport	Cayo Coco, Cuba
