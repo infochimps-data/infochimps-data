@@ -5907,7 +5907,6 @@ NSFI	FGI		Fagali'i Airport	Fagali'i
 NSMA	MXS		Maota Airport	Salelologa
 NSAS			Ofu airstrip	Ofu Island
 NSFQ	FTI		Fitiuta Airport	Fitiuta
-KFAQ		FAQ	Fitiuta Village	Fitiuta
 NSTU	PPG		Pago Pago International Airport (Tutuila Intl)	Pago Pago
 NTAA	PPT		Faa'a International Airport	Faa'a, Tahiti
 NTAR	RUR		Rurutu Airport	Rurutu, Austral Islands
@@ -6380,7 +6379,7 @@ PAAN		AK7	Gold King Creek Airport (FAA: AK7)	Fairbanks, Alaska, United States
 PAAP	PTD	AHP	Port Alexander Seaplane Base (FAA: AHP)	Port Alexander, Alaska, United States
 PAAQ	PAQ		Palmer Municipal Airport	Palmer, Alaska, United States
 PAAT	ATU		Casco Cove Coast Guard Station	Attu Island, Alaska, United States
-PABA	BTI	BTI	Barter Island LRRS Airport	Barter Island, Alaska, United States
+PABA		BTI	Barter Island LRRS Airport	Barter Island, Alaska, United States
 PABE	BET		Bethel Airport	Bethel, Alaska, United States
 PABG	BVU	BLG	Beluga Airport (FAA: BLG)	Beluga, Alaska, United States
 PABI		BIG	Allen Army Airfield (formerly Big Delta Army Airfield)	Fort Greely / Delta Junction, Alaska, United States
@@ -6424,7 +6423,7 @@ PAEN	ENA		Kenai Municipal Airport	Kenai, Alaska, United States
 PAEW	WWT	EWU	Newtok Airport (FAA: EWU)	Newtok, Alaska, United States
 PAFA	FAI		Fairbanks International Airport	Fairbanks, Alaska, United States
 PAFB	FBK		Ladd Army Airfield (Fort Wainwright AAF)	Fairbanks, Alaska / Fort Wainwright
-PAFE	KAE	AFE	Kake Airport (FAA: AFE)	Kake, Alaska, United States
+PAFE		AFE	Kake Airport (FAA: AFE)	Kake, Alaska, United States
 PAFK		FKK	Farewell Lake Seaplane Base (FAA: FKK)	Farewell Lake, Alaska, United States
 PAFL		TNW	Tin Creek Airport (FAA: TNW)	Farewell Lake, Alaska, United States
 PAFM	ABL	AFM	Ambler Airport (FAA: AFM)	Ambler, Alaska, United States
@@ -6434,9 +6433,9 @@ PAFV	FMC	FVM	Five Mile Airport (FAA: FVM)	Five Mile, Alaska, United States
 PAFW	FWL		Farewell Airport	Farewell, Alaska, United States
 PAGA	GAL		Edward G. Pitka Sr. Airport	Galena, Alaska, United States
 PAGB	GBH		Galbraith Lake Airport	Galbraith Lake, Alaska, United States
-PAGG		GGV	Kwigillingok Airport (FAA: GGV)	Kwigillingok, Alaska, United States
+PAGG	KWK	GGV	Kwigillingok Airport (FAA: GGV)	Kwigillingok, Alaska, United States
 PAGK	GKN		Gulkana Airport	Gulkana, Alaska, United States
-PAGL	GLV	N93	Golovin Airport (FAA: N93)	Golovin, Alaska, United States
+PAGL	GLV	GLV	Golovin Airport (FAA: N93)	Golovin, Alaska, United States
 PAGM	GAM		Gambell Airport	Gambell, Alaska, United States
 PAGN	AGN		Angoon Seaplane Base	Angoon, Alaska, United States
 PAGQ	BGQ		Big Lake Airport	Big Lake, Alaska, United States

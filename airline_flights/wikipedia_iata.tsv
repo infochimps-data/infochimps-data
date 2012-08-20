@@ -4233,7 +4233,7 @@ PAEN	ENA		Kenai Municipal Airport	Kenai, Alaska, United States
 PAEW	WWT	EWU	Newtok Airport (FAA: EWU)	Newtok, Alaska, United States
 PAFA	FAI		Fairbanks International Airport	Fairbanks, Alaska, United States
 PAFB	FBK		Wainwright Army Airfield	Fairbanks / Fort Wainwright, Alaska, United States
-PAFE	KAE	AFE	Kake Airport (FAA: AFE)	Kake, Alaska, United States
+PAFE		AFE	Kake Airport (FAA: AFE)	Kake, Alaska, United States
 PAFM	ABL	AFM	Ambler Airport (FAA: AFM)	Ambler, Alaska, United States
 PAFR	FRN		Bryant Army Heliport / Bryant AAF	Fort Richardson, Anchorage, Alaska, United States
 PAFS	NIB	FSP	Nikolai Airport (FAA: FSP)	Nikolai, Alaska, United States
@@ -7133,7 +7133,7 @@ ZYYL	YLN		Yilan Airport	Yilan, Heilongjiang, China
 	LLM		Long Lama Airport	Long Lama, Sarawak, Malaysia
 	LLN		Kelila Airport	Kelila, Indonesia
 	LLP		Linda Downs Airport	Linda Downs, Queensland, Australia
-	LMA	MHM	Lake Minchumina Airport (FAA: MHM)	Lake Minchumina, Alaska, United States
+	LMA		Lake Minchumina Airport	Lake Minchumina, Alaska, United States
 	LMC		La Macarena Airport	La Macarena, Colombia
 	LMD		Los Menucos Airport	Los Menucos, Río Negro, Argentina
 	LMG		Lamassa Airport	Lamassa, Papua New Guinea

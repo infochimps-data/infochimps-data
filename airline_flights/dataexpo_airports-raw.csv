@@ -1484,7 +1484,7 @@
 "F99","Holdenville Municipal","Holdenville","OK","USA",35.085875,-96.41666667
 "FAI","Fairbanks International","Fairbanks","AK","USA",64.8136775,-147.8596694
 "FAM","Farmington Regional","Farmington","MO","USA",37.76107917,-90.42859722
-"FAQ","Fitiuta","Fitiuta Village","AS","USA",14.21577583,-169.4239058
+"FAQ","Fitiuta","Fitiuta Village","AS","as",-14.21577583,-169.4239058
 "FAR","Hector International","Fargo","ND","USA",46.91934889,-96.81498889
 "FAT","Fresno Yosemite International","Fresno","CA","USA",36.77619444,-119.7181389
 "FAY","Fayetteville Municipal","Fayetteville","NC","USA",34.99147222,-78.88
@@ -1654,7 +1654,7 @@
 "GTR","Golden Triangle Regional","Columbus-Starkville-West Point","MS","USA",33.45033444,-88.59136861
 "GTU","Georgetown Municipal","Georgetown","TX","USA",30.67880889,-97.67938389
 "GUC","Gunnison County","Gunnison","CO","USA",38.53396333,-106.9331817
-"GUM","Guam International","Agana","GU","USA",13.48345,-144.7959825
+"GUM","Guam International","Agana","GU","gu",13.48345,144.7959825
 "GUP","Gallup Municipal","Gallup","NM","USA",35.51105833,-108.7893094
 "GUY","Guymon Municipal","Guymon","OK","USA",36.68507194,-101.5077817
 "GVL","Lee Gilmer Memorial","Gainesville","GA","USA",34.27290389,-83.82681333
@@ -2398,7 +2398,7 @@
 "N85","Alexandria ","Pittstown","NJ","USA",40.58757389,-75.01942056
 "N87","Trenton-Robbinsville","Robbinsville","NJ","USA",40.21394333,-74.60179472
 "N89","Joseph Y. Resnick","Ellenville","NY","USA",41.72787111,-74.37737583
-"N93","New Golovin","Golovin","AK","USA",64.55305556,-163.0088889
+"GLV","New Golovin","Golovin","AK","USA",64.55305556,-163.0088889
 "N99","Brandywine","West Chester","PA","USA",39.99472222,-75.58333333
 "NC14","Rockingham County NC Shiloh","Reidsville","NC","USA",36.43722083,-79.85101
 "NC67","Ashe County","West Jefferson","NC","USA",36.43243111,-81.41968472
@@ -2657,7 +2657,7 @@
 "PPA","Perry Lefors ","Pampa","TX","USA",35.61298806,-100.9962608
 "PPC","Prospect Creek","Prospect Creek","AK","USA",66.81288139,-150.6437925
 "PPF","Tri City","Parsons","KS","USA",37.33125778,-95.50900667
-"PPG","Pago Pago International","Pago Pago","AS","USA",14.33102278,-170.7105258
+"PPG","Pago Pago International","Pago Pago","AS","as",-14.33102278,-170.7105258
 "PPO","La Porte Municipal","La Porte","IN","USA",41.57276194,-86.73413139
 "PPQ","Pittsfield Penstone Municipal","Pittsfield","IL","USA",39.63885556,-90.77843111
 "PQI","Northern Maine Regional","Presque Isle","ME","USA",46.68896,-68.04479972
@@ -3021,8 +3021,8 @@
 "STL","Lambert-St Louis International","St Louis","MO","USA",38.74768694,-90.35998972
 "STP","St Paul Downtown Holman ","St Paul","MN","USA",44.9344725,-93.05999861
 "STS","Sonoma Co","Santa Rosa","CA","USA",38.50897694,-122.8128803
-"STT","Cyril E. King","Charlotte Amalie","VI","USA",18.33730556,-64.97336111
-"STX","Henry E. Rohlsen ","Christiansted","VI","USA",17.70188889,-64.79855556
+"STT","Cyril E. King","Charlotte Amalie","VI","vi",18.33730556,-64.97336111
+"STX","Henry E. Rohlsen ","Christiansted","VI","vi",17.70188889,-64.79855556
 "SUA","Witham ","Stuart","FL","USA",27.18169444,-80.22108333
 "SUD","Stroud Municipal","Stroud","OK","USA",35.78756833,-96.65862861
 "SUE","Door County Cherryland","Sturgeon Bay","WI","USA",44.84366222,-87.42154111
@@ -3359,7 +3359,7 @@
 "YKN","Chan Gurney Municipal","Yankton","SD","USA",42.91669444,-97.38594444
 "YNG","Youngstown-Warren Regional","Youngstown","OH","USA",41.26073556,-80.67909667
 "YUM","Yuma MCAS-Yuma International","Yuma","AZ","USA",32.65658333,-114.6059722
-"Z08","Ofu","Ofu Village","AS","USA",14.18435056,-169.6700236
+"Z08","Ofu","Ofu Village","AS","as",-14.18435056,-169.6700236
 "Z09","Kasigluk","Kasigluk","AK","USA",60.87202194,-162.5248094
 "Z13","Akiachak","Akiachak","AK","USA",60.90453167,-161.42091
 "Z17","Ophir","Ophir","AK","USA",63.1460375,-156.529865
