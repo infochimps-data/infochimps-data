@@ -1,0 +1,4850 @@
+AD-07	AD		Parish	Andorra la Vella
+AD-02	AD		Parish	Canillo
+AD-03	AD		Parish	Encamp
+AD-08	AD		Parish	Escaldes-Engordany
+AD-04	AD		Parish	La Massana
+AD-05	AD		Parish	Ordino
+AD-06	AD		Parish	Sant Julià de Lòria
+AE-AZ	AE		Emirate	Abū Ȥaby [Abu Dhabi]
+AE-AJ	AE		Emirate	'Ajmān
+AE-FU	AE		Emirate	Al Fujayrah
+AE-SH	AE		Emirate	Ash Shāriqah
+AE-DU	AE		Emirate	Dubayy
+AE-RK	AE		Emirate	Ra’s al Khaymah
+AE-UQ	AE		Emirate	Umm al Qaywayn
+AF-BDS	AF		Province	Badakhshān
+AF-BDG	AF		Province	Bādghīs
+AF-BGL	AF		Province	Baghlān
+AF-BAL	AF		Province	Balkh
+AF-BAM	AF		Province	Bāmyān
+AF-DAY	AF		Province	Dāykundī
+AF-FRA	AF		Province	Farāh
+AF-FYB	AF		Province	Fāryāb
+AF-GHA	AF		Province	Ghaznī
+AF-GHO	AF		Province	Ghōr
+AF-HEL	AF		Province	Helmand
+AF-HER	AF		Province	Herāt
+AF-JOW	AF		Province	Jowzjān
+AF-KAB	AF		Province	Kābul
+AF-KAN	AF		Province	Kandahār
+AF-KAP	AF		Province	Kāpīsā
+AF-KHO	AF		Province	Khōst
+AF-KNR	AF		Province	Kunar
+AF-KDZ	AF		Province	Kunduz
+AF-LAG	AF		Province	Laghmān
+AF-LOG	AF		Province	Lōgar
+AF-NAN	AF		Province	Nangarhār
+AF-NIM	AF		Province	Nīmrōz
+AF-NUR	AF		Province	Nūristān
+AF-URU	AF		Province	Uruzgān
+AF-PIA	AF		Province	Paktiyā
+AF-PKA	AF		Province	Paktīkā
+AF-PAN	AF		Province	Panjshayr
+AF-PAR	AF		Province	Parwān
+AF-SAM	AF		Province	Samangān
+AF-SAR	AF		Province	Sar-e Pul
+AF-TAK	AF		Province	Takhār
+AF-WAR	AF		Province	Wardak
+AF-ZAB	AF		Province	Zābul
+AG-03	AG		Parish	Saint George
+AG-04	AG		Parish	Saint John
+AG-05	AG		Parish	Saint Mary
+AG-06	AG		Parish	Saint Paul
+AG-07	AG		Parish	Saint Peter
+AG-08	AG		Parish	Saint Philip
+AG-10	AG		Dependency	Barbuda
+AG-11	AG		Dependency	Redonda
+AL-01	AL		County	Berat
+AL-09	AL		County	Dibër
+AL-02	AL		County	Durrës
+AL-03	AL		County	Elbasan
+AL-04	AL		County	Fier
+AL-05	AL		County	Gjirokastër
+AL-06	AL		County	Korçë
+AL-07	AL		County	Kukës
+AL-08	AL		County	Lezhë
+AL-10	AL		County	Shkodër
+AL-11	AL		County	Tiranë
+AL-12	AL		County	Vlorë
+AL-BR	AL	01	District	Berat
+AL-BU	AL	09	District	Bulqizë
+AL-DL	AL	12	District	Delvinë
+AL-DV	AL	06	District	Devoll
+AL-DI	AL	09	District	Dibër
+AL-DR	AL	02	District	Durrës
+AL-EL	AL	03	District	Elbasan
+AL-FR	AL	04	District	Fier
+AL-GR	AL	03	District	Gramsh
+AL-GJ	AL	05	District	Gjirokastër
+AL-HA	AL	07	District	Has
+AL-KA	AL	11	District	Kavajë
+AL-ER	AL	06	District	Kolonjë
+AL-KO	AL	06	District	Korçë
+AL-KR	AL	02	District	Krujë
+AL-KC	AL	01	District	Kuçovë
+AL-KU	AL	07	District	Kukës
+AL-KB	AL	08	District	Kurbin
+AL-LE	AL	08	District	Lezhë
+AL-LB	AL	03	District	Librazhd
+AL-LU	AL	04	District	Lushnjë
+AL-MM	AL	10	District	Malësi e Madhe
+AL-MK	AL	04	District	Mallakastër
+AL-MT	AL	09	District	Mat
+AL-MR	AL	08	District	Mirditë
+AL-PQ	AL	03	District	Peqin
+AL-PR	AL	05	District	Përmet
+AL-PG	AL	06	District	Pogradec
+AL-PU	AL	10	District	Pukë
+AL-SR	AL	12	District	Sarandë
+AL-SK	AL	01	District	Skrapar
+AL-SH	AL	10	District	Shkodër
+AL-TE	AL	05	District	Tepelenë
+AL-TR	AL	11	District	Tiranë
+AL-TP	AL	07	District	Tropojë
+AL-VL	AL	12	District	Vlorë
+AM-ER	AM		Province	Erevan
+AM-AG	AM		Province	Aragacotn
+AM-AR	AM		Province	Ararat
+AM-AV	AM		Province	Armavir
+AM-GR	AM		Province	Gegarkunik'
+AM-KT	AM		Province	Kotayk'
+AM-LO	AM		Province	Lory
+AM-SH	AM		Province	Sirak
+AM-SU	AM		Province	Syunik'
+AM-TV	AM		Province	Tavus
+AM-VD	AM		Province	Vayoc Jor
+AO-BGO	AO		Province	Bengo
+AO-BGU	AO		Province	Benguela
+AO-BIE	AO		Province	Bié
+AO-CAB	AO		Province	Cabinda
+AO-CCU	AO		Province	Cuando-Cubango
+AO-CNO	AO		Province	Cuanza Norte
+AO-CUS	AO		Province	Cuanza Sul
+AO-CNN	AO		Province	Cunene
+AO-HUA	AO		Province	Huambo
+AO-HUI	AO		Province	Huíla
+AO-LUA	AO		Province	Luanda
+AO-LNO	AO		Province	Lunda Norte
+AO-LSU	AO		Province	Lunda Sul
+AO-MAL	AO		Province	Malange
+AO-MOX	AO		Province	Moxico
+AO-NAM	AO		Province	Namibe
+AO-UIG	AO		Province	Uíge
+AO-ZAI	AO		Province	Zaire
+AR-C	AR		City	Ciudad Autónoma de Buenos Aires
+AR-B	AR		Province	Buenos Aires
+AR-K	AR		Province	Catamarca
+AR-X	AR		Province	Cordoba
+AR-W	AR		Province	Corrientes
+AR-H	AR		Province	Chaco
+AR-U	AR		Province	Chubut
+AR-E	AR		Province	Entre Rios
+AR-P	AR		Province	Formosa
+AR-Y	AR		Province	Jujuy
+AR-L	AR		Province	La Pampa
+AR-M	AR		Province	Mendoza
+AR-N	AR		Province	Misiones
+AR-Q	AR		Province	Neuquen
+AR-R	AR		Province	Rio Negro
+AR-A	AR		Province	Salta
+AR-J	AR		Province	San Juan
+AR-D	AR		Province	San Luis
+AR-Z	AR		Province	Santa Cruz
+AR-S	AR		Province	Santa Fe
+AR-G	AR		Province	Santiago del Estero
+AR-V	AR		Province	Tierra del Fuego
+AR-T	AR		Province	Tucuman
+AT-1	AT		State	Burgenland
+AT-2	AT		State	Kärnten
+AT-3	AT		State	Niederösterreich
+AT-4	AT		State	Oberösterreich
+AT-5	AT		State	Salzburg
+AT-6	AT		State	Steiermark
+AT-7	AT		State	Tirol
+AT-8	AT		State	Vorarlberg
+AT-9	AT		State	Wien
+AU-NSW	AU		State	New South Wales
+AU-QLD	AU		State	Queensland
+AU-SA	AU		State	South Australia
+AU-TAS	AU		State	Tasmania
+AU-VIC	AU		State	Victoria
+AU-WA	AU		State	Western Australia
+AU-ACT	AU		Territory	Australian Capital Territory
+AU-NT	AU		Territory	Northern Territory
+AZ-NX	AZ		Autonomous republic	Naxçıvan
+AZ-BA	AZ		Municipality	Bakı
+AZ-GA	AZ		Municipality	Gəncə
+AZ-XA	AZ		Municipality	Xankəndi
+AZ-LA	AZ		Municipality	Lənkəran
+AZ-MI	AZ		Municipality	Mingəçevir
+AZ-NA	AZ		Municipality	Naftalan
+AZ-NV	AZ	NX	Municipality	Naxçıvan
+AZ-SM	AZ		Municipality	Sumqayıt
+AZ-SA	AZ		Municipality	Şəki
+AZ-SR	AZ		Municipality	Şirvan
+AZ-YE	AZ		Municipality	Yevlax
+AZ-ABS	AZ		Rayon	Abşeron
+AZ-AGC	AZ		Rayon	Ağcabədi
+AZ-AGM	AZ		Rayon	Ağdam
+AZ-AGS	AZ		Rayon	Ağdaş
+AZ-AGA	AZ		Rayon	Ağstafa
+AZ-AGU	AZ		Rayon	Ağsu
+AZ-AST	AZ		Rayon	Astara
+AZ-BAB	AZ	NX	Rayon	Babək
+AZ-BAL	AZ		Rayon	Balakən
+AZ-BEY	AZ		Rayon	Beyləqan
+AZ-BAR	AZ		Rayon	Bərdə
+AZ-BIL	AZ		Rayon	Biləsuvar
+AZ-CAB	AZ		Rayon	Cəbrayıl
+AZ-CAL	AZ		Rayon	Cəlilabab
+AZ-CUL	AZ	NX	Rayon	Culfa
+AZ-DAS	AZ		Rayon	Daşkəsən
+AZ-DAV	AZ		Rayon	Dəvəçi
+AZ-FUZ	AZ		Rayon	Füzuli
+AZ-GAD	AZ		Rayon	Gədəbəy
+AZ-GOR	AZ		Rayon	Goranboy
+AZ-GOY	AZ		Rayon	Göyçay
+AZ-GYG	AZ		Rayon	Göygöl
+AZ-HAC	AZ		Rayon	Hacıqabul
+AZ-XAC	AZ		Rayon	Xaçmaz
+AZ-XIZ	AZ		Rayon	Xızı
+AZ-XCI	AZ		Rayon	Xocalı
+AZ-XVD	AZ		Rayon	Xocavənd
+AZ-IMI	AZ		Rayon	İmişli
+AZ-ISM	AZ		Rayon	İsmayıllı
+AZ-KAL	AZ		Rayon	Kəlbəcər
+AZ-KAN	AZ	NX	Rayon	Kǝngǝrli
+AZ-KUR	AZ		Rayon	Kürdəmir
+AZ-QAX	AZ		Rayon	Qax
+AZ-QAZ	AZ		Rayon	Qazax
+AZ-QOB	AZ		Rayon	Qobustan
+AZ-QBA	AZ		Rayon	Quba
+AZ-QBI	AZ		Rayon	Qubadlı
+AZ-QUS	AZ		Rayon	Qusar
+AZ-LAC	AZ		Rayon	Laçın
+AZ-LER	AZ		Rayon	Lerik
+AZ-LAN	AZ		Rayon	Lənkəran
+AZ-MAS	AZ		Rayon	Masallı
+AZ-NEF	AZ		Rayon	Neftçala
+AZ-OGU	AZ		Rayon	Oğuz
+AZ-ORD	AZ	NX	Rayon	Ordubad
+AZ-QAB	AZ		Rayon	Qəbələ
+AZ-SAT	AZ		Rayon	Saatlı
+AZ-SAB	AZ		Rayon	Sabirabad
+AZ-SAL	AZ		Rayon	Salyan
+AZ-SMX	AZ		Rayon	Samux
+AZ-SAD	AZ	NX	Rayon	Sədərək
+AZ-SIY	AZ		Rayon	Siyəzən
+AZ-SBN	AZ		Rayon	Şabran
+AZ-SAH	AZ	NX	Rayon	Şahbuz
+AZ-SMI	AZ		Rayon	Şamaxı
+AZ-SAK	AZ		Rayon	Şəki
+AZ-SKR	AZ		Rayon	Şəmkir
+AZ-SAR	AZ	NX	Rayon	Şərur
+AZ-SUS	AZ		Rayon	Şuşa
+AZ-TAR	AZ		Rayon	Tərtər
+AZ-TOV	AZ		Rayon	Tovuz
+AZ-UCA	AZ		Rayon	Ucar
+AZ-YAR	AZ		Rayon	Yardımlı
+AZ-YEV	AZ		Rayon	Yevlax
+AZ-ZAQ	AZ		Rayon	Zaqatala
+AZ-ZAN	AZ		Rayon	Zəngilan
+AZ-ZAR	AZ		Rayon	Zərdab
+BA-BIH	BA		Entity	Federacija Bosne i Hercegovine
+BA-SRP	BA		Entity	Republika Srpska
+BA-05	BA	BIH	Canton	Bosansko-podrinjski kanton
+BA-07	BA	BIH	Canton	Hercegovačko-neretvanski kanton
+BA-10	BA	BIH	Canton	Kanton br. 10 (Livanjski kanton)
+BA-09	BA	BIH	Canton	Kanton Sarajevo
+BA-02	BA	BIH	Canton	Posavski kanton
+BA-06	BA	BIH	Canton	Srednjobosanski kanton
+BA-03	BA	BIH	Canton	Tuzlanski kanton
+BA-01	BA	BIH	Canton	Unsko-sanski kanton
+BA-08	BA	BIH	Canton	Zapadnohercegovački kanton
+BA-04	BA	BIH	Canton	Zeničko-dobojski kanton
+BA-BRC	BA		District	Brčko distrikt
+BB-01	BB		Parish	Christ Church
+BB-02	BB		Parish	Saint Andrew
+BB-03	BB		Parish	Saint George
+BB-04	BB		Parish	Saint James
+BB-05	BB		Parish	Saint John
+BB-06	BB		Parish	Saint Joseph
+BB-07	BB		Parish	Saint Lucy
+BB-08	BB		Parish	Saint Michael
+BB-09	BB		Parish	Saint Peter
+BB-10	BB		Parish	Saint Philip
+BB-11	BB		Parish	Saint Thomas
+BD-A	BD		Division	Barisal
+BD-B	BD		Division	Chittagong
+BD-C	BD		Division	Dhaka
+BD-D	BD		Division	Khulna
+BD-E	BD		Division	Rajshahi
+BD-F	BD		Division	Rangpur
+BD-G	BD		Division	Sylhet
+BD-05	BD	D	District	Bagerhat
+BD-01	BD	B	District	Bandarban
+BD-02	BD	A	District	Barguna
+BD-06	BD	A	District	Barisal
+BD-07	BD	A	District	Bhola
+BD-03	BD	E	District	Bogra
+BD-04	BD	B	District	Brahmanbaria
+BD-09	BD	B	District	Chandpur
+BD-10	BD	B	District	Chittagong
+BD-12	BD	D	District	Chuadanga
+BD-08	BD	B	District	Comilla
+BD-11	BD	B	District	Cox's Bazar
+BD-13	BD	C	District	Dhaka
+BD-14	BD	F	District	Dinajpur
+BD-15	BD	C	District	Faridpur
+BD-16	BD	B	District	Feni
+BD-19	BD	F	District	Gaibandha
+BD-18	BD	C	District	Gazipur
+BD-17	BD	C	District	Gopalganj
+BD-20	BD	G	District	Habiganj
+BD-24	BD	E	District	Jaipurhat
+BD-21	BD	C	District	Jamalpur
+BD-22	BD	D	District	Jessore
+BD-25	BD	A	District	Jhalakati
+BD-23	BD	D	District	Jhenaidah
+BD-29	BD	B	District	Khagrachari
+BD-27	BD	D	District	Khulna
+BD-26	BD	C	District	Kishorganj
+BD-28	BD	F	District	Kurigram
+BD-30	BD	D	District	Kushtia
+BD-31	BD	B	District	Lakshmipur
+BD-32	BD	F	District	Lalmonirhat
+BD-36	BD	C	District	Madaripur
+BD-37	BD	D	District	Magura
+BD-33	BD	C	District	Manikganj
+BD-39	BD	D	District	Meherpur
+BD-38	BD	G	District	Moulvibazar
+BD-35	BD	C	District	Munshiganj
+BD-34	BD	C	District	Mymensingh
+BD-48	BD	E	District	Naogaon
+BD-43	BD	D	District	Narail
+BD-40	BD	C	District	Narayanganj
+BD-42	BD	C	District	Narsingdi
+BD-44	BD	E	District	Natore
+BD-45	BD	E	District	Nawabganj
+BD-41	BD	C	District	Netrakona
+BD-46	BD	F	District	Nilphamari
+BD-47	BD	B	District	Noakhali
+BD-49	BD	E	District	Pabna
+BD-52	BD	F	District	Panchagarh
+BD-51	BD	A	District	Patuakhali
+BD-50	BD	A	District	Pirojpur
+BD-53	BD	C	District	Rajbari
+BD-54	BD	E	District	Rajshahi
+BD-56	BD	B	District	Rangamati
+BD-55	BD	F	District	Rangpur
+BD-58	BD	D	District	Satkhira
+BD-62	BD	C	District	Shariatpur
+BD-57	BD	C	District	Sherpur
+BD-59	BD	E	District	Sirajganj
+BD-61	BD	G	District	Sunamganj
+BD-60	BD	G	District	Sylhet
+BD-63	BD	C	District	Tangail
+BD-64	BD	F	District	Thakurgaon
+BE-BRU	BE		Region	Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest
+BE-VLG	BE		Region	Vlaams Gewest
+BE-WAL	BE		Region	wallonne, Région
+BE-VAN	BE	VLG	Province	Antwerpen
+BE-WBR	BE	WAL	Province	Brabant wallon
+BE-WHT	BE	WAL	Province	Hainaut
+BE-WLG	BE	WAL	Province	Liège
+BE-VLI	BE	VLG	Province	Limburg
+BE-WLX	BE	WAL	Province	Luxembourg
+BE-WNA	BE	WAL	Province	Namur
+BE-VOV	BE	VLG	Province	Oost-Vlaanderen
+BE-VBR	BE	VLG	Province	Vlaams-Brabant
+BE-VWV	BE	VLG	Province	West-Vlaanderen
+BF-01	BF		Region	Boucle du Mouhoun
+BF-02	BF		Region	Cascades
+BF-03	BF		Region	Centre
+BF-04	BF		Region	Centre-Est
+BF-05	BF		Region	Centre-Nord
+BF-06	BF		Region	Centre-Ouest
+BF-07	BF		Region	Centre-Sud
+BF-08	BF		Region	Est
+BF-09	BF		Region	Hauts-Bassins
+BF-10	BF		Region	Nord
+BF-11	BF		Region	Plateau-Central
+BF-12	BF		Region	Sahel
+BF-13	BF		Region	Sud-Ouest
+BF-BAL	BF	01	Province	Balé
+BF-BAM	BF	05	Province	Bam
+BF-BAN	BF	01	Province	Banwa
+BF-BAZ	BF	07	Province	Bazèga
+BF-BGR	BF	13	Province	Bougouriba
+BF-BLG	BF	04	Province	Boulgou
+BF-BLK	BF	06	Province	Boulkiemdé
+BF-COM	BF	02	Province	Comoé
+BF-GAN	BF	11	Province	Ganzourgou
+BF-GNA	BF	08	Province	Gnagna
+BF-GOU	BF	08	Province	Gourma
+BF-HOU	BF	09	Province	Houet
+BF-IOB	BF	13	Province	Ioba
+BF-KAD	BF	03	Province	Kadiogo
+BF-KEN	BF	09	Province	Kénédougou
+BF-KMD	BF	08	Province	Komondjari
+BF-KMP	BF	08	Province	Kompienga
+BF-KOS	BF	01	Province	Kossi
+BF-KOP	BF	04	Province	Koulpélogo
+BF-KOT	BF	04	Province	Kouritenga
+BF-KOW	BF	11	Province	Kourwéogo
+BF-LER	BF	02	Province	Léraba
+BF-LOR	BF	10	Province	Loroum
+BF-MOU	BF	01	Province	Mouhoun
+BF-NAO	BF	07	Province	Naouri
+BF-NAM	BF	05	Province	Namentenga
+BF-NAY	BF	01	Province	Nayala
+BF-NOU	BF	13	Province	Noumbiel
+BF-OUB	BF	11	Province	Oubritenga
+BF-OUD	BF	12	Province	Oudalan
+BF-PAS	BF	10	Province	Passoré
+BF-PON	BF	13	Province	Poni
+BF-SNG	BF	06	Province	Sanguié
+BF-SMT	BF	05	Province	Sanmatenga
+BF-SEN	BF	12	Province	Séno
+BF-SIS	BF	06	Province	Sissili
+BF-SOM	BF	12	Province	Soum
+BF-SOR	BF	01	Province	Sourou
+BF-TAP	BF	08	Province	Tapoa
+BF-TUI	BF	09	Province	Tui
+BF-YAG	BF	12	Province	Yagha
+BF-YAT	BF	10	Province	Yatenga
+BF-ZIR	BF	06	Province	Ziro
+BF-ZON	BF	10	Province	Zondoma
+BF-ZOU	BF	07	Province	Zoundwéogo
+BG-01	BG		Region	Blagoevgrad
+BG-02	BG		Region	Burgas
+BG-08	BG		Region	Dobrich
+BG-07	BG		Region	Gabrovo
+BG-26	BG		Region	Haskovo
+BG-09	BG		Region	Kardzhali
+BG-10	BG		Region	Kyustendil
+BG-11	BG		Region	Lovech
+BG-12	BG		Region	Montana
+BG-13	BG		Region	Pazardzhik
+BG-14	BG		Region	Pernik
+BG-15	BG		Region	Pleven
+BG-16	BG		Region	Plovdiv
+BG-17	BG		Region	Razgrad
+BG-18	BG		Region	Ruse
+BG-27	BG		Region	Shumen
+BG-19	BG		Region	Silistra
+BG-20	BG		Region	Sliven
+BG-21	BG		Region	Smolyan
+BG-23	BG		Region	Sofia
+BG-22	BG		Region	Sofia-Grad
+BG-24	BG		Region	Stara Zagora
+BG-25	BG		Region	Targovishte
+BG-03	BG		Region	Varna
+BG-04	BG		Region	Veliko Tarnovo
+BG-05	BG		Region	Vidin
+BG-06	BG		Region	Vratsa
+BG-28	BG		Region	Yambol
+BH-13	BH		Governorate	Al Manāmah (Al ‘Āşimah)
+BH-14	BH		Governorate	Al Janūbīyah
+BH-15	BH		Governorate	Al Muḩarraq
+BH-16	BH		Governorate	Al Wusţá
+BH-17	BH		Governorate	Ash Shamālīyah
+BI-BB	BI		Province	Bubanza
+BI-BM	BI		Province	Bujumbura Mairie
+BI-BL	BI		Province	Bujumbura Rural
+BI-BR	BI		Province	Bururi
+BI-CA	BI		Province	Cankuzo
+BI-CI	BI		Province	Cibitoke
+BI-GI	BI		Province	Gitega
+BI-KR	BI		Province	Karuzi
+BI-KY	BI		Province	Kayanza
+BI-KI	BI		Province	Kirundo
+BI-MA	BI		Province	Makamba
+BI-MU	BI		Province	Muramvya
+BI-MW	BI		Province	Mwaro
+BI-NG	BI		Province	Ngozi
+BI-RT	BI		Province	Rutana
+BI-RY	BI		Province	Ruyigi
+BJ-AL	BJ		Department	Alibori
+BJ-AK	BJ		Department	Atakora
+BJ-AQ	BJ		Department	Atlantique
+BJ-BO	BJ		Department	Borgou
+BJ-CO	BJ		Department	Collines
+BJ-DO	BJ		Department	Donga
+BJ-KO	BJ		Department	Kouffo
+BJ-LI	BJ		Department	Littoral
+BJ-MO	BJ		Department	Mono
+BJ-OU	BJ		Department	Ouémé
+BJ-PL	BJ		Department	Plateau
+BJ-ZO	BJ		Department	Zou
+BN-BE	BN		District	Belait
+BN-BM	BN		District	Brunei-Muara
+BN-TE	BN		District	Temburong
+BN-TU	BN		District	Tutong
+BO-H	BO		Department	Chuquisaca
+BO-C	BO		Department	Cochabamba
+BO-B	BO		Department	El Beni
+BO-L	BO		Department	La Paz
+BO-O	BO		Department	Oruro
+BO-N	BO		Department	Pando
+BO-P	BO		Department	Potosí
+BO-S	BO		Department	Santa Cruz
+BO-T	BO		Department	Tarija
+BQ-BO	BQ		Special municipality	Bonaire
+BQ-SA	BQ		Special municipality	Saba
+BQ-SE	BQ		Special municipality	Sint Eustatius
+BR-AC	BR		State	Acre
+BR-AL	BR		State	Alagoas
+BR-AM	BR		State	Amazonas
+BR-AP	BR		State	Amapá
+BR-BA	BR		State	Bahia
+BR-CE	BR		State	Ceará
+BR-ES	BR		State	Espírito Santo
+BR-FN	BR		State	Fernando de Noronha
+BR-GO	BR		State	Goiás
+BR-MA	BR		State	Maranhão
+BR-MG	BR		State	Minas Gerais
+BR-MS	BR		State	Mato Grosso do Sul
+BR-MT	BR		State	Mato Grosso
+BR-PA	BR		State	Pará
+BR-PB	BR		State	Paraíba
+BR-PE	BR		State	Pernambuco
+BR-PI	BR		State	Piauí
+BR-PR	BR		State	Paraná
+BR-RJ	BR		State	Rio de Janeiro
+BR-RN	BR		State	Rio Grande do Norte
+BR-RO	BR		State	Rondônia
+BR-RR	BR		State	Roraima
+BR-RS	BR		State	Rio Grande do Sul
+BR-SC	BR		State	Santa Catarina
+BR-SE	BR		State	Sergipe
+BR-SP	BR		State	São Paulo
+BR-TO	BR		State	Tocantins
+BR-DF	BR		Federal District	Distrito Federal
+BS-AC	BS		District	Acklins
+BS-BY	BS		District	Berry Islands
+BS-BI	BS		District	Bimini
+BS-BP	BS		District	Black Point
+BS-CI	BS		District	Cat Island
+BS-CO	BS		District	Central Abaco
+BS-CS	BS		District	Central Andros
+BS-CE	BS		District	Central Eleuthera
+BS-FP	BS		District	City of Freeport
+BS-CK	BS		District	Crooked Island and Long Cay
+BS-EG	BS		District	East Grand Bahama
+BS-EX	BS		District	Exuma
+BS-GC	BS		District	Grand Cay
+BS-HI	BS		District	Harbour Island
+BS-HT	BS		District	Hope Town
+BS-IN	BS		District	Inagua
+BS-LI	BS		District	Long Island
+BS-MC	BS		District	Mangrove Cay
+BS-MG	BS		District	Mayaguana
+BS-MI	BS		District	Moore's Island
+BS-NO	BS		District	North Abaco
+BS-NS	BS		District	North Andros
+BS-NE	BS		District	North Eleuthera
+BS-RI	BS		District	Ragged Island
+BS-RC	BS		District	Rum Cay
+BS-SS	BS		District	San Salvador
+BS-SO	BS		District	South Abaco
+BS-SA	BS		District	South Andros
+BS-SE	BS		District	South Eleuthera
+BS-SW	BS		District	Spanish Wells
+BS-WG	BS		District	West Grand Bahama
+BT-33	BT		District	Bumthang
+BT-12	BT		District	Chhukha
+BT-22	BT		District	Dagana
+BT-GA	BT		District	Gasa
+BT-13	BT		District	Ha
+BT-44	BT		District	Lhuentse
+BT-42	BT		District	Monggar
+BT-11	BT		District	Paro
+BT-43	BT		District	Pemagatshel
+BT-23	BT		District	Punakha
+BT-45	BT		District	Samdrup Jongkha
+BT-14	BT		District	Samtee
+BT-31	BT		District	Sarpang
+BT-15	BT		District	Thimphu
+BT-41	BT		District	Trashigang
+BT-TY	BT		District	Trashi Yangtse
+BT-32	BT		District	Trongsa
+BT-21	BT		District	Tsirang
+BT-24	BT		District	Wangdue Phodrang
+BT-34	BT		District	Zhemgang
+BW-CE	BW		District	Central
+BW-GH	BW		District	Ghanzi
+BW-KG	BW		District	Kgalagadi
+BW-KL	BW		District	Kgatleng
+BW-KW	BW		District	Kweneng
+BW-NG	BW		District	Ngamiland
+BW-NE	BW		District	North-East
+BW-NW	BW		District	North-West (Botswana)
+BW-SE	BW		District	South-East
+BW-SO	BW		District	Southern (Botswana)
+BY-HM	BY		City	Horad Minsk
+BY-BR	BY		Oblast	Brèsckaja voblasc'
+BY-HO	BY		Oblast	Homel'skaja voblasc'
+BY-HR	BY		Oblast	Hrodzenskaja voblasc'
+BY-MA	BY		Oblast	Mahilëuskaja voblasc'
+BY-MI	BY		Oblast	Minskaja voblasc'
+BY-VI	BY		Oblast	Vicebskaja voblasc'
+BZ-BZ	BZ		District	Belize
+BZ-CY	BZ		District	Cayo
+BZ-CZL	BZ		District	Corozal
+BZ-OW	BZ		District	Orange Walk
+BZ-SC	BZ		District	Stann Creek
+BZ-TOL	BZ		District	Toledo
+CA-AB	CA		Province	Alberta
+CA-BC	CA		Province	British Columbia
+CA-MB	CA		Province	Manitoba
+CA-NB	CA		Province	New Brunswick
+CA-NL	CA		Province	Newfoundland and Labrador
+CA-NS	CA		Province	Nova Scotia
+CA-ON	CA		Province	Ontario
+CA-PE	CA		Province	Prince Edward Island
+CA-QC	CA		Province	Quebec
+CA-SK	CA		Province	Saskatchewan
+CA-NT	CA		Territory	Northwest Territories
+CA-NU	CA		Territory	Nunavut
+CA-YT	CA		Territory	Yukon Territory
+CD-KN	CD		City	Kinshasa
+CD-BN	CD		Province	Bandundu
+CD-BC	CD		Province	Bas-Congo
+CD-EQ	CD		Province	Équateur
+CD-HC	CD		Province	Haut-Congo
+CD-KW	CD		Province	Kasai-Occidental
+CD-KE	CD		Province	Kasai-Oriental
+CD-KA	CD		Province	Katanga
+CD-MA	CD		Province	Maniema
+CD-NK	CD		Province	Nord-Kivu
+CD-OR	CD		Province	Orientale
+CD-SK	CD		Province	Sud-Kivu
+CF-BGF	CF		Commune	Bangui
+CF-BB	CF		Prefecture	Bamingui-Bangoran
+CF-BK	CF		Prefecture	Basse-Kotto
+CF-HK	CF		Prefecture	Haute-Kotto
+CF-HM	CF		Prefecture	Haut-Mbomou
+CF-KG	CF		Prefecture	Kémo-Gribingui
+CF-LB	CF		Prefecture	Lobaye
+CF-HS	CF		Prefecture	Haute-Sangha / Mambéré-Kadéï
+CF-MB	CF		Prefecture	Mbomou
+CF-NM	CF		Prefecture	Nana-Mambéré
+CF-MP	CF		Prefecture	Ombella-M'poko
+CF-UK	CF		Prefecture	Ouaka
+CF-AC	CF		Prefecture	Ouham
+CF-OP	CF		Prefecture	Ouham-Pendé
+CF-VK	CF		Prefecture	Vakaga
+CF-KB	CF		Economic Prefecture	Gribingui
+CF-SE	CF		Economic Prefecture	Sangha
+CG-11	CG		Region	Bouenza
+CG-8	CG		Region	Cuvette
+CG-15	CG		Region	Cuvette-Ouest
+CG-5	CG		Region	Kouilou
+CG-2	CG		Region	Lékoumou
+CG-7	CG		Region	Likouala
+CG-9	CG		Region	Niari
+CG-14	CG		Region	Plateaux
+CG-12	CG		Region	Pool
+CG-13	CG		Region	Sangha
+CG-BZV	CG		Capital District	Brazzaville
+CH-AG	CH		Canton	Aargau
+CH-AI	CH		Canton	Appenzell Innerrhoden
+CH-AR	CH		Canton	Appenzell Ausserrhoden
+CH-BE	CH		Canton	Bern
+CH-BL	CH		Canton	Basel-Landschaft
+CH-BS	CH		Canton	Basel-Stadt
+CH-FR	CH		Canton	Fribourg
+CH-GE	CH		Canton	Genève
+CH-GL	CH		Canton	Glarus
+CH-GR	CH		Canton	Graubünden
+CH-JU	CH		Canton	Jura
+CH-LU	CH		Canton	Luzern
+CH-NE	CH		Canton	Neuchâtel
+CH-NW	CH		Canton	Nidwalden
+CH-OW	CH		Canton	Obwalden
+CH-SG	CH		Canton	Sankt Gallen
+CH-SH	CH		Canton	Schaffhausen
+CH-SO	CH		Canton	Solothurn
+CH-SZ	CH		Canton	Schwyz
+CH-TG	CH		Canton	Thurgau
+CH-TI	CH		Canton	Ticino
+CH-UR	CH		Canton	Uri
+CH-VD	CH		Canton	Vaud
+CH-VS	CH		Canton	Valais
+CH-ZG	CH		Canton	Zug
+CH-ZH	CH		Canton	Zürich
+CI-06	CI		Region	18 Montagnes (Région des)
+CI-16	CI		Region	Agnébi (Région de l')
+CI-17	CI		Region	Bafing (Région du)
+CI-09	CI		Region	Bas-Sassandra (Région du)
+CI-10	CI		Region	Denguélé (Région du)
+CI-18	CI		Region	Fromager (Région du)
+CI-02	CI		Region	Haut-Sassandra (Région du)
+CI-07	CI		Region	Lacs (Région des)
+CI-01	CI		Region	Lagunes (Région des)
+CI-12	CI		Region	Marahoué (Région de la)
+CI-19	CI		Region	Moyen-Cavally (Région du)
+CI-05	CI		Region	Moyen-Comoé (Région du)
+CI-11	CI		Region	Nzi-Comoé (Région)
+CI-03	CI		Region	Savanes (Région des)
+CI-15	CI		Region	Sud-Bandama (Région du)
+CI-13	CI		Region	Sud-Comoé (Région du)
+CI-04	CI		Region	Vallée du Bandama (Région de la)
+CI-14	CI		Region	Worodouqou (Région du)
+CI-08	CI		Region	Zanzan (Région du)
+CL-AI	CL		Region	Aisén del General Carlos Ibáñez del Campo
+CL-AN	CL		Region	Antofagasta
+CL-AR	CL		Region	Araucanía
+CL-AP	CL		Region	Arica y Parinacota
+CL-AT	CL		Region	Atacama
+CL-BI	CL		Region	Bío-Bío
+CL-CO	CL		Region	Coquimbo
+CL-LI	CL		Region	Libertador General Bernardo O'Higgins
+CL-LL	CL		Region	Los Lagos
+CL-LR	CL		Region	Los Ríos
+CL-MA	CL		Region	Magallanes y Antártica Chilena
+CL-ML	CL		Region	Maule
+CL-RM	CL		Region	Región Metropolitana de Santiago
+CL-TA	CL		Region	Tarapacá
+CL-VS	CL		Region	Valparaíso
+CM-AD	CM		Province	Adamaoua
+CM-CE	CM		Province	Centre
+CM-ES	CM		Province	East
+CM-EN	CM		Province	Far North
+CM-LT	CM		Province	Littoral
+CM-NO	CM		Province	North
+CM-NW	CM		Province	North-West (Cameroon)
+CM-SU	CM		Province	South
+CM-SW	CM		Province	South-West
+CM-OU	CM		Province	West
+CN-11	CN		Municipality	Beijing
+CN-50	CN		Municipality	Chongqing
+CN-31	CN		Municipality	Shanghai
+CN-12	CN		Municipality	Tianjin
+CN-34	CN		Province	Anhui
+CN-35	CN		Province	Fujian
+CN-62	CN		Province	Gansu
+CN-44	CN		Province	Guangdong
+CN-52	CN		Province	Guizhou
+CN-46	CN		Province	Hainan
+CN-13	CN		Province	Hebei
+CN-23	CN		Province	Heilongjiang
+CN-41	CN		Province	Henan
+CN-42	CN		Province	Hubei
+CN-43	CN		Province	Hunan
+CN-32	CN		Province	Jiangsu
+CN-36	CN		Province	Jiangxi
+CN-22	CN		Province	Jilin
+CN-21	CN		Province	Liaoning
+CN-63	CN		Province	Qinghai
+CN-61	CN		Province	Shaanxi
+CN-37	CN		Province	Shandong
+CN-14	CN		Province	Shanxi
+CN-51	CN		Province	Sichuan
+CN-71	CN		Province	Taiwan
+CN-53	CN		Province	Yunnan
+CN-33	CN		Province	Zhejiang
+CN-45	CN		Autonomous region	Guangxi
+CN-15	CN		Autonomous region	Nei Mongol
+CN-64	CN		Autonomous region	Ningxia
+CN-65	CN		Autonomous region	Xinjiang
+CN-54	CN		Autonomous region	Xizang
+CN-91	CN		Special administrative region	Xianggang (Hong-Kong)
+CN-92	CN		Special administrative region	Aomen (Macau)
+CO-DC	CO		Capital district	Distrito Capital de Bogotá
+CO-AMA	CO		Department	Amazonas
+CO-ANT	CO		Department	Antioquia
+CO-ARA	CO		Department	Arauca
+CO-ATL	CO		Department	Atlántico
+CO-BOL	CO		Department	Bolívar
+CO-BOY	CO		Department	Boyacá
+CO-CAL	CO		Department	Caldas
+CO-CAQ	CO		Department	Caquetá
+CO-CAS	CO		Department	Casanare
+CO-CAU	CO		Department	Cauca
+CO-CES	CO		Department	Cesar
+CO-CHO	CO		Department	Chocó
+CO-COR	CO		Department	Córdoba
+CO-CUN	CO		Department	Cundinamarca
+CO-GUA	CO		Department	Guainía
+CO-GUV	CO		Department	Guaviare
+CO-HUI	CO		Department	Huila
+CO-LAG	CO		Department	La Guajira
+CO-MAG	CO		Department	Magdalena
+CO-MET	CO		Department	Meta
+CO-NAR	CO		Department	Nariño
+CO-NSA	CO		Department	Norte de Santander
+CO-PUT	CO		Department	Putumayo
+CO-QUI	CO		Department	Quindío
+CO-RIS	CO		Department	Risaralda
+CO-SAP	CO		Department	San Andrés, Providencia y Santa Catalina
+CO-SAN	CO		Department	Santander
+CO-SUC	CO		Department	Sucre
+CO-TOL	CO		Department	Tolima
+CO-VAC	CO		Department	Valle del Cauca
+CO-VAU	CO		Department	Vaupés
+CO-VID	CO		Department	Vichada
+CR-A	CR		Province	Alajuela
+CR-C	CR		Province	Cartago
+CR-G	CR		Province	Guanacaste
+CR-H	CR		Province	Heredia
+CR-L	CR		Province	Limón
+CR-P	CR		Province	Puntarenas
+CR-SJ	CR		Province	San José
+CU-09	CU		Province	Camagüey
+CU-08	CU		Province	Ciego de Ávila
+CU-06	CU		Province	Cienfuegos
+CU-03	CU		Province	Ciudad de La Habana
+CU-12	CU		Province	Granma
+CU-14	CU		Province	Guantánamo
+CU-11	CU		Province	Holguín
+CU-02	CU		Province	La Habana
+CU-10	CU		Province	Las Tunas
+CU-04	CU		Province	Matanzas
+CU-01	CU		Province	Pinar del Rio
+CU-07	CU		Province	Sancti Spíritus
+CU-13	CU		Province	Santiago de Cuba
+CU-05	CU		Province	Villa Clara
+CU-99	CU		Special municipality	Isla de la Juventud
+CV-B	CV		Geographical region	Ilhas de Barlavento
+CV-S	CV		Geographical region	Ilhas de Sotavento
+CV-BV	CV	B	Municipality	Boa Vista
+CV-BR	CV	S	Municipality	Brava
+CV-MA	CV	S	Municipality	Maio
+CV-MO	CV	S	Municipality	Mosteiros
+CV-PA	CV	B	Municipality	Paul
+CV-PN	CV	B	Municipality	Porto Novo
+CV-PR	CV	S	Municipality	Praia
+CV-RB	CV	B	Municipality	Ribeira Brava
+CV-RG	CV	B	Municipality	Ribeira Grande
+CV-RS	CV	S	Municipality	Ribeira Grande de Santiago
+CV-SL	CV	B	Municipality	Sal
+CV-CA	CV	S	Municipality	Santa Catarina
+CV-CF	CV	S	Municipality	Santa Catarina de Fogo
+CV-CR	CV	S	Municipality	Santa Cruz
+CV-SD	CV	S	Municipality	São Domingos
+CV-SF	CV	S	Municipality	São Filipe
+CV-SO	CV	S	Municipality	São Lourenço dos Órgãos
+CV-SM	CV	S	Municipality	São Miguel
+CV-SS	CV	S	Municipality	São Salvador do Mundo
+CV-SV	CV	B	Municipality	São Vicente
+CV-TA	CV	S	Municipality	Tarrafal
+CV-TS	CV	S	Municipality	Tarrafal de São Nicolau
+CY-04	CY		District	Ammóchostos
+CY-06	CY		District	Kerýneia
+CY-03	CY		District	Lárnaka
+CY-01	CY		District	Lefkosía
+CY-02	CY		District	Lemesós
+CY-05	CY		District	Páfos
+CZ-JC	CZ		Region	Jihočeský kraj
+CZ-JM	CZ		Region	Jihomoravský kraj
+CZ-KA	CZ		Region	Karlovarský kraj
+CZ-KR	CZ		Region	Královéhradecký kraj
+CZ-LI	CZ		Region	Liberecký kraj
+CZ-MO	CZ		Region	Moravskoslezský kraj
+CZ-OL	CZ		Region	Olomoucký kraj
+CZ-PA	CZ		Region	Pardubický kraj
+CZ-PL	CZ		Region	Plzeňský kraj
+CZ-PR	CZ		Region	Praha, hlavní město
+CZ-ST	CZ		Region	Středočeský kraj
+CZ-US	CZ		Region	Ústecký kraj
+CZ-VY	CZ		Region	Vysočina
+CZ-ZL	CZ		Region	Zlínský kraj
+CZ-201	CZ	ST	district	Benešov
+CZ-202	CZ	ST	district	Beroun
+CZ-621	CZ	JM	district	Blansko
+CZ-622	CZ	JM	district	Brno-město
+CZ-623	CZ	JM	district	Brno-venkov
+CZ-801	CZ	MO	district	Bruntál
+CZ-624	CZ	JM	district	Břeclav
+CZ-511	CZ	LI	district	Česká Lípa
+CZ-311	CZ	JC	district	České Budějovice
+CZ-312	CZ	JC	district	Český Krumlov
+CZ-421	CZ	US	district	Děčín
+CZ-321	CZ	PL	district	Domažlice
+CZ-802	CZ	MO	district	Frýdek Místek
+CZ-611	CZ	VY	district	Havlíčkův Brod
+CZ-625	CZ	JM	district	Hodonín
+CZ-521	CZ	KR	district	Hradec Králové
+CZ-411	CZ	KA	district	Cheb
+CZ-422	CZ	US	district	Chomutov
+CZ-531	CZ	PA	district	Chrudim
+CZ-512	CZ	LI	district	Jablonec nad Nisou
+CZ-711	CZ	OL	district	Jeseník
+CZ-522	CZ	KR	district	Jičín
+CZ-612	CZ	VY	district	Jihlava
+CZ-313	CZ	JC	district	Jindřichův Hradec
+CZ-412	CZ	KA	district	Karlovy Vary
+CZ-803	CZ	MO	district	Karviná
+CZ-203	CZ	ST	district	Kladno
+CZ-322	CZ	PL	district	Klatovy
+CZ-204	CZ	ST	district	Kolín
+CZ-721	CZ	ZL	district	Kromĕříž
+CZ-205	CZ	ST	district	Kutná Hora
+CZ-513	CZ	LI	district	Liberec
+CZ-423	CZ	US	district	Litoměřice
+CZ-424	CZ	US	district	Louny
+CZ-206	CZ	ST	district	Mělník
+CZ-207	CZ	ST	district	Mladá Boleslav
+CZ-425	CZ	US	district	Most
+CZ-523	CZ	KR	district	Náchod
+CZ-804	CZ	MO	district	Nový Jičín
+CZ-208	CZ	ST	district	Nymburk
+CZ-712	CZ	OL	district	Olomouc
+CZ-805	CZ	MO	district	Opava
+CZ-806	CZ	MO	district	Ostrava město
+CZ-532	CZ	PA	district	Pardubice
+CZ-613	CZ	VY	district	Pelhřimov
+CZ-314	CZ	JC	district	Písek
+CZ-324	CZ	PL	district	Plzeň jih
+CZ-323	CZ	PL	district	Plzeň město
+CZ-325	CZ	PL	district	Plzeň sever
+CZ-101	CZ	PR	district	Praha 1
+CZ-102	CZ	PR	district	Praha 2
+CZ-103	CZ	PR	district	Praha 3
+CZ-104	CZ	PR	district	Praha 4
+CZ-105	CZ	PR	district	Praha 5
+CZ-106	CZ	PR	district	Praha 6
+CZ-107	CZ	PR	district	Praha 7
+CZ-108	CZ	PR	district	Praha 8
+CZ-109	CZ	PR	district	Praha 9
+CZ-10A	CZ	PR	district	Praha 10
+CZ-10B	CZ	PR	district	Praha 11
+CZ-10C	CZ	PR	district	Praha 12
+CZ-10D	CZ	PR	district	Praha 13
+CZ-10E	CZ	PR	district	Praha 14
+CZ-10F	CZ	PR	district	Praha 15
+CZ-209	CZ	ST	district	Praha východ
+CZ-20A	CZ	ST	district	Praha západ
+CZ-315	CZ	JC	district	Prachatice
+CZ-713	CZ	OL	district	Prostĕjov
+CZ-714	CZ	OL	district	Přerov
+CZ-20B	CZ	ST	district	Příbram
+CZ-20C	CZ	ST	district	Rakovník
+CZ-326	CZ	PL	district	Rokycany
+CZ-524	CZ	KR	district	Rychnov nad Kněžnou
+CZ-514	CZ	LI	district	Semily
+CZ-413	CZ	KA	district	Sokolov
+CZ-316	CZ	JC	district	Strakonice
+CZ-533	CZ	PA	district	Svitavy
+CZ-715	CZ	OL	district	Šumperk
+CZ-317	CZ	JC	district	Tábor
+CZ-327	CZ	PL	district	Tachov
+CZ-426	CZ	US	district	Teplice
+CZ-525	CZ	KR	district	Trutnov
+CZ-614	CZ	VY	district	Třebíč
+CZ-722	CZ	ZL	district	Uherské Hradištĕ
+CZ-427	CZ	US	district	Ústí nad Labem
+CZ-534	CZ	PA	district	Ústí nad Orlicí
+CZ-723	CZ	ZL	district	Vsetín
+CZ-626	CZ	JM	district	Vyškov
+CZ-724	CZ	ZL	district	Zlín
+CZ-627	CZ	JM	district	Znojmo
+CZ-615	CZ	VY	district	Žd’ár nad Sázavou
+DE-BW	DE		State	Baden-Württemberg
+DE-BY	DE		State	Bayern
+DE-HB	DE		State	Bremen
+DE-HH	DE		State	Hamburg
+DE-HE	DE		State	Hessen
+DE-NI	DE		State	Niedersachsen
+DE-NW	DE		State	Nordrhein-Westfalen
+DE-RP	DE		State	Rheinland-Pfalz
+DE-SL	DE		State	Saarland
+DE-SH	DE		State	Schleswig-Holstein
+DE-BE	DE		State	Berlin
+DE-BB	DE		State	Brandenburg
+DE-MV	DE		State	Mecklenburg-Vorpommern
+DE-SN	DE		State	Sachsen
+DE-ST	DE		State	Sachsen-Anhalt
+DE-TH	DE		State	Thüringen
+DJ-AS	DJ		Region	Ali Sabieh
+DJ-AR	DJ		Region	Arta
+DJ-DI	DJ		Region	Dikhil
+DJ-OB	DJ		Region	Obock
+DJ-TA	DJ		Region	Tadjourah
+DJ-DJ	DJ		City	Djibouti
+DK-84	DK		Region	Hovedstaden
+DK-82	DK		Region	Midtjylland
+DK-81	DK		Region	Nordjylland
+DK-85	DK		Region	Sjælland
+DK-83	DK		Region	Syddanmark
+DM-02	DM		Parish	Saint Andrew
+DM-03	DM		Parish	Saint David
+DM-04	DM		Parish	Saint George
+DM-05	DM		Parish	Saint John
+DM-06	DM		Parish	Saint Joseph
+DM-07	DM		Parish	Saint Luke
+DM-08	DM		Parish	Saint Mark
+DM-09	DM		Parish	Saint Patrick
+DM-10	DM		Parish	Saint Paul
+DM-01	DM		Parish	Saint Peter
+DO-01	DO		District	Distrito Nacional (Santo Domingo)
+DO-02	DO		Province	Azua
+DO-03	DO		Province	Bahoruco
+DO-04	DO		Province	Barahona
+DO-05	DO		Province	Dajabón
+DO-06	DO		Province	Duarte
+DO-08	DO		Province	El Seybo [El Seibo]
+DO-09	DO		Province	Espaillat
+DO-30	DO		Province	Hato Mayor
+DO-10	DO		Province	Independencia
+DO-11	DO		Province	La Altagracia
+DO-07	DO		Province	La Estrelleta [Elías Piña]
+DO-12	DO		Province	La Romana
+DO-13	DO		Province	La Vega
+DO-14	DO		Province	María Trinidad Sánchez
+DO-28	DO		Province	Monseñor Nouel
+DO-15	DO		Province	Monte Cristi
+DO-29	DO		Province	Monte Plata
+DO-16	DO		Province	Pedernales
+DO-17	DO		Province	Peravia
+DO-18	DO		Province	Puerto Plata
+DO-19	DO		Province	Salcedo
+DO-20	DO		Province	Samaná
+DO-21	DO		Province	San Cristóbal
+DO-22	DO		Province	San Juan
+DO-23	DO		Province	San Pedro de Macorís
+DO-24	DO		Province	Sánchez Ramírez
+DO-25	DO		Province	Santiago
+DO-26	DO		Province	Santiago Rodríguez
+DO-27	DO		Province	Valverde
+DZ-01	DZ		Province	Adrar
+DZ-44	DZ		Province	Aïn Defla
+DZ-46	DZ		Province	Aïn Témouchent
+DZ-16	DZ		Province	Alger
+DZ-23	DZ		Province	Annaba
+DZ-05	DZ		Province	Batna
+DZ-08	DZ		Province	Béchar
+DZ-06	DZ		Province	Béjaïa
+DZ-07	DZ		Province	Biskra
+DZ-09	DZ		Province	Blida
+DZ-34	DZ		Province	Bordj Bou Arréridj
+DZ-10	DZ		Province	Bouira
+DZ-35	DZ		Province	Boumerdès
+DZ-02	DZ		Province	Chlef
+DZ-25	DZ		Province	Constantine
+DZ-17	DZ		Province	Djelfa
+DZ-32	DZ		Province	El Bayadh
+DZ-39	DZ		Province	El Oued
+DZ-36	DZ		Province	El Tarf
+DZ-47	DZ		Province	Ghardaïa
+DZ-24	DZ		Province	Guelma
+DZ-33	DZ		Province	Illizi
+DZ-18	DZ		Province	Jijel
+DZ-40	DZ		Province	Khenchela
+DZ-03	DZ		Province	Laghouat
+DZ-29	DZ		Province	Mascara
+DZ-26	DZ		Province	Médéa
+DZ-43	DZ		Province	Mila
+DZ-27	DZ		Province	Mostaganem
+DZ-28	DZ		Province	Msila
+DZ-45	DZ		Province	Naama
+DZ-31	DZ		Province	Oran
+DZ-30	DZ		Province	Ouargla
+DZ-04	DZ		Province	Oum el Bouaghi
+DZ-48	DZ		Province	Relizane
+DZ-20	DZ		Province	Saïda
+DZ-19	DZ		Province	Sétif
+DZ-22	DZ		Province	Sidi Bel Abbès
+DZ-21	DZ		Province	Skikda
+DZ-41	DZ		Province	Souk Ahras
+DZ-11	DZ		Province	Tamanghasset
+DZ-12	DZ		Province	Tébessa
+DZ-14	DZ		Province	Tiaret
+DZ-37	DZ		Province	Tindouf
+DZ-42	DZ		Province	Tipaza
+DZ-38	DZ		Province	Tissemsilt
+DZ-15	DZ		Province	Tizi Ouzou
+DZ-13	DZ		Province	Tlemcen
+EC-A	EC		Province	Azuay
+EC-B	EC		Province	Bolívar
+EC-F	EC		Province	Cañar
+EC-C	EC		Province	Carchi
+EC-X	EC		Province	Cotopaxi
+EC-H	EC		Province	Chimborazo
+EC-O	EC		Province	El Oro
+EC-E	EC		Province	Esmeraldas
+EC-W	EC		Province	Galápagos
+EC-G	EC		Province	Guayas
+EC-I	EC		Province	Imbabura
+EC-L	EC		Province	Loja
+EC-R	EC		Province	Los Ríos
+EC-M	EC		Province	Manabí
+EC-S	EC		Province	Morona-Santiago
+EC-N	EC		Province	Napo
+EC-D	EC		Province	Orellana
+EC-Y	EC		Province	Pastaza
+EC-P	EC		Province	Pichincha
+EC-SE	EC		Province	Santa Elena
+EC-SD	EC		Province	Santo Domingo de los Tsáchilas
+EC-U	EC		Province	Sucumbíos
+EC-T	EC		Province	Tungurahua
+EC-Z	EC		Province	Zamora-Chinchipe
+EE-37	EE		County	Harjumaa
+EE-39	EE		County	Hiiumaa
+EE-44	EE		County	Ida-Virumaa
+EE-49	EE		County	Jõgevamaa
+EE-51	EE		County	Järvamaa
+EE-57	EE		County	Läänemaa
+EE-59	EE		County	Lääne-Virumaa
+EE-65	EE		County	Põlvamaa
+EE-67	EE		County	Pärnumaa
+EE-70	EE		County	Raplamaa
+EE-74	EE		County	Saaremaa
+EE-78	EE		County	Tartumaa
+EE-82	EE		County	Valgamaa
+EE-84	EE		County	Viljandimaa
+EE-86	EE		County	Võrumaa
+EG-DK	EG		Governorate	Ad Daqahlīyah
+EG-BA	EG		Governorate	Al Bahr al Ahmar
+EG-BH	EG		Governorate	Al Buhayrah
+EG-FYM	EG		Governorate	Al Fayyūm
+EG-GH	EG		Governorate	Al Gharbīyah
+EG-ALX	EG		Governorate	Al Iskandarīyah
+EG-IS	EG		Governorate	Al Ismā`īlīyah
+EG-GZ	EG		Governorate	Al Jīzah
+EG-MNF	EG		Governorate	Al Minūfīyah
+EG-MN	EG		Governorate	Al Minyā
+EG-C	EG		Governorate	Al Qāhirah
+EG-KB	EG		Governorate	Al Qalyūbīyah
+EG-WAD	EG		Governorate	Al Wādī al Jadīd
+EG-SU	EG		Governorate	As Sādis min Uktūbar
+EG-SHR	EG		Governorate	Ash Sharqīyah
+EG-SUZ	EG		Governorate	As Suways
+EG-ASN	EG		Governorate	Aswān
+EG-AST	EG		Governorate	Asyūt
+EG-BNS	EG		Governorate	Banī Suwayf
+EG-PTS	EG		Governorate	Būr Sa`īd
+EG-DT	EG		Governorate	Dumyāt
+EG-HU	EG		Governorate	Ḩulwān
+EG-JS	EG		Governorate	Janūb Sīnā'
+EG-KFS	EG		Governorate	Kafr ash Shaykh
+EG-MT	EG		Governorate	Matrūh
+EG-KN	EG		Governorate	Qinā
+EG-SIN	EG		Governorate	Shamal Sīnā'
+EG-SHG	EG		Governorate	Sūhāj
+ER-MA	ER		Province	Al Awsaţ
+ER-DU	ER		Province	Al Janūbī
+ER-AN	ER		Province	Ansabā
+ER-DK	ER		Province	Janūbī al Baḩrī al Aḩmar
+ER-GB	ER		Province	Qāsh-Barkah
+ER-SK	ER		Province	Shimālī al Baḩrī al Aḩmar
+ES-AN	ES		Autonomous community	Andalucía
+ES-AR	ES		Autonomous community	Aragón
+ES-AS	ES		Autonomous community	Asturias, Principado de
+ES-CN	ES		Autonomous community	Canarias
+ES-CB	ES		Autonomous community	Cantabria
+ES-CM	ES		Autonomous community	Castilla-La Mancha
+ES-CL	ES		Autonomous community	Castilla y León
+ES-CT	ES		Autonomous community	Catalunya
+ES-EX	ES		Autonomous community	Extremadura
+ES-GA	ES		Autonomous community	Galicia
+ES-IB	ES		Autonomous community	Illes Balears
+ES-RI	ES		Autonomous community	La Rioja
+ES-MD	ES		Autonomous community	Madrid, Comunidad de
+ES-MC	ES		Autonomous community	Murcia, Región de
+ES-NC	ES		Autonomous community	Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea
+ES-PV	ES		Autonomous community	País Vasco / Euskal Herria
+ES-VC	ES		Autonomous community	Valenciana, Comunidad / Valenciana, Comunitat 
+ES-C	ES	GA	Province	A Coruña
+ES-VI	ES	PV	Province	Álava
+ES-AB	ES	CM	Province	Albacete
+ES-A	ES	VC	Province	Alicante
+ES-AL	ES	AN	Province	Almería
+ES-O	ES	AS	Province	Asturias
+ES-AV	ES	CL	Province	Ávila
+ES-BA	ES	EX	Province	Badajoz
+ES-B	ES	CT	Province	Barcelona
+ES-BU	ES	CL	Province	Burgos
+ES-CC	ES	EX	Province	Cáceres
+ES-CA	ES	AN	Province	Cádiz
+ES-S	ES	CB	Province	Cantabria
+ES-CS	ES	VC	Province	Castellón
+ES-CR	ES	CM	Province	Ciudad Real
+ES-CO	ES	AN	Province	Córdoba
+ES-CU	ES	CM	Province	Cuenca
+ES-GI	ES	CT	Province	Girona
+ES-GR	ES	AN	Province	Granada
+ES-GU	ES	CM	Province	Guadalajara
+ES-SS	ES	PV	Province	Guipúzcoa / Gipuzkoa
+ES-H	ES	AN	Province	Huelva
+ES-HU	ES	AR	Province	Huesca
+ES-J	ES	AN	Province	Jaén
+ES-LO	ES	RI	Province	La Rioja
+ES-GC	ES	CN	Province	Las Palmas
+ES-LE	ES	CL	Province	León
+ES-L	ES	CT	Province	Lleida
+ES-LU	ES	GA	Province	Lugo
+ES-M	ES	MD	Province	Madrid
+ES-MA	ES	AN	Province	Málaga
+ES-MU	ES	MC	Province	Murcia
+ES-NA	ES	NC	Province	Navarra / Nafarroa
+ES-OR	ES	GA	Province	Ourense
+ES-P	ES	CL	Province	Palencia
+ES-PM	ES	IB	Province	Balears
+ES-PO	ES	GA	Province	Pontevedra
+ES-SA	ES	CL	Province	Salamanca
+ES-TF	ES	CN	Province	Santa Cruz de Tenerife
+ES-SG	ES	CL	Province	Segovia
+ES-SE	ES	AN	Province	Sevilla
+ES-SO	ES	CL	Province	Soria
+ES-T	ES	CT	Province	Tarragona
+ES-TE	ES	AR	Province	Teruel
+ES-TO	ES	CM	Province	Toledo
+ES-V	ES	VC	Province	Valencia / València
+ES-VA	ES	CL	Province	Valladolid
+ES-BI	ES	PV	Province	Vizcayaa / Bizkaia
+ES-ZA	ES	CL	Province	Zamora
+ES-Z	ES	AR	Province	Zaragoza
+ES-CE	ES		Autonomous city	Ceuta
+ES-ML	ES		Autonomous city	Melilla
+ET-AA	ET		Administration	Ādīs Ābeba
+ET-DD	ET		Administration	Dirē Dawa
+ET-AF	ET		State	Āfar
+ET-AM	ET		State	Āmara
+ET-BE	ET		State	Bīnshangul Gumuz
+ET-GA	ET		State	Gambēla Hizboch
+ET-HA	ET		State	Hārerī Hizb
+ET-OR	ET		State	Oromīya
+ET-SO	ET		State	Sumalē
+ET-TI	ET		State	Tigray
+ET-SN	ET		State	YeDebub Bihēroch Bihēreseboch na Hizboch
+FI-01	FI		Reion	Ahvenanmaan maakunta
+FI-02	FI		Reion	Etelä-Karjala
+FI-03	FI		Reion	Etelä-Pohjanmaa
+FI-04	FI		Reion	Etelä-Savo
+FI-05	FI		Reion	Kainuu
+FI-06	FI		Reion	Kanta-Häme
+FI-07	FI		Reion	Keski-Pohjanmaa
+FI-08	FI		Reion	Keski-Suomi
+FI-09	FI		Reion	Kymenlaakso
+FI-10	FI		Reion	Lappi
+FI-11	FI		Reion	Pirkanmaa
+FI-12	FI		Reion	Pohjanmaa
+FI-13	FI		Reion	Pohjois-Karjala
+FI-14	FI		Reion	Pohjois-Pohjanmaa
+FI-15	FI		Reion	Pohjois-Savo
+FI-16	FI		Reion	Päijät-Häme
+FI-17	FI		Reion	Satakunta
+FI-18	FI		Reion	Uusimaa
+FI-19	FI		Reion	Varsinais-Suomi
+FJ-C	FJ		Division	Central
+FJ-E	FJ		Division	Eastern
+FJ-N	FJ		Division	Northern
+FJ-W	FJ		Division	Western
+FJ-R	FJ		Dependency	Rotuma
+FM-TRK	FM		State	Chuuk
+FM-KSA	FM		State	Kosrae
+FM-PNI	FM		State	Pohnpei
+FM-YAP	FM		State	Yap
+FR-A	FR		Metropolitan region	Alsace
+FR-B	FR		Metropolitan region	Aquitaine
+FR-C	FR		Metropolitan region	Auvergne
+FR-P	FR		Metropolitan region	Basse-Normandie
+FR-D	FR		Metropolitan region	Bourgogne
+FR-E	FR		Metropolitan region	Bretagne
+FR-F	FR		Metropolitan region	Centre
+FR-G	FR		Metropolitan region	Champagne-Ardenne
+FR-H	FR		Metropolitan region	Corse
+FR-I	FR		Metropolitan region	Franche-Comté
+FR-Q	FR		Metropolitan region	Haute-Normandie
+FR-J	FR		Metropolitan region	Île-de-France
+FR-K	FR		Metropolitan region	Languedoc-Roussillon
+FR-L	FR		Metropolitan region	Limousin
+FR-M	FR		Metropolitan region	Lorraine
+FR-N	FR		Metropolitan region	Midi-Pyrénées
+FR-O	FR		Metropolitan region	Nord - Pas-de-Calais
+FR-R	FR		Metropolitan region	Pays de la Loire
+FR-S	FR		Metropolitan region	Picardie
+FR-T	FR		Metropolitan region	Poitou-Charentes
+FR-U	FR		Metropolitan region	Provence-Alpes-Côte d'Azur
+FR-V	FR		Metropolitan region	Rhône-Alpes
+FR-01	FR	V	Metropolitan department	Ain
+FR-02	FR	S	Metropolitan department	Aisne
+FR-03	FR	C	Metropolitan department	Allier
+FR-04	FR	U	Metropolitan department	Alpes-de-Haute-Provence
+FR-06	FR	U	Metropolitan department	Alpes-Maritimes
+FR-07	FR	V	Metropolitan department	Ardèche
+FR-08	FR	G	Metropolitan department	Ardennes
+FR-09	FR	N	Metropolitan department	Ariège
+FR-10	FR	G	Metropolitan department	Aube
+FR-11	FR	K	Metropolitan department	Aude
+FR-12	FR	N	Metropolitan department	Aveyron
+FR-67	FR	A	Metropolitan department	Bas-Rhin
+FR-13	FR	U	Metropolitan department	Bouches-du-Rhône
+FR-14	FR	P	Metropolitan department	Calvados
+FR-15	FR	C	Metropolitan department	Cantal
+FR-16	FR	T	Metropolitan department	Charente
+FR-17	FR	T	Metropolitan department	Charente-Maritime
+FR-18	FR	F	Metropolitan department	Cher
+FR-19	FR	L	Metropolitan department	Corrèze
+FR-2A	FR	H	Metropolitan department	Corse-du-Sud
+FR-21	FR	D	Metropolitan department	Côte-d'Or
+FR-22	FR	E	Metropolitan department	Côtes-d'Armor
+FR-23	FR	L	Metropolitan department	Creuse
+FR-79	FR	T	Metropolitan department	Deux-Sèvres
+FR-24	FR	B	Metropolitan department	Dordogne
+FR-25	FR	I	Metropolitan department	Doubs
+FR-26	FR	V	Metropolitan department	Drôme
+FR-91	FR	J	Metropolitan department	Essonne
+FR-27	FR	Q	Metropolitan department	Eure
+FR-28	FR	F	Metropolitan department	Eure-et-Loir
+FR-29	FR	E	Metropolitan department	Finistère
+FR-30	FR	K	Metropolitan department	Gard
+FR-32	FR	N	Metropolitan department	Gers
+FR-33	FR	B	Metropolitan department	Gironde
+FR-2B	FR	H	Metropolitan department	Haute-Corse
+FR-31	FR	N	Metropolitan department	Haute-Garonne
+FR-43	FR	C	Metropolitan department	Haute-Loire
+FR-52	FR	G	Metropolitan department	Haute-Marne
+FR-05	FR	U	Metropolitan department	Hautes-Alpes
+FR-70	FR	I	Metropolitan department	Haute-Saône
+FR-74	FR	V	Metropolitan department	Haute-Savoie
+FR-65	FR	N	Metropolitan department	Hautes-Pyrénées
+FR-87	FR	L	Metropolitan department	Haute-Vienne
+FR-68	FR	A	Metropolitan department	Haut-Rhin
+FR-92	FR	J	Metropolitan department	Hauts-de-Seine
+FR-34	FR	K	Metropolitan department	Hérault
+FR-35	FR	E	Metropolitan department	Ille-et-Vilaine
+FR-36	FR	F	Metropolitan department	Indre
+FR-37	FR	F	Metropolitan department	Indre-et-Loire
+FR-38	FR	V	Metropolitan department	Isère
+FR-39	FR	I	Metropolitan department	Jura
+FR-40	FR	B	Metropolitan department	Landes
+FR-41	FR	F	Metropolitan department	Loir-et-Cher
+FR-42	FR	V	Metropolitan department	Loire
+FR-44	FR	R	Metropolitan department	Loire-Atlantique
+FR-45	FR	F	Metropolitan department	Loiret
+FR-46	FR	N	Metropolitan department	Lot
+FR-47	FR	B	Metropolitan department	Lot-et-Garonne
+FR-48	FR	K	Metropolitan department	Lozère
+FR-49	FR	R	Metropolitan department	Maine-et-Loire
+FR-50	FR	P	Metropolitan department	Manche
+FR-51	FR	G	Metropolitan department	Marne
+FR-53	FR	R	Metropolitan department	Mayenne
+FR-54	FR	M	Metropolitan department	Meurthe-et-Moselle
+FR-55	FR	M	Metropolitan department	Meuse
+FR-56	FR	E	Metropolitan department	Morbihan
+FR-57	FR	M	Metropolitan department	Moselle
+FR-58	FR	D	Metropolitan department	Nièvre
+FR-59	FR	O	Metropolitan department	Nord
+FR-60	FR	S	Metropolitan department	Oise
+FR-61	FR	P	Metropolitan department	Orne
+FR-75	FR	J	Metropolitan department	Paris
+FR-62	FR	O	Metropolitan department	Pas-de-Calais
+FR-63	FR	C	Metropolitan department	Puy-de-Dôme
+FR-64	FR	B	Metropolitan department	Pyrénées-Atlantiques
+FR-66	FR	K	Metropolitan department	Pyrénées-Orientales
+FR-69	FR	V	Metropolitan department	Rhône
+FR-71	FR	D	Metropolitan department	Saône-et-Loire
+FR-72	FR	R	Metropolitan department	Sarthe
+FR-73	FR	V	Metropolitan department	Savoie
+FR-77	FR	J	Metropolitan department	Seine-et-Marne
+FR-76	FR	Q	Metropolitan department	Seine-Maritime
+FR-93	FR	J	Metropolitan department	Seine-Saint-Denis
+FR-80	FR	S	Metropolitan department	Somme
+FR-81	FR	N	Metropolitan department	Tarn
+FR-82	FR	N	Metropolitan department	Tarn-et-Garonne
+FR-90	FR	I	Metropolitan department	Territoire de Belfort
+FR-94	FR	J	Metropolitan department	Val-de-Marne
+FR-95	FR	J	Metropolitan department	Val d'Oise
+FR-83	FR	U	Metropolitan department	Var
+FR-84	FR	U	Metropolitan department	Vaucluse
+FR-85	FR	R	Metropolitan department	Vendée
+FR-86	FR	T	Metropolitan department	Vienne
+FR-88	FR	M	Metropolitan department	Vosges
+FR-89	FR	D	Metropolitan department	Yonne
+FR-78	FR	J	Metropolitan department	Yvelines
+FR-GP	FR		Overseas region/department	Guadeloupe
+FR-GF	FR		Overseas region/department	Guyane
+FR-MQ	FR		Overseas region/department	Martinique
+FR-YT	FR		Overseas region/department	Mayotte
+FR-RE	FR		Overseas region/department	Réunion
+FR-CP	FR		Dependency	Clipperton
+FR-NC	FR		Overseas territorial collectivity	Nouvelle-Calédonie
+FR-PF	FR		Overseas territorial collectivity	Polynésie française
+FR-BL	FR		Overseas territorial collectivity	Saint-Barthélemy
+FR-MF	FR		Overseas territorial collectivity	Saint-Martin
+FR-PM	FR		Overseas territorial collectivity	Saint-Pierre-et-Miquelon
+FR-TF	FR		Overseas territorial collectivity	Terres australes françaises
+FR-WF	FR		Overseas territorial collectivity	Wallis-et-Futuna
+GA-1	GA		Province	Estuaire
+GA-2	GA		Province	Haut-Ogooué
+GA-3	GA		Province	Moyen-Ogooué
+GA-4	GA		Province	Ngounié
+GA-5	GA		Province	Nyanga
+GA-6	GA		Province	Ogooué-Ivindo
+GA-7	GA		Province	Ogooué-Lolo
+GA-8	GA		Province	Ogooué-Maritime
+GA-9	GA		Province	Woleu-Ntem
+GB-ENG	GB		Country	England
+GB-SCT	GB		Country	Scotland
+GB-WLS	GB		Country	Wales
+GB-NIR	GB		Province	Northern Ireland
+GB-EAW	GB		Included for completeness	England and Wales
+GB-GBN	GB		Included for completeness	Great Britain
+GB-UKM	GB		Included for completeness	United Kingdom
+GB-BKM	GB		Two-tier county	Buckinghamshire
+GB-CAM	GB		Two-tier county	Cambridgeshire
+GB-CMA	GB		Two-tier county	Cumbria
+GB-DBY	GB		Two-tier county	Derbyshire
+GB-DEV	GB		Two-tier county	Devon
+GB-DOR	GB		Two-tier county	Dorset
+GB-ESX	GB		Two-tier county	East Sussex
+GB-ESS	GB		Two-tier county	Essex
+GB-GLS	GB		Two-tier county	Gloucestershire
+GB-HAM	GB		Two-tier county	Hampshire
+GB-HRT	GB		Two-tier county	Hertfordshire
+GB-KEN	GB		Two-tier county	Kent
+GB-LAN	GB		Two-tier county	Lancashire
+GB-LEC	GB		Two-tier county	Leicestershire
+GB-LIN	GB		Two-tier county	Lincolnshire
+GB-NFK	GB		Two-tier county	Norfolk
+GB-NYK	GB		Two-tier county	North Yorkshire
+GB-NTH	GB		Two-tier county	Northamptonshire
+GB-NTT	GB		Two-tier county	Nottinghamshire
+GB-OXF	GB		Two-tier county	Oxfordshire
+GB-SOM	GB		Two-tier county	Somerset
+GB-STS	GB		Two-tier county	Staffordshire
+GB-SFK	GB		Two-tier county	Suffolk
+GB-SRY	GB		Two-tier county	Surrey
+GB-WAR	GB		Two-tier county	Warwickshire
+GB-WSX	GB		Two-tier county	West Sussex
+GB-WOR	GB		Two-tier county	Worcestershire
+GB-BDG	GB		London borough	Barking and Dagenham
+GB-BNE	GB		London borough	Barnet
+GB-BEX	GB		London borough	Bexley
+GB-BEN	GB		London borough	Brent
+GB-BRY	GB		London borough	Bromley
+GB-CMD	GB		London borough	Camden
+GB-CRY	GB		London borough	Croydon
+GB-EAL	GB		London borough	Ealing
+GB-ENF	GB		London borough	Enfield
+GB-GRE	GB		London borough	Greenwich
+GB-HCK	GB		London borough	Hackney
+GB-HMF	GB		London borough	Hammersmith and Fulham
+GB-HRY	GB		London borough	Haringey
+GB-HRW	GB		London borough	Harrow
+GB-HAV	GB		London borough	Havering
+GB-HIL	GB		London borough	Hillingdon
+GB-HNS	GB		London borough	Hounslow
+GB-ISL	GB		London borough	Islington
+GB-KEC	GB		London borough	Kensington and Chelsea
+GB-KTT	GB		London borough	Kingston upon Thames
+GB-LBH	GB		London borough	Lambeth
+GB-LEW	GB		London borough	Lewisham
+GB-MRT	GB		London borough	Merton
+GB-NWM	GB		London borough	Newham
+GB-RDB	GB		London borough	Redbridge
+GB-RIC	GB		London borough	Richmond upon Thames
+GB-SWK	GB		London borough	Southwark
+GB-STN	GB		London borough	Sutton
+GB-TWH	GB		London borough	Tower Hamlets
+GB-WFT	GB		London borough	Waltham Forest
+GB-WND	GB		London borough	Wandsworth
+GB-WSM	GB		London borough	Westminster
+GB-BNS	GB		Metropolitan district	Barnsley
+GB-BIR	GB		Metropolitan district	Birmingham
+GB-BOL	GB		Metropolitan district	Bolton
+GB-BRD	GB		Metropolitan district	Bradford
+GB-BUR	GB		Metropolitan district	Bury
+GB-CLD	GB		Metropolitan district	Calderdale
+GB-COV	GB		Metropolitan district	Coventry
+GB-DNC	GB		Metropolitan district	Doncaster
+GB-DUD	GB		Metropolitan district	Dudley
+GB-GAT	GB		Metropolitan district	Gateshead
+GB-KIR	GB		Metropolitan district	Kirklees
+GB-KWL	GB		Metropolitan district	Knowsley
+GB-LDS	GB		Metropolitan district	Leeds
+GB-LIV	GB		Metropolitan district	Liverpool
+GB-MAN	GB		Metropolitan district	Manchester
+GB-NET	GB		Metropolitan district	Newcastle upon Tyne
+GB-NTY	GB		Metropolitan district	North Tyneside
+GB-OLD	GB		Metropolitan district	Oldham
+GB-RCH	GB		Metropolitan district	Rochdale
+GB-ROT	GB		Metropolitan district	Rotherham
+GB-SHN	GB		Metropolitan district	St. Helens
+GB-SLF	GB		Metropolitan district	Salford
+GB-SAW	GB		Metropolitan district	Sandwell
+GB-SFT	GB		Metropolitan district	Sefton
+GB-SHF	GB		Metropolitan district	Sheffield
+GB-SOL	GB		Metropolitan district	Solihull
+GB-STY	GB		Metropolitan district	South Tyneside
+GB-SKP	GB		Metropolitan district	Stockport
+GB-SND	GB		Metropolitan district	Sunderland
+GB-TAM	GB		Metropolitan district	Tameside
+GB-TRF	GB		Metropolitan district	Trafford
+GB-WKF	GB		Metropolitan district	Wakefield
+GB-WLL	GB		Metropolitan district	Walsall
+GB-WGN	GB		Metropolitan district	Wigan
+GB-WRL	GB		Metropolitan district	Wirral
+GB-WLV	GB		Metropolitan district	Wolverhampton
+GB-LND	GB		City corporation	London, City of
+GB-ABE	GB		Council area	Aberdeen City
+GB-ABD	GB		Council area	Aberdeenshire
+GB-ANS	GB		Council area	Angus
+GB-AGB	GB		Council area	Argyll and Bute
+GB-CLK	GB		Council area	Clackmannanshire
+GB-DGY	GB		Council area	Dumfries and Galloway
+GB-DND	GB		Council area	Dundee City
+GB-EAY	GB		Council area	East Ayrshire
+GB-EDU	GB		Council area	East Dunbartonshire
+GB-ELN	GB		Council area	East Lothian
+GB-ERW	GB		Council area	East Renfrewshire
+GB-EDH	GB		Council area	Edinburgh, City of
+GB-ELS	GB		Council area	Eilean Siar
+GB-FAL	GB		Council area	Falkirk
+GB-FIF	GB		Council area	Fife
+GB-GLG	GB		Council area	Glasgow City
+GB-HLD	GB		Council area	Highland
+GB-IVC	GB		Council area	Inverclyde
+GB-MLN	GB		Council area	Midlothian
+GB-MRY	GB		Council area	Moray
+GB-NAY	GB		Council area	North Ayrshire
+GB-NLK	GB		Council area	North Lanarkshire
+GB-ORK	GB		Council area	Orkney Islands
+GB-PKN	GB		Council area	Perth and Kinross
+GB-RFW	GB		Council area	Renfrewshire
+GB-SCB	GB		Council area	Scottish Borders, The
+GB-ZET	GB		Council area	Shetland Islands
+GB-SAY	GB		Council area	South Ayrshire
+GB-SLK	GB		Council area	South Lanarkshire
+GB-STG	GB		Council area	Stirling
+GB-WDU	GB		Council area	West Dunbartonshire
+GB-WLN	GB		Council area	West Lothian
+GB-ANT	GB		District council area	Antrim
+GB-ARD	GB		District council area	Ards
+GB-ARM	GB		District council area	Armagh
+GB-BLA	GB		District council area	Ballymena
+GB-BLY	GB		District council area	Ballymoney
+GB-BNB	GB		District council area	Banbridge
+GB-BFS	GB		District council area	Belfast
+GB-CKF	GB		District council area	Carrickfergus
+GB-CSR	GB		District council area	Castlereagh
+GB-CLR	GB		District council area	Coleraine
+GB-CKT	GB		District council area	Cookstown
+GB-CGV	GB		District council area	Craigavon
+GB-DRY	GB		District council area	Derry
+GB-DOW	GB		District council area	Down
+GB-DGN	GB		District council area	Dungannon and South Tyrone
+GB-FER	GB		District council area	Fermanagh
+GB-LRN	GB		District council area	Larne
+GB-LMV	GB		District council area	Limavady
+GB-LSB	GB		District council area	Lisburn
+GB-MFT	GB		District council area	Magherafelt
+GB-MYL	GB		District council area	Moyle
+GB-NYM	GB		District council area	Newry and Mourne
+GB-NTA	GB		District council area	Newtownabbey
+GB-NDN	GB		District council area	North Down
+GB-OMH	GB		District council area	Omagh
+GB-STB	GB		District council area	Strabane
+GB-BAS	GB		Unitary authority (England)	Bath and North East Somerset
+GB-BBD	GB		Unitary authority (England)	Blackburn with Darwen
+GB-BDF	GB		Unitary authority (England)	Bedford
+GB-BPL	GB		Unitary authority (England)	Blackpool
+GB-BMH	GB		Unitary authority (England)	Bournemouth
+GB-BRC	GB		Unitary authority (England)	Bracknell Forest
+GB-BNH	GB		Unitary authority (England)	Brighton and Hove
+GB-BST	GB		Unitary authority (England)	Bristol, City of
+GB-CBF	GB		Unitary authority (England)	Central Bedfordshire
+GB-CHE	GB		Unitary authority (England)	Cheshire East
+GB-CHW	GB		Unitary authority (England)	Cheshire West and Chester
+GB-CON	GB		Unitary authority (England)	Cornwall
+GB-DAL	GB		Unitary authority (England)	Darlington
+GB-DER	GB		Unitary authority (England)	Derby
+GB-DUR	GB		Unitary authority (England)	Durham, County
+GB-ERY	GB		Unitary authority (England)	East Riding of Yorkshire
+GB-HAL	GB		Unitary authority (England)	Halton
+GB-HPL	GB		Unitary authority (England)	Hartlepool
+GB-HEF	GB		Unitary authority (England)	Herefordshire
+GB-IOW	GB		Unitary authority (England)	Isle of Wight
+GB-KHL	GB		Unitary authority (England)	Kingston upon Hull
+GB-LCE	GB		Unitary authority (England)	Leicester
+GB-LUT	GB		Unitary authority (England)	Luton
+GB-MDW	GB		Unitary authority (England)	Medway
+GB-MDB	GB		Unitary authority (England)	Middlesbrough
+GB-MIK	GB		Unitary authority (England)	Milton Keynes
+GB-NEL	GB		Unitary authority (England)	North East Lincolnshire
+GB-NLN	GB		Unitary authority (England)	North Lincolnshire
+GB-NSM	GB		Unitary authority (England)	North Somerset
+GB-NBL	GB		Unitary authority (England)	Northumberland
+GB-NGM	GB		Unitary authority (England)	Nottingham
+GB-PTE	GB		Unitary authority (England)	Peterborough
+GB-PLY	GB		Unitary authority (England)	Plymouth
+GB-POL	GB		Unitary authority (England)	Poole
+GB-POR	GB		Unitary authority (England)	Portsmouth
+GB-RDG	GB		Unitary authority (England)	Reading
+GB-RCC	GB		Unitary authority (England)	Redcar and Cleveland
+GB-RUT	GB		Unitary authority (England)	Rutland
+GB-SHR	GB		Unitary authority (England)	Shropshire
+GB-SLG	GB		Unitary authority (England)	Slough
+GB-SGC	GB		Unitary authority (England)	South Gloucestershire
+GB-STH	GB		Unitary authority (England)	Southampton
+GB-SOS	GB		Unitary authority (England)	Southend-on-Sea
+GB-STT	GB		Unitary authority (England)	Stockton-on-Tees
+GB-STE	GB		Unitary authority (England)	Stoke-on-Trent
+GB-SWD	GB		Unitary authority (England)	Swindon
+GB-TFW	GB		Unitary authority (England)	Telford and Wrekin
+GB-THR	GB		Unitary authority (England)	Thurrock
+GB-TOB	GB		Unitary authority (England)	Torbay
+GB-WRT	GB		Unitary authority (England)	Warrington
+GB-WBK	GB		Unitary authority (England)	West Berkshire
+GB-WNM	GB		Unitary authority (England)	Windsor and Maidenhead
+GB-WOK	GB		Unitary authority (England)	Wokingham
+GB-YOR	GB		Unitary authority (England)	York
+GB-BGW	GB		Unitary authority (Wales)	Blaenau Gwent
+GB-BGE	GB		Unitary authority (Wales)	Bridgend;Pen-y-bont ar Ogwr
+GB-CAY	GB		Unitary authority (Wales)	Caerphilly;Caerffili
+GB-CRF	GB		Unitary authority (Wales)	Cardiff;Caerdydd
+GB-CMN	GB		Unitary authority (Wales)	Carmarthenshire;Sir Gaerfyrddin
+GB-CGN	GB		Unitary authority (Wales)	Ceredigion;Sir Ceredigion
+GB-CWY	GB		Unitary authority (Wales)	Conwy
+GB-DEN	GB		Unitary authority (Wales)	Denbighshire;Sir Ddinbych
+GB-FLN	GB		Unitary authority (Wales)	Flintshire;Sir y Fflint
+GB-GWN	GB		Unitary authority (Wales)	Gwynedd
+GB-AGY	GB		Unitary authority (Wales)	Isle of Anglesey;Sir Ynys Môn
+GB-MTY	GB		Unitary authority (Wales)	Merthyr Tydfil;Merthyr Tudful
+GB-MON	GB		Unitary authority (Wales)	Monmouthshire;Sir Fynwy
+GB-NTL	GB		Unitary authority (Wales)	Neath Port Talbot;Castell-nedd Port Talbot
+GB-NWP	GB		Unitary authority (Wales)	Newport;Casnewydd
+GB-PEM	GB		Unitary authority (Wales)	Pembrokeshire;Sir Benfro
+GB-POW	GB		Unitary authority (Wales)	Powys
+GB-RCT	GB		Unitary authority (Wales)	Rhondda, Cynon, Taff;Rhondda, Cynon,Taf
+GB-SWA	GB		Unitary authority (Wales)	Swansea;Abertawe
+GB-TOF	GB		Unitary authority (Wales)	Torfaen;Tor-faen
+GB-VGL	GB		Unitary authority (Wales)	Vale of Glamorgan, The;Bro Morgannwg
+GB-WRX	GB		Unitary authority (Wales)	Wrexham;Wrecsam
+GD-01	GD		Parish	Saint Andrew
+GD-02	GD		Parish	Saint David
+GD-03	GD		Parish	Saint George
+GD-04	GD		Parish	Saint John
+GD-05	GD		Parish	Saint Mark
+GD-06	GD		Parish	Saint Patrick
+GD-10	GD		Dependency	Southern Grenadine Islands
+GE-AB	GE		Autonomous republic	Abkhazia
+GE-AJ	GE		Autonomous republic	Ajaria
+GE-TB	GE		City	T’bilisi
+GE-GU	GE		Region	Guria
+GE-IM	GE		Region	Imeret’i
+GE-KA	GE		Region	Kakhet’i
+GE-KK	GE		Region	K’vemo K’art’li
+GE-MM	GE		Region	Mts’khet’a-Mt’ianet’i
+GE-RL	GE		Region	Racha-Lech’khumi-K’vemo Svanet’i
+GE-SZ	GE		Region	Samegrelo-Zemo Svanet’i
+GE-SJ	GE		Region	Samts’khe-Javakhet’i
+GE-SK	GE		Region	Shida K’art’li
+GH-AH	GH		Region	Ashanti
+GH-BA	GH		Region	Brong-Ahafo
+GH-CP	GH		Region	Central
+GH-EP	GH		Region	Eastern
+GH-AA	GH		Region	Greater Accra
+GH-NP	GH		Region	Northern
+GH-UE	GH		Region	Upper East
+GH-UW	GH		Region	Upper West
+GH-TV	GH		Region	Volta
+GH-WP	GH		Region	Western
+GL-KU	GL		Municipality	Kommune Kujalleq
+GL-SM	GL		Municipality	Kommuneqarfik Sermersooq
+GL-QA	GL		Municipality	Qaasuitsup Kommunia
+GL-QE	GL		Municipality	Qeqqata Kommunia
+GM-L	GM		Division	Lower River
+GM-M	GM		Division	Central River
+GM-N	GM		Division	North Bank
+GM-U	GM		Division	Upper River
+GM-W	GM		Division	Western
+GM-B	GM		City	Banjul
+GN-B	GN		Governorate	Boké
+GN-F	GN		Governorate	Faranah
+GN-K	GN		Governorate	Kankan
+GN-D	GN		Governorate	Kindia
+GN-L	GN		Governorate	Labé
+GN-M	GN		Governorate	Mamou
+GN-N	GN		Governorate	Nzérékoré
+GN-C	GN		Special zone	Conakry
+GN-BE	GN	N	Prefecture	Beyla
+GN-BF	GN	B	Prefecture	Boffa
+GN-BK	GN	B	Prefecture	Boké
+GN-CO	GN	D	Prefecture	Coyah
+GN-DB	GN	F	Prefecture	Dabola
+GN-DL	GN	M	Prefecture	Dalaba
+GN-DI	GN	F	Prefecture	Dinguiraye
+GN-DU	GN	D	Prefecture	Dubréka
+GN-FA	GN	F	Prefecture	Faranah
+GN-FO	GN	D	Prefecture	Forécariah
+GN-FR	GN	B	Prefecture	Fria
+GN-GA	GN	B	Prefecture	Gaoual
+GN-GU	GN	N	Prefecture	Guékédou
+GN-KA	GN	K	Prefecture	Kankan
+GN-KE	GN	K	Prefecture	Kérouané
+GN-KD	GN	D	Prefecture	Kindia
+GN-KS	GN	F	Prefecture	Kissidougou
+GN-KB	GN	L	Prefecture	Koubia
+GN-KN	GN	B	Prefecture	Koundara
+GN-KO	GN	K	Prefecture	Kouroussa
+GN-LA	GN	L	Prefecture	Labé
+GN-LE	GN	L	Prefecture	Lélouma
+GN-LO	GN	N	Prefecture	Lola
+GN-MC	GN	N	Prefecture	Macenta
+GN-ML	GN	L	Prefecture	Mali
+GN-MM	GN	M	Prefecture	Mamou
+GN-MD	GN	K	Prefecture	Mandiana
+GN-NZ	GN	N	Prefecture	Nzérékoré
+GN-PI	GN	M	Prefecture	Pita
+GN-SI	GN	K	Prefecture	Siguiri
+GN-TE	GN	D	Prefecture	Télimélé
+GN-TO	GN	L	Prefecture	Tougué
+GN-YO	GN	N	Prefecture	Yomou
+GQ-C	GQ		Region	Región Continental
+GQ-I	GQ		Region	Región Insular
+GQ-AN	GQ	I	Province	Annobón
+GQ-BN	GQ	I	Province	Bioko Norte
+GQ-BS	GQ	I	Province	Bioko Sur
+GQ-CS	GQ	C	Province	Centro Sur
+GQ-KN	GQ	C	Province	Kié-Ntem
+GQ-LI	GQ	C	Province	Litoral
+GQ-WN	GQ	C	Province	Wele-Nzas
+GR-A	GR		Administrative region	Anatoliki Makedonia kai Thraki
+GR-I	GR		Administrative region	Attiki
+GR-G	GR		Administrative region	Dytiki Ellada
+GR-C	GR		Administrative region	Dytiki Makedonia
+GR-F	GR		Administrative region	Ionia Nisia
+GR-D	GR		Administrative region	Ipeiros
+GR-B	GR		Administrative region	Kentriki Makedonia
+GR-M	GR		Administrative region	Kriti
+GR-L	GR		Administrative region	Notio Aigaio
+GR-J	GR		Administrative region	Peloponnisos
+GR-H	GR		Administrative region	Sterea Ellada
+GR-E	GR		Administrative region	Thessalia
+GR-K	GR		Administrative region	Voreio Aigaio
+GR-69	GR		Self-governed part	Agio Oros
+GR-13	GR	G	Department	Achaïa
+GR-01	GR	G	Department	Aitolia kai Akarnania
+GR-11	GR	J	Department	Argolida
+GR-12	GR	J	Department	Arkadia
+GR-31	GR	F	Department	Arta
+GR-A1	GR	I	Department	Attiki
+GR-64	GR	B	Department	Chalkidiki
+GR-94	GR	M	Department	Chania
+GR-85	GR	K	Department	Chios
+GR-81	GR	L	Department	Dodekanisos
+GR-52	GR	A	Department	Drama
+GR-71	GR	A	Department	Evros
+GR-05	GR	H	Department	Evrytania
+GR-04	GR	H	Department	Evvoias
+GR-63	GR	C	Department	Florina
+GR-07	GR	H	Department	Fokida
+GR-06	GR	H	Department	Fthiotida
+GR-51	GR	C	Department	Grevena
+GR-14	GR	G	Department	Ileia
+GR-53	GR	B	Department	Imathia
+GR-33	GR	D	Department	Ioannina
+GR-91	GR	M	Department	Irakleio
+GR-41	GR	E	Department	Karditsa
+GR-56	GR	C	Department	Kastoria
+GR-55	GR	A	Department	Kavala
+GR-23	GR	F	Department	Kefallonia
+GR-22	GR	F	Department	Kerkyra
+GR-57	GR	B	Department	Kilkis
+GR-15	GR	J	Department	Korinthia
+GR-58	GR	C	Department	Kozani
+GR-82	GR	L	Department	Kyklades
+GR-16	GR	J	Department	Lakonia
+GR-42	GR	E	Department	Larisa
+GR-92	GR	M	Department	Lasithi
+GR-24	GR	F	Department	Lefkada
+GR-83	GR	K	Department	Lesvos
+GR-43	GR	E	Department	Magnisia
+GR-17	GR	J	Department	Messinia
+GR-59	GR	B	Department	Pella
+GR-61	GR	B	Department	Pieria
+GR-34	GR	D	Department	Preveza
+GR-93	GR	M	Department	Rethymno
+GR-73	GR	A	Department	Rodopi
+GR-84	GR	K	Department	Samos
+GR-62	GR	B	Department	Serres
+GR-32	GR	D	Department	Thesprotia
+GR-54	GR	B	Department	Thessaloniki
+GR-44	GR	E	Department	Trikala
+GR-03	GR	H	Department	Voiotia
+GR-72	GR	A	Department	Xanthi
+GR-21	GR	F	Department	Zakynthos
+GT-AV	GT		Department	Alta Verapaz
+GT-BV	GT		Department	Baja Verapaz
+GT-CM	GT		Department	Chimaltenango
+GT-CQ	GT		Department	Chiquimula
+GT-PR	GT		Department	El Progreso
+GT-ES	GT		Department	Escuintla
+GT-GU	GT		Department	Guatemala
+GT-HU	GT		Department	Huehuetenango
+GT-IZ	GT		Department	Izabal
+GT-JA	GT		Department	Jalapa
+GT-JU	GT		Department	Jutiapa
+GT-PE	GT		Department	Petén
+GT-QZ	GT		Department	Quetzaltenango
+GT-QC	GT		Department	Quiché
+GT-RE	GT		Department	Retalhuleu
+GT-SA	GT		Department	Sacatepéquez
+GT-SM	GT		Department	San Marcos
+GT-SR	GT		Department	Santa Rosa
+GT-SO	GT		Department	Sololá
+GT-SU	GT		Department	Suchitepéquez
+GT-TO	GT		Department	Totonicapán
+GT-ZA	GT		Department	Zacapa
+GW-BS	GW		Autonomous sector	Bissau
+GW-L	GW		Province	Leste
+GW-N	GW		Province	Norte
+GW-S	GW		Province	Sul
+GW-BA	GW	L	Region	Bafatá
+GW-BM	GW	N	Region	Biombo
+GW-BL	GW	S	Region	Bolama
+GW-CA	GW	N	Region	Cacheu
+GW-GA	GW	L	Region	Gabú
+GW-OI	GW	N	Region	Oio
+GW-QU	GW	S	Region	Quinara
+GW-TO	GW	S	Region	Tombali
+GY-BA	GY		Region	Barima-Waini
+GY-CU	GY		Region	Cuyuni-Mazaruni
+GY-DE	GY		Region	Demerara-Mahaica
+GY-EB	GY		Region	East Berbice-Corentyne
+GY-ES	GY		Region	Essequibo Islands-West Demerara
+GY-MA	GY		Region	Mahaica-Berbice
+GY-PM	GY		Region	Pomeroon-Supenaam
+GY-PT	GY		Region	Potaro-Siparuni
+GY-UD	GY		Region	Upper Demerara-Berbice
+GY-UT	GY		Region	Upper Takutu-Upper Essequibo
+HN-AT	HN		Department	Atlántida
+HN-CL	HN		Department	Colón
+HN-CM	HN		Department	Comayagua
+HN-CP	HN		Department	Copán
+HN-CR	HN		Department	Cortés
+HN-CH	HN		Department	Choluteca
+HN-EP	HN		Department	El Paraíso
+HN-FM	HN		Department	Francisco Morazán
+HN-GD	HN		Department	Gracias a Dios
+HN-IN	HN		Department	Intibucá
+HN-IB	HN		Department	Islas de la Bahía
+HN-LP	HN		Department	La Paz
+HN-LE	HN		Department	Lempira
+HN-OC	HN		Department	Ocotepeque
+HN-OL	HN		Department	Olancho
+HN-SB	HN		Department	Santa Bárbara
+HN-VA	HN		Department	Valle
+HN-YO	HN		Department	Yoro
+HR-21	HR		City	Grad Zagreb
+HR-07	HR		County	Bjelovarsko-bilogorska županija
+HR-12	HR		County	Brodsko-posavska županija
+HR-19	HR		County	Dubrovačko-neretvanska županija
+HR-18	HR		County	Istarska županija
+HR-04	HR		County	Karlovačka županija
+HR-06	HR		County	Koprivničko-križevačka županija
+HR-02	HR		County	Krapinsko-zagorska županija
+HR-09	HR		County	Ličko-senjska županija
+HR-20	HR		County	Međimurska županija
+HR-14	HR		County	Osječko-baranjska županija
+HR-11	HR		County	Požeško-slavonska županija
+HR-08	HR		County	Primorsko-goranska županija
+HR-03	HR		County	Sisačko-moslavačka županija
+HR-17	HR		County	Splitsko-dalmatinska županija
+HR-15	HR		County	Šibensko-kninska županija
+HR-05	HR		County	Varaždinska županija
+HR-10	HR		County	Virovitičko-podravska županija
+HR-16	HR		County	Vukovarsko-srijemska županija
+HR-13	HR		County	Zadarska županija
+HR-01	HR		County	Zagrebačka županija
+HT-AR	HT		Department	Artibonite
+HT-CE	HT		Department	Centre
+HT-GA	HT		Department	Grande-Anse
+HT-ND	HT		Department	Nord
+HT-NE	HT		Department	Nord-Est
+HT-NO	HT		Department	Nord-Ouest
+HT-OU	HT		Department	Ouest
+HT-SD	HT		Department	Sud
+HT-SE	HT		Department	Sud-Est
+HU-BK	HU		County	Bács-Kiskun
+HU-BA	HU		County	Baranya
+HU-BE	HU		County	Békés
+HU-BZ	HU		County	Borsod-Abaúj-Zemplén
+HU-CS	HU		County	Csongrád
+HU-FE	HU		County	Fejér
+HU-GS	HU		County	Győr-Moson-Sopron
+HU-HB	HU		County	Hajdú-Bihar
+HU-HE	HU		County	Heves
+HU-JN	HU		County	Jász-Nagykun-Szolnok
+HU-KE	HU		County	Komárom-Esztergom
+HU-NO	HU		County	Nógrád
+HU-PE	HU		County	Pest
+HU-SO	HU		County	Somogy
+HU-SZ	HU		County	Szabolcs-Szatmár-Bereg
+HU-TO	HU		County	Tolna
+HU-VA	HU		County	Vas
+HU-VE	HU		County	Veszprém (county)
+HU-ZA	HU		County	Zala
+HU-BC	HU		City with county rights	Békéscsaba
+HU-DE	HU		City with county rights	Debrecen
+HU-DU	HU		City with county rights	Dunaújváros
+HU-EG	HU		City with county rights	Eger
+HU-ER	HU		City with county rights	Érd
+HU-GY	HU		City with county rights	Győr
+HU-HV	HU		City with county rights	Hódmezővásárhely
+HU-KV	HU		City with county rights	Kaposvár
+HU-KM	HU		City with county rights	Kecskemét
+HU-MI	HU		City with county rights	Miskolc
+HU-NK	HU		City with county rights	Nagykanizsa
+HU-NY	HU		City with county rights	Nyíregyháza
+HU-PS	HU		City with county rights	Pécs
+HU-ST	HU		City with county rights	Salgótarján
+HU-SN	HU		City with county rights	Sopron
+HU-SD	HU		City with county rights	Szeged
+HU-SF	HU		City with county rights	Székesfehérvár
+HU-SS	HU		City with county rights	Szekszárd
+HU-SK	HU		City with county rights	Szolnok
+HU-SH	HU		City with county rights	Szombathely
+HU-TB	HU		City with county rights	Tatabánya
+HU-VM	HU		City with county rights	Veszprém
+HU-ZE	HU		City with county rights	Zalaegerszeg
+HU-BU	HU		Capital city	Budapest
+ID-JW	ID		Geographical unit	Jawa
+ID-KA	ID		Geographical unit	Kalimantan
+ID-ML	ID		Geographical unit	Maluku
+ID-NU	ID		Geographical unit	Nusa Tenggara
+ID-IJ	ID		Geographical unit	Papua
+ID-SL	ID		Geographical unit	Sulawesi
+ID-SM	ID		Geographical unit	Sumatera
+ID-AC	ID	SM	Autonomous Province	Aceh
+ID-BA	ID	NU	Province	Bali
+ID-BB	ID	SM	Province	Bangka Belitung
+ID-BT	ID	JW	Province	Banten
+ID-BE	ID	SM	Province	Bengkulu
+ID-GO	ID	SL	Province	Gorontalo
+ID-JA	ID	SM	Province	Jambi
+ID-JB	ID	JW	Province	Jawa Barat
+ID-JT	ID	JW	Province	Jawa Tengah
+ID-JI	ID	JW	Province	Jawa Timur
+ID-KB	ID	KA	Province	Kalimantan Barat
+ID-KT	ID	KA	Province	Kalimantan Tengah
+ID-KS	ID	KA	Province	Kalimantan Selatan
+ID-KI	ID	KA	Province	Kalimantan Timur
+ID-KR	ID	SM	Province	Kepulauan Riau
+ID-LA	ID	SM	Province	Lampung
+ID-MA	ID	ML	Province	Maluku
+ID-MU	ID	ML	Province	Maluku Utara
+ID-NB	ID	NU	Province	Nusa Tenggara Barat
+ID-NT	ID	NU	Province	Nusa Tenggara Timur
+ID-PA	ID	IJ	Province	Papua
+ID-PB	ID	IJ	Province	Papua Barat
+ID-RI	ID	SM	Province	Riau
+ID-SR	ID	SL	Province	Sulawesi Barat
+ID-SN	ID	SL	Province	Sulawesi Selatan
+ID-ST	ID	SL	Province	Sulawesi Tengah
+ID-SG	ID	SL	Province	Sulawesi Tenggara
+ID-SA	ID	SL	Province	Sulawesi Utara
+ID-SB	ID	SM	Province	Sumatra Barat
+ID-SS	ID	SM	Province	Sumatra Selatan
+ID-SU	ID	SM	Province	Sumatera Utara
+ID-JK	ID	JW	Special District	Jakarta Raya
+ID-YO	ID	JW	Special Region	Yogyakarta
+IE-C	IE		Province	Connacht
+IE-L	IE		Province	Leinster
+IE-M	IE		Province	Munster
+IE-U	IE		Province	Ulster
+IE-CW	IE	L	County	Carlow
+IE-CN	IE	U	County	Cavan
+IE-CE	IE	M	County	Clare
+IE-CO	IE	M	County	Cork
+IE-DL	IE	U	County	Donegal
+IE-D	IE	L	County	Dublin
+IE-G	IE	C	County	Galway
+IE-KY	IE	M	County	Kerry
+IE-KE	IE	L	County	Kildare
+IE-KK	IE	L	County	Kilkenny
+IE-LS	IE	L	County	Laois
+IE-LM	IE	C	County	Leitrim
+IE-LK	IE	M	County	Limerick
+IE-LD	IE	L	County	Longford
+IE-LH	IE	L	County	Louth
+IE-MO	IE	C	County	Mayo
+IE-MH	IE	L	County	Meath
+IE-MN	IE	U	County	Monaghan
+IE-OY	IE	L	County	Offaly
+IE-RN	IE	C	County	Roscommon
+IE-SO	IE	C	County	Sligo
+IE-TA	IE	M	County	Tipperary
+IE-WD	IE	M	County	Waterford
+IE-WH	IE	L	County	Westmeath
+IE-WX	IE	L	County	Wexford
+IE-WW	IE	L	County	Wicklow
+IL-D	IL		District	HaDarom
+IL-M	IL		District	HaMerkaz
+IL-Z	IL		District	HaZafon
+IL-HA	IL		District	Hefa
+IL-TA	IL		District	Tel-Aviv
+IL-JM	IL		District	Yerushalayim Al Quds
+IN-AP	IN		State	Andhra Pradesh
+IN-AR	IN		State	Arunachal Pradesh
+IN-AS	IN		State	Assam
+IN-BR	IN		State	Bihar
+IN-CT	IN		State	Chhattisgarh
+IN-GA	IN		State	Goa
+IN-GJ	IN		State	Gujarat
+IN-HR	IN		State	Haryana
+IN-HP	IN		State	Himachal Pradesh
+IN-JK	IN		State	Jammu and Kashmir
+IN-JH	IN		State	Jharkhand
+IN-KA	IN		State	Karnataka
+IN-KL	IN		State	Kerala
+IN-MP	IN		State	Madhya Pradesh
+IN-MH	IN		State	Maharashtra
+IN-MN	IN		State	Manipur
+IN-ML	IN		State	Meghalaya
+IN-MZ	IN		State	Mizoram
+IN-NL	IN		State	Nagaland
+IN-OR	IN		State	Orissa
+IN-PB	IN		State	Punjab
+IN-RJ	IN		State	Rajasthan
+IN-SK	IN		State	Sikkim
+IN-TN	IN		State	Tamil Nadu
+IN-TR	IN		State	Tripura
+IN-UT	IN		State	Uttarakhand
+IN-UP	IN		State	Uttar Pradesh
+IN-WB	IN		State	West Bengal
+IN-AN	IN		Union territory	Andaman and Nicobar Islands
+IN-CH	IN		Union territory	Chandigarh
+IN-DN	IN		Union territory	Dadra and Nagar Haveli
+IN-DD	IN		Union territory	Damen and Diu
+IN-DL	IN		Union territory	Delhi
+IN-LD	IN		Union territory	Lakshadweep
+IN-PY	IN		Union territory	Puducherry
+IQ-AN	IQ		Governorate	Al Anbar
+IQ-BA	IQ		Governorate	Al Basrah
+IQ-MU	IQ		Governorate	Al Muthanna
+IQ-QA	IQ		Governorate	Al Qadisiyah
+IQ-NA	IQ		Governorate	An Najef
+IQ-AR	IQ		Governorate	Arbil
+IQ-SW	IQ		Governorate	As Sulaymaniyah
+IQ-TS	IQ		Governorate	At Ta'mim
+IQ-BB	IQ		Governorate	Babil
+IQ-BG	IQ		Governorate	Baghdad
+IQ-DA	IQ		Governorate	Dahuk
+IQ-DQ	IQ		Governorate	Dhi Qar
+IQ-DI	IQ		Governorate	Diyala
+IQ-KA	IQ		Governorate	Karbala'
+IQ-MA	IQ		Governorate	Maysan
+IQ-NI	IQ		Governorate	Ninawa
+IQ-SD	IQ		Governorate	Salah ad Din
+IQ-WA	IQ		Governorate	Wasit
+IR-03	IR		Province	Ardabīl
+IR-02	IR		Province	Āzarbāyjān-e Gharbī
+IR-01	IR		Province	Āzarbāyjān-e Sharqī
+IR-06	IR		Province	Būshehr
+IR-08	IR		Province	Chahār Mahāll va Bakhtīārī
+IR-04	IR		Province	Eşfahān
+IR-14	IR		Province	Fārs
+IR-19	IR		Province	Gīlān
+IR-27	IR		Province	Golestān
+IR-24	IR		Province	Hamadān
+IR-23	IR		Province	Hormozgān
+IR-05	IR		Province	Īlām
+IR-15	IR		Province	Kermān
+IR-17	IR		Province	Kermānshāh
+IR-29	IR		Province	Khorāsān-e Janūbī
+IR-30	IR		Province	Khorāsān-e Razavī
+IR-31	IR		Province	Khorāsān-e Shemālī
+IR-10	IR		Province	Khūzestān
+IR-18	IR		Province	Kohgīlūyeh va Būyer Ahmad
+IR-16	IR		Province	Kordestān
+IR-20	IR		Province	Lorestān
+IR-22	IR		Province	Markazī
+IR-21	IR		Province	Māzandarān
+IR-28	IR		Province	Qazvīn
+IR-26	IR		Province	Qom
+IR-12	IR		Province	Semnān
+IR-13	IR		Province	Sīstān va Balūchestān
+IR-07	IR		Province	Tehrān
+IR-25	IR		Province	Yazd
+IR-11	IR		Province	Zanjān
+IS-7	IS		Region	Austurland
+IS-1	IS		Region	Höfuðborgarsvæðið
+IS-6	IS		Region	Norðurland eystra
+IS-5	IS		Region	Norðurland vestra
+IS-8	IS		Region	Suðurland
+IS-2	IS		Region	Suðurnes
+IS-4	IS		Region	Vestfirðir
+IS-3	IS		Region	Vesturland
+IS-0	IS		City	Reykjavík
+IT-65	IT		Region	Abruzzo
+IT-77	IT		Region	Basilicata
+IT-78	IT		Region	Calabria
+IT-72	IT		Region	Campania
+IT-45	IT		Region	Emilia-Romagna
+IT-36	IT		Region	Friuli-Venezia Giulia
+IT-62	IT		Region	Lazio
+IT-42	IT		Region	Liguria
+IT-25	IT		Region	Lombardia
+IT-57	IT		Region	Marche
+IT-67	IT		Region	Molise
+IT-21	IT		Region	Piemonte
+IT-75	IT		Region	Puglia
+IT-88	IT		Region	Sardegna
+IT-82	IT		Region	Sicilia
+IT-52	IT		Region	Toscana
+IT-32	IT		Region	Trentino-Alto Adige
+IT-55	IT		Region	Umbria
+IT-23	IT		Region	Valle d'Aosta
+IT-34	IT		Region	Veneto
+IT-AG	IT	82	Province	Agrigento
+IT-AL	IT	21	Province	Alessandria
+IT-AN	IT	57	Province	Ancona
+IT-AO	IT	23	Province	Aosta
+IT-AR	IT	52	Province	Arezzo
+IT-AP	IT	57	Province	Ascoli Piceno
+IT-AT	IT	21	Province	Asti
+IT-AV	IT	72	Province	Avellino
+IT-BA	IT	75	Province	Bari
+IT-BT	IT	75	Province	Barletta-Andria-Trani
+IT-BL	IT	34	Province	Belluno
+IT-BN	IT	72	Province	Benevento
+IT-BG	IT	25	Province	Bergamo
+IT-BI	IT	21	Province	Biella
+IT-BO	IT	45	Province	Bologna
+IT-BZ	IT	32	Province	Bolzano
+IT-BS	IT	25	Province	Brescia
+IT-BR	IT	75	Province	Brindisi
+IT-CA	IT	88	Province	Cagliari
+IT-CL	IT	82	Province	Caltanissetta
+IT-CB	IT	67	Province	Campobasso
+IT-CI	IT	88	Province	Carbonia-Iglesias
+IT-CE	IT	72	Province	Caserta
+IT-CT	IT	82	Province	Catania
+IT-CZ	IT	78	Province	Catanzaro
+IT-CH	IT	65	Province	Chieti
+IT-CO	IT	25	Province	Como
+IT-CS	IT	78	Province	Cosenza
+IT-CR	IT	25	Province	Cremona
+IT-KR	IT	78	Province	Crotone
+IT-CN	IT	21	Province	Cuneo
+IT-EN	IT	82	Province	Enna
+IT-FM	IT	57	Province	Fermo
+IT-FE	IT	45	Province	Ferrara
+IT-FI	IT	52	Province	Firenze
+IT-FG	IT	75	Province	Foggia
+IT-FC	IT	45	Province	Forlì-Cesena
+IT-FR	IT	62	Province	Frosinone
+IT-GE	IT	42	Province	Genova
+IT-GO	IT	36	Province	Gorizia
+IT-GR	IT	52	Province	Grosseto
+IT-IM	IT	42	Province	Imperia
+IT-IS	IT	67	Province	Isernia
+IT-SP	IT	42	Province	La Spezia
+IT-AQ	IT	65	Province	L'Aquila
+IT-LT	IT	62	Province	Latina
+IT-LE	IT	75	Province	Lecce
+IT-LC	IT	25	Province	Lecco
+IT-LI	IT	52	Province	Livorno
+IT-LO	IT	25	Province	Lodi
+IT-LU	IT	52	Province	Lucca
+IT-MC	IT	57	Province	Macerata
+IT-MN	IT	25	Province	Mantova
+IT-MS	IT	52	Province	Massa-Carrara
+IT-MT	IT	77	Province	Matera
+IT-VS	IT	88	Province	Medio Campidano
+IT-ME	IT	82	Province	Messina
+IT-MI	IT	25	Province	Milano
+IT-MO	IT	45	Province	Modena
+IT-MB	IT	25	Province	Monza e Brianza
+IT-NA	IT	72	Province	Napoli
+IT-NO	IT	21	Province	Novara
+IT-NU	IT	88	Province	Nuoro
+IT-OG	IT	88	Province	Ogliastra
+IT-OT	IT	88	Province	Olbia-Tempio
+IT-OR	IT	88	Province	Oristano
+IT-PD	IT	34	Province	Padova
+IT-PA	IT	82	Province	Palermo
+IT-PR	IT	45	Province	Parma
+IT-PV	IT	25	Province	Pavia
+IT-PG	IT	55	Province	Perugia
+IT-PU	IT	57	Province	Pesaro e Urbino
+IT-PE	IT	65	Province	Pescara
+IT-PC	IT	45	Province	Piacenza
+IT-PI	IT	52	Province	Pisa
+IT-PT	IT	52	Province	Pistoia
+IT-PN	IT	36	Province	Pordenone
+IT-PZ	IT	77	Province	Potenza
+IT-PO	IT	52	Province	Prato
+IT-RG	IT	82	Province	Ragusa
+IT-RA	IT	45	Province	Ravenna
+IT-RC	IT	78	Province	Reggio Calabria
+IT-RE	IT	45	Province	Reggio Emilia
+IT-RI	IT	62	Province	Rieti
+IT-RN	IT	45	Province	Rimini
+IT-RM	IT	62	Province	Roma
+IT-RO	IT	34	Province	Rovigo
+IT-SA	IT	72	Province	Salerno
+IT-SS	IT	88	Province	Sassari
+IT-SV	IT	42	Province	Savona
+IT-SI	IT	52	Province	Siena
+IT-SR	IT	82	Province	Siracusa
+IT-SO	IT	25	Province	Sondrio
+IT-TA	IT	75	Province	Taranto
+IT-TE	IT	65	Province	Teramo
+IT-TR	IT	55	Province	Terni
+IT-TO	IT	21	Province	Torino
+IT-TP	IT	82	Province	Trapani
+IT-TN	IT	32	Province	Trento
+IT-TV	IT	34	Province	Treviso
+IT-TS	IT	36	Province	Trieste
+IT-UD	IT	36	Province	Udine
+IT-VA	IT	25	Province	Varese
+IT-VE	IT	34	Province	Venezia
+IT-VB	IT	21	Province	Verbano-Cusio-Ossola
+IT-VC	IT	21	Province	Vercelli
+IT-VR	IT	34	Province	Verona
+IT-VV	IT	78	Province	Vibo Valentia
+IT-VI	IT	34	Province	Vicenza
+IT-VT	IT	62	Province	Viterbo
+JM-13	JM		Parish	Clarendon
+JM-09	JM		Parish	Hanover
+JM-01	JM		Parish	Kingston
+JM-12	JM		Parish	Manchester
+JM-04	JM		Parish	Portland
+JM-02	JM		Parish	Saint Andrew
+JM-06	JM		Parish	Saint Ann
+JM-14	JM		Parish	Saint Catherine
+JM-11	JM		Parish	Saint Elizabeth
+JM-08	JM		Parish	Saint James
+JM-05	JM		Parish	Saint Mary
+JM-03	JM		Parish	Saint Thomas
+JM-07	JM		Parish	Trelawny
+JM-10	JM		Parish	Westmoreland
+JO-AJ	JO		Governorate	‘Ajlūn
+JO-AQ	JO		Governorate	Al ‘Aqabah
+JO-BA	JO		Governorate	Al Balqā'
+JO-KA	JO		Governorate	Al Karak
+JO-MA	JO		Governorate	Al Mafraq
+JO-AM	JO		Governorate	‘Ammān (Al ‘Aşimah)
+JO-AT	JO		Governorate	Aţ Ţafīlah
+JO-AZ	JO		Governorate	Az Zarqā'
+JO-IR	JO		Governorate	Irbid
+JO-JA	JO		Governorate	Jarash
+JO-MN	JO		Governorate	Ma‘ān
+JO-MD	JO		Governorate	Mādabā
+JP-23	JP		Prefecture	Aichi
+JP-05	JP		Prefecture	Akita
+JP-02	JP		Prefecture	Aomori
+JP-12	JP		Prefecture	Chiba
+JP-38	JP		Prefecture	Ehime
+JP-18	JP		Prefecture	Fukui
+JP-40	JP		Prefecture	Fukuoka
+JP-07	JP		Prefecture	Fukushima
+JP-21	JP		Prefecture	Gifu
+JP-10	JP		Prefecture	Gunma
+JP-34	JP		Prefecture	Hiroshima
+JP-01	JP		Prefecture	Hokkaido
+JP-28	JP		Prefecture	Hyogo
+JP-08	JP		Prefecture	Ibaraki
+JP-17	JP		Prefecture	Ishikawa
+JP-03	JP		Prefecture	Iwate
+JP-37	JP		Prefecture	Kagawa
+JP-46	JP		Prefecture	Kagoshima
+JP-14	JP		Prefecture	Kanagawa
+JP-39	JP		Prefecture	Kochi
+JP-43	JP		Prefecture	Kumamoto
+JP-26	JP		Prefecture	Kyoto
+JP-24	JP		Prefecture	Mie
+JP-04	JP		Prefecture	Miyagi
+JP-45	JP		Prefecture	Miyazaki
+JP-20	JP		Prefecture	Nagano
+JP-42	JP		Prefecture	Nagasaki
+JP-29	JP		Prefecture	Nara
+JP-15	JP		Prefecture	Niigata
+JP-44	JP		Prefecture	Oita
+JP-33	JP		Prefecture	Okayama
+JP-47	JP		Prefecture	Okinawa
+JP-27	JP		Prefecture	Osaka
+JP-41	JP		Prefecture	Saga
+JP-11	JP		Prefecture	Saitama
+JP-25	JP		Prefecture	Shiga
+JP-32	JP		Prefecture	Shimane
+JP-22	JP		Prefecture	Shizuoka
+JP-09	JP		Prefecture	Tochigi
+JP-36	JP		Prefecture	Tokushima
+JP-13	JP		Prefecture	Tokyo
+JP-31	JP		Prefecture	Tottori
+JP-16	JP		Prefecture	Toyama
+JP-30	JP		Prefecture	Wakayama
+JP-06	JP		Prefecture	Yamagata
+JP-35	JP		Prefecture	Yamaguchi
+JP-19	JP		Prefecture	Yamanashi
+KE-110	KE		Province	Nairobi Municipality
+KE-200	KE		Province	Central
+KE-300	KE		Province	Coast
+KE-400	KE		Province	Eastern
+KE-500	KE		Province	North-Eastern Kaskazini Mashariki
+KE-700	KE		Province	Rift Valley
+KE-900	KE		Province	Western Magharibi
+KG-GB	KG		City	Bishkek
+KG-B	KG		Region	Batken
+KG-C	KG		Region	Chü
+KG-J	KG		Region	Jalal-Abad
+KG-N	KG		Region	Naryn
+KG-O	KG		Region	Osh
+KG-T	KG		Region	Talas
+KG-Y	KG		Region	Ysyk-Köl
+KH-23	KH		Autonomous municipality	Krong Kaeb
+KH-24	KH		Autonomous municipality	Krong Pailin
+KH-18	KH		Autonomous municipality	Krong Preah Sihanouk
+KH-12	KH		Autonomous municipality	Phnom Penh
+KH-2	KH		Province	Battambang
+KH-1	KH		Province	Banteay Mean Chey
+KH-3	KH		Province	Kampong Cham
+KH-4	KH		Province	Kampong Chhnang
+KH-5	KH		Province	Kampong Speu
+KH-6	KH		Province	Kampong Thom
+KH-7	KH		Province	Kampot
+KH-8	KH		Province	Kandal
+KH-9	KH		Province	Kach Kong
+KH-10	KH		Province	Krachoh
+KH-11	KH		Province	Mondol Kiri
+KH-22	KH		Province	Otdar Mean Chey
+KH-15	KH		Province	Pousaat
+KH-13	KH		Province	Preah Vihear
+KH-14	KH		Province	Prey Veaeng
+KH-16	KH		Province	Rotanak Kiri
+KH-17	KH		Province	Siem Reab
+KH-19	KH		Province	Stueng Traeng
+KH-20	KH		Province	Svaay Rieng
+KH-21	KH		Province	Taakaev
+KI-G	KI		Island group	Gilbert Islands
+KI-L	KI		Island group	Line Islands
+KI-P	KI		Island group	Phoenix Islands
+KN-K	KN		State	Saint Kitts
+KN-N	KN		State	Nevis
+KN-01	KN	K	Parish	Christ Church Nichola Town
+KN-02	KN	K	Parish	Saint Anne Sandy Point
+KN-03	KN	K	Parish	Saint George Basseterre
+KN-04	KN	N	Parish	Saint George Gingerland
+KN-05	KN	N	Parish	Saint James Windward
+KN-06	KN	K	Parish	Saint John Capisterre
+KN-07	KN	N	Parish	Saint John Figtree
+KN-08	KN	K	Parish	Saint Mary Cayon
+KN-09	KN	K	Parish	Saint Paul Capisterre
+KN-10	KN	N	Parish	Saint Paul Charlestown
+KN-11	KN	K	Parish	Saint Peter Basseterre
+KN-12	KN	N	Parish	Saint Thomas Lowland
+KN-13	KN	K	Parish	Saint Thomas Middle Island
+KN-15	KN	K	Parish	Trinity Palmetto Point
+KM-A	KM		Island	Andjouân (Anjwān)
+KM-G	KM		Island	Andjazîdja (Anjazījah)
+KM-M	KM		Island	Moûhîlî (Mūhīlī)
+KP-01	KP		Capital city	P’yŏngyang
+KP-13	KP		Special city	Nasŏn (Najin-Sŏnbong)
+KP-02	KP		Province	P’yŏngan-namdo
+KP-03	KP		Province	P’yŏngan-bukto
+KP-04	KP		Province	Chagang-do
+KP-05	KP		Province	Hwanghae-namdo
+KP-06	KP		Province	Hwanghae-bukto
+KP-07	KP		Province	Kangwŏn-do
+KP-08	KP		Province	Hamgyŏng-namdo
+KP-09	KP		Province	Hamgyŏng-bukto
+KP-10	KP		Province	Yanggang-do
+KR-11	KR		Capital Metropolitan City	Seoul Teugbyeolsi
+KR-26	KR		Metropolitan cities	Busan Gwang'yeogsi
+KR-27	KR		Metropolitan cities	Daegu Gwang'yeogsi
+KR-30	KR		Metropolitan cities	Daejeon Gwang'yeogsi
+KR-29	KR		Metropolitan cities	Gwangju Gwang'yeogsi
+KR-28	KR		Metropolitan cities	Incheon Gwang'yeogsi
+KR-31	KR		Metropolitan cities	Ulsan Gwang'yeogsi
+KR-43	KR		Province	Chungcheongbukdo
+KR-44	KR		Province	Chungcheongnamdo
+KR-42	KR		Province	Gang'weondo
+KR-41	KR		Province	Gyeonggido
+KR-47	KR		Province	Gyeongsangbukdo
+KR-48	KR		Province	Gyeongsangnamdo
+KR-49	KR		Province	Jejudo
+KR-45	KR		Province	Jeonrabukdo
+KR-46	KR		Province	Jeonranamdo
+KW-AH	KW		Governorate	Al Ahmadi
+KW-FA	KW		Governorate	Al Farwānīyah
+KW-JA	KW		Governorate	Al Jahrrā’
+KW-KU	KW		Governorate	Al Kuwayt (Al ‘Āşimah)
+KW-HA	KW		Governorate	Hawallī
+KW-MU	KW		Governorate	Mubārak al Kabīr
+KZ-ALA	KZ		City	Almaty
+KZ-AST	KZ		City	Astana
+KZ-ALM	KZ		Region	Almaty oblysy
+KZ-AKM	KZ		Region	Aqmola oblysy
+KZ-AKT	KZ		Region	Aqtöbe oblysy
+KZ-ATY	KZ		Region	Atyraū oblysy
+KZ-ZAP	KZ		Region	Batys Quzaqstan oblysy
+KZ-MAN	KZ		Region	Mangghystaū oblysy
+KZ-YUZ	KZ		Region	Ongtüstik Qazaqstan oblysy
+KZ-PAV	KZ		Region	Pavlodar oblysy
+KZ-KAR	KZ		Region	Qaraghandy oblysy
+KZ-KUS	KZ		Region	Qostanay oblysy
+KZ-KZY	KZ		Region	Qyzylorda oblysy
+KZ-VOS	KZ		Region	Shyghys Qazaqstan oblysy
+KZ-SEV	KZ		Region	Soltüstik Quzaqstan oblysy
+KZ-ZHA	KZ		Region	Zhambyl oblysy
+LA-VT	LA		Prefecture	Vientiane
+LA-AT	LA		Province	Attapu
+LA-BK	LA		Province	Bokèo
+LA-BL	LA		Province	Bolikhamxai
+LA-CH	LA		Province	Champasak
+LA-HO	LA		Province	Houaphan
+LA-KH	LA		Province	Khammouan
+LA-LM	LA		Province	Louang Namtha
+LA-LP	LA		Province	Louangphabang
+LA-OU	LA		Province	Oudômxai
+LA-PH	LA		Province	Phôngsali
+LA-SL	LA		Province	Salavan
+LA-SV	LA		Province	Savannakhét
+LA-VI	LA		Province	Vientiane
+LA-XA	LA		Province	Xaignabouli
+LA-XE	LA		Province	Xékong
+LA-XI	LA		Province	Xiangkhoang
+LA-XN	LA		Special zone	Xiasômboun
+LI-01	LI		Commune	Balzers
+LI-02	LI		Commune	Eschen
+LI-03	LI		Commune	Gamprin
+LI-04	LI		Commune	Mauren
+LI-05	LI		Commune	Planken
+LI-06	LI		Commune	Ruggell
+LI-07	LI		Commune	Schaan
+LI-08	LI		Commune	Schellenberg
+LI-09	LI		Commune	Triesen
+LI-10	LI		Commune	Triesenberg
+LI-11	LI		Commune	Vaduz
+LB-AK	LB		Governorate	Aakkâr
+LB-BH	LB		Governorate	Baalbek-Hermel
+LB-BI	LB		Governorate	Béqaa
+LB-BA	LB		Governorate	Beyrouth
+LB-AS	LB		Governorate	Liban-Nord
+LB-JA	LB		Governorate	Liban-Sud
+LB-JL	LB		Governorate	Mont-Liban
+LB-NA	LB		Governorate	Nabatîyé
+LK-1	LK		Province	Basnāhira paḷāta
+LK-3	LK		Province	Dakuṇu paḷāta
+LK-2	LK		Province	Madhyama paḷāta
+LK-5	LK		Province	Næ̆gĕnahira paḷāta
+LK-9	LK		Province	Sabaragamuva paḷāta
+LK-7	LK		Province	Uturumæ̆da paḷāta
+LK-4	LK		Province	Uturu paḷāta
+LK-8	LK		Province	Ūva paḷāta
+LK-6	LK		Province	Vayamba paḷāta
+LK-52	LK	5	District	Ampāara
+LK-71	LK	7	District	Anurādhapura
+LK-81	LK	8	District	Badulla
+LK-51	LK	5	District	Maḍakalapuva
+LK-11	LK	1	District	Kŏḷamba
+LK-31	LK	3	District	Gālla
+LK-12	LK	1	District	Gampaha
+LK-33	LK	3	District	Hambantŏṭa
+LK-41	LK	4	District	Yāpanaya
+LK-13	LK	1	District	Kaḷutara
+LK-21	LK	2	District	Mahanuvara
+LK-92	LK	9	District	Kægalla
+LK-42	LK	4	District	Kilinŏchchi
+LK-61	LK	6	District	Kuruṇægala
+LK-43	LK	4	District	Mannārama
+LK-22	LK	2	District	Mātale
+LK-32	LK	3	District	Mātara
+LK-82	LK	8	District	Mŏṇarāgala
+LK-45	LK	4	District	Mulativ
+LK-23	LK	2	District	Nuvara Ĕliya
+LK-72	LK	7	District	Pŏḷŏnnaruva
+LK-62	LK	6	District	Puttalama
+LK-91	LK	9	District	Ratnapura
+LK-53	LK	5	District	Trikuṇāmalaya
+LK-44	LK	4	District	Vavuniyāva
+LR-BM	LR		County	Bomi
+LR-BG	LR		County	Bong
+LR-GB	LR		County	Grand Bassa
+LR-CM	LR		County	Grand Cape Mount
+LR-GG	LR		County	Grand Gedeh
+LR-GK	LR		County	Grand Kru
+LR-LO	LR		County	Lofa
+LR-MG	LR		County	Margibi
+LR-MY	LR		County	Maryland
+LR-MO	LR		County	Montserrado
+LR-NI	LR		County	Nimba
+LR-RI	LR		County	Rivercess
+LR-SI	LR		County	Sinoe
+LS-D	LS		District	Berea
+LS-B	LS		District	Butha-Buthe
+LS-C	LS		District	Leribe
+LS-E	LS		District	Mafeteng
+LS-A	LS		District	Maseru
+LS-F	LS		District	Mohale's Hoek
+LS-J	LS		District	Mokhotlong
+LS-H	LS		District	Qacha's Nek
+LS-G	LS		District	Quthing
+LS-K	LS		District	Thaba-Tseka
+LT-AL	LT		County	Alytaus Apskritis
+LT-KU	LT		County	Kauno Apskritis
+LT-KL	LT		County	Klaipėdos Apskritis
+LT-MR	LT		County	Marijampolės Apskritis
+LT-PN	LT		County	Panevėžio Apskritis
+LT-SA	LT		County	Šiaulių Apskritis
+LT-TA	LT		County	Tauragés Apskritis
+LT-TE	LT		County	Telšių Apskritis
+LT-UT	LT		County	Utenos Apskritis
+LT-VL	LT		County	Vilniaus Apskritis
+LU-D	LU		District	Diekirch
+LU-G	LU		District	Grevenmacher
+LU-L	LU		District	Luxembourg
+LV-001	LV		Municipality	Aglonas novads
+LV-002	LV		Municipality	Aizkraukles novads
+LV-003	LV		Municipality	Aizputes novads
+LV-004	LV		Municipality	Aknīstes novads
+LV-005	LV		Municipality	Alojas novads
+LV-006	LV		Municipality	Alsungas novads
+LV-007	LV		Municipality	Alūksnes novads
+LV-008	LV		Municipality	Amatas novads
+LV-009	LV		Municipality	Apes novads
+LV-010	LV		Municipality	Auces novads
+LV-011	LV		Municipality	Ādažu novads
+LV-012	LV		Municipality	Babītes novads
+LV-013	LV		Municipality	Baldones novads
+LV-014	LV		Municipality	Baltinavas novads
+LV-015	LV		Municipality	Balvu novads
+LV-016	LV		Municipality	Bauskas novads
+LV-017	LV		Municipality	Beverīnas novads
+LV-018	LV		Municipality	Brocēnu novads
+LV-019	LV		Municipality	Burtnieku novads
+LV-020	LV		Municipality	Carnikavas novads
+LV-021	LV		Municipality	Cesvaines novads
+LV-022	LV		Municipality	Cēsu novads
+LV-023	LV		Municipality	Ciblas novads
+LV-024	LV		Municipality	Dagdas novads
+LV-025	LV		Municipality	Daugavpils novads
+LV-026	LV		Municipality	Dobeles novads
+LV-027	LV		Municipality	Dundagas novads
+LV-028	LV		Municipality	Durbes novads
+LV-029	LV		Municipality	Engures novads
+LV-030	LV		Municipality	Ērgļu novads
+LV-031	LV		Municipality	Garkalnes novads
+LV-032	LV		Municipality	Grobiņas novads
+LV-033	LV		Municipality	Gulbenes novads
+LV-034	LV		Municipality	Iecavas novads
+LV-035	LV		Municipality	Ikšķiles novads
+LV-036	LV		Municipality	Ilūkstes novads
+LV-037	LV		Municipality	Inčukalna novads
+LV-038	LV		Municipality	Jaunjelgavas novads
+LV-039	LV		Municipality	Jaunpiebalgas novads
+LV-040	LV		Municipality	Jaunpils novads
+LV-041	LV		Municipality	Jelgavas novads
+LV-042	LV		Municipality	Jēkabpils novads
+LV-043	LV		Municipality	Kandavas novads
+LV-044	LV		Municipality	Kārsavas novads
+LV-045	LV		Municipality	Kocēnu novads
+LV-046	LV		Municipality	Kokneses novads
+LV-047	LV		Municipality	Krāslavas novads
+LV-048	LV		Municipality	Krimuldas novads
+LV-049	LV		Municipality	Krustpils novads
+LV-050	LV		Municipality	Kuldīgas novads
+LV-051	LV		Municipality	Ķeguma novads
+LV-052	LV		Municipality	Ķekavas novads
+LV-053	LV		Municipality	Lielvārdes novads
+LV-054	LV		Municipality	Limbažu novads
+LV-055	LV		Municipality	Līgatnes novads
+LV-056	LV		Municipality	Līvānu novads
+LV-057	LV		Municipality	Lubānas novads
+LV-058	LV		Municipality	Ludzas novads
+LV-059	LV		Municipality	Madonas novads
+LV-060	LV		Municipality	Mazsalacas novads
+LV-061	LV		Municipality	Mālpils novads
+LV-062	LV		Municipality	Mārupes novads
+LV-063	LV		Municipality	Mērsraga novads
+LV-064	LV		Municipality	Naukšēnu novads
+LV-065	LV		Municipality	Neretas novads
+LV-066	LV		Municipality	Nīcas novads
+LV-067	LV		Municipality	Ogres novads
+LV-068	LV		Municipality	Olaines novads
+LV-069	LV		Municipality	Ozolnieku novads
+LV-070	LV		Municipality	Pārgaujas novads
+LV-071	LV		Municipality	Pāvilostas novads
+LV-072	LV		Municipality	Pļaviņu novads
+LV-073	LV		Municipality	Preiļu novads
+LV-074	LV		Municipality	Priekules novads
+LV-075	LV		Municipality	Priekuļu novads
+LV-076	LV		Municipality	Raunas novads
+LV-077	LV		Municipality	Rēzeknes novads
+LV-078	LV		Municipality	Riebiņu novads
+LV-079	LV		Municipality	Rojas novads
+LV-080	LV		Municipality	Ropažu novads
+LV-081	LV		Municipality	Rucavas novads
+LV-082	LV		Municipality	Rugāju novads
+LV-083	LV		Municipality	Rundāles novads
+LV-084	LV		Municipality	Rūjienas novads
+LV-085	LV		Municipality	Salas novads
+LV-086	LV		Municipality	Salacgrīvas novads
+LV-087	LV		Municipality	Salaspils novads
+LV-088	LV		Municipality	Saldus novads
+LV-089	LV		Municipality	Saulkrastu novads
+LV-090	LV		Municipality	Sējas novads
+LV-091	LV		Municipality	Siguldas novads
+LV-092	LV		Municipality	Skrīveru novads
+LV-093	LV		Municipality	Skrundas novads
+LV-094	LV		Municipality	Smiltenes novads
+LV-095	LV		Municipality	Stopiņu novads
+LV-096	LV		Municipality	Strenču novads
+LV-097	LV		Municipality	Talsu novads
+LV-098	LV		Municipality	Tērvetes novads
+LV-099	LV		Municipality	Tukuma novads
+LV-100	LV		Municipality	Vaiņodes novads
+LV-101	LV		Municipality	Valkas novads
+LV-102	LV		Municipality	Varakļānu novads
+LV-103	LV		Municipality	Vārkavas novads
+LV-104	LV		Municipality	Vecpiebalgas novads
+LV-105	LV		Municipality	Vecumnieku novads
+LV-106	LV		Municipality	Ventspils novads
+LV-107	LV		Municipality	Viesītes novads
+LV-108	LV		Municipality	Viļakas novads
+LV-109	LV		Municipality	Viļānu novads
+LV-110	LV		Municipality	Zilupes novads
+LV-DGV	LV		Republican City	Daugavpils
+LV-JEL	LV		Republican City	Jelgava
+LV-JKB	LV		Republican City	Jēkabpils
+LV-JUR	LV		Republican City	Jūrmala
+LV-LPX	LV		Republican City	Liepāja
+LV-REZ	LV		Republican City	Rēzekne
+LV-RIX	LV		Republican City	Rīga
+LV-VMR	LV		Republican City	Valmiera
+LV-VEN	LV		Republican City	Ventspils
+LY-BU	LY		Popularates	Al Buţnān
+LY-JA	LY		Popularates	Al Jabal al Akhḑar
+LY-JG	LY		Popularates	Al Jabal al Gharbī
+LY-JI	LY		Popularates	Al Jifārah
+LY-JU	LY		Popularates	Al Jufrah
+LY-KF	LY		Popularates	Al Kufrah
+LY-MJ	LY		Popularates	Al Marj
+LY-MB	LY		Popularates	Al Marqab
+LY-WA	LY		Popularates	Al Wāḩāt
+LY-NQ	LY		Popularates	An Nuqaţ al Khams
+LY-ZA	LY		Popularates	Az Zāwiyah
+LY-BA	LY		Popularates	Banghāzī
+LY-DR	LY		Popularates	Darnah
+LY-GT	LY		Popularates	Ghāt
+LY-JB	LY		Popularates	Jaghbūb
+LY-MI	LY		Popularates	Mişrātah
+LY-MQ	LY		Popularates	Murzuq
+LY-NL	LY		Popularates	Nālūt
+LY-SB	LY		Popularates	Sabhā
+LY-SR	LY		Popularates	Surt
+LY-TB	LY		Popularates	Ţarābulus
+LY-WD	LY		Popularates	Wādī al Ḩayāt
+LY-WS	LY		Popularates	Wādī ash Shāţiʾ
+MA-09	MA		Economic region	Chaouia-Ouardigha
+MA-10	MA		Economic region	Doukhala-Abda
+MA-05	MA		Economic region	Fès-Boulemane
+MA-02	MA		Economic region	Gharb-Chrarda-Beni Hssen
+MA-08	MA		Economic region	Grand Casablanca
+MA-14	MA		Economic region	Guelmim-Es Smara
+MA-15	MA		Economic region	Laâyoune-Boujdour-Sakia el Hamra
+MA-04	MA		Economic region	L'Oriental
+MA-11	MA		Economic region	Marrakech-Tensift-Al Haouz
+MA-06	MA		Economic region	Meknès-Tafilalet
+MA-16	MA		Economic region	Oued ed Dahab-Lagouira
+MA-07	MA		Economic region	Rabat-Salé-Zemmour-Zaer
+MA-13	MA		Economic region	Sous-Massa-Draa
+MA-12	MA		Economic region	Tadla-Azilal
+MA-01	MA		Economic region	Tanger-Tétouan
+MA-03	MA		Economic region	Taza-Al Hoceima-Taounate
+MA-HAO	MA	11	Province	Al Haouz
+MA-HOC	MA	03	Province	Al Hoceïma
+MA-ASZ	MA	14	Province	Assa-Zag
+MA-AZI	MA	12	Province	Azilal
+MA-BEM	MA	12	Province	Beni Mellal
+MA-BES	MA	09	Province	Ben Slimane
+MA-BER	MA	04	Province	Berkane
+MA-BOD	MA	15	Province	Boujdour (EH)
+MA-BOM	MA	05	Province	Boulemane
+MA-CHE	MA	01	Province	Chefchaouen
+MA-CHI	MA	11	Province	Chichaoua
+MA-CHT	MA	13	Province	Chtouka-Ait Baha
+MA-HAJ	MA	06	Province	El Hajeb
+MA-JDI	MA	10	Province	El Jadida
+MA-ERR	MA	06	Province	Errachidia
+MA-ESI	MA	11	Province	Essaouira
+MA-ESM	MA	14	Province	Es Smara (EH)
+MA-FIG	MA	04	Province	Figuig
+MA-GUE	MA	14	Province	Guelmim
+MA-IFR	MA	06	Province	Ifrane
+MA-JRA	MA	04	Province	Jrada
+MA-KES	MA	11	Province	Kelaat es Sraghna
+MA-KEN	MA	02	Province	Kénitra
+MA-KHE	MA	07	Province	Khemisaet
+MA-KHN	MA	06	Province	Khenifra
+MA-KHO	MA	09	Province	Khouribga
+MA-LAA	MA	15	Province	Laâyoune (EH)
+MA-LAR	MA	01	Province	Larache
+MA-MED	MA	08	Province	Médiouna
+MA-MOU	MA	05	Province	Moulay Yacoub
+MA-NAD	MA	04	Province	Nador
+MA-NOU	MA	08	Province	Nouaceur
+MA-OUA	MA	13	Province	Ouarzazate
+MA-OUD	MA	16	Province	Oued ed Dahab (EH)
+MA-SAF	MA	10	Province	Safi
+MA-SEF	MA	05	Province	Sefrou
+MA-SET	MA	09	Province	Settat
+MA-SIK	MA	02	Province	Sidl Kacem
+MA-TNT	MA	14	Province	Tan-Tan
+MA-TAO	MA	03	Province	Taounate
+MA-TAI	MA	04	Province	Taourirt
+MA-TAR	MA	13	Province	Taroudant
+MA-TAT	MA	14	Province	Tata
+MA-TAZ	MA	03	Province	Taza
+MA-TIZ	MA	13	Province	Tiznit
+MA-ZAG	MA	13	Province	Zagora
+MA-AGD	MA	13	Prefecture	Agadir-Ida-Outanane
+MA-AOU	MA	16	Prefecture	Aousserd
+MA-CAS	MA	08	Prefecture	Casablanca [Dar el Beïda]
+MA-FAH	MA	01	Prefecture	Fahs-Beni Makada
+MA-FES	MA	05	Prefecture	Fès-Dar-Dbibegh
+MA-INE	MA	13	Prefecture	Inezgane-Ait Melloul
+MA-MMD	MA	11	Prefecture	Marrakech-Medina
+MA-MMN	MA	11	Prefecture	Marrakech-Menara
+MA-MEK	MA	06	Prefecture	Meknès
+MA-MOH	MA	08	Prefecture	Mohammadia
+MA-OUJ	MA	04	Prefecture	Oujda-Angad
+MA-RAB	MA	07	Prefecture	Rabat
+MA-SAL	MA	07	Prefecture	Salé
+MA-SYB	MA	11	Prefecture	Sidi Youssef Ben Ali
+MA-SKH	MA	07	Prefecture	Skhirate-Témara
+MA-TNG	MA	01	Prefecture	Tanger-Assilah
+MA-TET	MA	01	Prefecture	Tétouan
+MC-CO	MC		Quarter	La Condamine
+MC-FO	MC		Quarter	Fontvieille
+MC-JE	MC		Quarter	Jardin Exotique
+MC-CL	MC		Quarter	La Colle
+MC-GA	MC		Quarter	La Gare
+MC-SO	MC		Quarter	La Source
+MC-LA	MC		Quarter	Larvotto
+MC-MA	MC		Quarter	Malbousquet
+MC-MO	MC		Quarter	Monaco-Ville
+MC-MG	MC		Quarter	Moneghetti
+MC-MC	MC		Quarter	Monte-Carlo
+MC-MU	MC		Quarter	Moulins
+MC-PH	MC		Quarter	Port-Hercule
+MC-SR	MC		Quarter	Saint-Roman
+MC-SD	MC		Quarter	Sainte-Dévote
+MC-SP	MC		Quarter	Spélugues
+MC-VR	MC		Quarter	Vallon de la Rousse
+MD-GA	MD		Autonomous territorial unit	Găgăuzia, Unitatea teritorială autonomă
+MD-BA	MD		City	Bălți
+MD-BD	MD		City	Tighina
+MD-CU	MD		City	Chișinău
+MD-AN	MD		District	Anenii Noi
+MD-BS	MD		District	Basarabeasca
+MD-BR	MD		District	Briceni
+MD-CA	MD		District	Cahul
+MD-CT	MD		District	Cantemir
+MD-CL	MD		District	Călărași
+MD-CS	MD		District	Căușeni
+MD-CM	MD		District	Cimișlia
+MD-CR	MD		District	Criuleni
+MD-DO	MD		District	Dondușeni
+MD-DR	MD		District	Drochia
+MD-DU	MD		District	Dubăsari
+MD-ED	MD		District	Edineț
+MD-FA	MD		District	Fălești
+MD-FL	MD		District	Florești
+MD-GL	MD		District	Glodeni
+MD-HI	MD		District	Hîncești
+MD-IA	MD		District	Ialoveni
+MD-LE	MD		District	Leova
+MD-NI	MD		District	Nisporeni
+MD-OC	MD		District	Ocnița
+MD-OR	MD		District	Orhei
+MD-RE	MD		District	Rezina
+MD-RI	MD		District	Rîșcani
+MD-SI	MD		District	Sîngerei
+MD-SO	MD		District	Soroca
+MD-ST	MD		District	Strășeni
+MD-SD	MD		District	Șoldănești
+MD-SV	MD		District	Ștefan Vodă
+MD-TA	MD		District	Taraclia
+MD-TE	MD		District	Telenești
+MD-UN	MD		District	Ungheni
+MD-SN	MD		Territorial unit	Stînga Nistrului, unitatea teritorială din
+ME-01	ME		Municipality	Andrijevica
+ME-02	ME		Municipality	Bar
+ME-03	ME		Municipality	Berane
+ME-04	ME		Municipality	Bijelo Polje
+ME-05	ME		Municipality	Budva
+ME-06	ME		Municipality	Cetinje
+ME-07	ME		Municipality	Danilovgrad
+ME-08	ME		Municipality	Herceg-Novi
+ME-09	ME		Municipality	Kolašin
+ME-10	ME		Municipality	Kotor
+ME-11	ME		Municipality	Mojkovac
+ME-12	ME		Municipality	Nikšić
+ME-13	ME		Municipality	Plav
+ME-14	ME		Municipality	Pljevlja
+ME-15	ME		Municipality	Plužine
+ME-16	ME		Municipality	Podgorica
+ME-17	ME		Municipality	Rožaje
+ME-18	ME		Municipality	Šavnik
+ME-19	ME		Municipality	Tivat
+ME-20	ME		Municipality	Ulcinj
+ME-21	ME		Municipality	Žabljak
+MG-T	MG		Autonomous province	Antananarivo
+MG-D	MG		Autonomous province	Antsiranana
+MG-F	MG		Autonomous province	Fianarantsoa
+MG-M	MG		Autonomous province	Mahajanga
+MG-A	MG		Autonomous province	Toamasina
+MG-U	MG		Autonomous province	Toliara
+MH-L	MH		Chains (of islands)	Ralik chain
+MH-T	MH		Chains (of islands)	Ratak chain
+MH-ALL	MH	L	Municipality	Ailinglaplap
+MH-ALK	MH	T	Municipality	Ailuk
+MH-ARN	MH	T	Municipality	Arno
+MH-AUR	MH	T	Municipality	Aur
+MH-EBO	MH	L	Municipality	Ebon
+MH-ENI	MH	L	Municipality	Enewetak
+MH-JAB	MH	L	Municipality	Jabat
+MH-JAL	MH	L	Municipality	Jaluit
+MH-KIL	MH	L	Municipality	Kili
+MH-KWA	MH	L	Municipality	Kwajalein
+MH-LAE	MH	L	Municipality	Lae
+MH-LIB	MH	L	Municipality	Lib
+MH-LIK	MH	T	Municipality	Likiep
+MH-MAJ	MH	T	Municipality	Majuro
+MH-MAL	MH	T	Municipality	Maloelap
+MH-MEJ	MH	T	Municipality	Mejit
+MH-MIL	MH	T	Municipality	Mili
+MH-NMK	MH	L	Municipality	Namdrik
+MH-NMU	MH	L	Municipality	Namu
+MH-RON	MH	L	Municipality	Rongelap
+MH-UJA	MH	L	Municipality	Ujae
+MH-UTI	MH	T	Municipality	Utirik
+MH-WTN	MH	L	Municipality	Wotho
+MH-WTJ	MH	T	Municipality	Wotje
+MK-01	MK		Municipality	Aerodrom
+MK-02	MK		Municipality	Aračinovo
+MK-03	MK		Municipality	Berovo
+MK-04	MK		Municipality	Bitola
+MK-05	MK		Municipality	Bogdanci
+MK-06	MK		Municipality	Bogovinje
+MK-07	MK		Municipality	Bosilovo
+MK-08	MK		Municipality	Brvenica
+MK-09	MK		Municipality	Butel
+MK-77	MK		Municipality	Centar
+MK-78	MK		Municipality	Centar Župa
+MK-79	MK		Municipality	Čair
+MK-80	MK		Municipality	Čaška
+MK-81	MK		Municipality	Češinovo-Obleševo
+MK-82	MK		Municipality	Čučer Sandevo
+MK-21	MK		Municipality	Debar
+MK-22	MK		Municipality	Debarca
+MK-23	MK		Municipality	Delčevo
+MK-25	MK		Municipality	Demir Hisar
+MK-24	MK		Municipality	Demir Kapija
+MK-26	MK		Municipality	Dojran
+MK-27	MK		Municipality	Dolneni
+MK-28	MK		Municipality	Drugovo
+MK-17	MK		Municipality	Gazi Baba
+MK-18	MK		Municipality	Gevgelija
+MK-29	MK		Municipality	Gjorče Petrov
+MK-19	MK		Municipality	Gostivar
+MK-20	MK		Municipality	Gradsko
+MK-34	MK		Municipality	Ilinden
+MK-35	MK		Municipality	Jegunovce
+MK-37	MK		Municipality	Karbinci
+MK-38	MK		Municipality	Karpoš
+MK-36	MK		Municipality	Kavadarci
+MK-40	MK		Municipality	Kičevo
+MK-39	MK		Municipality	Kisela Voda
+MK-42	MK		Municipality	Kočani
+MK-41	MK		Municipality	Konče
+MK-43	MK		Municipality	Kratovo
+MK-44	MK		Municipality	Kriva Palanka
+MK-45	MK		Municipality	Krivogaštani
+MK-46	MK		Municipality	Kruševo
+MK-47	MK		Municipality	Kumanovo
+MK-48	MK		Municipality	Lipkovo
+MK-49	MK		Municipality	Lozovo
+MK-51	MK		Municipality	Makedonska Kamenica
+MK-52	MK		Municipality	Makedonski Brod
+MK-50	MK		Municipality	Mavrovo-i-Rostuša
+MK-53	MK		Municipality	Mogila
+MK-54	MK		Municipality	Negotino
+MK-55	MK		Municipality	Novaci
+MK-56	MK		Municipality	Novo Selo
+MK-58	MK		Municipality	Ohrid
+MK-57	MK		Municipality	Oslomej
+MK-60	MK		Municipality	Pehčevo
+MK-59	MK		Municipality	Petrovec
+MK-61	MK		Municipality	Plasnica
+MK-62	MK		Municipality	Prilep
+MK-63	MK		Municipality	Probištip
+MK-64	MK		Municipality	Radoviš
+MK-65	MK		Municipality	Rankovce
+MK-66	MK		Municipality	Resen
+MK-67	MK		Municipality	Rosoman
+MK-68	MK		Municipality	Saraj
+MK-70	MK		Municipality	Sopište
+MK-71	MK		Municipality	Staro Nagoričane
+MK-72	MK		Municipality	Struga
+MK-73	MK		Municipality	Strumica
+MK-74	MK		Municipality	Studeničani
+MK-69	MK		Municipality	Sveti Nikole
+MK-83	MK		Municipality	Štip
+MK-84	MK		Municipality	Šuto Orizari
+MK-75	MK		Municipality	Tearce
+MK-76	MK		Municipality	Tetovo
+MK-10	MK		Municipality	Valandovo
+MK-11	MK		Municipality	Vasilevo
+MK-13	MK		Municipality	Veles
+MK-12	MK		Municipality	Vevčani
+MK-14	MK		Municipality	Vinica
+MK-15	MK		Municipality	Vraneštica
+MK-16	MK		Municipality	Vrapčište
+MK-31	MK		Municipality	Zajas
+MK-32	MK		Municipality	Zelenikovo
+MK-33	MK		Municipality	Zrnovci
+MK-30	MK		Municipality	Želino
+ML-BK0	ML		District	Bamako
+ML-7	ML		Region	Gao
+ML-1	ML		Region	Kayes
+ML-8	ML		Region	Kidal
+ML-2	ML		Region	Koulikoro
+ML-5	ML		Region	Mopti
+ML-4	ML		Region	Ségou
+ML-3	ML		Region	Sikasso
+ML-6	ML		Region	Tombouctou
+MM-07	MM		Division	Ayeyarwady
+MM-02	MM		Division	Bago
+MM-03	MM		Division	Magway
+MM-04	MM		Division	Mandalay
+MM-01	MM		Division	Sagaing
+MM-05	MM		Division	Tanintharyi
+MM-06	MM		Division	Yangon
+MM-14	MM		State	Chin
+MM-11	MM		State	Kachin
+MM-12	MM		State	Kayah
+MM-13	MM		State	Kayin
+MM-15	MM		State	Mon
+MM-16	MM		State	Rakhine
+MM-17	MM		State	Shan
+MN-073	MN		Province	Arhangay
+MN-069	MN		Province	Bayanhongor
+MN-071	MN		Province	Bayan-Ölgiy
+MN-067	MN		Province	Bulgan
+MN-061	MN		Province	Dornod
+MN-063	MN		Province	Dornogovi
+MN-059	MN		Province	Dundgovi
+MN-057	MN		Province	Dzavhan
+MN-065	MN		Province	Govi-Altay
+MN-039	MN		Province	Hentiy
+MN-043	MN		Province	Hovd
+MN-041	MN		Province	Hövsgöl
+MN-053	MN		Province	Ömnögovi
+MN-055	MN		Province	Övörhangay
+MN-049	MN		Province	Selenge
+MN-051	MN		Province	Sühbaatar
+MN-047	MN		Province	Töv
+MN-046	MN		Province	Uvs
+MN-1	MN		Municipality	Ulanbaatar
+MN-037	MN		Municipality	Darhan uul
+MN-064	MN		Municipality	Govi-Sumber
+MN-035	MN		Municipality	Orhon
+MR-NKC	MR		District	Nouakchott
+MR-07	MR		Region	Adrar
+MR-03	MR		Region	Assaba
+MR-05	MR		Region	Brakna
+MR-08	MR		Region	Dakhlet Nouadhibou
+MR-04	MR		Region	Gorgol
+MR-10	MR		Region	Guidimaka
+MR-01	MR		Region	Hodh ech Chargui
+MR-02	MR		Region	Hodh el Charbi
+MR-12	MR		Region	Inchiri
+MR-09	MR		Region	Tagant
+MR-11	MR		Region	Tiris Zemmour
+MR-06	MR		Region	Trarza
+MT-01	MT		Local council	Attard
+MT-02	MT		Local council	Balzan
+MT-03	MT		Local council	Birgu
+MT-04	MT		Local council	Birkirkara
+MT-05	MT		Local council	Birżebbuġa
+MT-06	MT		Local council	Bormla
+MT-07	MT		Local council	Dingli
+MT-08	MT		Local council	Fgura
+MT-09	MT		Local council	Floriana
+MT-10	MT		Local council	Fontana
+MT-11	MT		Local council	Gudja
+MT-12	MT		Local council	Gżira
+MT-13	MT		Local council	Għajnsielem
+MT-14	MT		Local council	Għarb
+MT-15	MT		Local council	Għargħur
+MT-16	MT		Local council	Għasri
+MT-17	MT		Local council	Għaxaq
+MT-18	MT		Local council	Ħamrun
+MT-19	MT		Local council	Iklin
+MT-20	MT		Local council	Isla
+MT-21	MT		Local council	Kalkara
+MT-22	MT		Local council	Kerċem
+MT-23	MT		Local council	Kirkop
+MT-24	MT		Local council	Lija
+MT-25	MT		Local council	Luqa
+MT-26	MT		Local council	Marsa
+MT-27	MT		Local council	Marsaskala
+MT-28	MT		Local council	Marsaxlokk
+MT-29	MT		Local council	Mdina
+MT-30	MT		Local council	Mellieħa
+MT-31	MT		Local council	Mġarr
+MT-32	MT		Local council	Mosta
+MT-33	MT		Local council	Mqabba
+MT-34	MT		Local council	Msida
+MT-35	MT		Local council	Mtarfa
+MT-36	MT		Local council	Munxar
+MT-37	MT		Local council	Nadur
+MT-38	MT		Local council	Naxxar
+MT-39	MT		Local council	Paola
+MT-40	MT		Local council	Pembroke
+MT-41	MT		Local council	Pietà
+MT-42	MT		Local council	Qala
+MT-43	MT		Local council	Qormi
+MT-44	MT		Local council	Qrendi
+MT-45	MT		Local council	Rabat Għawdex
+MT-46	MT		Local council	Rabat Malta
+MT-47	MT		Local council	Safi
+MT-48	MT		Local council	San Ġiljan
+MT-49	MT		Local council	San Ġwann
+MT-50	MT		Local council	San Lawrenz
+MT-51	MT		Local council	San Pawl il-Baħar
+MT-52	MT		Local council	Sannat
+MT-53	MT		Local council	Santa Luċija
+MT-54	MT		Local council	Santa Venera
+MT-55	MT		Local council	Siġġiewi
+MT-56	MT		Local council	Sliema
+MT-57	MT		Local council	Swieqi
+MT-58	MT		Local council	Ta’ Xbiex
+MT-59	MT		Local council	Tarxien
+MT-60	MT		Local council	Valletta
+MT-61	MT		Local council	Xagħra
+MT-62	MT		Local council	Xewkija
+MT-63	MT		Local council	Xgħajra
+MT-64	MT		Local council	Żabbar
+MT-65	MT		Local council	Żebbuġ Għawdex
+MT-66	MT		Local council	Żebbuġ Malta
+MT-67	MT		Local council	Żejtun
+MT-68	MT		Local council	Żurrieq
+MU-BR	MU		City	Beau Bassin-Rose Hill
+MU-CU	MU		City	Curepipe
+MU-PU	MU		City	Port Louis
+MU-QB	MU		City	Quatre Bornes
+MU-VP	MU		City	Vacoas-Phoenix
+MU-AG	MU		Dependency	Agalega Islands
+MU-CC	MU		Dependency	Cargados Carajos Shoals
+MU-RO	MU		Dependency	Rodrigues Island
+MU-BL	MU		District	Black River
+MU-FL	MU		District	Flacq
+MU-GP	MU		District	Grand Port
+MU-MO	MU		District	Moka
+MU-PA	MU		District	Pamplemousses
+MU-PW	MU		District	Plaines Wilhems
+MU-PL	MU		District	Port Louis
+MU-RP	MU		District	Rivière du Rempart
+MU-SA	MU		District	Savanne
+MV-MLE	MV		City	Male
+MV-SU	MV		Province	South
+MV-US	MV		Province	Upper South
+MV-UN	MV		Province	Upper North
+MV-CE	MV		Province	Central
+MV-SC	MV		Province	South Central
+MV-NC	MV		Province	North Central
+MV-NO	MV		Province	North
+MV-02	MV	NC	Administrative atoll	Alifu Alifu
+MV-00	MV	NC	Administrative atoll	Alifu Dhaalu
+MV-20	MV	NO	Administrative atoll	Baa
+MV-17	MV	CE	Administrative atoll	Dhaalu
+MV-14	MV	CE	Administrative atoll	Faafu
+MV-27	MV	SC	Administrative atoll	Gaafu Alifu
+MV-28	MV	SC	Administrative atoll	Gaafu Dhaalu
+MV-29	MV	SU	Administrative atoll	Gnaviyani
+MV-07	MV	UN	Administrative atoll	Haa Alifu
+MV-23	MV	UN	Administrative atoll	Haa Dhaalu
+MV-26	MV	NC	Administrative atoll	Kaafu
+MV-05	MV	US	Administrative atoll	Laamu
+MV-03	MV	NO	Administrative atoll	Lhaviyani
+MV-12	MV	CE	Administrative atoll	Meemu
+MV-25	MV	NO	Administrative atoll	Noonu
+MV-13	MV	NO	Administrative atoll	Raa
+MV-01	MV	SU	Administrative atoll	Seenu
+MV-24	MV	UN	Administrative atoll	Shaviyani
+MV-08	MV	US	Administrative atoll	Thaa
+MV-04	MV	NC	Administrative atoll	Vaavu
+MW-C	MW		Region	Central Region
+MW-N	MW		Region	Northern Region
+MW-S	MW		Region	Southern Region
+MW-BA	MW	S	District	Balaka
+MW-BL	MW	S	District	Blantyre
+MW-CK	MW	S	District	Chikwawa
+MW-CR	MW	S	District	Chiradzulu
+MW-CT	MW	N	District	Chitipa
+MW-DE	MW	C	District	Dedza
+MW-DO	MW	C	District	Dowa
+MW-KR	MW	N	District	Karonga
+MW-KS	MW	C	District	Kasungu
+MW-LK	MW	N	District	Likoma
+MW-LI	MW	C	District	Lilongwe
+MW-MH	MW	S	District	Machinga
+MW-MG	MW	S	District	Mangochi
+MW-MC	MW	C	District	Mchinji
+MW-MU	MW	S	District	Mulanje
+MW-MW	MW	S	District	Mwanza
+MW-MZ	MW	N	District	Mzimba
+MW-NE	MW	N	District	Neno
+MW-NB	MW	N	District	Nkhata Bay
+MW-NK	MW	C	District	Nkhotakota
+MW-NS	MW	S	District	Nsanje
+MW-NU	MW	C	District	Ntcheu
+MW-NI	MW	C	District	Ntchisi
+MW-PH	MW	S	District	Phalombe
+MW-RU	MW	N	District	Rumphi
+MW-SA	MW	C	District	Salima
+MW-TH	MW	S	District	Thyolo
+MW-ZO	MW	S	District	Zomba
+MX-DIF	MX		Federal district	Distrito Federal
+MX-AGU	MX		State	Aguascalientes
+MX-BCN	MX		State	Baja California
+MX-BCS	MX		State	Baja California Sur
+MX-CAM	MX		State	Campeche
+MX-COA	MX		State	Coahuila
+MX-COL	MX		State	Colima
+MX-CHP	MX		State	Chiapas
+MX-CHH	MX		State	Chihuahua
+MX-DUR	MX		State	Durango
+MX-GUA	MX		State	Guanajuato
+MX-GRO	MX		State	Guerrero
+MX-HID	MX		State	Hidalgo
+MX-JAL	MX		State	Jalisco
+MX-MEX	MX		State	México
+MX-MIC	MX		State	Michoacán
+MX-MOR	MX		State	Morelos
+MX-NAY	MX		State	Nayarit
+MX-NLE	MX		State	Nuevo León
+MX-OAX	MX		State	Oaxaca
+MX-PUE	MX		State	Puebla
+MX-QUE	MX		State	Querétaro
+MX-ROO	MX		State	Quintana Roo
+MX-SLP	MX		State	San Luis Potosí
+MX-SIN	MX		State	Sinaloa
+MX-SON	MX		State	Sonora
+MX-TAB	MX		State	Tabasco
+MX-TAM	MX		State	Tamaulipas
+MX-TLA	MX		State	Tlaxcala
+MX-VER	MX		State	Veracruz
+MX-YUC	MX		State	Yucatán
+MX-ZAC	MX		State	Zacatecas
+MY-14	MY		Federal Territories	Wilayah Persekutuan Kuala Lumpur
+MY-15	MY		Federal Territories	Wilayah Persekutuan Labuan
+MY-16	MY		Federal Territories	Wilayah Persekutuan Putrajaya
+MY-01	MY		State	Johor
+MY-02	MY		State	Kedah
+MY-03	MY		State	Kelantan
+MY-04	MY		State	Melaka
+MY-05	MY		State	Negeri Sembilan
+MY-06	MY		State	Pahang
+MY-08	MY		State	Perak
+MY-09	MY		State	Perlis
+MY-07	MY		State	Pulau Pinang
+MY-12	MY		State	Sabah
+MY-13	MY		State	Sarawak
+MY-10	MY		State	Selangor
+MY-11	MY		State	Terengganu
+MZ-MPM	MZ		City	Maputo (city)
+MZ-P	MZ		Province	Cabo Delgado
+MZ-G	MZ		Province	Gaza
+MZ-I	MZ		Province	Inhambane
+MZ-B	MZ		Province	Manica
+MZ-L	MZ		Province	Maputo
+MZ-N	MZ		Province	Numpula
+MZ-A	MZ		Province	Niassa
+MZ-S	MZ		Province	Sofala
+MZ-T	MZ		Province	Tete
+MZ-Q	MZ		Province	Zambezia
+NA-CA	NA		Region	Caprivi
+NA-ER	NA		Region	Erongo
+NA-HA	NA		Region	Hardap
+NA-KA	NA		Region	Karas
+NA-KH	NA		Region	Khomas
+NA-KU	NA		Region	Kunene
+NA-OW	NA		Region	Ohangwena
+NA-OK	NA		Region	Okavango
+NA-OH	NA		Region	Omaheke
+NA-OS	NA		Region	Omusati
+NA-ON	NA		Region	Oshana
+NA-OT	NA		Region	Oshikoto
+NA-OD	NA		Region	Otjozondjupa
+NE-8	NE		Capital District	Niamey
+NE-1	NE		Department	Agadez
+NE-2	NE		Department	Diffa
+NE-3	NE		Department	Dosso
+NE-4	NE		Department	Maradi
+NE-5	NE		Department	Tahoua
+NE-6	NE		Department	Tillabéri
+NE-7	NE		Department	Zinder
+NG-FC	NG		Capital Territory	Abuja Capital Territory
+NG-AB	NG		State	Abia
+NG-AD	NG		State	Adamawa
+NG-AK	NG		State	Akwa Ibom
+NG-AN	NG		State	Anambra
+NG-BA	NG		State	Bauchi
+NG-BY	NG		State	Bayelsa
+NG-BE	NG		State	Benue
+NG-BO	NG		State	Borno
+NG-CR	NG		State	Cross River
+NG-DE	NG		State	Delta
+NG-EB	NG		State	Ebonyi
+NG-ED	NG		State	Edo
+NG-EK	NG		State	Ekiti
+NG-EN	NG		State	Enugu
+NG-GO	NG		State	Gombe
+NG-IM	NG		State	Imo
+NG-JI	NG		State	Jigawa
+NG-KD	NG		State	Kaduna
+NG-KN	NG		State	Kano
+NG-KT	NG		State	Katsina
+NG-KE	NG		State	Kebbi
+NG-KO	NG		State	Kogi
+NG-KW	NG		State	Kwara
+NG-LA	NG		State	Lagos
+NG-NA	NG		State	Nassarawa
+NG-NI	NG		State	Niger
+NG-OG	NG		State	Ogun
+NG-ON	NG		State	Ondo
+NG-OS	NG		State	Osun
+NG-OY	NG		State	Oyo
+NG-PL	NG		State	Plateau
+NG-RI	NG		State	Rivers
+NG-SO	NG		State	Sokoto
+NG-TA	NG		State	Taraba
+NG-YO	NG		State	Yobe
+NG-ZA	NG		State	Zamfara
+NI-BO	NI		Department	Boaco
+NI-CA	NI		Department	Carazo
+NI-CI	NI		Department	Chinandega
+NI-CO	NI		Department	Chontales
+NI-ES	NI		Department	Estelí
+NI-GR	NI		Department	Granada
+NI-JI	NI		Department	Jinotega
+NI-LE	NI		Department	León
+NI-MD	NI		Department	Madriz
+NI-MN	NI		Department	Managua
+NI-MS	NI		Department	Masaya
+NI-MT	NI		Department	Matagalpa
+NI-NS	NI		Department	Nueva Segovia
+NI-SJ	NI		Department	Río San Juan
+NI-RI	NI		Department	Rivas
+NI-AN	NI		Autonomous Region	Atlántico Norte
+NI-AS	NI		Autonomous Region	Atlántico Sur
+NL-DR	NL		Province	Drenthe
+NL-FL	NL		Province	Flevoland
+NL-FR	NL		Province	Friesland
+NL-GE	NL		Province	Gelderland
+NL-GR	NL		Province	Groningen
+NL-LI	NL		Province	Limburg
+NL-NB	NL		Province	Noord-Brabant
+NL-NH	NL		Province	Noord-Holland
+NL-OV	NL		Province	Overijssel
+NL-UT	NL		Province	Utrecht
+NL-ZE	NL		Province	Zeeland
+NL-ZH	NL		Province	Zuid-Holland
+NL-AW	NL		Country	Aruba
+NL-CW	NL		Country	Curaçao
+NL-SX	NL		Country	Sint Maarten
+NL-BQ1	NL		Special municipality	Bonaire
+NL-BQ2	NL		Special municipality	Saba
+NL-BQ3	NL		Special municipality	Sint Eustatius
+NO-02	NO		County	Akershus
+NO-09	NO		County	Aust-Agder
+NO-06	NO		County	Buskerud
+NO-20	NO		County	Finnmark
+NO-04	NO		County	Hedmark
+NO-12	NO		County	Hordaland
+NO-15	NO		County	Møre og Romsdal
+NO-18	NO		County	Nordland
+NO-17	NO		County	Nord-Trøndelag
+NO-05	NO		County	Oppland
+NO-03	NO		County	Oslo
+NO-11	NO		County	Rogaland
+NO-14	NO		County	Sogn og Fjordane
+NO-16	NO		County	Sør-Trøndelag
+NO-08	NO		County	Telemark
+NO-19	NO		County	Troms
+NO-10	NO		County	Vest-Agder
+NO-07	NO		County	Vestfold
+NO-01	NO		County	Østfold
+NO-22	NO		Arctic Region	Jan Mayen (Arctic Region)
+NO-21	NO		Arctic Region	Svalbard (Arctic Region)
+NP-1	NP		Development region	Madhyamanchal
+NP-2	NP		Development region	Madhya Pashchimanchal
+NP-3	NP		Development region	Pashchimanchal
+NP-4	NP		Development region	Purwanchal
+NP-5	NP		Development region	Sudur Pashchimanchal
+NP-BA	NP	1	zone	Bagmati
+NP-BH	NP	2	zone	Bheri
+NP-DH	NP	3	zone	Dhawalagiri
+NP-GA	NP	3	zone	Gandaki
+NP-JA	NP	1	zone	Janakpur
+NP-KA	NP	2	zone	Karnali
+NP-KO	NP	4	zone	Kosi
+NP-LU	NP	3	zone	Lumbini
+NP-MA	NP	5	zone	Mahakali
+NP-ME	NP	4	zone	Mechi
+NP-NA	NP	1	zone	Narayani
+NP-RA	NP	2	zone	Rapti
+NP-SA	NP	4	zone	Sagarmatha
+NP-SE	NP	5	zone	Seti
+NR-01	NR		District	Aiwo
+NR-02	NR		District	Anabar
+NR-03	NR		District	Anetan
+NR-04	NR		District	Anibare
+NR-05	NR		District	Baiti
+NR-06	NR		District	Boe
+NR-07	NR		District	Buada
+NR-08	NR		District	Denigomodu
+NR-09	NR		District	Ewa
+NR-10	NR		District	Ijuw
+NR-11	NR		District	Meneng
+NR-12	NR		District	Nibok
+NR-13	NR		District	Uaboe
+NR-14	NR		District	Yaren
+NZ-N	NZ		Island	North Island
+NZ-S	NZ		Island	South Island
+NZ-AUK	NZ	N	Regional council	Auckland
+NZ-BOP	NZ	N	Regional council	Bay of Plenty
+NZ-CAN	NZ	S	Regional council	Canterbury
+NZ-HKB	NZ	N	Regional council	Hawke's Bay
+NZ-MWT	NZ	N	Regional council	Manawatu-Wanganui
+NZ-NTL	NZ	N	Regional council	Northland
+NZ-OTA	NZ	S	Regional council	Otago
+NZ-STL	NZ	S	Regional council	Southland
+NZ-TKI	NZ	N	Regional council	Taranaki
+NZ-WKO	NZ	N	Regional council	Waikato
+NZ-WGN	NZ	N	Regional council	Wellington
+NZ-WTC	NZ	S	Regional council	West Coast
+NZ-GIS	NZ	N	Unitary authority	Gisborne District
+NZ-MBH	NZ	S	Unitary authority	Marlborough District
+NZ-NSN	NZ	S	Unitary authority	Nelson City
+NZ-TAS	NZ	S	Unitary authority	Tasman District
+NZ-CIT	NZ		Special island authority	Chatham Islands Territory
+OM-DA	OM		Region	Ad Dākhilīya
+OM-BA	OM		Region	Al Bāţinah
+OM-WU	OM		Region	Al Wusţá
+OM-SH	OM		Region	Ash Sharqīyah
+OM-ZA	OM		Region	Az̧ Z̧āhirah
+OM-BU	OM		Governorate	Al Buraymī
+OM-MA	OM		Governorate	Masqaţ
+OM-MU	OM		Governorate	Musandam
+OM-ZU	OM		Governorate	Z̧ufār
+PA-1	PA		Province	Bocas del Toro
+PA-4	PA		Province	Chiriquí
+PA-2	PA		Province	Coclé
+PA-3	PA		Province	Colón
+PA-5	PA		Province	Darién
+PA-6	PA		Province	Herrera
+PA-7	PA		Province	Los Santos
+PA-8	PA		Province	Panamá
+PA-9	PA		Province	Veraguas
+PA-EM	PA		Indigenous region	Emberá
+PA-KY	PA		Indigenous region	Kuna Yala
+PA-NB	PA		Indigenous region	Ngöbe-Buglé
+PE-CAL	PE		Constitutional province	El Callao
+PE-LMA	PE		Municipality	Municipalidad Metropolitana de Lima
+PE-AMA	PE		Region	Amazonas
+PE-ANC	PE		Region	Ancash
+PE-APU	PE		Region	Apurímac
+PE-ARE	PE		Region	Arequipa
+PE-AYA	PE		Region	Ayacucho
+PE-CAJ	PE		Region	Cajamarca
+PE-CUS	PE		Region	Cusco [Cuzco]
+PE-HUV	PE		Region	Huancavelica
+PE-HUC	PE		Region	Huánuco
+PE-ICA	PE		Region	Ica
+PE-JUN	PE		Region	Junín
+PE-LAL	PE		Region	La Libertad
+PE-LAM	PE		Region	Lambayeque
+PE-LIM	PE		Region	Lima
+PE-LOR	PE		Region	Loreto
+PE-MDD	PE		Region	Madre de Dios
+PE-MOQ	PE		Region	Moquegua
+PE-PAS	PE		Region	Pasco
+PE-PIU	PE		Region	Piura
+PE-PUN	PE		Region	Puno
+PE-SAM	PE		Region	San Martín
+PE-TAC	PE		Region	Tacna
+PE-TUM	PE		Region	Tumbes
+PE-UCA	PE		Region	Ucayali
+PG-NCD	PG		District	National Capital District (Port Moresby)
+PG-CPM	PG		Province	Central
+PG-CPK	PG		Province	Chimbu
+PG-EHG	PG		Province	Eastern Highlands
+PG-EBR	PG		Province	East New Britain
+PG-ESW	PG		Province	East Sepik
+PG-EPW	PG		Province	Enga
+PG-GPK	PG		Province	Gulf
+PG-MPM	PG		Province	Madang
+PG-MRL	PG		Province	Manus
+PG-MBA	PG		Province	Milne Bay
+PG-MPL	PG		Province	Morobe
+PG-NIK	PG		Province	New Ireland
+PG-NPP	PG		Province	Northern
+PG-SAN	PG		Province	Sandaun
+PG-SHM	PG		Province	Southern Highlands
+PG-WPD	PG		Province	Western
+PG-WHM	PG		Province	Western Highlands
+PG-WBK	PG		Province	West New Britain
+PG-NSB	PG		Autonomous region	Bougainville
+PH-14	PH		Region	Autonomous Region in Muslim Mindanao (ARMM)
+PH-05	PH		Region	Bicol (Region V)
+PH-02	PH		Region	Cagayan Valley (Region II)
+PH-40	PH		Region	CALABARZON (Region IV-A)
+PH-13	PH		Region	Caraga (Region XIII)
+PH-03	PH		Region	Central Luzon (Region III)
+PH-07	PH		Region	Central Visayas (Region VII)
+PH-15	PH		Region	Cordillera Administrative Region (CAR)
+PH-08	PH		Region	Eastern Visayas (Region VIII)
+PH-01	PH		Region	Ilocos (Region I)
+PH-41	PH		Region	MIMAROPA (Region IV-B)
+PH-00	PH		Region	National Capital Region
+PH-10	PH		Region	Northern Mindanao (Region X)
+PH-11	PH		Region	Davao (Region XI)
+PH-12	PH		Region	Soccsksargen (Region XII)
+PH-06	PH		Region	Western Visayas (Region VI)
+PH-09	PH		Region	Zamboanga Peninsula (Region IX)
+PH-ABR	PH	15	Province	Abra
+PH-AGN	PH	13	Province	Agusan del Norte
+PH-AGS	PH	13	Province	Agusan del Sur
+PH-AKL	PH	06	Province	Aklan
+PH-ALB	PH	05	Province	Albay
+PH-ANT	PH	06	Province	Antique
+PH-APA	PH	15	Province	Apayao
+PH-AUR	PH	03	Province	Aurora
+PH-BAS	PH	09	Province	Basilan
+PH-BAN	PH	03	Province	Batasn
+PH-BTN	PH	02	Province	Batanes
+PH-BTG	PH	40	Province	Batangas
+PH-BEN	PH	15	Province	Benguet
+PH-BIL	PH	08	Province	Biliran
+PH-BOH	PH	07	Province	Bohol
+PH-BUK	PH	10	Province	Bukidnon
+PH-BUL	PH	03	Province	Bulacan
+PH-CAG	PH	02	Province	Cagayan
+PH-CAN	PH	05	Province	Camarines Norte
+PH-CAS	PH	05	Province	Camarines Sur
+PH-CAM	PH	10	Province	Camiguin
+PH-CAP	PH	06	Province	Capiz
+PH-CAT	PH	05	Province	Catanduanes
+PH-CAV	PH	40	Province	Cavite
+PH-CEB	PH	07	Province	Cebu
+PH-COM	PH	11	Province	Compostela Valley
+PH-DAV	PH	11	Province	Davao del Norte
+PH-DAS	PH	11	Province	Davao del Sur
+PH-DAO	PH	11	Province	Davao Oriental
+PH-DIN	PH	13	Province	Dinagat Islands
+PH-EAS	PH	08	Province	Eastern Samar
+PH-GUI	PH	06	Province	Guimaras
+PH-IFU	PH	15	Province	Ifugao
+PH-ILN	PH	01	Province	Ilocos Norte
+PH-ILS	PH	01	Province	Ilocos Sur
+PH-ILI	PH	06	Province	Iloilo
+PH-ISA	PH	02	Province	Isabela
+PH-KAL	PH	15	Province	Kalinga-Apayso
+PH-LAG	PH	40	Province	Laguna
+PH-LAN	PH	12	Province	Lanao del Norte
+PH-LAS	PH	14	Province	Lanao del Sur
+PH-LUN	PH	01	Province	La Union
+PH-LEY	PH	08	Province	Leyte
+PH-MAG	PH	14	Province	Maguindanao
+PH-MAD	PH	41	Province	Marinduque
+PH-MAS	PH	05	Province	Masbate
+PH-MDC	PH	41	Province	Mindoro Occidental
+PH-MDR	PH	41	Province	Mindoro Oriental
+PH-MSC	PH	10	Province	Misamis Occidental
+PH-MSR	PH	10	Province	Misamis Oriental
+PH-MOU	PH	15	Province	Mountain Province
+PH-NEC	PH	06	Province	Negroe Occidental
+PH-NER	PH	07	Province	Negros Oriental
+PH-NCO	PH	12	Province	North Cotabato
+PH-NSA	PH	08	Province	Northern Samar
+PH-NUE	PH	03	Province	Nueva Ecija
+PH-NUV	PH	02	Province	Nueva Vizcaya
+PH-PLW	PH	41	Province	Palawan
+PH-PAM	PH	03	Province	Pampanga
+PH-PAN	PH	01	Province	Pangasinan
+PH-QUE	PH	40	Province	Quezon
+PH-QUI	PH	02	Province	Quirino
+PH-RIZ	PH	40	Province	Rizal
+PH-ROM	PH	41	Province	Romblon
+PH-SAR	PH	11	Province	Sarangani
+PH-SIG	PH	07	Province	Siquijor
+PH-SOR	PH	05	Province	Sorsogon
+PH-SCO	PH	11	Province	South Cotabato
+PH-SLE	PH	08	Province	Southern Leyte
+PH-SUK	PH	12	Province	Sultan Kudarat
+PH-SLU	PH	14	Province	Sulu
+PH-SUN	PH	13	Province	Surigao del Norte
+PH-SUR	PH	13	Province	Surigao del Sur
+PH-TAR	PH	03	Province	Tarlac
+PH-TAW	PH	14	Province	Tawi-Tawi
+PH-WSA	PH	08	Province	Western Samar
+PH-ZMB	PH	03	Province	Zambales
+PH-ZAN	PH	09	Province	Zamboanga del Norte
+PH-ZAS	PH	09	Province	Zamboanga del Sur
+PH-ZSI	PH	09	Province	Zamboanga Sibugay
+PK-IS	PK		Capital territory	Islamabad
+PK-BA	PK		Province	Balochistan
+PK-KP	PK		Province	Khyber Pakhtunkhwa
+PK-PB	PK		Province	Punjab
+PK-SD	PK		Province	Sindh
+PK-TA	PK		Territory	Federally Administered Tribal Areas
+PK-JK	PK		Area	Azad Kashmir
+PK-GB	PK		Area	Gilgit-Baltistan
+PL-DS	PL		Province	Dolnośląskie
+PL-KP	PL		Province	Kujawsko-pomorskie
+PL-LU	PL		Province	Lubelskie
+PL-LB	PL		Province	Lubuskie
+PL-LD	PL		Province	Łódzkie
+PL-MA	PL		Province	Małopolskie
+PL-MZ	PL		Province	Mazowieckie
+PL-OP	PL		Province	Opolskie
+PL-PK	PL		Province	Podkarpackie
+PL-PD	PL		Province	Podlaskie
+PL-PM	PL		Province	Pomorskie
+PL-SL	PL		Province	Śląskie
+PL-SK	PL		Province	Świętokrzyskie
+PL-WN	PL		Province	Warmińsko-mazurskie
+PL-WP	PL		Province	Wielkopolskie
+PL-ZP	PL		Province	Zachodniopomorskie
+PS-BTH	PS		Governorate	Bethlehem
+PS-DEB	PS		Governorate	Deir El Balah
+PS-GZA	PS		Governorate	Gaza
+PS-HBN	PS		Governorate	Hebron
+PS-JEN	PS		Governorate	Jenin
+PS-JRH	PS		Governorate	Jericho - Al Aghwar
+PS-JEM	PS		Governorate	Jerusalem
+PS-KYS	PS		Governorate	Khan Yunis
+PS-NBS	PS		Governorate	Nablus
+PS-NGZ	PS		Governorate	North Gaza
+PS-QQA	PS		Governorate	Qalqilya
+PS-RFH	PS		Governorate	Rafah
+PS-RBH	PS		Governorate	Ramallah
+PS-SLT	PS		Governorate	Salfit
+PS-TBS	PS		Governorate	Tubas
+PS-TKM	PS		Governorate	Tulkarm
+PT-01	PT		District	Aveiro
+PT-02	PT		District	Beja
+PT-03	PT		District	Braga
+PT-04	PT		District	Bragança
+PT-05	PT		District	Castelo Branco
+PT-06	PT		District	Coimbra
+PT-07	PT		District	Évora
+PT-08	PT		District	Faro
+PT-09	PT		District	Guarda
+PT-10	PT		District	Leiria
+PT-11	PT		District	Lisboa
+PT-12	PT		District	Portalegre
+PT-13	PT		District	Porto
+PT-14	PT		District	Santarém
+PT-15	PT		District	Setúbal
+PT-16	PT		District	Viana do Castelo
+PT-17	PT		District	Vila Real
+PT-18	PT		District	Viseu
+PT-20	PT		Autonomous region	Região Autónoma dos Açores
+PT-30	PT		Autonomous region	Região Autónoma da Madeira
+PW-002	PW		State	Aimeliik
+PW-004	PW		State	Airai
+PW-010	PW		State	Angaur
+PW-050	PW		State	Hatobohei
+PW-100	PW		State	Kayangel
+PW-150	PW		State	Koror
+PW-212	PW		State	Melekeok
+PW-214	PW		State	Ngaraard
+PW-218	PW		State	Ngarchelong
+PW-222	PW		State	Ngardmau
+PW-224	PW		State	Ngatpang
+PW-226	PW		State	Ngchesar
+PW-227	PW		State	Ngeremlengui
+PW-228	PW		State	Ngiwal
+PW-350	PW		State	Peleliu
+PW-370	PW		State	Sonsorol
+PY-ASU	PY		Capital district	Asunción
+PY-16	PY		Department	Alto Paraguay
+PY-10	PY		Department	Alto Paraná
+PY-13	PY		Department	Amambay
+PY-19	PY		Department	Boquerón
+PY-5	PY		Department	Caaguazú
+PY-6	PY		Department	Caazapá
+PY-14	PY		Department	Canindeyú
+PY-11	PY		Department	Central
+PY-1	PY		Department	Concepción
+PY-3	PY		Department	Cordillera
+PY-4	PY		Department	Guairá
+PY-7	PY		Department	Itapúa
+PY-8	PY		Department	Misiones
+PY-12	PY		Department	Ñeembucú
+PY-9	PY		Department	Paraguarí
+PY-15	PY		Department	Presidente Hayes
+PY-2	PY		Department	San Pedro
+QA-DA	QA		Municipality	Ad Dawhah
+QA-KH	QA		Municipality	Al Khawr wa adh Dhakhīrah
+QA-WA	QA		Municipality	Al Wakrah
+QA-RA	QA		Municipality	Ar Rayyan
+QA-MS	QA		Municipality	Ash Shamal
+QA-ZA	QA		Municipality	Az̧ Z̧a‘āyin
+QA-US	QA		Municipality	Umm Salal
+RO-AB	RO		Department	Alba
+RO-AR	RO		Department	Arad
+RO-AG	RO		Department	Argeș
+RO-BC	RO		Department	Bacău
+RO-BH	RO		Department	Bihor
+RO-BN	RO		Department	Bistrița-Năsăud
+RO-BT	RO		Department	Botoșani
+RO-BV	RO		Department	Brașov
+RO-BR	RO		Department	Brăila
+RO-BZ	RO		Department	Buzău
+RO-CS	RO		Department	Caraș-Severin
+RO-CL	RO		Department	Călărași
+RO-CJ	RO		Department	Cluj
+RO-CT	RO		Department	Constanța
+RO-CV	RO		Department	Covasna
+RO-DB	RO		Department	Dâmbovița
+RO-DJ	RO		Department	Dolj
+RO-GL	RO		Department	Galați
+RO-GR	RO		Department	Giurgiu
+RO-GJ	RO		Department	Gorj
+RO-HR	RO		Department	Harghita
+RO-HD	RO		Department	Hunedoara
+RO-IL	RO		Department	Ialomița
+RO-IS	RO		Department	Iași
+RO-IF	RO		Department	Ilfov
+RO-MM	RO		Department	Maramureș
+RO-MH	RO		Department	Mehedinți
+RO-MS	RO		Department	Mureș
+RO-NT	RO		Department	Neamț
+RO-OT	RO		Department	Olt
+RO-PH	RO		Department	Prahova
+RO-SM	RO		Department	Satu Mare
+RO-SJ	RO		Department	Sălaj
+RO-SB	RO		Department	Sibiu
+RO-SV	RO		Department	Suceava
+RO-TR	RO		Department	Teleorman
+RO-TM	RO		Department	Timiș
+RO-TL	RO		Department	Tulcea
+RO-VS	RO		Department	Vaslui
+RO-VL	RO		Department	Vâlcea
+RO-VN	RO		Department	Vrancea
+RO-B	RO		Municipality	București
+RS-00	RS		City	Beograd
+RS-KM	RS		Autonomous province	Kosovo-Metohija
+RS-VO	RS		Autonomous province	Vojvodina
+RS-14	RS		District	Borski okrug
+RS-11	RS		District	Braničevski okrug
+RS-23	RS		District	Jablanički okrug
+RS-06	RS	VO	District	Južnobački okrug
+RS-04	RS	VO	District	Južnobanatski okrug
+RS-09	RS		District	Kolubarski okrug
+RS-25	RS	KM	District	Kosovski okrug
+RS-28	RS	KM	District	Kosovsko-Mitrovački okrug
+RS-29	RS	KM	District	Kosovsko-Pomoravski okrug
+RS-08	RS		District	Mačvanski okrug
+RS-17	RS		District	Moravički okrug
+RS-20	RS		District	Nišavski okrug
+RS-24	RS		District	Pčinjski okrug
+RS-26	RS	KM	District	Pećki okrug
+RS-22	RS		District	Pirotski okrug
+RS-10	RS		District	Podunavski okrug
+RS-13	RS		District	Pomoravski okrug
+RS-27	RS	KM	District	Prizrenski okrug
+RS-19	RS		District	Rasinski okrug
+RS-18	RS		District	Raški okrug
+RS-01	RS	VO	District	Severnobački okrug
+RS-03	RS	VO	District	Severnobanatski okrug
+RS-02	RS	VO	District	Srednjebanatski okrug
+RS-07	RS	VO	District	Sremski okrug
+RS-12	RS		District	Šumadijski okrug
+RS-21	RS		District	Toplički okrug
+RS-15	RS		District	Zaječarski okrug
+RS-05	RS	VO	District	Zapadnobački okrug
+RS-16	RS		District	Zlatiborski okrug
+RU-AD	RU		Republic	Adygeya, Respublika
+RU-AL	RU		Republic	Altay, Respublika
+RU-BA	RU		Republic	Bashkortostan, Respublika
+RU-BU	RU		Republic	Buryatiya, Respublika
+RU-CE	RU		Republic	Chechenskaya Respublika
+RU-CU	RU		Republic	Chuvashskaya Respublika
+RU-DA	RU		Republic	Dagestan, Respublika
+RU-IN	RU		Republic	Respublika Ingushetiya
+RU-KB	RU		Republic	Kabardino-Balkarskaya Respublika
+RU-KL	RU		Republic	Kalmykiya, Respublika
+RU-KC	RU		Republic	Karachayevo-Cherkesskaya Respublika
+RU-KR	RU		Republic	Kareliya, Respublika
+RU-KK	RU		Republic	Khakasiya, Respublika
+RU-KO	RU		Republic	Komi, Respublika
+RU-ME	RU		Republic	Mariy El, Respublika
+RU-MO	RU		Republic	Mordoviya, Respublika
+RU-SA	RU		Republic	Sakha, Respublika [Yakutiya]
+RU-SE	RU		Republic	Severnaya Osetiya-Alaniya, Respublika
+RU-TA	RU		Republic	Tatarstan, Respublika
+RU-TY	RU		Republic	Tyva, Respublika [Tuva]
+RU-UD	RU		Republic	Udmurtskaya Respublika
+RU-ALT	RU		Administrative Territory	Altayskiy kray
+RU-KAM	RU		Administrative Territory	Kamchatskiy kray
+RU-KHA	RU		Administrative Territory	Khabarovskiy kray
+RU-KDA	RU		Administrative Territory	Krasnodarskiy kray
+RU-KYA	RU		Administrative Territory	Krasnoyarskiy kray
+RU-PER	RU		Administrative Territory	Permskiy kray
+RU-PRI	RU		Administrative Territory	Primorskiy kray
+RU-STA	RU		Administrative Territory	Stavropol'skiy kray
+RU-ZAB	RU		Administrative Territory	Zabajkal'skij kraj
+RU-AMU	RU		Administrative Region	Amurskaya oblast'
+RU-ARK	RU		Administrative Region	Arkhangel'skaya oblast'
+RU-AST	RU		Administrative Region	Astrakhanskaya oblast'
+RU-BEL	RU		Administrative Region	Belgorodskaya oblast'
+RU-BRY	RU		Administrative Region	Bryanskaya oblast'
+RU-CHE	RU		Administrative Region	Chelyabinskaya oblast'
+RU-IRK	RU		Administrative Region	Irkutiskaya oblast'
+RU-IVA	RU		Administrative Region	Ivanovskaya oblast'
+RU-KGD	RU		Administrative Region	Kaliningradskaya oblast'
+RU-KLU	RU		Administrative Region	Kaluzhskaya oblast'
+RU-KEM	RU		Administrative Region	Kemerovskaya oblast'
+RU-KIR	RU		Administrative Region	Kirovskaya oblast'
+RU-KOS	RU		Administrative Region	Kostromskaya oblast'
+RU-KGN	RU		Administrative Region	Kurganskaya oblast'
+RU-KRS	RU		Administrative Region	Kurskaya oblast'
+RU-LEN	RU		Administrative Region	Leningradskaya oblast'
+RU-LIP	RU		Administrative Region	Lipetskaya oblast'
+RU-MAG	RU		Administrative Region	Magadanskaya oblast'
+RU-MOS	RU		Administrative Region	Moskovskaya oblast'
+RU-MUR	RU		Administrative Region	Murmanskaya oblast'
+RU-NIZ	RU		Administrative Region	Nizhegorodskaya oblast'
+RU-NGR	RU		Administrative Region	Novgorodskaya oblast'
+RU-NVS	RU		Administrative Region	Novosibirskaya oblast'
+RU-OMS	RU		Administrative Region	Omskaya oblast'
+RU-ORE	RU		Administrative Region	Orenburgskaya oblast'
+RU-ORL	RU		Administrative Region	Orlovskaya oblast'
+RU-PNZ	RU		Administrative Region	Penzenskaya oblast'
+RU-PSK	RU		Administrative Region	Pskovskaya oblast'
+RU-ROS	RU		Administrative Region	Rostovskaya oblast'
+RU-RYA	RU		Administrative Region	Ryazanskaya oblast'
+RU-SAK	RU		Administrative Region	Sakhalinskaya oblast'
+RU-SAM	RU		Administrative Region	Samaraskaya oblast'
+RU-SAR	RU		Administrative Region	Saratovskaya oblast'
+RU-SMO	RU		Administrative Region	Smolenskaya oblast'
+RU-SVE	RU		Administrative Region	Sverdlovskaya oblast'
+RU-TAM	RU		Administrative Region	Tambovskaya oblast'
+RU-TOM	RU		Administrative Region	Tomskaya oblast'
+RU-TUL	RU		Administrative Region	Tul'skaya oblast'
+RU-TVE	RU		Administrative Region	Tverskaya oblast'
+RU-TYU	RU		Administrative Region	Tyumenskaya oblast'
+RU-ULY	RU		Administrative Region	Ul'yanovskaya oblast'
+RU-VLA	RU		Administrative Region	Vladimirskaya oblast'
+RU-VGG	RU		Administrative Region	Volgogradskaya oblast'
+RU-VLG	RU		Administrative Region	Vologodskaya oblast'
+RU-VOR	RU		Administrative Region	Voronezhskaya oblast'
+RU-YAR	RU		Administrative Region	Yaroslavskaya oblast'
+RU-MOW	RU		Autonomous City	Moskva
+RU-SPE	RU		Autonomous City	Sankt-Peterburg
+RU-YEV	RU		Autonomous Region	Yevreyskaya avtonomnaya oblast'
+RU-CHU	RU		Autonomous District	Chukotskiy avtonomnyy okrug
+RU-KHM	RU		Autonomous District	Khanty-Mansiysky avtonomnyy okrug-Yugra
+RU-NEN	RU		Autonomous District	Nenetskiy avtonomnyy okrug
+RU-YAN	RU		Autonomous District	Yamalo-Nenetskiy avtonomnyy okrug
+RW-01	RW		Town council	Ville de Kigali
+RW-02	RW		Province	Est
+RW-03	RW		Province	Nord
+RW-04	RW		Province	Ouest
+RW-05	RW		Province	Sud
+SA-11	SA		Province	Al Bāhah
+SA-08	SA		Province	Al Ḥudūd ash Shamāliyah
+SA-12	SA		Province	Al Jawf
+SA-03	SA		Province	Al Madīnah
+SA-05	SA		Province	Al Qaşīm
+SA-01	SA		Province	Ar Riyāḍ
+SA-04	SA		Province	Ash Sharqīyah
+SA-14	SA		Province	`Asīr
+SA-06	SA		Province	Ḥā'il
+SA-09	SA		Province	Jīzan
+SA-02	SA		Province	Makkah
+SA-10	SA		Province	Najrān
+SA-07	SA		Province	Tabūk
+SB-CT	SB		Capital territory	Capital Territory (Honiara)
+SB-CE	SB		Province	Central
+SB-CH	SB		Province	Choiseul
+SB-GU	SB		Province	Guadalcanal
+SB-IS	SB		Province	Isabel
+SB-MK	SB		Province	Makira
+SB-ML	SB		Province	Malaita
+SB-RB	SB		Province	Rennell and Bellona
+SB-TE	SB		Province	Temotu
+SB-WE	SB		Province	Western
+SC-01	SC		District	Anse aux Pins
+SC-02	SC		District	Anse Boileau
+SC-03	SC		District	Anse Etoile
+SC-04	SC		District	Anse Louis
+SC-05	SC		District	Anse Royale
+SC-06	SC		District	Baie Lazare
+SC-07	SC		District	Baie Sainte Anne
+SC-08	SC		District	Beau Vallon
+SC-09	SC		District	Bel Air
+SC-10	SC		District	Bel Ombre
+SC-11	SC		District	Cascade
+SC-12	SC		District	Glacis
+SC-13	SC		District	Grand Anse Mahe
+SC-14	SC		District	Grand Anse Praslin
+SC-15	SC		District	La Digue
+SC-16	SC		District	English River
+SC-24	SC		District	Les Mamelles
+SC-17	SC		District	Mont Buxton
+SC-18	SC		District	Mont Fleuri
+SC-19	SC		District	Plaisance
+SC-20	SC		District	Pointe Larue
+SC-21	SC		District	Port Glaud
+SC-25	SC		District	Roche Caiman
+SC-22	SC		District	Saint Louis
+SC-23	SC		District	Takamaka
+SD-RS	SD		state	Al Baḩr al Aḩmar
+SD-GZ	SD		state	Al Jazīrah
+SD-KH	SD		state	Al Kharţūm
+SD-GD	SD		state	Al Qaḑārif
+SD-NR	SD		state	An Nīl
+SD-NW	SD		state	An Nīl al Abyaḑ
+SD-NB	SD		state	An Nīl al Azraq
+SD-NO	SD		state	Ash Shamālīyah
+SD-DW	SD		state	Gharb Dārfūr
+SD-DS	SD		state	Janūb Dārfūr
+SD-KS	SD		state	Janūb Kurdufān
+SD-KA	SD		state	Kassalā
+SD-DN	SD		state	Shamāl Dārfūr
+SD-KN	SD		state	Shamāl Kurdufān
+SD-DE	SD		state	Sharq Dārfūr
+SD-SI	SD		state	Sinnār
+SD-DC	SD		state	Zalingei
+SE-K	SE		County	Blekinge län
+SE-W	SE		County	Dalarnas län
+SE-I	SE		County	Gotlands län
+SE-X	SE		County	Gävleborgs län
+SE-N	SE		County	Hallands län
+SE-Z	SE		County	Jämtlande län
+SE-F	SE		County	Jönköpings län
+SE-H	SE		County	Kalmar län
+SE-G	SE		County	Kronobergs län
+SE-BD	SE		County	Norrbottens län
+SE-M	SE		County	Skåne län
+SE-AB	SE		County	Stockholms län
+SE-D	SE		County	Södermanlands län
+SE-C	SE		County	Uppsala län
+SE-S	SE		County	Värmlands län
+SE-AC	SE		County	Västerbottens län
+SE-Y	SE		County	Västernorrlands län
+SE-U	SE		County	Västmanlands län
+SE-O	SE		County	Västra Götalands län
+SE-T	SE		County	Örebro län
+SE-E	SE		County	Östergötlands län
+SG-01	SG		district	Central Singapore
+SG-02	SG		district	North East
+SG-03	SG		district	North West
+SG-04	SG		district	South East
+SG-05	SG		district	South West
+SG-AC	SH		Geographical Entity	Ascension
+SG-HL	SH		Geographical Entity	Saint Helena
+SG-TA	SH		Geographical Entity	Tristan da Cunha
+SI-001	SI		Municipality	Ajdovščina
+SI-195	SI		Municipality	Apače
+SI-002	SI		Municipality	Beltinci
+SI-148	SI		Municipality	Benedikt
+SI-149	SI		Municipality	Bistrica ob Sotli
+SI-003	SI		Municipality	Bled
+SI-150	SI		Municipality	Bloke
+SI-004	SI		Municipality	Bohinj
+SI-005	SI		Municipality	Borovnica
+SI-006	SI		Municipality	Bovec
+SI-151	SI		Municipality	Braslovče
+SI-007	SI		Municipality	Brda
+SI-008	SI		Municipality	Brezovica
+SI-009	SI		Municipality	Brežice
+SI-152	SI		Municipality	Cankova
+SI-011	SI		Municipality	Celje
+SI-012	SI		Municipality	Cerklje na Gorenjskem
+SI-013	SI		Municipality	Cerknica
+SI-014	SI		Municipality	Cerkno
+SI-153	SI		Municipality	Cerkvenjak
+SI-196	SI		Municipality	Cirkulane
+SI-015	SI		Municipality	Črenšovci
+SI-016	SI		Municipality	Črna na Koroškem
+SI-017	SI		Municipality	Črnomelj
+SI-018	SI		Municipality	Destrnik
+SI-019	SI		Municipality	Divača
+SI-154	SI		Municipality	Dobje
+SI-020	SI		Municipality	Dobrepolje
+SI-155	SI		Municipality	Dobrna
+SI-021	SI		Municipality	Dobrova-Polhov Gradec
+SI-156	SI		Municipality	Dobrovnik/Dobronak
+SI-022	SI		Municipality	Dol pri Ljubljani
+SI-157	SI		Municipality	Dolenjske Toplice
+SI-023	SI		Municipality	Domžale
+SI-024	SI		Municipality	Dornava
+SI-025	SI		Municipality	Dravograd
+SI-026	SI		Municipality	Duplek
+SI-027	SI		Municipality	Gorenja vas-Poljane
+SI-028	SI		Municipality	Gorišnica
+SI-207	SI		Municipality	Gorje
+SI-029	SI		Municipality	Gornja Radgona
+SI-030	SI		Municipality	Gornji Grad
+SI-031	SI		Municipality	Gornji Petrovci
+SI-158	SI		Municipality	Grad
+SI-032	SI		Municipality	Grosuplje
+SI-159	SI		Municipality	Hajdina
+SI-160	SI		Municipality	Hoče-Slivnica
+SI-161	SI		Municipality	Hodoš/Hodos
+SI-162	SI		Municipality	Horjul
+SI-034	SI		Municipality	Hrastnik
+SI-035	SI		Municipality	Hrpelje-Kozina
+SI-036	SI		Municipality	Idrija
+SI-037	SI		Municipality	Ig
+SI-038	SI		Municipality	Ilirska Bistrica
+SI-039	SI		Municipality	Ivančna Gorica
+SI-040	SI		Municipality	Izola/Isola
+SI-041	SI		Municipality	Jesenice
+SI-163	SI		Municipality	Jezersko
+SI-042	SI		Municipality	Juršinci
+SI-043	SI		Municipality	Kamnik
+SI-044	SI		Municipality	Kanal
+SI-045	SI		Municipality	Kidričevo
+SI-046	SI		Municipality	Kobarid
+SI-047	SI		Municipality	Kobilje
+SI-048	SI		Municipality	Kočevje
+SI-049	SI		Municipality	Komen
+SI-164	SI		Municipality	Komenda
+SI-050	SI		Municipality	Koper/Capodistria
+SI-197	SI		Municipality	Kosanjevica na Krki
+SI-165	SI		Municipality	Kostel
+SI-051	SI		Municipality	Kozje
+SI-052	SI		Municipality	Kranj
+SI-053	SI		Municipality	Kranjska Gora
+SI-166	SI		Municipality	Križevci
+SI-054	SI		Municipality	Krško
+SI-055	SI		Municipality	Kungota
+SI-056	SI		Municipality	Kuzma
+SI-057	SI		Municipality	Laško
+SI-058	SI		Municipality	Lenart
+SI-059	SI		Municipality	Lendava/Lendva
+SI-060	SI		Municipality	Litija
+SI-061	SI		Municipality	Ljubljana
+SI-062	SI		Municipality	Ljubno
+SI-063	SI		Municipality	Ljutomer
+SI-208	SI		Municipality	Log-Dragomer
+SI-064	SI		Municipality	Logatec
+SI-065	SI		Municipality	Loška dolina
+SI-066	SI		Municipality	Loški Potok
+SI-167	SI		Municipality	Lovrenc na Pohorju
+SI-067	SI		Municipality	Luče
+SI-068	SI		Municipality	Lukovica
+SI-069	SI		Municipality	Majšperk
+SI-198	SI		Municipality	Makole
+SI-070	SI		Municipality	Maribor
+SI-168	SI		Municipality	Markovci
+SI-071	SI		Municipality	Medvode
+SI-072	SI		Municipality	Mengeš
+SI-073	SI		Municipality	Metlika
+SI-074	SI		Municipality	Mežica
+SI-169	SI		Municipality	Miklavž na Dravskem polju
+SI-075	SI		Municipality	Miren-Kostanjevica
+SI-170	SI		Municipality	Mirna Peč
+SI-076	SI		Municipality	Mislinja
+SI-199	SI		Municipality	Mokronog-Trebelno
+SI-077	SI		Municipality	Moravče
+SI-078	SI		Municipality	Moravske Toplice
+SI-079	SI		Municipality	Mozirje
+SI-080	SI		Municipality	Murska Sobota
+SI-081	SI		Municipality	Muta
+SI-082	SI		Municipality	Naklo
+SI-083	SI		Municipality	Nazarje
+SI-084	SI		Municipality	Nova Gorica
+SI-085	SI		Municipality	Novo mesto
+SI-086	SI		Municipality	Odranci
+SI-171	SI		Municipality	Oplotnica
+SI-087	SI		Municipality	Ormož
+SI-088	SI		Municipality	Osilnica
+SI-089	SI		Municipality	Pesnica
+SI-090	SI		Municipality	Piran/Pirano
+SI-091	SI		Municipality	Pivka
+SI-092	SI		Municipality	Podčetrtek
+SI-172	SI		Municipality	Podlehnik
+SI-093	SI		Municipality	Podvelka
+SI-200	SI		Municipality	Poljčane
+SI-173	SI		Municipality	Polzela
+SI-094	SI		Municipality	Postojna
+SI-174	SI		Municipality	Prebold
+SI-095	SI		Municipality	Preddvor
+SI-175	SI		Municipality	Prevalje
+SI-096	SI		Municipality	Ptuj
+SI-097	SI		Municipality	Puconci
+SI-098	SI		Municipality	Rače-Fram
+SI-099	SI		Municipality	Radeče
+SI-100	SI		Municipality	Radenci
+SI-101	SI		Municipality	Radlje ob Dravi
+SI-102	SI		Municipality	Radovljica
+SI-103	SI		Municipality	Ravne na Koroškem
+SI-176	SI		Municipality	Razkrižje
+SI-209	SI		Municipality	Rečica ob Savinji
+SI-201	SI		Municipality	Renče-Vogrsko
+SI-104	SI		Municipality	Ribnica
+SI-177	SI		Municipality	Ribnica na Pohorju
+SI-106	SI		Municipality	Rogaška Slatina
+SI-105	SI		Municipality	Rogašovci
+SI-107	SI		Municipality	Rogatec
+SI-108	SI		Municipality	Ruše
+SI-178	SI		Municipality	Selnica ob Dravi
+SI-109	SI		Municipality	Semič
+SI-110	SI		Municipality	Sevnica
+SI-111	SI		Municipality	Sežana
+SI-112	SI		Municipality	Slovenj Gradec
+SI-113	SI		Municipality	Slovenska Bistrica
+SI-114	SI		Municipality	Slovenske Konjice
+SI-179	SI		Municipality	Sodražica
+SI-180	SI		Municipality	Solčava
+SI-202	SI		Municipality	Središče ob Dravi
+SI-115	SI		Municipality	Starče
+SI-203	SI		Municipality	Straža
+SI-181	SI		Municipality	Sveta Ana
+SI-204	SI		Municipality	Sveta Trojica v Slovenskih Goricah
+SI-182	SI		Municipality	Sveta Andraž v Slovenskih Goricah
+SI-116	SI		Municipality	Sveti Jurij
+SI-210	SI		Municipality	Sveti Jurij v Slovenskih Goricah
+SI-205	SI		Municipality	Sveti Tomaž
+SI-033	SI		Municipality	Šalovci
+SI-183	SI		Municipality	Šempeter-Vrtojba
+SI-117	SI		Municipality	Šenčur
+SI-118	SI		Municipality	Šentilj
+SI-119	SI		Municipality	Šentjernej
+SI-120	SI		Municipality	Šentjur
+SI-211	SI		Municipality	Šentrupert
+SI-121	SI		Municipality	Škocjan
+SI-122	SI		Municipality	Škofja Loka
+SI-123	SI		Municipality	Škofljica
+SI-124	SI		Municipality	Šmarje pri Jelšah
+SI-206	SI		Municipality	Šmarjeske Topliče
+SI-125	SI		Municipality	Šmartno ob Paki
+SI-194	SI		Municipality	Šmartno pri Litiji
+SI-126	SI		Municipality	Šoštanj
+SI-127	SI		Municipality	Štore
+SI-184	SI		Municipality	Tabor
+SI-010	SI		Municipality	Tišina
+SI-128	SI		Municipality	Tolmin
+SI-129	SI		Municipality	Trbovlje
+SI-130	SI		Municipality	Trebnje
+SI-185	SI		Municipality	Trnovska vas
+SI-186	SI		Municipality	Trzin
+SI-131	SI		Municipality	Tržič
+SI-132	SI		Municipality	Turnišče
+SI-133	SI		Municipality	Velenje
+SI-187	SI		Municipality	Velika Polana
+SI-134	SI		Municipality	Velike Lašče
+SI-188	SI		Municipality	Veržej
+SI-135	SI		Municipality	Videm
+SI-136	SI		Municipality	Vipava
+SI-137	SI		Municipality	Vitanje
+SI-138	SI		Municipality	Vodice
+SI-139	SI		Municipality	Vojnik
+SI-189	SI		Municipality	Vransko
+SI-140	SI		Municipality	Vrhnika
+SI-141	SI		Municipality	Vuzenica
+SI-142	SI		Municipality	Zagorje ob Savi
+SI-143	SI		Municipality	Zavrč
+SI-144	SI		Municipality	Zreče
+SI-190	SI		Municipality	Žalec
+SI-146	SI		Municipality	Železniki
+SI-191	SI		Municipality	Žetale
+SI-147	SI		Municipality	Žiri
+SI-192	SI		Municipality	Žirovnica
+SI-193	SI		Municipality	Žužemberk
+SK-BC	SK		Region	Banskobystrický kraj
+SK-BL	SK		Region	Bratislavský kraj
+SK-KI	SK		Region	Košický kraj
+SK-NI	SK		Region	Nitriansky kraj
+SK-PV	SK		Region	Prešovský kraj
+SK-TC	SK		Region	Trenčiansky kraj
+SK-TA	SK		Region	Trnavský kraj
+SK-ZI	SK		Region	Žilinský kraj
+SL-W	SL		Area	Western Area (Freetown)
+SL-E	SL		Province	Eastern
+SL-N	SL		Province	Northern
+SL-S	SL		Province	Southern (Sierra Leone)
+SM-01	SM		Municipalities	Acquaviva
+SM-06	SM		Municipalities	Borgo Maggiore
+SM-02	SM		Municipalities	Chiesanuova
+SM-03	SM		Municipalities	Domagnano
+SM-04	SM		Municipalities	Faetano
+SM-05	SM		Municipalities	Fiorentino
+SM-08	SM		Municipalities	Montegiardino
+SM-07	SM		Municipalities	San Marino
+SM-09	SM		Municipalities	Serravalle
+SN-DK	SN		Region	Dakar
+SN-DB	SN		Region	Diourbel
+SN-FK	SN		Region	Fatick
+SN-KA	SN		Region	Kaffrine
+SN-KL	SN		Region	Kaolack
+SN-KE	SN		Region	Kédougou
+SN-KD	SN		Region	Kolda
+SN-LG	SN		Region	Louga
+SN-MT	SN		Region	Matam
+SN-SL	SN		Region	Saint-Louis
+SN-SE	SN		Region	Sédhiou
+SN-TC	SN		Region	Tambacounda
+SN-TH	SN		Region	Thiès
+SN-ZG	SN		Region	Ziguinchor
+SO-AW	SO		Region	Awdal
+SO-BK	SO		Region	Bakool
+SO-BN	SO		Region	Banaadir
+SO-BR	SO		Region	Bari
+SO-BY	SO		Region	Bay
+SO-GA	SO		Region	Galguduud
+SO-GE	SO		Region	Gedo
+SO-HI	SO		Region	Hiirsan
+SO-JD	SO		Region	Jubbada Dhexe
+SO-JH	SO		Region	Jubbada Hoose
+SO-MU	SO		Region	Mudug
+SO-NU	SO		Region	Nugaal
+SO-SA	SO		Region	Saneag
+SO-SD	SO		Region	Shabeellaha Dhexe
+SO-SH	SO		Region	Shabeellaha Hoose
+SO-SO	SO		Region	Sool
+SO-TO	SO		Region	Togdheer
+SO-WO	SO		Region	Woqooyi Galbeed
+SR-BR	SR		District	Brokopondo
+SR-CM	SR		District	Commewijne
+SR-CR	SR		District	Coronie
+SR-MA	SR		District	Marowijne
+SR-NI	SR		District	Nickerie
+SR-PR	SR		District	Para
+SR-PM	SR		District	Paramaribo
+SR-SA	SR		District	Saramacca
+SR-SI	SR		District	Sipaliwini
+SR-WA	SR		District	Wanica
+SD-EC	SS		state	Central Equatoria
+SD-EE8	SS		state	Eastern Equatoria
+SD-JG	SS		state	Jonglei
+SD-LK	SS		state	Lakes
+SD-BN	SS		state	Northern Bahr el-Ghazal
+SD-UY	SS		state	Unity
+SD-NU	SS		state	Upper Nile
+SD-WR	SS		state	Warrap
+SD-BW	SS		state	Western Bahr el-Ghazal
+SD-EW	SS		state	Western Equatoria
+ST-P	ST		Municipality	Príncipe
+ST-S	ST		Municipality	São Tomé
+SV-AH	SV		Department	Ahuachapán
+SV-CA	SV		Department	Cabañas
+SV-CU	SV		Department	Cuscatlán
+SV-CH	SV		Department	Chalatenango
+SV-LI	SV		Department	La Libertad
+SV-PA	SV		Department	La Paz
+SV-UN	SV		Department	La Unión
+SV-MO	SV		Department	Morazán
+SV-SM	SV		Department	San Miguel
+SV-SS	SV		Department	San Salvador
+SV-SA	SV		Department	Santa Ana
+SV-SV	SV		Department	San Vicente
+SV-SO	SV		Department	Sonsonate
+SV-US	SV		Department	Usulután
+SY-HA	SY		Governorate	Al Hasakah
+SY-LA	SY		Governorate	Al Ladhiqiyah
+SY-QU	SY		Governorate	Al Qunaytirah
+SY-RA	SY		Governorate	Ar Raqqah
+SY-SU	SY		Governorate	As Suwayda'
+SY-DR	SY		Governorate	Dar'a
+SY-DY	SY		Governorate	Dayr az Zawr
+SY-DI	SY		Governorate	Dimashq
+SY-HL	SY		Governorate	Halab
+SY-HM	SY		Governorate	Hamah
+SY-HI	SY		Governorate	Homs
+SY-ID	SY		Governorate	Idlib
+SY-RD	SY		Governorate	Rif Dimashq
+SY-TA	SY		Governorate	Tartus
+SZ-HH	SZ		District	Hhohho
+SZ-LU	SZ		District	Lubombo
+SZ-MA	SZ		District	Manzini
+SZ-SH	SZ		District	Shiselweni
+TD-BA	TD		Region	Al Baṭḩah
+TD-LC	TD		Region	Al Buḩayrah
+TD-BG	TD		Region	Baḩr al Ghazāl
+TD-BO	TD		Region	Būrkū
+TD-HL	TD		Region	Ḥajjar Lamīs
+TD-EN	TD		Region	Innīdī
+TD-KA	TD		Region	Kānim
+TD-LO	TD		Region	Lūqūn al Gharbī
+TD-LR	TD		Region	Lūqūn ash Sharqī
+TD-ND	TD		Region	Madīnat Injamīnā
+TD-MA	TD		Region	Māndūl
+TD-MO	TD		Region	Māyū Kībbī al Gharbī
+TD-ME	TD		Region	Māyū Kībbī ash Sharqī
+TD-GR	TD		Region	Qīrā
+TD-SA	TD		Region	Salāmāt
+TD-MC	TD		Region	Shārī al Awsaṭ
+TD-CB	TD		Region	Shārī Bāqirmī
+TD-SI	TD		Region	Sīlā
+TD-TA	TD		Region	Tānjilī
+TD-TI	TD		Region	Tibastī
+TD-OD	TD		Region	Waddāy
+TD-WF	TD		Region	Wādī Fīrā
+TG-C	TG		Region	Région du Centre
+TG-K	TG		Region	Région de la Kara
+TG-M	TG		Region	Région Maritime
+TG-P	TG		Region	Région des Plateaux
+TG-S	TG		Region	Région des Savannes
+TH-10	TH		Municipality	Krung Thep Maha Nakhon Bangkok
+TH-S	TH		Province	Phatthaya
+TH-37	TH		Province	Amnat Charoen
+TH-15	TH		Province	Ang Thong
+TH-31	TH		Province	Buri Ram
+TH-24	TH		Province	Chachoengsao
+TH-18	TH		Province	Chai Nat
+TH-36	TH		Province	Chaiyaphum
+TH-22	TH		Province	Chanthaburi
+TH-50	TH		Province	Chiang Mai
+TH-57	TH		Province	Chiang Rai
+TH-20	TH		Province	Chon Buri
+TH-86	TH		Province	Chumphon
+TH-46	TH		Province	Kalasin
+TH-62	TH		Province	Kamphaeng Phet
+TH-71	TH		Province	Kanchanaburi
+TH-40	TH		Province	Khon Kaen
+TH-81	TH		Province	Krabi
+TH-52	TH		Province	Lampang
+TH-51	TH		Province	Lamphun
+TH-42	TH		Province	Loei
+TH-16	TH		Province	Lop Buri
+TH-58	TH		Province	Mae Hong Son
+TH-44	TH		Province	Maha Sarakham
+TH-49	TH		Province	Mukdahan
+TH-26	TH		Province	Nakhon Nayok
+TH-73	TH		Province	Nakhon Pathom
+TH-48	TH		Province	Nakhon Phanom
+TH-30	TH		Province	Nakhon Ratchasima
+TH-60	TH		Province	Nakhon Sawan
+TH-80	TH		Province	Nakhon Si Thammarat
+TH-55	TH		Province	Nan
+TH-96	TH		Province	Narathiwat
+TH-39	TH		Province	Nong Bua Lam Phu
+TH-43	TH		Province	Nong Khai
+TH-12	TH		Province	Nonthaburi
+TH-13	TH		Province	Pathum Thani
+TH-94	TH		Province	Pattani
+TH-82	TH		Province	Phangnga
+TH-93	TH		Province	Phatthalung
+TH-56	TH		Province	Phayao
+TH-67	TH		Province	Phetchabun
+TH-76	TH		Province	Phetchaburi
+TH-66	TH		Province	Phichit
+TH-65	TH		Province	Phitsanulok
+TH-54	TH		Province	Phrae
+TH-14	TH		Province	Phra Nakhon Si Ayutthaya
+TH-83	TH		Province	Phuket
+TH-25	TH		Province	Prachin Buri
+TH-77	TH		Province	Prachuap Khiri Khan
+TH-85	TH		Province	Ranong
+TH-70	TH		Province	Ratchaburi
+TH-21	TH		Province	Rayong
+TH-45	TH		Province	Roi Et
+TH-27	TH		Province	Sa Kaeo
+TH-47	TH		Province	Sakon Nakhon
+TH-11	TH		Province	Samut Prakan
+TH-74	TH		Province	Samut Sakhon
+TH-75	TH		Province	Samut Songkhram
+TH-19	TH		Province	Saraburi
+TH-91	TH		Province	Satun
+TH-17	TH		Province	Sing Buri
+TH-33	TH		Province	Si Sa Ket
+TH-90	TH		Province	Songkhla
+TH-64	TH		Province	Sukhothai
+TH-72	TH		Province	Suphan Buri
+TH-84	TH		Province	Surat Thani
+TH-32	TH		Province	Surin
+TH-63	TH		Province	Tak
+TH-92	TH		Province	Trang
+TH-23	TH		Province	Trat
+TH-34	TH		Province	Ubon Ratchathani
+TH-41	TH		Province	Udon Thani
+TH-61	TH		Province	Uthai Thani
+TH-53	TH		Province	Uttaradit
+TH-95	TH		Province	Yala
+TH-35	TH		Province	Yasothon
+TJ-GB	TJ		Autonomous region	Gorno-Badakhshan
+TJ-KT	TJ		Region	Khatlon
+TJ-SU	TJ		Region	Sughd
+TL-AL	TL		District	Aileu
+TL-AN	TL		District	Ainaro
+TL-BA	TL		District	Baucau
+TL-BO	TL		District	Bobonaro
+TL-CO	TL		District	Cova Lima
+TL-DI	TL		District	Díli
+TL-ER	TL		District	Ermera
+TL-LA	TL		District	Lautem
+TL-LI	TL		District	Liquiça
+TL-MT	TL		District	Manatuto
+TL-MF	TL		District	Manufahi
+TL-OE	TL		District	Oecussi
+TL-VI	TL		District	Viqueque
+TM-A	TM		Region	Ahal
+TM-B	TM		Region	Balkan
+TM-D	TM		Region	Daşoguz
+TM-L	TM		Region	Lebap
+TM-M	TM		Region	Mary
+TM-S	TM		City	Aşgabat
+TN-12	TN		Governorate	Ariana
+TN-31	TN		Governorate	Béja
+TN-13	TN		Governorate	Ben Arous
+TN-23	TN		Governorate	Bizerte
+TN-81	TN		Governorate	Gabès
+TN-71	TN		Governorate	Gafsa
+TN-32	TN		Governorate	Jendouba
+TN-41	TN		Governorate	Kairouan
+TN-42	TN		Governorate	Kasserine
+TN-73	TN		Governorate	Kebili
+TN-33	TN		Governorate	Le Kef
+TN-53	TN		Governorate	Mahdia
+TN-14	TN		Governorate	La Manouba
+TN-82	TN		Governorate	Medenine
+TN-52	TN		Governorate	Monastir
+TN-21	TN		Governorate	Nabeul
+TN-61	TN		Governorate	Sfax
+TN-43	TN		Governorate	Sidi Bouzid
+TN-34	TN		Governorate	Siliana
+TN-51	TN		Governorate	Sousse
+TN-83	TN		Governorate	Tataouine
+TN-72	TN		Governorate	Tozeur
+TN-11	TN		Governorate	Tunis
+TN-22	TN		Governorate	Zaghouan
+TO-01	TO		Division	'Eua
+TO-02	TO		Division	Ha'apai
+TO-03	TO		Division	Niuas
+TO-04	TO		Division	Tongatapu
+TO-05	TO		Division	Vava'u
+TR-01	TR		Province	Adana
+TR-02	TR		Province	Adıyaman
+TR-03	TR		Province	Afyonkarahisar
+TR-04	TR		Province	Ağrı
+TR-68	TR		Province	Aksaray
+TR-05	TR		Province	Amasya
+TR-06	TR		Province	Ankara
+TR-07	TR		Province	Antalya
+TR-75	TR		Province	Ardahan
+TR-08	TR		Province	Artvin
+TR-09	TR		Province	Aydın
+TR-10	TR		Province	Balıkesir
+TR-74	TR		Province	Bartın
+TR-72	TR		Province	Batman
+TR-69	TR		Province	Bayburt
+TR-11	TR		Province	Bilecik
+TR-12	TR		Province	Bingöl
+TR-13	TR		Province	Bitlis
+TR-14	TR		Province	Bolu
+TR-15	TR		Province	Burdur
+TR-16	TR		Province	Bursa
+TR-17	TR		Province	Çanakkale
+TR-18	TR		Province	Çankırı
+TR-19	TR		Province	Çorum
+TR-20	TR		Province	Denizli
+TR-21	TR		Province	Diyarbakır
+TR-81	TR		Province	Düzce
+TR-22	TR		Province	Edirne
+TR-23	TR		Province	Elazığ
+TR-24	TR		Province	Erzincan
+TR-25	TR		Province	Erzurum
+TR-26	TR		Province	Eskişehir
+TR-27	TR		Province	Gaziantep
+TR-28	TR		Province	Giresun
+TR-29	TR		Province	Gümüşhane
+TR-30	TR		Province	Hakkâri
+TR-31	TR		Province	Hatay
+TR-76	TR		Province	Iğdır
+TR-32	TR		Province	Isparta
+TR-34	TR		Province	İstanbul
+TR-35	TR		Province	İzmir
+TR-46	TR		Province	Kahramanmaraş
+TR-78	TR		Province	Karabük
+TR-70	TR		Province	Karaman
+TR-36	TR		Province	Kars
+TR-37	TR		Province	Kastamonu
+TR-38	TR		Province	Kayseri
+TR-71	TR		Province	Kırıkkale
+TR-39	TR		Province	Kırklareli
+TR-40	TR		Province	Kırşehir
+TR-79	TR		Province	Kilis
+TR-41	TR		Province	Kocaeli
+TR-42	TR		Province	Konya
+TR-43	TR		Province	Kütahya
+TR-44	TR		Province	Malatya
+TR-45	TR		Province	Manisa
+TR-47	TR		Province	Mardin
+TR-33	TR		Province	Mersin
+TR-48	TR		Province	Muğla
+TR-49	TR		Province	Muş
+TR-50	TR		Province	Nevşehir
+TR-51	TR		Province	Niğde
+TR-52	TR		Province	Ordu
+TR-80	TR		Province	Osmaniye
+TR-53	TR		Province	Rize
+TR-54	TR		Province	Sakarya
+TR-55	TR		Province	Samsun
+TR-56	TR		Province	Siirt
+TR-57	TR		Province	Sinop
+TR-58	TR		Province	Sivas
+TR-63	TR		Province	Şanlıurfa
+TR-73	TR		Province	Şırnak
+TR-59	TR		Province	Tekirdağ
+TR-60	TR		Province	Tokat
+TR-61	TR		Province	Trabzon
+TR-62	TR		Province	Tunceli
+TR-64	TR		Province	Uşak
+TR-65	TR		Province	Van
+TR-77	TR		Province	Yalova
+TR-66	TR		Province	Yozgat
+TR-67	TR		Province	Zonguldak
+TT-CTT	TT		Region	Couva-Tabaquite-Talparo
+TT-DMN	TT		Region	Diego Martin
+TT-ETO	TT		Region	Eastern Tobago
+TT-PED	TT		Region	Penal-Debe
+TT-PRT	TT		Region	Princes Town
+TT-RCM	TT		Region	Rio Claro-Mayaro
+TT-SGE	TT		Region	Sangre Grande
+TT-SJL	TT		Region	San Juan-Laventille
+TT-SIP	TT		Region	Siparia
+TT-TUP	TT		Region	Tunapuna-Piarco
+TT-WTO	TT		Region	Western Tobago
+TT-ARI	TT		Borough	Arima
+TT-CHA	TT		Borough	Chaguanas
+TT-PTF	TT		Borough	Point Fortin
+TT-POS	TT		City	Port of Spain
+TT-SFO	TT		City	San Fernando
+TV-FUN	TV		Town council	Funafuti
+TV-NMG	TV		Island council	Nanumanga
+TV-NMA	TV		Island council	Nanumea
+TV-NIT	TV		Island council	Niutao
+TV-NIU	TV		Island council	Nui
+TV-NKF	TV		Island council	Nukufetau
+TV-NKL	TV		Island council	Nukulaelae
+TV-VAI	TV		Island council	Vaitupu
+TW-CHA	TW		District	Changhua
+TW-CYQ	TW		District	Chiayi
+TW-HSQ	TW		District	Hsinchu
+TW-HUA	TW		District	Hualien
+TW-ILA	TW		District	Ilan
+TW-KHQ	TW		District	Kaohsiung
+TW-MIA	TW		District	Miaoli
+TW-NAN	TW		District	Nantou
+TW-PEN	TW		District	Penghu
+TW-PIF	TW		District	Pingtung
+TW-TXQ	TW		District	Taichung
+TW-TNQ	TW		District	Tainan
+TW-TPQ	TW		District	Taipei
+TW-TTT	TW		District	Taitung
+TW-TAO	TW		District	Taoyuan
+TW-YUN	TW		District	Yunlin
+TW-CYI	TW		Municipality	Chiay City
+TW-HSZ	TW		Municipality	Hsinchui City
+TW-KEE	TW		Municipality	Keelung City
+TW-TXG	TW		Municipality	Taichung City
+TW-TNN	TW		Municipality	Tainan City
+TW-KHH	TW		Special Municipality	Kaohsiung City
+TW-TPE	TW		Special Municipality	Taipei City
+TZ-01	TZ		Region	Arusha
+TZ-02	TZ		Region	Dar-es-Salaam
+TZ-03	TZ		Region	Dodoma
+TZ-04	TZ		Region	Iringa
+TZ-05	TZ		Region	Kagera
+TZ-06	TZ		Region	Kaskazini Pemba
+TZ-07	TZ		Region	Kaskazini Unguja
+TZ-08	TZ		Region	Kigoma
+TZ-09	TZ		Region	Kilimanjaro
+TZ-10	TZ		Region	Kusini Pemba
+TZ-11	TZ		Region	Kusini Unguja
+TZ-12	TZ		Region	Lindi
+TZ-26	TZ		Region	Manyara
+TZ-13	TZ		Region	Mara
+TZ-14	TZ		Region	Mbeya
+TZ-15	TZ		Region	Mjini Magharibi
+TZ-16	TZ		Region	Morogoro
+TZ-17	TZ		Region	Mtwara
+TZ-18	TZ		Region	Mwanza
+TZ-19	TZ		Region	Pwani
+TZ-20	TZ		Region	Rukwa
+TZ-21	TZ		Region	Ruvuma
+TZ-22	TZ		Region	Shinyanga
+TZ-23	TZ		Region	Singida
+TZ-24	TZ		Region	Tabora
+TZ-25	TZ		Region	Tanga
+UA-71	UA		Province	Cherkas'ka Oblast'
+UA-74	UA		Province	Chernihivs'ka Oblast'
+UA-77	UA		Province	Chernivets'ka Oblast'
+UA-12	UA		Province	Dnipropetrovs'ka Oblast'
+UA-14	UA		Province	Donets'ka Oblast'
+UA-26	UA		Province	Ivano-Frankivs'ka Oblast'
+UA-63	UA		Province	Kharkivs'ka Oblast'
+UA-65	UA		Province	Khersons'ka Oblast'
+UA-68	UA		Province	Khmel'nyts'ka Oblast'
+UA-35	UA		Province	Kirovohrads'ka Oblast'
+UA-32	UA		Province	Kyïvs'ka Oblast'
+UA-09	UA		Province	Luhans'ka Oblast'
+UA-46	UA		Province	L'vivs'ka Oblast'
+UA-48	UA		Province	Mykolaïvs'ka Oblast'
+UA-51	UA		Province	Odes'ka Oblast'
+UA-53	UA		Province	Poltavs'ka Oblast'
+UA-56	UA		Province	Rivnens'ka Oblast'
+UA-59	UA		Province	Sums 'ka Oblast'
+UA-61	UA		Province	Ternopil's'ka Oblast'
+UA-05	UA		Province	Vinnyts'ka Oblast'
+UA-07	UA		Province	Volyns'ka Oblast'
+UA-21	UA		Province	Zakarpats'ka Oblast'
+UA-23	UA		Province	Zaporiz'ka Oblast'
+UA-18	UA		Province	Zhytomyrs'ka Oblast'
+UA-43	UA		Autonomous republic	Respublika Krym
+UA-30	UA		City	Kyïvs'ka mis'ka rada
+UA-40	UA		City	Sevastopol
+UG-C	UG		Geographical region	Central
+UG-E	UG		Geographical region	Eastern
+UG-N	UG		Geographical region	Northern
+UG-W	UG		Geographical region	Western
+UG-317	UG	N	District	Abim
+UG-301	UG	N	District	Adjumani
+UG-314	UG	N	District	Amolatar
+UG-216	UG	E	District	Amuria
+UG-319	UG	N	District	Amuru
+UG-302	UG	N	District	Apac
+UG-303	UG	N	District	Arua
+UG-217	UG	E	District	Budaka
+UG-223	UG	E	District	Bududa
+UG-201	UG	E	District	Bugiri
+UG-224	UG	E	District	Bukedea
+UG-218	UG	E	District	Bukwa
+UG-419	UG	W	District	Buliisa
+UG-401	UG	W	District	Bundibugyo
+UG-402	UG	W	District	Bushenyi
+UG-202	UG	E	District	Busia
+UG-219	UG	E	District	Butaleja
+UG-318	UG	N	District	Dokolo
+UG-304	UG	N	District	Gulu
+UG-403	UG	W	District	Hoima
+UG-416	UG	W	District	Ibanda
+UG-203	UG	E	District	Iganga
+UG-417	UG	W	District	Isingiro
+UG-204	UG	E	District	Jinja
+UG-315	UG	N	District	Kaabong
+UG-404	UG	W	District	Kabale
+UG-405	UG	W	District	Kabarole
+UG-213	UG	E	District	Kaberamaido
+UG-101	UG	C	District	Kalangala
+UG-220	UG	E	District	Kaliro
+UG-102	UG	C	District	Kampala
+UG-205	UG	E	District	Kamuli
+UG-413	UG	W	District	Kamwenge
+UG-414	UG	W	District	Kanungu
+UG-206	UG	E	District	Kapchorwa
+UG-406	UG	W	District	Kasese
+UG-207	UG	E	District	Katakwi
+UG-112	UG	C	District	Kayunga
+UG-407	UG	W	District	Kibaale
+UG-103	UG	C	District	Kiboga
+UG-418	UG	W	District	Kiruhura
+UG-408	UG	W	District	Kisoro
+UG-305	UG	N	District	Kitgum
+UG-316	UG	N	District	Koboko
+UG-306	UG	N	District	Kotido
+UG-208	UG	E	District	Kumi
+UG-415	UG	W	District	Kyenjojo
+UG-307	UG	N	District	Lira
+UG-104	UG	C	District	Luwero
+UG-116	UG	C	District	Lyantonde
+UG-221	UG	E	District	Manafwa
+UG-320	UG	N	District	Maracha
+UG-105	UG	C	District	Masaka
+UG-409	UG	W	District	Masindi
+UG-214	UG	E	District	Mayuge
+UG-209	UG	E	District	Mbale
+UG-410	UG	W	District	Mbarara
+UG-114	UG	C	District	Mityana
+UG-308	UG	N	District	Moroto
+UG-309	UG	N	District	Moyo
+UG-106	UG	C	District	Mpigi
+UG-107	UG	C	District	Mubende
+UG-108	UG	C	District	Mukono
+UG-311	UG	N	District	Nakapiripirit
+UG-115	UG	C	District	Nakaseke
+UG-109	UG	C	District	Nakasongola
+UG-222	UG	E	District	Namutumba
+UG-310	UG	N	District	Nebbi
+UG-411	UG	W	District	Ntungamo
+UG-321	UG	N	District	Oyam
+UG-312	UG	N	District	Pader
+UG-210	UG	E	District	Pallisa
+UG-110	UG	C	District	Rakai
+UG-412	UG	W	District	Rukungiri
+UG-111	UG	C	District	Sembabule
+UG-215	UG	E	District	Sironko
+UG-211	UG	E	District	Soroti
+UG-212	UG	E	District	Tororo
+UG-113	UG	C	District	Wakiso
+UG-313	UG	N	District	Yumbe
+UM-81	UM		Territory	Baker Island
+UM-84	UM		Territory	Howland Island
+UM-86	UM		Territory	Jarvis Island
+UM-67	UM		Territory	Johnston Atoll
+UM-89	UM		Territory	Kingman Reef
+UM-71	UM		Territory	Midway Islands
+UM-76	UM		Territory	Navassa Island
+UM-95	UM		Territory	Palmyra Atoll
+UM-79	UM		Territory	Wake Island
+US-AL	US		State	Alabama
+US-AK	US		State	Alaska
+US-AZ	US		State	Arizona
+US-AR	US		State	Arkansas
+US-CA	US		State	California
+US-CO	US		State	Colorado
+US-CT	US		State	Connecticut
+US-DE	US		State	Delaware
+US-FL	US		State	Florida
+US-GA	US		State	Georgia
+US-HI	US		State	Hawaii
+US-ID	US		State	Idaho
+US-IL	US		State	Illinois
+US-IN	US		State	Indiana
+US-IA	US		State	Iowa
+US-KS	US		State	Kansas
+US-KY	US		State	Kentucky
+US-LA	US		State	Louisiana
+US-ME	US		State	Maine
+US-MD	US		State	Maryland
+US-MA	US		State	Massachusetts
+US-MI	US		State	Michigan
+US-MN	US		State	Minnesota
+US-MS	US		State	Mississippi
+US-MO	US		State	Missouri
+US-MT	US		State	Montana
+US-NE	US		State	Nebraska
+US-NV	US		State	Nevada
+US-NH	US		State	New Hampshire
+US-NJ	US		State	New Jersey
+US-NM	US		State	New Mexico
+US-NY	US		State	New York
+US-NC	US		State	North Carolina
+US-ND	US		State	North Dakota
+US-OH	US		State	Ohio
+US-OK	US		State	Oklahoma
+US-OR	US		State	Oregon
+US-PA	US		State	Pennsylvania
+US-RI	US		State	Rhode Island
+US-SC	US		State	South Carolina
+US-SD	US		State	South Dakota
+US-TN	US		State	Tennessee
+US-TX	US		State	Texas
+US-UT	US		State	Utah
+US-VT	US		State	Vermont
+US-VA	US		State	Virginia
+US-WA	US		State	Washington
+US-WV	US		State	West Virginia
+US-WI	US		State	Wisconsin
+US-WY	US		State	Wyoming
+US-DC	US		District	District of Columbia
+US-AS	US		Outlying area	American Samoa
+US-GU	US		Outlying area	Guam
+US-MP	US		Outlying area	Northern Mariana Islands
+US-PR	US		Outlying area	Puerto Rico
+US-UM	US		Outlying area	United States Minor Outlying Islands
+US-VI	US		Outlying area	Virgin Islands
+UY-AR	UY		Department	Artigas
+UY-CA	UY		Department	Canelones
+UY-CL	UY		Department	Cerro Largo
+UY-CO	UY		Department	Colonia
+UY-DU	UY		Department	Durazno
+UY-FS	UY		Department	Flores
+UY-FD	UY		Department	Florida
+UY-LA	UY		Department	Lavalleja
+UY-MA	UY		Department	Maldonado
+UY-MO	UY		Department	Montevideo
+UY-PA	UY		Department	Paysandú
+UY-RN	UY		Department	Río Negro
+UY-RV	UY		Department	Rivera
+UY-RO	UY		Department	Rocha
+UY-SA	UY		Department	Salto
+UY-SJ	UY		Department	San José
+UY-SO	UY		Department	Soriano
+UY-TA	UY		Department	Tacuarembó
+UY-TT	UY		Department	Treinta y Tres
+UZ-TK	UZ		City	Toshkent
+UZ-AN	UZ		Region	Andijon
+UZ-BU	UZ		Region	Buxoro
+UZ-FA	UZ		Region	Farg'ona
+UZ-JI	UZ		Region	Jizzax
+UZ-NG	UZ		Region	Namangan
+UZ-NW	UZ		Region	Navoiy
+UZ-QA	UZ		Region	Qashqadaryo
+UZ-SA	UZ		Region	Samarqand
+UZ-SI	UZ		Region	Sirdaryo
+UZ-SU	UZ		Region	Surxondaryo
+UZ-TO	UZ		Region	Toshkent
+UZ-XO	UZ		Region	Xorazm
+UZ-QR	UZ		Republic	Qoraqalpog'iston Respublikasi
+VC-01	VC		Parish	Charlotte
+VC-06	VC		Parish	Grenadines
+VC-02	VC		Parish	Saint Andrew
+VC-03	VC		Parish	Saint David
+VC-04	VC		Parish	Saint George
+VC-05	VC		Parish	Saint Patrick
+VE-W	VE		Federal Dependency	Dependencias Federales
+VE-A	VE		Federal District	Distrito Federal
+VE-Z	VE		State	Amazonas
+VE-B	VE		State	Anzoátegui
+VE-C	VE		State	Apure
+VE-D	VE		State	Aragua
+VE-E	VE		State	Barinas
+VE-F	VE		State	Bolívar
+VE-G	VE		State	Carabobo
+VE-H	VE		State	Cojedes
+VE-Y	VE		State	Delta Amacuro
+VE-I	VE		State	Falcón
+VE-J	VE		State	Guárico
+VE-K	VE		State	Lara
+VE-L	VE		State	Mérida
+VE-M	VE		State	Miranda
+VE-N	VE		State	Monagas
+VE-O	VE		State	Nueva Esparta
+VE-P	VE		State	Portuguesa
+VE-R	VE		State	Sucre
+VE-S	VE		State	Táchira
+VE-T	VE		State	Trujillo
+VE-X	VE		State	Vargas
+VE-U	VE		State	Yaracuy
+VE-V	VE		State	Zulia
+VN-44	VN		Province	An Giang
+VN-43	VN		Province	Bà Rịa-Vũng Tàu
+VN-54	VN		Province	Bắc Giang
+VN-53	VN		Province	Bắc Kạn
+VN-55	VN		Province	Bạc Liêu
+VN-56	VN		Province	Bắc Ninh
+VN-50	VN		Province	Bến Tre
+VN-31	VN		Province	Bình Định
+VN-57	VN		Province	Bình Dương
+VN-58	VN		Province	Bình Phước
+VN-40	VN		Province	Bình Thuận
+VN-59	VN		Province	Cà Mau
+VN-04	VN		Province	Cao Bằng
+VN-33	VN		Province	Đắc Lắk
+VN-72	VN		Province	Đắk Nông
+VN-71	VN		Province	Điện Biên
+VN-39	VN		Province	Đồng Nai
+VN-45	VN		Province	Đồng Tháp
+VN-30	VN		Province	Gia Lai
+VN-03	VN		Province	Hà Giang
+VN-63	VN		Province	Hà Nam
+VN-15	VN		Province	Hà Tây
+VN-23	VN		Province	Hà Tỉnh
+VN-61	VN		Province	Hải Duong
+VN-73	VN		Province	Hậu Giang
+VN-14	VN		Province	Hoà Bình
+VN-66	VN		Province	Hưng Yên
+VN-34	VN		Province	Khánh Hòa
+VN-47	VN		Province	Kiên Giang
+VN-28	VN		Province	Kon Tum
+VN-01	VN		Province	Lai Châu
+VN-35	VN		Province	Lâm Đồng
+VN-09	VN		Province	Lạng Sơn
+VN-02	VN		Province	Lào Cai
+VN-41	VN		Province	Long An
+VN-67	VN		Province	Nam Định
+VN-22	VN		Province	Nghệ An
+VN-18	VN		Province	Ninh Bình
+VN-36	VN		Province	Ninh Thuận
+VN-68	VN		Province	Phú Thọ
+VN-32	VN		Province	Phú Yên
+VN-24	VN		Province	Quảng Bình
+VN-27	VN		Province	Quảng Nam
+VN-29	VN		Province	Quảng Ngãi
+VN-13	VN		Province	Quảng Ninh
+VN-25	VN		Province	Quảng Trị
+VN-52	VN		Province	Sóc Trăng
+VN-05	VN		Province	Sơn La
+VN-37	VN		Province	Tây Ninh
+VN-20	VN		Province	Thái Bình
+VN-69	VN		Province	Thái Nguyên
+VN-21	VN		Province	Thanh Hóa
+VN-26	VN		Province	Thừa Thiên-Huế
+VN-46	VN		Province	Tiền Giang
+VN-51	VN		Province	Trà Vinh
+VN-07	VN		Province	Tuyên Quang
+VN-49	VN		Province	Vĩnh Long
+VN-70	VN		Province	Vĩnh Phúc
+VN-06	VN		Province	Yên Bái
+VN-CT	VN		Municipality	Cần Thơ
+VN-DN	VN		Municipality	Đà Nẵng
+VN-HN	VN		Municipality	Hà Nội
+VN-HP	VN		Municipality	Hải Phòng
+VN-SG	VN		Municipality	Hồ Chí Minh [Sài Gòn]
+VU-MAP	VU		Province	Malampa
+VU-PAM	VU		Province	Pénama
+VU-SAM	VU		Province	Sanma
+VU-SEE	VU		Province	Shéfa
+VU-TAE	VU		Province	Taféa
+VU-TOB	VU		Province	Torba
+WS-AA	WS		District	A'ana
+WS-AL	WS		District	Aiga-i-le-Tai
+WS-AT	WS		District	Atua
+WS-FA	WS		District	Fa'asaleleaga
+WS-GE	WS		District	Gaga'emauga
+WS-GI	WS		District	Gagaifomauga
+WS-PA	WS		District	Palauli
+WS-SA	WS		District	Satupa'itea
+WS-TU	WS		District	Tuamasaga
+WS-VF	WS		District	Va'a-o-Fonoti
+WS-VS	WS		District	Vaisigano
+YE-AB	YE		Governorate	Abyān
+YE-AD	YE		Governorate	'Adan
+YE-DA	YE		Governorate	Aḑ Ḑāli‘
+YE-BA	YE		Governorate	Al Bayḑā'
+YE-MU	YE		Governorate	Al Ḩudaydah
+YE-JA	YE		Governorate	Al Jawf
+YE-MR	YE		Governorate	Al Mahrah
+YE-MW	YE		Governorate	Al Maḩwīt
+YE-AM	YE		Governorate	'Amrān
+YE-DH	YE		Governorate	Dhamār
+YE-HD	YE		Governorate	Ḩaḑramawt
+YE-HJ	YE		Governorate	Ḩajjah
+YE-IB	YE		Governorate	Ibb
+YE-LA	YE		Governorate	Laḩij
+YE-MA	YE		Governorate	Ma'rib
+YE-RA	YE		Governorate	Raymah
+YE-SD	YE		Governorate	Şa'dah
+YE-SN	YE		Governorate	Şan'ā'
+YE-SH	YE		Governorate	Shabwah
+YE-TA	YE		Governorate	Tā'izz
+ZA-EC	ZA		Province	Eastern Cape
+ZA-FS	ZA		Province	Free State
+ZA-GT	ZA		Province	Gauteng
+ZA-NL	ZA		Province	Kwazulu-Natal
+ZA-LP	ZA		Province	Limpopo
+ZA-MP	ZA		Province	Mpumalanga
+ZA-NC	ZA		Province	Northern Cape
+ZA-NW	ZA		Province	North-West (South Africa)
+ZA-WC	ZA		Province	Western Cape
+ZM-02	ZM		Province	Central
+ZM-08	ZM		Province	Copperbelt
+ZM-03	ZM		Province	Eastern
+ZM-04	ZM		Province	Luapula
+ZM-09	ZM		Province	Lusaka
+ZM-05	ZM		Province	Northern
+ZM-06	ZM		Province	North-Western
+ZM-07	ZM		Province	Southern (Zambia)
+ZM-01	ZM		Province	Western
+ZW-BU	ZW		City	Bulawayo
+ZW-HA	ZW		City	Harare
+ZW-MA	ZW		Province	Manicaland
+ZW-MC	ZW		Province	Mashonaland Central
+ZW-ME	ZW		Province	Mashonaland East
+ZW-MW	ZW		Province	Mashonaland West
+ZW-MV	ZW		Province	Masvingo
+ZW-MN	ZW		Province	Matabeleland North
+ZW-MS	ZW		Province	Matabeleland South
+ZW-MI	ZW		Province	Midlands

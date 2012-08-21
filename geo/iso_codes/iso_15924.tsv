@@ -27,9 +27,9 @@ Cyrs	221	Cyrillic (Old Church Slavonic variant)
 Deva	315	Devanagari (Nagari)
 Dsrt	250	Deseret (Mormon)
 Dupl	755	Duployan shorthand, Duployan stenography
-Egyd	070	Egyptian demotic
-Egyh	060	Egyptian hieratic
-Egyp	050	Egyptian hieroglyphs
+Egyd	70	Egyptian demotic
+Egyh	60	Egyptian hieratic
+Egyp	50	Egyptian hieroglyphs
 Elba	226	Elbasan
 Ethi	430	Ethiopic (Geʻez)
 Geor	240	Georgian (Mkhedruli)
@@ -47,7 +47,7 @@ Hans	501	Han (Simplified variant)
 Hant	502	Han (Traditional variant)
 Hebr	125	Hebrew
 Hira	410	Hiragana
-Hluw	080	Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)
+Hluw	80	Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)
 Hmng	450	Pahawh Hmong
 Hrkt	412	Japanese syllabaries (alias for Hiragana + Katakana)
 Hung	176	Old Hungarian
@@ -80,7 +80,7 @@ Lyci	202	Lycian
 Lydi	116	Lydian
 Mand	140	Mandaic, Mandaean
 Mani	139	Manichaean
-Maya	090	Mayan hieroglyphs
+Maya	90	Mayan hieroglyphs
 Mend	438	Mende
 Merc	101	Meroitic Cursive
 Mero	100	Meroitic Hieroglyphs
@@ -118,7 +118,7 @@ Samr	123	Samaritan
 Sara	292	Sarati
 Sarb	105	Old South Arabian
 Saur	344	Saurashtra
-Sgnw	095	SignWriting
+Sgnw	95	SignWriting
 Shaw	281	Shavian (Shaw)
 Shrd	319	Sharada, Śāradā
 Sind	318	Khudawadi, Sindhi
@@ -145,13 +145,13 @@ Thaa	170	Thaana
 Thai	352	Thai
 Tibt	330	Tibetan
 Tirh	326	Tirhuta
-Ugar	040	Ugaritic
+Ugar	40	Ugaritic
 Vaii	470	Vai
 Visp	280	Visible Speech
 Wara	262	Warang Citi (Varang Kshiti)
 Wole	480	Woleai
-Xpeo	030	Old Persian
-Xsux	020	Cuneiform, Sumero-Akkadian
+Xpeo	30	Old Persian
+Xsux	20	Cuneiform, Sumero-Akkadian
 Yiii	460	Yi
 Zinh	994	Code for inherited script
 Zmth	995	Mathematical notation

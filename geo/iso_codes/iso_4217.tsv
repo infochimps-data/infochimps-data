@@ -1,29 +1,29 @@
 AED	784	UAE Dirham
 AFN	971	Afghani
-ALL	008	Lek
-AMD	051	Armenian Dram
+ALL	8	Lek
+AMD	51	Armenian Dram
 ANG	532	Netherlands Antillian Guilder
 AOA	973	Kwanza
-ARS	032	Argentine Peso
-AUD	036	Australian Dollar
+ARS	32	Argentine Peso
+AUD	36	Australian Dollar
 AWG	533	Aruban Guilder
 AZN	944	Azerbaijanian Manat
 BAM	977	Convertible Marks
-BBD	052	Barbados Dollar
-BDT	050	Taka
+BBD	52	Barbados Dollar
+BDT	50	Taka
 BGN	975	Bulgarian Lev
-BHD	048	Bahraini Dinar
+BHD	48	Bahraini Dinar
 BIF	108	Burundi Franc
-BMD	060	Bermudian Dollar
-BND	096	Brunei Dollar
-BOB	068	Boliviano
+BMD	60	Bermudian Dollar
+BND	96	Brunei Dollar
+BOB	68	Boliviano
 BOV	984	Mvdol
 BRL	986	Brazilian Real
-BSD	044	Bahamian Dollar
-BTN	064	Ngultrum
-BWP	072	Pula
+BSD	44	Bahamian Dollar
+BTN	64	Ngultrum
+BWP	72	Pula
 BYR	974	Belarussian Ruble
-BZD	084	Belize Dollar
+BZD	84	Belize Dollar
 CAD	124	Canadian Dollar
 CDF	976	Congolese Franc
 CHE	947	WIR Euro
@@ -42,7 +42,7 @@ CZK	203	Czech Koruna
 DJF	262	Djibouti Franc
 DKK	208	Danish Krone
 DOP	214	Dominican Peso
-DZD	012	Algerian Dinar
+DZD	12	Algerian Dinar
 EEK	233	Kroon
 EGP	818	Egyptian Pound
 ERN	232	Nakfa
@@ -125,7 +125,7 @@ RSD	941	Serbian Dinar
 RUB	643	Russian Ruble
 RWF	646	Rwanda Franc
 SAR	682	Saudi Riyal
-SBD	090	Solomon Islands Dollar
+SBD	90	Solomon Islands Dollar
 SCR	690	Seychelles Rupee
 SDG	938	Sudanese Pound
 SEK	752	Swedish Krona
