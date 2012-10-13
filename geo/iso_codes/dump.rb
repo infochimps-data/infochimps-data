@@ -1,9 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'crack'
-require 'active_support/inflector/transliterate'
-I18n.locale = :en
-
 
 OUTPUT_PATH = File.dirname(__FILE__)
 
