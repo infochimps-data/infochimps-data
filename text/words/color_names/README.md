@@ -1,6 +1,10 @@
 # Color Names 
 
-These are mappings from evocative english phrases to RGB values for colors they represent, from Aubrey Jaffer's [Color Dictionaries](http://people.csail.mit.edu/jaffer/Color/Dictionaries). See link for highly-detailed description of the dictionaries, with descriptions of their tradeoffs.
+These are mappings from evocative english phrases ("apple", "bluish green", "baby poop") to RGB values for colors they represent.
+
+See Aubrey Jaffer's [Color Dictionaries](http://people.csail.mit.edu/jaffer/Color/Dictionaries) for highly-detailed description of the dictionaries, with descriptions of their tradeoffs.
+
+Project idea: find the voronoi lattice of the color names (for each color name, the 3-d polygon within which all points are closer to that color name than any other) and make a color picker that grids those polygons onto the screen.
 
 ## Color Names: NBS/ISCC (Aubrey Jaffer)
 
