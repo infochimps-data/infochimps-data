@@ -1,6 +1,27 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
+#
+# Generates a file to test string processing and unicode edge cases.  The file
+# contains the raw text and encodings guaranteed to have only keyboard
+# characters (that is, ones with ASCII representation `0x20` to `0x7e`).
+#
+# Output is valid UTF-8 text with the following columns:
+#
+# 1. description of the string (ex: `'Internationalization', psedolocalized`)
+# 2. string length in characters (ex: `20`)
+# 3. string size as UTF-8 in bytes (ex: `27`)
+# 4. the raw string, high-byte characters and all (`Iñtërnâtiônàlizætiøn`)
+# 5. a `0` if the raw string is omitted (as it must if it has newlines, nulls or tabs)
+# 6. The json-encoded string, with all non-keyboard characters in JSON-escaped  form (ex: `"I\u00f1t\u00ebrn\u00e2ti\u00f4n\u00e0liz\u00e6ti\u00f8n"` )
+# 7. a "\u"-escaped string -- all non-keyboard characters are replaced with
+#    `\uabcd`, where `abcd` is the 4-digit unicode code point.
+# 8. a "\x"-escaped string -- all non-keyboard characters (outside `0x20-0x7e`) are replaced with
+#    `\xab`, where `ab` are the 2-digit hex bytes of its UTF-8 encoding
+# 9. a comma-separated list of decimals for every byte (ex: `73,241,116,235,114,110,...`)
+#10. a comma-separated list of unicode code points for every character (ex: `0049,00f1,0074,00eb,0072,006e,00e2,0074,0069,...`)
+#
+
 Encoding.default_external = Encoding.default_internal = Encoding::UTF_8
 require 'digest/md5'
 require 'gorillib/base'
@@ -52,13 +73,13 @@ def variants(desc, str, show_raw)
   [ "%-40s" % desc,         # description
     str.length,
     str.bytesize,
-    show_raw ? 1 : 0,      # 1 if string is showable
     (show_raw ? str : ''), # naked string
+    show_raw ? 1 : 0,      # 1 if string is showable
     safe_json_encode(str),  # encoded as JSON
     u_escape(str),
     x_escape(str),
-    str.chars.map{|ch| ch.ord          }.join(','),  # ordinal of each character (decimal)
     str.chars.map{|ch| "%04x" % ch.ord }.join(','),  # ordinal of each character (hex)
+    str.chars.map{|ch| ch.ord          }.join(','),  # ordinal of each character (decimal)
   ]
 end
 
@@ -74,15 +95,16 @@ def test_variants(str, desc, len, bytes, show_raw, _, safe_json, ustr, xstr, *ar
     eval(u1) == str,
     eval(x1) == str,
   ]
-  puts [tests, desc].flatten.join("\t") unless tests.all?
+  tests[2] = true if (desc =~ /null character/)
+  warn [desc, tests].flatten.join("\t") unless tests.all?
 rescue StandardError, SyntaxError => err
   puts err
 end
 
-TEST_STRINGS.each do |desc, str, show_raw=true|
-  vv = variants(desc, str, show_raw)
-  puts vv.join("\t")
-  test_variants(str, *vv).inspect
-
-  # puts str
+File.open('string_handling_test.tsv', 'w', encoding: 'UTF-8') do |file|
+  TEST_STRINGS.each do |desc, str, show_raw=true|
+    vv = variants(desc, str, show_raw)
+    test_variants(str, *vv).inspect
+    file.puts vv.join("\t")
+  end
 end
