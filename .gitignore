@@ -54,3 +54,6 @@ old/*
 docpages
 away
 Backup\ *
+
+geo/wikigrounder_toponyms
+*.bz2
