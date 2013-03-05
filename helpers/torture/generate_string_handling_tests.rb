@@ -20,7 +20,7 @@ PREAMBLE = <<-'EOS'
 
   It is valid UTF-8 text with the following columns:
 
-   1. description of the string (ex: `'Internationalization', psedolocalized`)
+   1. description of the string (ex: `'Internationalization', pseudolocalized`)
    2. string length in characters (ex: `20`)
    3. string size as UTF-8 in bytes (ex: `27`)
    4. If UTF-8 and unicode safe, a `1`; `0` otherwise
@@ -66,9 +66,9 @@ TEST_STRINGS = [
   ["blank string",                                  ""],
   ["Normal string",                                 "Hello, world"],
   ["Unicode snowman",                               "Hello, snowman: \u2603",],
-  ["'Test', psedolocalized",                        "\u0164\u0117\u015f\u0167"],
-  ["'Internationalization', psedolocalized",        "I\u00f1t\u00ebrn\u00e2ti\u00f4n\u00e0liz\u00e6ti\u00f8n"],
-  ["'Internationalization', psedolocalized",        "I\xc3\xb1t\xc3\xabrn\xc3\xa2ti\xc3\xb4n\xc3\xa0liz\xc3\xa6ti\xc3\xb8n"],
+  ["'Test', pseudolocalized",                       "\u0164\u0117\u015f\u0167"],
+  ["'Internationalization', pseudolocalized (p)",   "I\u00f1t\u00ebrn\u00e2ti\u00f4n\u00e0liz\u00e6ti\u00f8n"],
+  ["'Internationalization', pseudolocalized (c)",   "I\xc3\xb1t\xc3\xabrn\xc3\xa2ti\xc3\xb4n\xc3\xa0liz\xc3\xa6ti\xc3\xb8n"],
   ["Greek 'kosme'",                                 "\xCE\xBA\xE1\xBD\xB9\xCF\x83\xCE\xBC\xCE\xB5"],
   ["right to left: Shalom, chimpanzee",             "\u202e\u05e9\u05dc\u05d5\u05dd\u060c \u0634\u0645\u0628\u0627\u0646\u0632\u064a!\u202c",],
   ["'shalom' with Left-to-right override",          "\u202d\u05e9\u05dc\u05d5\u05dd.\u202c"],
