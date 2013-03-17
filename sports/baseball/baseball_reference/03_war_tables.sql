@@ -39,8 +39,8 @@ CREATE TABLE batting_war (
   `WAA_off`             float                default NULL,
   `WAA_def`             float                default NULL,
   `WAR`                 float                default NULL,
-  `WAR_def`             float                default NULL,
   `WAR_off`             float                default NULL,
+  `WAR_def`             float                default NULL,
   `WAR_rep`             float                default NULL,
   `salary`              int(10)              default NULL,
   `isPitcher`           enum('Y','N')        default NULL,
@@ -64,6 +64,7 @@ CREATE TABLE batting_war (
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
+-- Note: WAR is in order def, off here; order off, def above
 TRUNCATE TABLE `batting_war`;
 LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_reference/batting_war-20130315.csv' REPLACE
   INTO TABLE `batting_war`

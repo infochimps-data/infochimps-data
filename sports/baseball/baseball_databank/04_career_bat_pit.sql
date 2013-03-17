@@ -25,6 +25,7 @@ CREATE TABLE `career_bat` (
   `G_batting`   int(5) unsigned        default NULL,
   `G_allstar`   int(5) unsigned        default NULL,
   --
+  `PA`          int(5) unsigned        default NULL,
   `AB`          int(5) unsigned        default NULL,
   `R`           int(5) unsigned        default NULL,
   `H`           int(5) unsigned        default NULL,
@@ -40,6 +41,7 @@ CREATE TABLE `career_bat` (
   `HBP`         int(5) unsigned        default NULL,
   `SH`          int(5) unsigned        default NULL,
   `SF`          int(5) unsigned        default NULL,
+  `CIB`         int(5) unsigned        default NULL, -- catcher's interference while batting
   `GIDP`        int(5) unsigned        default NULL,
   --
   `BAVG`        float                  default NULL,
@@ -50,17 +52,21 @@ CREATE TABLE `career_bat` (
   `ISO`         float                  default NULL,
   --
   `isPitcher`   enum('Y','N')          default NULL,
+  `RAA`         float                  default NULL,
+  `RAA_off`     float                  default NULL,
+  `RAA_def`     float                  default NULL,
+  `RAR`         float                  default NULL,
   `WAA`         float                  default NULL,
   `WAA_off`     float                  default NULL,
   `WAA_def`     float                  default NULL,
   `WAR`         float                  default NULL,
-  `WAR_def`     float                  default NULL,
   `WAR_off`     float                  default NULL,
+  `WAR_def`     float                  default NULL,
   --
-  PRIMARY KEY      (`lahmanID`),
-  KEY `playerID`   (`playerID`),
-  KEY `bbrefID`    (`bbrefID`),
-  KEY `retroID`    (`retroID`,`bbrefID`)
+  PRIMARY KEY             (`lahmanID`),
+  UNIQUE KEY `playerID`   (`playerID`),
+  UNIQUE KEY `bbrefID`    (`bbrefID`),
+  UNIQUE KEY `retroID`    (`retroID`,`bbrefID`)
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
@@ -99,28 +105,23 @@ REPLACE INTO career_bat
 ;
 
 --
--- Calculate derived statistics -- batting average and so forth
---
-UPDATE career_bat SET
-  BAVG   = (H / AB),
-  TB    = (H + 2B + 2 * 3B + 3 * HR),
-  SLG   = ((H + 2B + 2 * 3B + 3 * HR) / AB),
-  OBP   = ( H + BB + IFNULL(HBP,0) ) / (AB + BB + IFNULL(HBP,0) + IFNULL(SF,0))
-  ;
-UPDATE career_bat SET
-  OPS   = (SLG + OBP),
-  ISO   = ((TB - H) / AB)
-  ;
-
---
 -- Copy over WAR settings from baseball_reference tables
 --
 UPDATE `career_bat`,
   (SELECT bbrefID, MAX(isPitcher) AS isPitcher,
+    SUM(PA) AS PA,
+    SUM(runs_above_avg) AS RAA, SUM(runs_above_avg_off) AS RAA_off, SUM(runs_above_avg_def) AS RAA_def,
+    SUM(runs_above_rep) AS RAR,
     SUM(WAA) AS WAA, SUM(WAA_off) AS WAA_off, SUM(WAA_def) AS WAA_def,
     SUM(WAR) AS WAR, SUM(WAR_off) AS WAR_off, SUM(WAR_def) AS WAR_def
     FROM `batting_war` GROUP BY bbrefID) wart
-  SET  `career_bat`.`WAA`       = wart.`WAA`,
+  SET
+       `career_bat`.`PA`        = wart.`PA`,
+       `career_bat`.`RAA`       = wart.`RAA`,
+       `career_bat`.`RAA_off`   = wart.`RAA_off`,
+       `career_bat`.`RAA_def`   = wart.`RAA_def`,
+       `career_bat`.`RAR`       = wart.`RAR`,
+       `career_bat`.`WAA`       = wart.`WAA`,
        `career_bat`.`WAA_off`   = wart.`WAA_off`,
        `career_bat`.`WAA_def`   = wart.`WAA_def`,
        `career_bat`.`WAR`       = wart.`WAR`,
@@ -129,6 +130,21 @@ UPDATE `career_bat`,
        `career_bat`.`isPitcher` = wart.`isPitcher`
  WHERE `career_bat`.`bbrefID`   = wart.`bbrefID`
  ;
+
+--
+-- Calculate derived statistics -- batting average and so forth
+--
+UPDATE career_bat SET
+  BAVG   = (H / AB),
+  TB    = (H + 2B + 2 * 3B + 3 * HR),
+  SLG   = ((H + 2B + 2 * 3B + 3 * HR) / AB),
+  OBP   = ( H + BB + IFNULL(HBP,0) ) / PA,
+  CIB   = PA - (AB + BB + IFNULL(HBP,0) + IFNULL(SH,0) + IFNULL(SF,0))
+  ;
+UPDATE career_bat SET
+  OPS   = (SLG + OBP),
+  ISO   = ((TB - H) / AB)
+  ;
 
 
 -- ===========================================================================
@@ -178,22 +194,24 @@ CREATE TABLE `career_pit` (
   `BK`          smallint(3)  unsigned  default NULL,
   `BFP`         smallint(6)  unsigned  default NULL,
   --
-  `ERA`         decimal(5,2) unsigned  default NULL,
+  `ERA`         float        unsigned  default NULL,
   `WHIP`        float                  default NULL,
-  `BAOpp`       decimal(5,3) unsigned  default NULL,
+  `BAOpp`       float        unsigned  default NULL,
   `H_9`         float                  default NULL,
   `HR_9`        float                  default NULL,
   `BB_9`        float                  default NULL,
   `SO_9`        float                  default NULL,
   `SO_BB`       float                  default NULL,
   --
+  `RAA`         float                  default NULL,
+  `RAR`         float                  default NULL,
   `WAA`         float                  default NULL,
   `WAR`         float                  default NULL,
   --
-  PRIMARY KEY      (`lahmanID`),
-  KEY `playerID`   (`playerID`),
-  KEY `bbrefID`    (`bbrefID`),
-  KEY `retroID`    (`retroID`,`bbrefID`)
+  PRIMARY KEY             (`lahmanID`),
+  UNIQUE KEY `playerID`   (`playerID`),
+  UNIQUE KEY `bbrefID`    (`bbrefID`),
+  UNIQUE KEY `retroID`    (`retroID`,`bbrefID`)
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 

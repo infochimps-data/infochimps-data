@@ -42,11 +42,11 @@ CREATE TABLE `people` (
   `hofID`         varchar(10)  DEFAULT NULL,
 
   PRIMARY KEY (`lahmanID`),
-  KEY `bbrefID` (`bbrefID`),
-  KEY `playerID` (`playerID`),
-  KEY `retroID` (`retroID`,`bbrefID`),
-  KEY `managerID` (`managerID`),
-  KEY `hofID` (`hofID`)
+  UNIQUE KEY `bbrefID`   (`bbrefID`),
+  UNIQUE KEY `playerID`  (`playerID`),
+  UNIQUE KEY `retroID`   (`retroID`,`bbrefID`),
+  UNIQUE KEY `managerID` (`managerID`),
+  UNIQUE KEY `hofID`     (`hofID`)
   ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
@@ -55,16 +55,3 @@ REPLACE INTO `people`
   SELECT `playerID`, `retroID`, `lahmanID`, `bbrefID`, `birthYear`, `birthMonth`, `birthDay`, `birthCountry`, `birthState`, `birthCity`, `deathYear`, `deathMonth`, `deathDay`, `deathCountry`, `deathState`, `deathCity`, `nameFirst`, `nameLast`, `nameNote`, `nameGiven`, `nameNick`, `weight`, `height`, `bats`, `throws`, `debut`, `finalGame`, `college`, `managerID`, `hofID`
   FROM `master`
   ;
-
-ALTER TABLE `master`
-  ADD KEY `playerID` (`playerID`),
-  ADD KEY `bbrefID` (`bbrefID`),
-  ADD KEY `retroID` (`retroID`,`bbrefID`),
-  ADD KEY `managerID` (`managerID`),
-  ADD KEY `hofID` (`hofID`)
-  ;
-
-UPDATE `master` SET `bbrefID` = 'snydech03'  WHERE `playerID` = 'snydech03' AND lahmanID = 19419;
-UPDATE `master` SET `bbrefID` = 'gilgahu01'  WHERE `playerID` = 'gilgahu01' AND lahmanID = 19417;
-UPDATE `people` SET `bbrefID` = 'snydech03'  WHERE `playerID` = 'snydech03' AND lahmanID = 19419;
-UPDATE `people` SET `bbrefID` = 'gilgahu01'  WHERE `playerID` = 'gilgahu01' AND lahmanID = 19417;
