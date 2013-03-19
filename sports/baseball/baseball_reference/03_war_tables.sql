@@ -6,9 +6,9 @@
 DROP TABLE IF EXISTS `batting_war`;
 CREATE TABLE batting_war (
   `lahmanID`            int(11)              DEFAULT NULL,
-  `playerID`            varchar(10)          DEFAULT NULL,
-  `bbrefID`             varchar(9)           DEFAULT NULL,
-  `retroID`             varchar(9)           default NULL,
+  `playerID`            varchar(10)          CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
+  `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`         varchar(100),
   --
@@ -59,7 +59,8 @@ CREATE TABLE batting_war (
   KEY `bbrefID`    (`bbrefID`),
   KEY `lahmanID`   (`lahmanID`),
   KEY `playerID`   (`playerID`),
-  KEY `retroID`    (`retroID`,`bbrefID`)
+  KEY `retroID`    (`retroID`,`bbrefID`),
+  KEY `season`     (`yearID`)
 
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
@@ -97,9 +98,9 @@ ALTER TABLE `batting_war` ENABLE KEYS;
 DROP TABLE IF EXISTS `pitching_war`;
 CREATE TABLE pitching_war (
   `lahmanID`            int(11)      DEFAULT NULL,
-  `playerID`            varchar(10)  DEFAULT NULL,
-  `bbrefID`             varchar(9)   DEFAULT NULL,
-  `retroID`             varchar(9)           default NULL,
+  `playerID`            varchar(10)          CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
+  `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`         varchar(100),
   --

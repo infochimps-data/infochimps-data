@@ -7,9 +7,9 @@ DROP TABLE IF EXISTS `career_all`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `career_all` (
   `lahmanID`    int(11)               DEFAULT NULL,
-  `playerID`    varchar(10)           DEFAULT NULL,
-  `bbrefID`     varchar(9)            DEFAULT NULL,
-  `retroID`     varchar(9)            default NULL,
+  `playerID`    varchar(10)           CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`     varchar(9)            CHARACTER SET ascii DEFAULT NULL,
+  `retroID`     varchar(9)            CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`  varchar(100)          default NULL,
   `nameFirst`   varchar(50)           default NULL,

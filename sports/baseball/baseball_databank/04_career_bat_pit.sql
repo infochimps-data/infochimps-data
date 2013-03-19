@@ -7,9 +7,9 @@ DROP TABLE IF EXISTS `career_bat`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `career_bat` (
   `lahmanID`    int(11)                DEFAULT NULL,
-  `playerID`    varchar(10)            DEFAULT NULL,
-  `bbrefID`     varchar(9)             DEFAULT NULL,
-  `retroID`     varchar(9)             default NULL,
+  `playerID`    varchar(10)            CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`     varchar(9)             CHARACTER SET ascii DEFAULT NULL,
+  `retroID`     varchar(9)             CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`  varchar(100)           default NULL,
   `nameFirst`   varchar(50)            default NULL,
@@ -86,7 +86,7 @@ REPLACE INTO career_bat
     COUNT(DISTINCT bat.yearID) AS years, MIN(bat.yearID) AS begYear,  MAX(bat.yearID) AS endYear,
     hof.yearID AS hofYear, votedBy,
     -- bat.stint, bat.teamID, bat.lgID,
-    SUM(bat.G) AS G, SUM(bat.G_batting) AS G_batting, ast.G_allstar,
+    SUM(bat.G) AS G, SUM(bat.G_batting) AS G_batting, IFNULL(ast.G_allstar,0) AS G_allstar,
     SUM(AB) AS AB, SUM(R)  AS R,  SUM(H)  AS H,  SUM(2B) AS 2B, SUM(3B)  AS 3B,  SUM(HR)  AS HR,  SUM(RBI) AS RBI,
     SUM(SB) AS SB, SUM(CS) AS CS, SUM(BB) AS BB, SUM(SO) AS SO, SUM(IBB) AS IBB, SUM(HBP) AS HBP,
     SUM(SH) AS SH, SUM(SF) AS SF, SUM(GIDP) AS  GIDP
@@ -156,9 +156,9 @@ DROP TABLE IF EXISTS `career_pit`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `career_pit` (
   `lahmanID`    int(11)                DEFAULT NULL,
-  `playerID`    varchar(10)            DEFAULT NULL,
-  `bbrefID`     varchar(9)             DEFAULT NULL,
-  `retroID`     varchar(9)             default NULL,
+  `playerID`    varchar(10)            CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`     varchar(9)             CHARACTER SET ascii DEFAULT NULL,
+  `retroID`     varchar(9)             CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`  varchar(100)           default NULL,
   `nameFirst`   varchar(50)            default NULL,
@@ -237,7 +237,7 @@ REPLACE INTO career_pit
     SUM(pit.`GS`) AS `GS`, SUM(pit.`GF`) AS `GF`, SUM(pit.`CG`) AS `CG`,
     SUM(pit.`SHO`) AS `SHO`, SUM(pit.`SV`) AS `SV`,
     SUM(pit.`IPouts`) AS `IPouts`, SUM(pit.`IPouts`) / 3.0 AS `IP`,
-    ast.`G_allstar`,
+    IFNULL(ast.G_allstar,0) AS G_allstar,
     SUM(pit.`H`) AS `H`, SUM(pit.`R`) AS `R`, SUM(pit.`ER`) AS `ER`, SUM(pit.`HR`) AS `HR`,
     SUM(pit.`BB`) AS `BB`, SUM(pit.`SO`) AS `SO`,
     SUM(pit.`IBB`) AS `IBB`, SUM(pit.`WP`) AS `WP`, SUM(pit.`HBP`) AS `HBP`,
