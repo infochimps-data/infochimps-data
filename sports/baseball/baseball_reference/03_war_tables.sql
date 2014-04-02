@@ -13,7 +13,7 @@ CREATE TABLE bat_war (
   `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`          varchar(100),
-  `age`                 smallint(2) unsigned NOT NULL,
+  `age`                 smallint(2) unsigned DEFAULT NULL,
   --
   `yearID`              smallint(4)          NOT NULL,
   `teamID`              char(3)              NOT NULL,
@@ -107,6 +107,7 @@ CREATE TABLE pit_war (
   `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`          varchar(100),
+  `age`                 smallint(2) unsigned DEFAULT NULL,
   --
   `yearID`              smallint(4) NOT NULL default '0',
   `teamID`              char(3)     NOT NULL default '',
@@ -150,11 +151,11 @@ CREATE TABLE pit_war (
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
-LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_reference/pitching_war-20130315.csv' REPLACE
+LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_reference/pitching_war-20140402.csv' REPLACE
   INTO TABLE `pit_war`
   FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY ''
   IGNORE 1 ROWS
-  ( nameCommon,bbrefID,yearID,teamID,stint,lgID,
+  ( nameCommon,age,bbrefID,yearID,teamID,stint,lgID,
     G,GS,IPouts,IPouts_start,IPouts_relief,
     RA,xRA,xRA_sprp_adj,xRA_def_pitcher,PPF,PPF_custom,xRA_final,
     BIP,BIP_perc,RS_def_total,

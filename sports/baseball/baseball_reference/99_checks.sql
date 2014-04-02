@@ -8,20 +8,19 @@ SELECT NOW() AS starting_datetime, "Check season vs career stats", COUNT(*) AS n
 --   ORDER BY playerID, yearID DESC
 --   ;
 
-
-SELECT playerID, 'all' AS yearID,
-    G, G_batting, PA, AB, BB, HBP, SH, SF, CIB
-  FROM `bat_career` batc
-  WHERE (batc.CIB < 0)
-  ORDER BY playerID DESC
-  ;
+-- SELECT playerID, 'all' AS yearID,
+--     G, G_batting, PA, AB, BB, HBP, SH, SF, CIB
+--   FROM `bat_career` batc
+--   WHERE (batc.CIB < 0)
+--   ORDER BY playerID DESC
+--   ;
 
 
 SELECT playerID, yearID,
     G, G_batting, PA, AB, BB, HBP, SH, SF, CIB
   FROM `bat_season` bats
-  WHERE (bats.CIB < 0)
-  ORDER BY playerID, yearID DESC
+  WHERE (bats.CIB < 0) -- AND playerID LIKE "mcnaier01"
+  ORDER BY yearID, playerID DESC
   ;
 
 

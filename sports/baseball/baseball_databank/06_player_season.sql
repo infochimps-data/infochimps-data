@@ -14,11 +14,12 @@ CREATE TABLE `bat_season` (
   `retroID`     VARCHAR(9)             CHARACTER SET ASCII DEFAULT NULL,
   --
   `nameCommon`  VARCHAR(100)           DEFAULT NULL,
-  `age`                 smallint(2) unsigned NOT NULL,
+  `age`         SMALLINT(2) UNSIGNED   DEFAULT NULL,
   --
   `yearID`      SMALLINT(3) UNSIGNED   DEFAULT NULL,
   `teamIDs`     VARCHAR(27)            NOT NULL,
   `lgIDs`       VARCHAR(18)            NOT NULL,
+  `stints`      SMALLINT(3) UNSIGNED   DEFAULT NULL,
   --
   `G`           INT(5) UNSIGNED        DEFAULT NULL,
   `G_batting`   INT(5) UNSIGNED        DEFAULT NULL,
@@ -73,7 +74,7 @@ CREATE TABLE `bat_season` (
 INSERT INTO `bat_season`
   (
     lahmanID, playerID, bbrefID, retroID, nameCommon,
-    yearID, teamIDs, lgIDs,
+    yearID, teamIDs, lgIDs,stints,
     G, G_batting,
     allstar,
     AB, R, H, 2B, 3B, HR, RBI,
@@ -82,7 +83,7 @@ INSERT INTO `bat_season`
 
   SELECT
     lahmanID, peep.playerID, peep.bbrefID, peep.retroID, peep.nameCommon,
-    bat.yearID, GROUP_CONCAT(bat.teamID) AS teamIDs, GROUP_CONCAT(bat.lgID) AS lgIDs,
+    bat.yearID, GROUP_CONCAT(bat.teamID) AS teamIDs, GROUP_CONCAT(bat.lgID) AS lgIDs, COUNT(*) AS stints,
     SUM(bat.G) AS G, IFNULL(SUM(bat.G_batting),0) AS G_batting,
     IF(ast.playerID IS NOT NULL, TRUE, FALSE) AS allstar,
     SUM(AB) AS AB, SUM(R)  AS R,  SUM(H)  AS H,  SUM(2B) AS 2B, SUM(3B)  AS 3B,  SUM(HR)  AS HR,  SUM(RBI) AS RBI,
