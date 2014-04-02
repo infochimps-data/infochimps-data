@@ -57,3 +57,9 @@ Backup\ *
 
 geo/wikigrounder_toponyms
 *.bz2
+serverlogs/maxmind/maxmind-geolite_city-20121002-24.tsv
+serverlogs/maxmind/maxmind-geolite_city-20121002-16.tsv
+serverlogs/maxmind/GeoLiteCity_20121002.zip
+baseball_databank/seanlahman.com
+sports/baseball/baseball_databank/seanlahman.com
+sports/baseball/retrosheet
