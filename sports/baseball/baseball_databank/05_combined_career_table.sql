@@ -3,9 +3,11 @@
 -- Combined Career Table
 --
 
-DROP TABLE IF EXISTS `career_all`;
+SELECT NOW() AS starting_datetime, "Find combined career stats";
+
+DROP TABLE IF EXISTS `comb_career`;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `career_all` (
+CREATE TABLE `comb_career` (
   `lahmanID`    int(11)               DEFAULT NULL,
   `playerID`    varchar(10)           CHARACTER SET ascii DEFAULT NULL,
   `bbrefID`     varchar(9)            CHARACTER SET ascii DEFAULT NULL,
@@ -27,7 +29,7 @@ CREATE TABLE `career_all` (
   `G_batting`   int(5) unsigned       default NULL,
   `G_pitching`  int(5) unsigned       default NULL,
   `G_allstar`   int(5) unsigned       default NULL,
-  `isPitcher`   enum('Y','N')         default NULL,
+  `isPitcher`   BOOLEAN               default NULL,
   --
   `PA`          int(5) unsigned       default NULL,
   `AB`          int(5) unsigned       default NULL,
@@ -45,8 +47,8 @@ CREATE TABLE `career_all` (
   `HBP`         int(5) unsigned       default NULL,
   `SH`          int(5) unsigned       default NULL,
   `SF`          int(5) unsigned       default NULL,
-  `CIB`         int(5) unsigned       default NULL,
   `GIDP`        int(5) unsigned       default NULL,
+  `CIB`         int(5) unsigned       default NULL,
   --
   `BAVG`        float                 default NULL,
   `TB`          float                 default NULL,
@@ -129,7 +131,7 @@ CREATE TABLE `career_all` (
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
-REPLACE INTO career_all
+REPLACE INTO comb_career
   (lahmanID, playerID, bbrefID, retroID,
     nameCommon, nameFirst, nameLast, nameGiven, nameNick,
     --
@@ -138,7 +140,7 @@ REPLACE INTO career_all
     --
     PA, AB, R, H, 2B, 3B,
     HR, RBI, SB, CS, BB, SO,
-    IBB, HBP, SH, SF, CIB, GIDP,
+    IBB, HBP, SH, SF, GIDP, CIB,
     `BAVG`, `TB`, `SLG`, OBP, OPS, ISO,
     --
     `W`, `L`, `GS`, `GF`,
@@ -151,7 +153,7 @@ REPLACE INTO career_all
     --
     RAA, RAA_off, RAA_def, RAA_pit, RAR, RAR_pit,
     WAA, WAA_off, WAA_def, WAA_pit,
-    WAR, WAR_off, WAR_def, WAR_pit,    
+    WAR, WAR_off, WAR_def, WAR_pit,
     --
     birthYear, birthMonth, birthDay, birthCountry, birthState, birthCity,
     deathYear, deathMonth, deathDay, deathCountry, deathState, deathCity,
@@ -167,7 +169,7 @@ REPLACE INTO career_all
     --
     bat.`PA`, bat.`AB`, bat.`R`, bat.`H`, bat.`2B`, bat.`3B`,
     bat.`HR`, bat.`RBI`, bat.`SB`, bat.`CS`, bat.`BB`, bat.`SO`,
-    bat.`IBB`, bat.`HBP`, bat.`SH`, bat.`SF`, bat.`CIB`, bat.`GIDP`,
+    bat.`IBB`, bat.`HBP`, bat.`SH`, bat.`SF`, bat.`GIDP`, bat.`CIB`,
     bat.`BAVG` AS BAVG, bat.`TB`, bat.`SLG`, bat.`OBP`, bat.`OPS`, bat.`ISO`,
     --
     pit.`W`, pit.`L`, pit.`GS`, pit.`GF`,
@@ -179,7 +181,7 @@ REPLACE INTO career_all
     pit.`ERA`, pit.`WHIP`, pit.`H_9`, pit.`HR_9`, pit.`BB_9`, pit.`SO_9`, pit.`SO_BB`,
     --
     bat.RAA, bat.RAA_off, bat.RAA_def, pit.RAA AS RAA_pit, bat.RAR AS RAR, pit.RAR AS RAR_pit,
-    bat.WAA, bat.WAA_off, bat.WAA_def, pit.WAA AS WAA_pit, 
+    bat.WAA, bat.WAA_off, bat.WAA_def, pit.WAA AS WAA_pit,
     bat.WAR, bat.WAR_off, bat.WAR_def, pit.WAR AS WAR_pit,
     --
     birthYear, birthMonth, birthDay, birthCountry, birthState, birthCity,
@@ -189,6 +191,6 @@ REPLACE INTO career_all
 
   --
   FROM      `people`     peep
-  LEFT JOIN `career_bat` bat   ON peep.`lahmanID` = bat.`lahmanID`
-  LEFT JOIN `career_pit` pit   ON peep.`lahmanID` = pit.`lahmanID`
+  LEFT JOIN `bat_career` bat   ON peep.`lahmanID` = bat.`lahmanID`
+  LEFT JOIN `pit_career` pit   ON peep.`lahmanID` = pit.`lahmanID`
 ;

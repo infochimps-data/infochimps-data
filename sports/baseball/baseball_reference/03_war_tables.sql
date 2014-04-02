@@ -3,19 +3,22 @@
 -- Batting WAR Table
 --
 
-DROP TABLE IF EXISTS `batting_war`;
-CREATE TABLE batting_war (
+SELECT NOW() AS starting_datetime, "Creating WAR tables and adding indexable ids: should take about 10 seconds on a macbook pro";
+
+DROP TABLE IF EXISTS `bat_war`;
+CREATE TABLE bat_war (
   `lahmanID`            int(11)              DEFAULT NULL,
   `playerID`            varchar(10)          CHARACTER SET ascii DEFAULT NULL,
   `bbrefID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   --
-  `nameCommon`         varchar(100),
+  `nameCommon`          varchar(100),
+  `age`                 smallint(2) unsigned NOT NULL,
   --
-  `yearID`              smallint(4) NOT NULL default '0',
-  `teamID`              char(3)     NOT NULL default '',
-  `stintID`             smallint(2) unsigned NOT NULL default '0',
-  `lgID`                char(2)     NOT NULL default '',
+  `yearID`              smallint(4)          NOT NULL,
+  `teamID`              char(3)              NOT NULL,
+  `stint`               smallint(2) unsigned NOT NULL,
+  `lgID`                char(2)              NOT NULL,
   `PA`                  int(5)      unsigned default NULL,
   `G`                   int(5)      unsigned default NULL,
   `Inn`                 float                default NULL,
@@ -55,23 +58,16 @@ CREATE TABLE batting_war (
   `waa_win_perc_def`    float                default NULL,
   `waa_win_perc_rep`    float                default NULL,
   --
-  PRIMARY KEY      (`bbrefID`, `yearID`, `stintID`),
-  KEY `bbrefID`    (`bbrefID`),
-  KEY `lahmanID`   (`lahmanID`),
-  KEY `playerID`   (`playerID`),
-  KEY `retroID`    (`retroID`,`bbrefID`),
-  KEY `season`     (`yearID`)
-
+  PRIMARY KEY           (`bbrefID`, `yearID`, `stint`)
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
--- Note: WAR is in order def, off here; order off, def above
-TRUNCATE TABLE `batting_war`;
-LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_reference/batting_war-20130315.csv' REPLACE
-  INTO TABLE `batting_war`
+-- Note: WAR is in order def, off in raw file; order off, def above
+LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_reference/batting_war-20140402.csv' REPLACE
+  INTO TABLE `bat_war`
   FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY ''
   IGNORE 1 ROWS
-  ( nameCommon,bbrefID,yearID,teamID,stintID,lgID,PA,G,Inn,
+  ( nameCommon,age,bbrefID,yearID,teamID,stint,lgID,PA,G,Inn,
     runs_bat,runs_br,runs_dp,runs_field,runs_infield,runs_outfield,runs_catcher,runs_good_plays,
     runs_defense,runs_position,runs_position_p,
     runs_replacement,runs_above_rep,runs_above_avg,runs_above_avg_off,runs_above_avg_def,
@@ -80,14 +76,22 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
     teamRpG,oppRpG,oppRpPA_rep,oppRpG_rep,pyth_exponent,pyth_exponent_rep,
     waa_win_perc,waa_win_perc_off,waa_win_perc_def,waa_win_perc_rep)
 ;
-
-ALTER TABLE `batting_war` DISABLE KEYS;
-UPDATE `batting_war`, `people`
-   SET `batting_war`.`playerID` = `people`.`playerID`,
-       `batting_war`.`retroID`  = `people`.`retroID`,
-       `batting_war`.`lahmanID` = `people`.`lahmanID`
- WHERE `batting_war`.`bbrefID` = `people`.`bbrefID` ;
-ALTER TABLE `batting_war` ENABLE KEYS;
+SELECT NOW() AS starting_datetime, "Finished import batting WAR", COUNT(*) AS n_bat FROM bat_war;
+--
+UPDATE `bat_war`, `people`
+   SET `bat_war`.`playerID` = `people`.`playerID`,
+       `bat_war`.`retroID`  = `people`.`retroID`,
+       `bat_war`.`lahmanID` = `people`.`lahmanID`
+ WHERE `bat_war`.`bbrefID`  = `people`.`bbrefID` ;
+--
+ALTER TABLE `bat_war`
+  ADD UNIQUE KEY `lahman`   (`lahmanID`,`yearID`, `stint`),
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`, `stint`),
+  ADD KEY        `retro`    (`retroID`,`bbrefID`, `yearID`, `stint`),
+  ADD KEY        `season`   (`yearID`),
+  ADD KEY        `team`     (`teamID`,  `yearID`, `lgID`, `stint`)
+  ;
+SELECT NOW() AS starting_datetime, "Finished fixing batting WAR", COUNT(*) AS n_bat FROM bat_war;
 
 -- ===========================================================================
 --
@@ -95,18 +99,18 @@ ALTER TABLE `batting_war` ENABLE KEYS;
 --
 --
 
-DROP TABLE IF EXISTS `pitching_war`;
-CREATE TABLE pitching_war (
-  `lahmanID`            int(11)      DEFAULT NULL,
+DROP TABLE IF EXISTS `pit_war`;
+CREATE TABLE pit_war (
+  `lahmanID`            int(11)              DEFAULT NULL,
   `playerID`            varchar(10)          CHARACTER SET ascii DEFAULT NULL,
   `bbrefID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
   --
-  `nameCommon`         varchar(100),
+  `nameCommon`          varchar(100),
   --
   `yearID`              smallint(4) NOT NULL default '0',
   `teamID`              char(3)     NOT NULL default '',
-  `stintID`             smallint(2) unsigned NOT NULL default '0',
+  `stint`               smallint(2) unsigned NOT NULL default '0',
   `lgID`                char(2)     NOT NULL default '',
   --
   `G`                   int(5)      unsigned default NULL,
@@ -142,21 +146,15 @@ CREATE TABLE pitching_war (
   `waa_win_perc_rep`    float                default NULL,
   `WAR_rep`             float                default NULL,
   --
-  PRIMARY KEY      (`bbrefID`, `yearID`, `stintID`),
-  KEY `bbrefID`    (`bbrefID`),
-  KEY `lahmanID`   (`lahmanID`),
-  KEY `playerID`   (`playerID`),
-  KEY `retroID`    (`retroID`,`bbrefID`)
-
+  PRIMARY KEY           (`bbrefID`, `yearID`, `stint`)
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
-TRUNCATE TABLE `pitching_war`;
 LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_reference/pitching_war-20130315.csv' REPLACE
-  INTO TABLE `pitching_war`
+  INTO TABLE `pit_war`
   FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY ''
   IGNORE 1 ROWS
-  ( nameCommon,bbrefID,yearID,teamID,stintID,lgID,
+  ( nameCommon,bbrefID,yearID,teamID,stint,lgID,
     G,GS,IPouts,IPouts_start,IPouts_relief,
     RA,xRA,xRA_sprp_adj,xRA_def_pitcher,PPF,PPF_custom,xRA_final,
     BIP,BIP_perc,RS_def_total,
@@ -165,26 +163,34 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
     teamRpG,oppRpG,pyth_exponent,waa_win_perc,WAA,WAA_adj,oppRpG_rep,
     pyth_exponent_rep,waa_win_perc_rep,WAR_rep )
 ;
+SELECT NOW() AS starting_datetime, "Finished import pitching WAR", COUNT(*) as n_pit FROM pit_war;
 --
-ALTER TABLE `pitching_war` DISABLE KEYS;
-UPDATE `pitching_war`, `people`
-   SET `pitching_war`.`playerID` = `people`.`playerID`,
-       `pitching_war`.`retroID`  = `people`.`retroID`,
-       `pitching_war`.`lahmanID` = `people`.`lahmanID`
- WHERE `pitching_war`.`bbrefID` = `people`.`bbrefID`
+UPDATE `pit_war`,`people`
+   SET `pit_war`.`playerID` = `people`.`playerID`,
+       `pit_war`.`retroID`  = `people`.`retroID`,
+       `pit_war`.`lahmanID` = `people`.`lahmanID`
+ WHERE `pit_war`.`bbrefID`  = `people`.`bbrefID`
  ;
-ALTER TABLE `pitching_war` ENABLE KEYS;
+--
+ALTER TABLE `pit_war`
+  ADD UNIQUE KEY `lahman`   (`lahmanID`,`yearID`, `stint`),
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`, `stint`),
+  ADD KEY        `retro`    (`retroID`,`bbrefID`, `yearID`, `stint`),
+  ADD KEY        `season`   (`yearID`),
+  ADD KEY        `team`     (`teamID`,  `yearID`, `lgID`, `stint`)
+  ;
+SELECT NOW() AS starting_datetime, "Finished fixing pitching WAR", COUNT(*) as n_pit FROM pit_war;
 
 -- ===========================================================================
 --
 -- Pull the common name field from the war tables into the people table
 --
 
-UPDATE `pitching_war`, `people`
-   SET `people`.`nameCommon` = `pitching_war`.`nameCommon`
- WHERE `pitching_war`.`bbrefID` = `people`.`bbrefID`
+UPDATE `pit_war`, `people`
+   SET `people`.`nameCommon` = `pit_war`.`nameCommon`
+ WHERE `pit_war`.`bbrefID` = `people`.`bbrefID`
  ;
-UPDATE `batting_war`, `people`
-   SET `people`.`nameCommon` = `batting_war`.`nameCommon`
- WHERE `batting_war`.`bbrefID`    = `people`.`bbrefID`
+UPDATE `bat_war`, `people`
+   SET `people`.`nameCommon` = `bat_war`.`nameCommon`
+ WHERE `bat_war`.`bbrefID`    = `people`.`bbrefID`
  ;

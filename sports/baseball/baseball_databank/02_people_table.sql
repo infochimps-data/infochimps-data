@@ -3,6 +3,8 @@
 -- People Table
 --
 
+SELECT NOW() AS starting_datetime, "people: ids from all sources";
+
 DROP TABLE IF EXISTS `people`;
 CREATE TABLE `people` (
   `lahmanID`    int(11)      DEFAULT NULL,

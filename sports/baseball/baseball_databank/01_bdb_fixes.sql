@@ -1,9 +1,13 @@
+
 -- ===========================================================================
 --
 -- Fixes for 2012 Baseball Databank
 --
 
+SELECT NOW() AS starting_datetime, "Correct a few inconsistencies";
+
 -- correct a couple errors in the 2012 Baseball Databank (the 'January 9, 3:00 pm' release)
+-- need to do this first as the unique indexes fail otherwise
 
 UPDATE `master`        SET `playerID` = 'baezjo01'  WHERE `lahmanID` = 460   AND `playerID` = 'baezda01';
 UPDATE `master`        SET `bbrefID`  = 'snydech03' WHERE `lahmanID` = 19419 AND `playerID` = 'snydech03';
@@ -238,7 +242,7 @@ UPDATE `master`        SET `bbrefID`  = 'brummty01' WHERE `lahmanID` = 19412 AND
 --   peep.`nameFirst`, peep.`nameLast`, bw.`nameCommon`
 --   FROM people peep
 --   LEFT JOIN `batting_war` bw ON (peep.`playerID` = bw.`bbrefID`)
---   WHERE (peep.`bbrefID` IS NULL) 
+--   WHERE (peep.`bbrefID` IS NULL)
 --   ORDER BY name_match ASC
 --   ;
 
@@ -247,52 +251,71 @@ UPDATE `master`        SET `bbrefID`  = 'brummty01' WHERE `lahmanID` = 19412 AND
 -- Restore Indices for 2012 Baseball Databank
 --
 
--- Optional: re-add indexes; joins very slow without
+SELECT NOW() AS starting_datetime, "Beg adding indexes to tables", n_ma, n_bat, n_pit, n_tms, n_app
+  from
+    (SELECT COUNT(*) AS n_ma  FROM master)      ma,
+    (SELECT COUNT(*) AS n_bat FROM batting)     bat,
+    (SELECT COUNT(*) AS n_pit FROM pitching)    pit,
+    (SELECT COUNT(*) AS n_tms FROM teams)       tms,
+    (SELECT COUNT(*) AS n_app FROM appearances) app
+  ;
 
 ALTER TABLE `master`
-  ADD UNIQUE KEY `playerID`  (`playerID`),
-  ADD UNIQUE KEY `bbrefID`   (`bbrefID`),
-  ADD UNIQUE KEY `retroID`   (`retroID`,`bbrefID`),
-  ADD UNIQUE KEY `managerID` (`managerID`),
-  ADD UNIQUE KEY `hofID`     (`hofID`)
+  ADD UNIQUE KEY `player`  (`playerID`),
+  ADD UNIQUE KEY `bbref`   (`bbrefID`),
+  ADD UNIQUE KEY `retro`   (`retroID`,`bbrefID`),
+  ADD UNIQUE KEY `manager` (`managerID`),
+  ADD UNIQUE KEY `hof`     (`hofID`)
   ;
-ALTER TABLE Teams
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE teams
+  ADD UNIQUE KEY `team`     (`teamID`,`yearID`,`lgID`),
+  ADD KEY        `franch`   (`franchID`)
   ;
-ALTER TABLE TeamsHalf
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE teamshalf
+  ADD UNIQUE KEY `team`     (`teamID`,`yearID`,`lgID`, `half`)
   ;
-ALTER TABLE Batting
-  ADD KEY `playerID` (`playerID`),
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE batting
+  ADD KEY        `team`     (`teamID`,  `yearID`,`lgID`,`stint`)
   ;
-ALTER TABLE Pitching
-  ADD KEY `playerID` (`playerID`),
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE pitching
+  ADD KEY        `team`     (`teamID`,  `yearID`,`lgID`,`stint`)
   ;
-ALTER TABLE Fielding
-  ADD KEY `playerID` (`playerID`),
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE fielding
+  ADD KEY        `team`     (`teamID`,  `yearID`,`lgID`,`stint`)
   ;
-ALTER TABLE BattingPost
-  ADD KEY `playerID` (`playerID`,`yearID`),
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE battingpost
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`,`round`),
+  ADD KEY        `team`     (`teamID`,  `yearID`,`round`),
+  ADD KEY        `round`    (`yearID`,  `round`,`lgID`)
   ;
-ALTER TABLE PitchingPost
-  ADD KEY `playerID` (`playerID`,`yearID`),
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE pitchingpost
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`,`round`),
+  ADD KEY        `team`     (`teamID`,  `yearID`,`round`),
+  ADD KEY        `round`    (`yearID`,  `round`,`lgID`)
   ;
-ALTER TABLE FieldingPost
-  ADD KEY `playerID` (`playerID`),
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`),
-  ADD KEY `round`    (`yearID`,`round`,`teamID`,`lgID`)
+ALTER TABLE fieldingpost
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`,`round`,`POS`),
+  ADD KEY        `team`     (`teamID`,  `yearID`,`round`),
+  ADD KEY        `round`    (`yearID`,  `round`,`lgID`)
   ;
-ALTER TABLE Managers
-  ADD KEY `team`     (`teamID`,`yearID`,`lgID`)
+ALTER TABLE managers
+  ADD UNIQUE KEY `manager`  (`managerID`,`yearID`,`teamID`,`inseason`),
+  ADD KEY        `team`     (`teamID`,`yearID`,`lgID`)
   ;
-ALTER TABLE Salaries
-  ADD KEY `playerID` (`playerID`,`yearID`,`lgID`)
+ALTER TABLE salaries
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`,`teamID`, `lgID`)
   ;
-ALTER TABLE Appearances
-  ADD KEY `playerID` (`playerID`,`yearID`)
+ALTER TABLE appearances
+  ADD UNIQUE KEY `player`   (`playerID`,`yearID`,`teamID`),
+  ADD KEY        `team`     (`teamID`,`yearID`,`lgID`)
+  ;
+
+
+SELECT NOW() AS starting_datetime, "End adding indexes to tables", n_ma, n_bat, n_pit, n_tms, n_app
+  from
+    (SELECT COUNT(*) AS n_ma  FROM master)      ma,
+    (SELECT COUNT(*) AS n_bat FROM batting)     bat,
+    (SELECT COUNT(*) AS n_pit FROM pitching)    pit,
+    (SELECT COUNT(*) AS n_tms FROM teams)       tms,
+    (SELECT COUNT(*) AS n_app FROM appearances) app
   ;

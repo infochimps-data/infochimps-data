@@ -3,9 +3,11 @@
 -- Career Batting Table
 --
 
-DROP TABLE IF EXISTS `career_bat`;
+SELECT NOW() AS starting_datetime, "Find career batting stats";
+
+DROP TABLE IF EXISTS `bat_career`;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `career_bat` (
+CREATE TABLE `bat_career` (
   `lahmanID`    int(11)                DEFAULT NULL,
   `playerID`    varchar(10)            CHARACTER SET ascii DEFAULT NULL,
   `bbrefID`     varchar(9)             CHARACTER SET ascii DEFAULT NULL,
@@ -41,8 +43,8 @@ CREATE TABLE `career_bat` (
   `HBP`         int(5) unsigned        default NULL,
   `SH`          int(5) unsigned        default NULL,
   `SF`          int(5) unsigned        default NULL,
-  `CIB`         int(5) unsigned        default NULL, -- catcher's interference while batting
   `GIDP`        int(5) unsigned        default NULL,
+  `CIB`         int(5)                 default NULL, -- catcher's interference while batting
   --
   `BAVG`        float                  default NULL,
   `TB`          float                  default NULL,
@@ -51,7 +53,7 @@ CREATE TABLE `career_bat` (
   `OPS`         float                  default NULL,
   `ISO`         float                  default NULL,
   --
-  `isPitcher`   enum('Y','N')          default NULL,
+  `isPitcher`   BOOLEAN                default NULL,
   `RAA`         float                  default NULL,
   `RAA_off`     float                  default NULL,
   `RAA_def`     float                  default NULL,
@@ -70,7 +72,7 @@ CREATE TABLE `career_bat` (
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
-REPLACE INTO career_bat
+REPLACE INTO bat_career
   (lahmanID, playerID, bbrefID, retroID,
     nameCommon, nameFirst, nameLast,
     years, begYear, endYear,
@@ -85,11 +87,10 @@ REPLACE INTO career_bat
     peep.nameCommon, nameFirst, nameLast,
     COUNT(DISTINCT bat.yearID) AS years, MIN(bat.yearID) AS begYear,  MAX(bat.yearID) AS endYear,
     hof.yearID AS hofYear, votedBy,
-    -- bat.stint, bat.teamID, bat.lgID,
-    SUM(bat.G) AS G, SUM(bat.G_batting) AS G_batting, IFNULL(ast.G_allstar,0) AS G_allstar,
-    SUM(AB) AS AB, SUM(R)  AS R,  SUM(H)  AS H,  SUM(2B) AS 2B, SUM(3B)  AS 3B,  SUM(HR)  AS HR,  SUM(RBI) AS RBI,
-    SUM(SB) AS SB, SUM(CS) AS CS, SUM(BB) AS BB, SUM(SO) AS SO, SUM(IBB) AS IBB, SUM(HBP) AS HBP,
-    SUM(SH) AS SH, SUM(SF) AS SF, SUM(GIDP) AS  GIDP
+    SUM(bat.G) AS G,  IFNULL(SUM(bat.G_batting),0) AS G_batting, IFNULL(ast.G_allstar,0) AS G_allstar,
+    SUM(AB)    AS AB, SUM(R)  AS R,  SUM(H)  AS H,  SUM(2B) AS 2B, SUM(3B)  AS 3B,  SUM(HR)  AS HR,  SUM(RBI) AS RBI,
+    SUM(SB)    AS SB, SUM(CS) AS CS, SUM(BB) AS BB, SUM(SO) AS SO, SUM(IBB) AS IBB, SUM(HBP) AS HBP,
+    SUM(SH)    AS SH, SUM(SF) AS SF, SUM(GIDP) AS  GIDP
   --
   FROM batting bat
   JOIN `people` peep
@@ -107,41 +108,41 @@ REPLACE INTO career_bat
 --
 -- Copy over WAR settings from baseball_reference tables
 --
-UPDATE `career_bat`,
-  (SELECT bbrefID, MAX(isPitcher) AS isPitcher,
+UPDATE `bat_career`,
+  (SELECT bbrefID, IF(MAX(isPitcher) = "Y", TRUE, FALSE) AS isPitcher,
     SUM(PA) AS PA,
     SUM(runs_above_avg) AS RAA, SUM(runs_above_avg_off) AS RAA_off, SUM(runs_above_avg_def) AS RAA_def,
     SUM(runs_above_rep) AS RAR,
     SUM(WAA) AS WAA, SUM(WAA_off) AS WAA_off, SUM(WAA_def) AS WAA_def,
     SUM(WAR) AS WAR, SUM(WAR_off) AS WAR_off, SUM(WAR_def) AS WAR_def
-    FROM `batting_war` GROUP BY bbrefID) wart
+    FROM `bat_war` GROUP BY bbrefID) wart
   SET
-       `career_bat`.`PA`        = wart.`PA`,
-       `career_bat`.`RAA`       = wart.`RAA`,
-       `career_bat`.`RAA_off`   = wart.`RAA_off`,
-       `career_bat`.`RAA_def`   = wart.`RAA_def`,
-       `career_bat`.`RAR`       = wart.`RAR`,
-       `career_bat`.`WAA`       = wart.`WAA`,
-       `career_bat`.`WAA_off`   = wart.`WAA_off`,
-       `career_bat`.`WAA_def`   = wart.`WAA_def`,
-       `career_bat`.`WAR`       = wart.`WAR`,
-       `career_bat`.`WAR_off`   = wart.`WAR_off`,
-       `career_bat`.`WAR_def`   = wart.`WAR_def`,
-       `career_bat`.`isPitcher` = wart.`isPitcher`
- WHERE `career_bat`.`bbrefID`   = wart.`bbrefID`
+       `bat_career`.`PA`        = wart.`PA`,
+       `bat_career`.`RAA`       = wart.`RAA`,
+       `bat_career`.`RAA_off`   = wart.`RAA_off`,
+       `bat_career`.`RAA_def`   = wart.`RAA_def`,
+       `bat_career`.`RAR`       = wart.`RAR`,
+       `bat_career`.`WAA`       = wart.`WAA`,
+       `bat_career`.`WAA_off`   = wart.`WAA_off`,
+       `bat_career`.`WAA_def`   = wart.`WAA_def`,
+       `bat_career`.`WAR`       = wart.`WAR`,
+       `bat_career`.`WAR_off`   = wart.`WAR_off`,
+       `bat_career`.`WAR_def`   = wart.`WAR_def`,
+       `bat_career`.`isPitcher` = wart.`isPitcher`
+ WHERE `bat_career`.`bbrefID`   = wart.`bbrefID`
  ;
 
 --
 -- Calculate derived statistics -- batting average and so forth
 --
-UPDATE career_bat SET
+UPDATE bat_career SET
   BAVG   = (H / AB),
   TB    = (H + 2B + 2 * 3B + 3 * HR),
   SLG   = ((H + 2B + 2 * 3B + 3 * HR) / AB),
   OBP   = ( H + BB + IFNULL(HBP,0) ) / PA,
   CIB   = PA - (AB + BB + IFNULL(HBP,0) + IFNULL(SH,0) + IFNULL(SF,0))
   ;
-UPDATE career_bat SET
+UPDATE bat_career SET
   OPS   = (SLG + OBP),
   ISO   = ((TB - H) / AB)
   ;
@@ -152,9 +153,11 @@ UPDATE career_bat SET
 -- Career Pitching Table
 --
 
-DROP TABLE IF EXISTS `career_pit`;
+SELECT NOW() AS starting_datetime, "Find career pitching stats";
+
+DROP TABLE IF EXISTS `pit_career`;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `career_pit` (
+CREATE TABLE `pit_career` (
   `lahmanID`    int(11)                DEFAULT NULL,
   `playerID`    varchar(10)            CHARACTER SET ascii DEFAULT NULL,
   `bbrefID`     varchar(9)             CHARACTER SET ascii DEFAULT NULL,
@@ -215,7 +218,7 @@ CREATE TABLE `career_pit` (
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
-REPLACE INTO career_pit
+REPLACE INTO pit_career
   (lahmanID, playerID, bbrefID, retroID,
     nameCommon, nameFirst, nameLast,
     years, begYear, endYear,
@@ -233,15 +236,15 @@ REPLACE INTO career_pit
     COUNT(DISTINCT pit.yearID) AS years, MIN(pit.yearID) AS begYear,  MAX(pit.yearID) AS endYear,
     hof.yearID AS hofYear, votedBy,
     -- pit.stint, pit.teamID, pit.lgID,
-    SUM(pit.`W`) AS `W`, SUM(pit.`L`) AS `L`, SUM(pit.`G`) AS `G`,
-    SUM(pit.`GS`) AS `GS`, SUM(pit.`GF`) AS `GF`, SUM(pit.`CG`) AS `CG`,
-    SUM(pit.`SHO`) AS `SHO`, SUM(pit.`SV`) AS `SV`,
+    SUM(pit.`W`)      AS `W`, SUM(pit.`L`) AS `L`, SUM(pit.`G`) AS `G`,
+    SUM(pit.`GS`)     AS `GS`, SUM(pit.`GF`) AS `GF`, SUM(pit.`CG`) AS `CG`,
+    SUM(pit.`SHO`)    AS `SHO`, SUM(pit.`SV`) AS `SV`,
     SUM(pit.`IPouts`) AS `IPouts`, SUM(pit.`IPouts`) / 3.0 AS `IP`,
     IFNULL(ast.G_allstar,0) AS G_allstar,
-    SUM(pit.`H`) AS `H`, SUM(pit.`R`) AS `R`, SUM(pit.`ER`) AS `ER`, SUM(pit.`HR`) AS `HR`,
-    SUM(pit.`BB`) AS `BB`, SUM(pit.`SO`) AS `SO`,
-    SUM(pit.`IBB`) AS `IBB`, SUM(pit.`WP`) AS `WP`, SUM(pit.`HBP`) AS `HBP`,
-    SUM(pit.`BK`) AS `BK`, SUM(pit.`BFP`) AS `BFP`
+    SUM(pit.`H`)      AS `H`, SUM(pit.`R`) AS `R`, SUM(pit.`ER`) AS `ER`, SUM(pit.`HR`) AS `HR`,
+    SUM(pit.`BB`)     AS `BB`, SUM(pit.`SO`) AS `SO`,
+    SUM(pit.`IBB`)    AS `IBB`, SUM(pit.`WP`) AS `WP`, SUM(pit.`HBP`) AS `HBP`,
+    SUM(pit.`BK`)     AS `BK`, SUM(pit.`BFP`) AS `BFP`
   --
   FROM pitching pit
   JOIN `people` peep
@@ -259,7 +262,7 @@ REPLACE INTO career_pit
 --
 -- Calculate derived statistics -- ERA and so forth
 --
-UPDATE career_pit SET
+UPDATE pit_career SET
   WHIP  = ( (BB + H) / (IPouts / 3) ),
   ERA   = ( ER / IP ),
   H_9   = ( H  / (IPouts / 27) ),
@@ -272,12 +275,12 @@ UPDATE career_pit SET
 --
 -- Copy over WAR settings from baseball_reference tables
 --
-UPDATE `career_pit`,
+UPDATE `pit_career`,
   (SELECT bbrefID,
     SUM(WAA) AS WAA,
     SUM(WAR) AS WAR
-    FROM `pitching_war` GROUP BY bbrefID) wart
-  SET  `career_pit`.`WAA`      = wart.`WAA`,
-       `career_pit`.`WAR`      = wart.`WAR`
- WHERE `career_pit`.`bbrefID`  = wart.`bbrefID`
+    FROM `pit_war` GROUP BY bbrefID) wart
+  SET  `pit_career`.`WAA`      = wart.`WAA`,
+       `pit_career`.`WAR`      = wart.`WAR`
+ WHERE `pit_career`.`bbrefID`  = wart.`bbrefID`
  ;

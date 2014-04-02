@@ -1,0 +1,1 @@
+../baseball_reference/99_checks.sql
