@@ -15,7 +15,7 @@ CREATE TABLE `comb_career` (
   --
   `nameCommon`  varchar(100)          default NULL,
   `nameFirst`   varchar(50)           default NULL,
-  `nameLast`    varchar(50) NOT NULL  default '',
+  `nameLast`    varchar(50)  NOT NULL default '',
   `nameGiven`   varchar(255)          default NULL,
   `nameNick`    varchar(255)          default NULL,
   --
@@ -48,7 +48,7 @@ CREATE TABLE `comb_career` (
   `SH`          int(5) unsigned       default NULL,
   `SF`          int(5) unsigned       default NULL,
   `GIDP`        int(5) unsigned       default NULL,
-  `CIB`         int(5) unsigned       default NULL,
+  `CIB`         int(5)                default NULL,
   --
   `BAVG`        float                 default NULL,
   `TB`          float                 default NULL,

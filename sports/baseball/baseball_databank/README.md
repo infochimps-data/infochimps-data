@@ -12,6 +12,11 @@ This database is copyright 1996-2013 by Sean Lahman.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.  For details see: http://creativecommons.org/licenses/by-sa/3.0/
 
+### Loading
+
+    date ; ( echo 'DROP DATABASE IF EXISTS `lahman`;' ; cat $lahmandir/lahman2012.sql ) | mysql -u root
+    for foo in  ./{01,02,03,04,05,06}_*.sql ; do echo "  === $foo" ; cat $foo | mysql --show-warnings -u root lahman ; done 
+
 ### The 2012 Version
 
 * [2012 Version  - Microsoft Access](http://seanlahman.com/files/database/lahman2012-ms.zip)

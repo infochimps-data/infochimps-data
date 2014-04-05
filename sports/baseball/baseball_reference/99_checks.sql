@@ -23,6 +23,13 @@ SELECT playerID, yearID,
   ORDER BY yearID, playerID DESC
   ;
 
+SELECT playerID, yearID,
+    G, G_batting, PA, AB, BB, HBP, SH, SF, CIB
+  FROM `batting` bats
+  WHERE playerID LIKE "phillan01"
+  ORDER BY yearID, playerID DESC
+  ;
+
 
 SELECT NOW() AS starting_datetime, "Check season vs career stats", COUNT(*) AS n_bat from batting;
 

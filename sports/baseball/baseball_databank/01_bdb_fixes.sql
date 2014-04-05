@@ -237,6 +237,9 @@ UPDATE `master`        SET `bbrefID`  = 'tayloan01' WHERE `lahmanID` = 19410 AND
 UPDATE `master`        SET `bbrefID`  = 'ortegra01' WHERE `lahmanID` = 19411 AND `bbrefID` IS NULL;
 UPDATE `master`        SET `bbrefID`  = 'brummty01' WHERE `lahmanID` = 19412 AND `bbrefID` IS NULL;
 
+-- confirmed against MLB stats
+UPDATE `batting`       SET `AB` = 21 WHERE playerID = "phillan01" AND yearID = 2008 AND stint = 1 AND teamID = "CIN";
+
 -- SELECT (CONCAT(peep.`nameFirst`, ' ', peep.`nameLast`) = bw.`nameCommon`) AS name_match,
 --   peep.`lahmanID`, peep.`playerID`, bw.`bbrefID`, peep.`bbrefID`, bw.`lahmanID`, bw.yearID,
 --   peep.`nameFirst`, peep.`nameLast`, bw.`nameCommon`

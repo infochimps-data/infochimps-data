@@ -1,0 +1,1421 @@
+<parks>
+  <park parkID="ALB01" beg="1880-09-11" city="Albany" country="US" end="1882-05-18" games="6" name="Riverside Park" state="NY">
+    <comment parkID="ALB01" comment="TRN played 6 games here as an alternate (neutral) site from 1880-09-11 until 1882-05-18" />
+    <othername name="Riverside Park" auth="1" beg="1880" curr="1" end="1882" />
+    <team teamID="TRN" beg="1880-09-11" end="1882-05-18" games="6" neutralsite="1" />
+  </park>
+  <park parkID="ALB02" beg="1882-05-30" city="Rensselaer" country="US" end="1882-05-30" games="1" name="Greenbush Grounds" state="NY">
+    <comment parkID="ALB02" comment="TRN played 1 games here as an alternate (neutral) site from 1882-05-30 until 1882-05-30" />
+    <othername name="Greenbush Grounds" auth="1" beg="1882" curr="1" end="1882" />
+    <team teamID="TRN" beg="1882-05-30" end="1882-05-30" games="1" neutralsite="1" />
+  </park>
+  <park parkID="ALT01" beg="1884-04-30" city="Altoona" country="US" end="1884-05-31" games="18" name="Columbia Park (Altoona)" state="PA">
+    <othername name="Columbia Park" auth="1" beg="1884" curr="0" end="1884" />
+    <othername name="Columbia Park (Altoona)" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="ALT" beg="1884-04-30" end="1884-05-31" games="18" parknameBDB="ALT:" />
+  </park>
+  <park parkID="ANA01" active="1" beg="1966-04-19" city="Anaheim" country="US" end="NULL" extaddr="" games="3269" href="http://angels.mlb.com/" lat="33.80046" lng="-117.8825" logofile="logo_ana_79x76.jpg" name="Angel Stadium of Anaheim" spanishurl="" state="CA" streetaddr="2000 Gene Autry Way" tel="(714) 940-2000" url="angelsbaseball.com" zip="92806">
+    <othername name="Anaheim Stadium" auth="1" beg="1966" curr="0" end="1996" />
+    <othername name="Angel Stadium" auth="0" />
+    <othername name="Angel Stadium of Anaheim" auth="1" beg="2004" curr="1" end="NULL" />
+    <othername name="Angels Stadium of Anaheim" auth="0" />
+    <othername name="Edison Field" auth="0" />
+    <othername name="Edison International Field" auth="0" />
+    <othername name="Edison International Field of Anaheim" auth="1" beg="1997" curr="0" end="2003" />
+    <team teamID="ANA" beg="1997-04-02" end="NULL" games="812" parknameBDB="ANA:Angel Stadium" />
+    <team teamID="CAL" beg="1966-04-19" end="1996-09-25" games="2457" parknameBDB="CAL:Anaheim Stadium" />
+  </park>
+  <park parkID="ARL01" beg="1972-04-21" city="Arlington" country="US" end="1993-10-03" games="1750" lat="32.75329669148951" lng="-97.0871297880971" name="Arlington Stadium" state="TX">
+    <othername name="Arlington Stadium" auth="1" beg="1972" curr="1" end="1993" />
+    <team teamID="TEX" beg="1972-04-21" end="1993-10-03" games="1750" parknameBDB="TEX:Arlington Stadium" />
+  </park>
+  <park parkID="ARL02" active="1" beg="1994-04-11" city="Arlington" country="US" end="NULL" extaddr="" games="1027" href="http://rangers.mlb.com" lat="32.75119" lng="-97.08269" logofile="logo_tex_79x76.jpg" name="Rangers Ballpark in Arlington" spanishurl="" state="TX" streetaddr="1000 Ballpark Way" tel="(817) 273-5222" url="texasrangers.com" zip="76011">
+    <othername name="Ameriquest Field" auth="0" />
+    <othername name="Ameriquest Field in Arlington" auth="1" beg="2004" curr="0" end="NULL" />
+    <othername name="Rangers Ballpark in Arlington" auth="1" beg="2007" curr="1" end="NULL" />
+    <othername name="The Ballpark at Arlington" auth="0" />
+    <othername name="The Ballpark in Arlington" auth="1" beg="1994" curr="0" end="2003" />
+    <team teamID="TEX" beg="1994-04-11" end="NULL" games="1027" parknameBDB="TEX:Ameriquest Field" />
+  </park>
+  <park parkID="ATL01" beg="1966-04-12" city="Atlanta" country="US" end="1996-09-23" games="2435" lat="33.73846868389396" lng="-84.38840501096917" name="Atlanta-Fulton County Stadium" state="GA">
+    <othername name="Atlanta Stadium" auth="1" beg="1966" curr="0" end="1974" />
+    <othername name="Atlanta-Fulton County Stadium" auth="1" beg="1975" curr="1" end="1996" />
+    <team teamID="ATL" beg="1966-04-12" end="1996-09-23" games="2435" parknameBDB="ATL:Atlanta-Fulton County Stadium" />
+  </park>
+  <park parkID="ATL02" active="1" beg="1997-04-04" city="Atlanta" country="US" end="NULL" extaddr="" games="810" href="http://braves.mlb.com" lat="33.73542" lng="-84.38925" logofile="logo_atl_79x76.jpg" name="Turner Field" spanishurl="" state="GA" streetaddr="755 Hank Aaron Drive" tel="(404) 522-7630" url="braves.com" zip="30315">
+    <othername name="Turner Field" auth="1" beg="1997" curr="1" end="NULL" />
+    <team teamID="ATL" beg="1997-04-04" end="NULL" games="810" parknameBDB="ATL:Turner Field" />
+  </park>
+  <park parkID="BAL01" beg="1871-07-08" city="Baltimore" country="US" end="1873-04-14" games="2" name="Madison Avenue Grounds" state="MD">
+    <comment parkID="BAL01" comment="WS3 played 1 games here as an alternate (neutral) site from 1871-07-08 until 1871-07-08" />
+    <othername name="Madison Avenue Grounds" auth="1" beg="1871" curr="1" end="1873" />
+    <othername name="Newington Park" auth="0" />
+    <team teamID="BL4" beg="1873-04-14" end="1873-04-14" games="1" parknameBDB="BL4:Newington Park" />
+    <team teamID="WS3" beg="1871-07-08" end="1871-07-08" games="1" neutralsite="1" />
+  </park>
+  <park parkID="BAL02" beg="1872-04-22" city="Baltimore" country="US" end="1882-09-30" games="109" name="Newington Park" state="MD">
+    <comment parkID="BAL02" comment="WS6 played 1 games here as an alternate (neutral) site from 1875-06-09 until 1875-06-09" />
+    <othername name="Newington Park" auth="1" beg="1872" curr="1" end="1882" />
+    <team teamID="BL1" beg="1872-04-22" end="1874-10-14" games="75" parknameBDB="BL1:Newington Park" />
+    <team teamID="BL2" beg="1882-05-09" end="1882-09-30" games="33" parknameBDB="BL2:Newington Park" />
+    <team teamID="WS6" beg="1875-06-09" end="1875-06-09" games="1" neutralsite="1" />
+  </park>
+  <park parkID="BAL03" beg="1883-05-01" city="Baltimore" country="US" end="1889-10-10" games="419" lat="39.32129617823384" lng="-76.60851434944321" name="Oriole Park I" state="MD">
+    <othername name="Oriole Park" auth="0" />
+    <othername name="Oriole Park I" auth="1" beg="1883" curr="1" end="1889" />
+    <team teamID="BL2" beg="1883-05-01" end="1889-10-10" games="419" parknameBDB="BL2:Oriole Park" />
+  </park>
+  <park parkID="BAL04" beg="1884-04-17" city="Baltimore" country="US" end="1884-09-24" games="50" name="Belair Lot" state="MD">
+    <comment parkID="BAL04" comment="CHU played 1 games here as an alternate (neutral) site from 1884-09-17 until 1884-09-17" />
+    <othername name="Belair Lot" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="BLU" beg="1884-04-17" end="1884-09-24" games="49" parknameBDB="BLU:" />
+    <team teamID="CHU" beg="1884-09-17" end="1884-09-17" games="1" neutralsite="1" />
+  </park>
+  <park parkID="BAL05" beg="1884-08-25" city="Baltimore" country="US" end="1884-08-25" games="1" name="Monumental Park" state="MD">
+    <comment parkID="BAL05" comment="BLU played 1 games here as an alternate (neutral) site from 1884-08-25 until 1884-08-25" />
+    <othername name="Monumental Park" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="BLU" beg="1884-08-25" end="1884-08-25" games="1" neutralsite="1" />
+  </park>
+  <park parkID="BAL06" beg="1890-08-27" city="Baltimore" country="US" end="1891-05-09" games="36" name="Oriole Park II" state="MD">
+    <othername name="Oriole Park" auth="0" />
+    <othername name="Oriole Park II" auth="1" beg="1890" curr="1" end="1891" />
+    <team teamID="BL3" beg="1890-08-27" end="1891-05-09" games="36" parknameBDB="BL3:Oriole Park" />
+  </park>
+  <park parkID="BAL07" beg="1891-05-11" city="Baltimore" country="US" end="1899-10-10" games="618" name="Oriole Park III" state="MD">
+    <othername name="Oriole Park III" auth="1" beg="1891" curr="1" end="1899" />
+    <othername name="Union Park" auth="0" />
+    <team teamID="BL3" beg="1891-05-11" end="1891-10-03" games="56" parknameBDB="BL3:Union Park" />
+    <team teamID="BLN" beg="1892-04-12" end="1899-10-10" games="562" parknameBDB="BLN:Union Park" />
+  </park>
+  <park parkID="BAL09" beg="1901-04-26" city="Baltimore" country="US" end="1902-09-29" games="130" lat="38.90252675032274" lng="-76.9874968758275" name="Oriole Park IV" state="MD">
+    <othername name="American League Park" auth="0" />
+    <othername name="Oriole Park" auth="0" />
+    <othername name="Oriole Park IV" auth="1" beg="1901" curr="1" end="1902" />
+    <team teamID="BLA" beg="1901-04-26" end="1902-09-29" games="130" parknameBDB="BLA:Oriole Park" />
+  </park>
+  <park parkID="BAL10" beg="1914-04-13" city="Baltimore" country="US" end="1915-10-02" games="158" name="Terrapin Park" state="MD">
+    <othername name="Oriole Park V" auth="0" />
+    <othername name="Terrapin Park" auth="1" beg="1914" curr="1" end="1915" />
+    <team teamID="BLF" beg="1914-04-13" end="1915-10-02" games="158" parknameBDB="BLF:" />
+  </park>
+  <park parkID="BAL11" beg="1954-04-15" city="Baltimore" country="US" end="1991-10-06" games="3006" lat="39.33005700509931" lng="-76.60130464781969" name="Memorial Stadium" state="MD">
+    <othername name="Memorial Stadium" auth="1" beg="1954" curr="1" end="1991" />
+    <team teamID="BAL" beg="1954-04-15" end="1991-10-06" games="3006" parknameBDB="BAL:Memorial Stadium" />
+  </park>
+  <park parkID="BAL12" active="1" beg="1992-04-06" city="Baltimore" country="US" end="NULL" extaddr="" games="1180" href="http://orioles.mlb.com" lat="39.28394" lng="-76.62130000000001" logofile="logo_bal_79x76.jpg" name="Oriole Park at Camden Yards" spanishurl="" state="MD" streetaddr="333 West Camden Street" tel="(410) 685-9800" url="orioles.com" zip="21201">
+    <othername name="Oriole Park at Camden Yards" auth="1" beg="1992" curr="1" end="NULL" />
+    <team teamID="BAL" beg="1992-04-06" end="NULL" games="1180" parknameBDB="BAL:Oriole Park at Camden Yards" />
+  </park>
+  <park parkID="BOS01" beg="1871-05-16" city="Boston" country="US" end="1887-09-10" games="688" lat="42.33906316323721" lng="-71.08417174212944" name="South End Grounds I" state="MA">
+    <comment parkID="BOS01" comment="HR1 played 1 games here as an alternate (neutral) site from 1874-08-12 until 1874-08-12" />
+    <othername name="South End Grounds I" auth="1" beg="1871" curr="1" end="1887" />
+    <othername name="Walpole Street Grounds" auth="0" />
+    <team teamID="BS1" beg="1871-05-16" end="1875-10-30" games="136" parknameBDB="BS1:South End Grounds I" />
+    <team teamID="BSN" beg="1876-04-29" end="1887-09-10" games="551" parknameBDB="BSN:South End Grounds I" />
+    <team teamID="HR1" beg="1874-08-12" end="1874-08-12" games="1" neutralsite="1" />
+  </park>
+  <park parkID="BOS02" beg="1884-04-30" city="Boston" country="US" end="1884-09-24" games="57" name="Dartmouth Grounds" state="MA">
+    <comment parkID="BOS02" comment="BSN:5/16 to 6/20/1894" />
+    <othername name="Dartmouth Grounds" auth="1" beg="1884" curr="1" end="1884" />
+    <othername name="Union Park" auth="0" />
+    <team teamID="BSU" beg="1884-04-30" end="1884-09-24" games="57" parknameBDB="BSU:" />
+  </park>
+  <park parkID="BOS03" beg="1888-05-25" city="Boston" country="US" end="1894-05-14" games="420" name="South End Grounds II" state="MA">
+    <othername name="South End Grounds II" auth="1" beg="1888" curr="1" end="1894" />
+    <team teamID="BSN" beg="1888-05-25" end="1894-05-14" games="420" parknameBDB="BSN:South End Grounds II" />
+  </park>
+  <park parkID="BOS04" beg="1890-04-19" city="Boston" country="US" end="1894-06-20" games="167" name="Congress Street Grounds" state="MA">
+    <comment parkID="BOS04" comment="BS2:1891" />
+    <othername name="Congress Street Grounds" auth="1" beg="1890" curr="1" end="1894" />
+    <team teamID="BS2" beg="1891-04-18" end="1891-10-03" games="70" parknameBDB="BS2:Congress Street Grounds" />
+    <team teamID="BSN" beg="1894-05-16" end="1894-06-20" games="27" parknameBDB="BSN:Congress Street Grounds" />
+    <team teamID="BSP" beg="1890-04-19" end="1890-09-10" games="70" parknameBDB="BSP:" />
+  </park>
+  <park parkID="BOS05" beg="1894-07-20" city="Boston" country="US" end="1914-08-11" games="1489" name="South End Grounds III" state="MA">
+    <othername name="South End Grounds III" auth="1" beg="1894" curr="1" end="1914" />
+    <team teamID="BSN" beg="1894-07-20" end="1914-08-11" games="1489" parknameBDB="BSN:South End Grounds III" />
+  </park>
+  <park parkID="BOS06" beg="1901-05-08" city="Boston" country="US" end="1911-10-07" games="831" name="Huntington Avenue Baseball Grounds" state="MA">
+    <othername name="Huntington Avenue Baseball Grounds" auth="1" beg="1901" curr="1" end="1911" />
+    <othername name="Huntington Avenue Grounds" auth="0" />
+    <team teamID="BOS" beg="1901-05-08" end="1911-10-07" games="831" parknameBDB="BOS:Huntington Avenue Grounds" />
+  </park>
+  <park parkID="BOS07" active="1" beg="1912-04-20" city="Boston" country="US" end="NULL" extaddr="" games="7454" href="http://redsox.mlb.com" lat="42.34666" lng="-71.09698" logofile="logo_bos_79x76.jpg" name="Fenway Park" spanishurl="" state="MA" streetaddr="4 Yawkey Way" tel="(617) 267-9440" url="redsox.com" zip="02215">
+    <comment parkID="BOS07" comment="BSN played 2 games here as an alternate (neutral) site from 1914-08-01 until 1914-08-08: Alternate park for Sunday and/or holiday games" />
+    <comment parkID="BOS07" comment="BSN played 2 games here as an alternate (neutral) site from 1914-10-12 until 1914-10-13: To accommodate large crowd [World Series]" />
+    <comment parkID="BOS07" comment="BSN played 2 games here as an alternate (neutral) site from 1946-04-28 until 1946-04-28: Incomplete repairs at Braves Field" />
+    <comment parkID="BOS07" comment="BSN played 31 games here as an alternate (neutral) site from 1913-04-19 until 1914-09-29: To accommodate large crowd" />
+    <comment parkID="BOS07" comment="BSN played 52 games here as an alternate (neutral) site from 1915-04-14 until 1915-07-26: Delay in the opening of Braves Field" />
+    <othername name="Fenway Park" auth="1" beg="1912" curr="1" end="NULL" />
+    <othername name="Fenway Park I" auth="0" />
+    <othername name="Fenway Park II" auth="0" />
+    <team teamID="BOS" beg="1912-04-20" end="NULL" games="7367" parknameBDB="BOS:Fenway Park II" />
+    <team teamID="BSN" beg="1913-04-19" end="1946-04-28" games="87" neutralsite="1" parknameBDB="BSN:Fenway Park I" />
+  </park>
+  <park parkID="BOS08" beg="1915-08-18" city="Boston" country="US" end="1952-09-21" games="2863" lat="42.35332523734702" lng="-71.11924980647657" name="Braves Field" state="MA">
+    <comment parkID="BOS08" comment="BOS played 2 games here as an alternate (neutral) site from 1915-10-11 until 1915-10-12: To accommodate large crowd [World Series]" />
+    <comment parkID="BOS08" comment="BOS played 52 games here as an alternate (neutral) site from 1929-04-28 until 1932-05-29: Alternate park for Sunday and/or holiday games" />
+    <othername name="Bee Hive" auth="0" />
+    <othername name="Braves Field" auth="1" beg="1915" curr="1" end="1952" />
+    <team teamID="BOS" beg="1929-04-28" end="1932-05-29" games="52" neutralsite="1" />
+    <team teamID="BSN" beg="1915-08-18" end="1952-09-21" games="2811" parknameBDB="BSN:Braves Field" />
+  </park>
+  <park parkID="BOS09" beg="NULL" city="Boston" country="US" end="NULL" games="0" name="Proposed Boston Red Sox Park" state="MA" zip="02215">
+    <comment parkID="BOS09" comment="Proposed (but not currently planned) Boston Red Sox Park: All info suspect" />
+    <othername name="Proposed Boston Red Sox Park" auth="1" curr="0" />
+    <team teamID="BOS" beg="NULL" end="NULL" games="0" teamname="Boston Red Sox" />
+  </park>
+  <park parkID="BUF01" beg="1879-05-01" city="Buffalo" country="US" end="1883-09-08" games="213" lat="42.9075164794922" lng="-78.89272308349612" name="Riverside Grounds" state="NY">
+    <othername name="Riverside Grounds" auth="1" beg="1879" curr="1" end="1883" />
+    <othername name="Riverside Park" auth="0" />
+    <team teamID="BFN" beg="1879-05-01" end="1883-09-08" games="213" parknameBDB="BFN:Riverside Park" />
+  </park>
+  <park parkID="BUF02" beg="1884-05-21" city="Buffalo" country="US" end="1885-10-09" games="109" lat="42.88638921682798" lng="-78.87860798467271" name="Olympic Park I" state="NY">
+    <othername name="Olympic Park I" auth="1" beg="1884" curr="1" end="1885" />
+    <team teamID="BFN" beg="1884-05-21" end="1885-10-09" games="109" parknameBDB="BFN:Olympic Park I" />
+  </park>
+  <park parkID="BUF03" beg="1890-04-19" city="Buffalo" country="US" end="1890-10-04" games="65" name="Olympic Park II" state="NY">
+    <othername name="Olympic Park II" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="BFP" beg="1890-04-19" end="1890-10-04" games="65" parknameBDB="BFP:" />
+  </park>
+  <park parkID="BUF04" beg="1914-05-11" city="Buffalo" country="US" end="1915-09-08" games="156" name="International Fair Association Grounds" state="NY">
+    <othername name="Federal League Park" auth="0" />
+    <othername name="International Fair Association Grounds" auth="1" beg="1914" curr="1" end="1915" />
+    <team teamID="BUF" beg="1914-05-11" end="1915-09-08" games="156" parknameBDB="BUF:" />
+  </park>
+  <park parkID="CAN01" beg="1890-09-18" city="Canton" country="US" end="1903-06-21" games="4" name="Mahaffey Park" state="OH">
+    <comment parkID="CAN01" comment="CLE played 3 games here as an alternate (neutral) site from 1902-06-15 until 1903-06-21: Alternate park for Sunday and/or holiday games" />
+    <comment parkID="CAN01" comment="PIT played 1 games here as an alternate (neutral) site from 1890-09-18 until 1890-09-18" />
+    <othername name="Mahaffey Park" auth="1" beg="1890" curr="1" end="1903" />
+    <team teamID="CLE" beg="1902-06-15" end="1903-06-21" games="3" neutralsite="1" />
+    <team teamID="PIT" beg="1890-09-18" end="1890-09-18" games="1" neutralsite="1" />
+  </park>
+  <park parkID="CHI01" beg="1871-05-08" city="Chicago" country="US" end="1871-09-29" games="17" name="Lake Front Park I" state="IL">
+    <comment parkID="CHI01" comment="RC1 played 1 games here as an alternate (neutral) site from 1871-08-08 until 1871-08-08" />
+    <othername name="Lake Front Park I" auth="1" beg="1871" curr="1" end="1871" />
+    <othername name="Lake Park" auth="0" />
+    <othername name="Union Base-Ball Grounds" auth="0" />
+    <team teamID="CH1" beg="1871-05-08" end="1871-09-29" games="16" parknameBDB="CH1:Union Base-Ball Grounds" />
+    <team teamID="RC1" beg="1871-08-08" end="1871-08-08" games="1" neutralsite="1" />
+  </park>
+  <park parkID="CHI02" beg="1872-05-29" city="Chicago" country="US" end="1877-10-06" games="129" lat="41.85300384418393" lng="-87.62656612639215" name="23rd Street Park" state="IL">
+    <comment parkID="CHI02" comment="BS1 played 1 games here as an alternate (neutral) site from 1873-08-16 until 1873-08-16" />
+    <comment parkID="CHI02" comment="CL1 played 2 games here as an alternate (neutral) site from 1872-05-29 until 1872-05-30" />
+    <comment parkID="CHI02" comment="PH2 played 1 games here as an alternate (neutral) site from 1873-08-19 until 1873-08-19" />
+    <comment parkID="CHI02" comment="TRO played 4 games here as an alternate (neutral) site from 1872-06-17 until 1872-07-04" />
+    <othername name="23rd Street Grounds" auth="0" />
+    <othername name="23rd Street Park" auth="1" beg="1872" curr="1" end="1877" />
+    <team teamID="BS1" beg="1873-08-16" end="1873-08-16" games="1" neutralsite="1" />
+    <team teamID="CH2" beg="1874-05-13" end="1875-10-02" games="61" parknameBDB="CH2:23rd Street Grounds" />
+    <team teamID="CHN" beg="1876-05-10" end="1877-10-06" games="60" parknameBDB="CHN:23rd Street Grounds" />
+    <team teamID="CL1" beg="1872-05-29" end="1872-05-30" games="2" neutralsite="1" />
+    <team teamID="PH2" beg="1873-08-19" end="1873-08-19" games="1" neutralsite="1" />
+    <team teamID="TRO" beg="1872-06-17" end="1872-07-04" games="4" neutralsite="1" />
+  </park>
+  <park parkID="CHI03" beg="1878-05-14" city="Chicago" country="US" end="1882-09-30" games="208" lat="41.88358318998729" lng="-87.62390925733079" name="Lake Front Park II" state="IL">
+    <othername name="Lake Front Park I" auth="0" />
+    <othername name="Lake Front Park II" auth="1" beg="1878" curr="1" end="1882" />
+    <team teamID="CHN" beg="1878-05-14" end="1882-09-30" games="208" parknameBDB="CHN:Lake Front Park I" />
+  </park>
+  <park parkID="CHI04" beg="1883-05-05" city="Chicago" country="US" end="1884-10-11" games="106" name="Lake Front Park III" state="IL">
+    <othername name="Lake Front Park II" auth="0" />
+    <othername name="Lake Front Park III" auth="1" beg="1883" curr="1" end="1884" />
+    <team teamID="CHN" beg="1883-05-05" end="1884-10-11" games="106" parknameBDB="CHN:Lake Front Park II" />
+  </park>
+  <park parkID="CHI05" beg="1884-05-02" city="Chicago" country="US" end="1884-08-01" games="35" name="South Side Park I" state="IL">
+    <othername name="Cricket Club Grounds" auth="0" />
+    <othername name="South Side Park I" auth="1" beg="1884" curr="1" end="1884" />
+    <othername name="Union Grounds" auth="0" />
+    <team teamID="CHU" beg="1884-05-02" end="1884-08-01" games="35" parknameBDB="CHU:" />
+  </park>
+  <park parkID="CHI06" beg="1885-06-06" city="Chicago" country="US" end="1891-10-02" games="429" name="West Side Park" state="IL">
+    <comment parkID="CHI06" comment="CHN:1891(M/W/F)" />
+    <othername name="West Side Park" auth="1" beg="1885" curr="1" end="1891" />
+    <othername name="West Side Park I" auth="0" />
+    <team teamID="CHN" beg="1885-06-06" end="1891-10-02" games="429" parknameBDB="CHN:West Side Park I" />
+  </park>
+  <park parkID="CHI07" beg="1890-05-05" city="Chicago" country="US" end="1893-09-27" games="232" name="South Side Park II" state="IL">
+    <comment parkID="CHI07" comment="CHN:1891(Tu/Th/Sa)" />
+    <othername name="South Side Park I" auth="0" />
+    <othername name="South Side Park II" auth="1" beg="1890" curr="1" end="1893" />
+    <team teamID="CHN" beg="1891-05-05" end="1893-09-27" games="162" parknameBDB="CHN:South Side Park I" />
+    <team teamID="CHP" beg="1890-05-05" end="1890-10-04" games="70" parknameBDB="CHP:" />
+  </park>
+  <park parkID="CHI08" beg="1893-05-14" city="Chicago" country="US" end="1915-10-03" games="1688" lat="41.86879822678483" lng="-87.66862245063629" name="West Side Grounds" state="IL">
+    <comment parkID="CHI08" comment="CHN played 1 games here as an alternate (neutral) site from 1898-10-08 until 1898-10-08" />
+    <comment parkID="CHI08" comment="CHN:1893(Sun)" />
+    <comment parkID="CHI08" comment="CL4 played 1 games here as an alternate (neutral) site from 1898-10-08 until 1898-10-08" />
+    <othername name="West Side Grounds" auth="1" beg="1893" curr="1" end="1915" />
+    <othername name="West Side Park II" auth="0" />
+    <team teamID="CHN" beg="1893-05-14" end="1915-10-03" games="1687" neutralsite="1" parknameBDB="CHN:West Side Park II" />
+    <team teamID="CL4" beg="1898-10-08" end="1898-10-08" games="1" neutralsite="1" />
+  </park>
+  <park parkID="CHI09" beg="1901-04-24" city="Chicago" country="US" end="1910-06-27" games="718" lat="41.82247964122628" lng="-87.62791620050776" name="South Side Park III" state="IL">
+    <othername name="South Side Park II" auth="0" />
+    <othername name="South Side Park III" auth="1" beg="1901" curr="1" end="1910" />
+    <team teamID="CHA" beg="1901-04-24" end="1910-06-27" games="718" parknameBDB="CHA:South Side Park II" />
+  </park>
+  <park parkID="CHI10" beg="1910-07-01" city="Chicago" country="US" end="1990-09-30" games="6247" lat="41.83285564105185" lng="-87.63406226483814" name="Comiskey Park I" state="IL">
+    <comment parkID="CHI10" comment="CHN played 3 games here as an alternate (neutral) site from 1918-09-05 until 1918-09-07: To accommodate large crowd [World Series]" />
+    <othername name="Comiskey Park" auth="0" />
+    <othername name="Comiskey Park I" auth="1" beg="1913" curr="1" end="1990" />
+    <othername name="White Sox Park" auth="0" />
+    <othername name="White Sox Park II" auth="1" beg="1910" curr="0" end="1912" />
+    <team teamID="CHA" beg="1910-07-01" end="1990-09-30" games="6247" parknameBDB="CHA:Comiskey Park" />
+    <team teamID="CHN" beg="1918-09-05" end="1918-09-07" games="3" neutralsite="1" />
+  </park>
+  <park parkID="CHI11" active="1" beg="1914-04-23" city="Chicago" country="US" end="NULL" extaddr="" games="7305" href="http://cubs.mlb.com" lat="41.94822" lng="-87.65536" logofile="logo_chc_79x76.jpg" name="Wrigley Field" spanishurl="loscubs.com" state="IL" streetaddr="1060 West Addison" tel="(773) 404-2827" url="cubs.com" zip="60613-4397">
+    <othername name="Cubs Park" auth="1" beg="1919" curr="0" end="1926" />
+    <othername name="Weeghman Park" auth="1" beg="1914" curr="0" end="1918" />
+    <othername name="Wrigley Field" auth="1" beg="1927" curr="1" end="NULL" />
+    <othername name="Wrigley Field (Chicago)" auth="1" beg="1927" curr="0" end="NULL" />
+    <team teamID="CHF" beg="1914-04-23" end="1915-10-03" games="155" parknameBDB="CHF:Wrigley Field" />
+    <team teamID="CHN" beg="1916-04-20" end="NULL" games="7150" parknameBDB="CHN:Wrigley Field" />
+  </park>
+  <park parkID="CHI12" active="1" beg="1991-04-18" city="Chicago" country="US" end="NULL" extaddr="" games="1263" href="http://whitesox.mlb.com" lat="41.82981" lng="-87.63334999999999" logofile="logo_cws_79x76.jpg" name="U.S. Cellular Field" spanishurl="loswhitesox.com" state="IL" streetaddr="333 West 35th Street" tel="(312) 674-1000" url="whitesox.com" zip="60616">
+    <comment parkID="CHI12" comment="FLO played 2 games here as an alternate (neutral) site from 2004-09-13 until 2004-09-14: Threat of Hurricane Ivan in Miami (did not occur)" />
+    <othername name="Comiskey Park II" auth="1" beg="1991" curr="0" end="2002" />
+    <othername name="The Cell" auth="0" />
+    <othername name="U.S. Cellular Field" auth="1" beg="2003" curr="1" end="NULL" />
+    <othername name="White Sox Park" auth="0" />
+    <team teamID="CHA" beg="1991-04-18" end="NULL" games="1261" parknameBDB="CHA:U.S. Cellular Field" />
+    <team teamID="FLO" beg="2004-09-13" end="2004-09-14" games="2" neutralsite="1" />
+  </park>
+  <park parkID="CIN01" beg="1871-05-13" city="Cincinnati" country="US" end="1871-07-22" games="3" name="Lincoln Park Grounds" state="OH">
+    <comment parkID="CIN01" comment="CL1 played 2 games here as an alternate (neutral) site from 1871-05-13 until 1871-07-22" />
+    <comment parkID="CIN01" comment="WS3 played 1 games here as an alternate (neutral) site from 1871-07-04 until 1871-07-04" />
+    <othername name="Lincoln Park Grounds" auth="1" beg="1871" curr="1" end="1871" />
+    <othername name="Union Cricket Club Grounds" auth="0" />
+    <team teamID="CL1" beg="1871-05-13" end="1871-07-22" games="2" neutralsite="1" />
+    <team teamID="WS3" beg="1871-07-04" end="1871-07-04" games="1" neutralsite="1" />
+  </park>
+  <park parkID="CIN02" beg="1876-04-25" city="Cincinnati" country="US" end="1879-08-27" games="131" lat="39.16178188537126" lng="-84.45999566514205" name="Avenue Grounds" state="OH">
+    <comment parkID="CIN02" comment="First Ladies Day (1876)" />
+    <othername name="Avenue Grounds" auth="1" beg="1876" curr="1" end="1879" />
+    <team teamID="CN1" beg="1876-04-25" end="1879-08-27" games="131" parknameBDB="CN1:Avenue Grounds" />
+  </park>
+  <park parkID="CIN03" beg="1880-05-01" city="Cincinnati" country="US" end="1884-10-15" games="184" lat="39.11760211047597" lng="-84.53639855106164" name="Bank Street Grounds" state="OH">
+    <othername name="Bank Street Grounds" auth="1" beg="1880" curr="1" end="1884" />
+    <team teamID="CN1" beg="1880-05-01" end="1880-09-30" games="40" parknameBDB="CN1:Bank Street Grounds" />
+    <team teamID="CN2" beg="1882-05-02" end="1883-09-29" games="92" parknameBDB="CN2:Bank Street Grounds" />
+    <team teamID="CNU" beg="1884-04-17" end="1884-10-15" games="52" parknameBDB="CNU:" />
+  </park>
+  <park parkID="CIN04" beg="1884-05-01" city="Cincinnati" country="US" end="1893-09-29" games="699" lat="39.11676439583983" lng="-84.53415911484808" name="League Park (Cincinnati) I" state="OH">
+    <othername name="League Park (Cincinnati) I" auth="1" beg="1884" curr="1" end="1893" />
+    <othername name="League Park I" auth="1" beg="1884" curr="0" end="1893" />
+    <othername name="League Park I in Cincinnati" auth="0" />
+    <team teamID="CIN" beg="1890-04-19" end="1893-09-29" games="286" parknameBDB="CIN:League Park I in Cincinnati" />
+    <team teamID="CN2" beg="1884-05-01" end="1889-10-15" games="413" parknameBDB="CN2:League Park I in Cincinnati" />
+  </park>
+  <park parkID="CIN05" beg="1894-04-20" city="Cincinnati" country="US" end="1901-10-06" games="578" lat="39.11676439583983" lng="-84.53415911484808" name="League Park (Cincinnati) II" state="OH">
+    <othername name="League Park (Cincinnati) II" auth="1" beg="1894" curr="1" end="1901" />
+    <othername name="League Park II" auth="1" beg="1894" curr="0" end="1901" />
+    <othername name="League Park II in Cincinnati" auth="0" />
+    <team teamID="CIN" beg="1894-04-20" end="1901-10-06" games="578" parknameBDB="CIN:League Park II in Cincinnati" />
+  </park>
+  <park parkID="CIN06" beg="1902-04-17" city="Cincinnati" country="US" end="1911-10-12" games="779" lat="39.11680107005714" lng="-84.53415561354598" name="Palace of the Fans" state="OH">
+    <othername name="League Park III" auth="0" />
+    <othername name="Palace of the Fans" auth="1" beg="1902" curr="1" end="1911" />
+    <team teamID="CIN" beg="1902-04-17" end="1911-10-12" games="779" parknameBDB="CIN:Palace of the Fans" />
+  </park>
+  <park parkID="CIN07" beg="1912-04-11" city="Cincinnati" country="US" end="1970-06-24" games="4544" lat="39.11680107005714" lng="-84.53415561354598" name="Crosley Field" state="OH">
+    <othername name="Crosley Field" auth="1" beg="1934" curr="1" end="1970" />
+    <othername name="Redland Field" auth="1" beg="1912" curr="0" end="1933" />
+    <team teamID="CIN" beg="1912-04-11" end="1970-06-24" games="4544" parknameBDB="CIN:Crosley Field" />
+  </park>
+  <park parkID="CIN08" beg="1970-06-30" city="Cincinnati" country="US" end="2002-09-22" games="2576" lat="39.09738421031653" lng="-84.50686249403306" name="Cinergy Field" state="OH">
+    <othername name="Cinergy Field" auth="1" beg="1996" curr="1" end="2002" />
+    <othername name="Riverfront Stadium" auth="1" beg="1970" curr="0" end="1995" />
+    <team teamID="CIN" beg="1970-06-30" end="2002-09-22" games="2576" parknameBDB="CIN:Cinergy Field" />
+  </park>
+  <park parkID="CIN09" active="1" beg="2003-03-31" city="Cincinnati" country="US" end="NULL" extaddr="" games="325" href="http://reds.mlb.com" lat="39.09714" lng="-84.50707" logofile="logo_cin_79x76.jpg" name="Great American Ball Park" spanishurl="" state="OH" streetaddr="100 Main Street" tel="(513) 765-7000" url="reds.com" zip="45202-4109">
+    <othername name="Great American Ball Park" auth="1" beg="2003" curr="1" end="NULL" />
+    <othername name="Great American Ballpark" auth="0" />
+    <team teamID="CIN" beg="2003-03-31" end="NULL" games="325" parknameBDB="CIN:Great American Ball Park" />
+  </park>
+  <park parkID="CLE01" beg="1871-05-11" city="Cleveland" country="US" end="1872-08-19" games="14" name="National Association Grounds" state="OH">
+    <othername name="National Association Grounds" auth="1" beg="1871" curr="1" end="1872" />
+    <team teamID="CL1" beg="1871-05-11" end="1872-08-19" games="14" parknameBDB="CL1:National Association Grounds" />
+  </park>
+  <park parkID="CLE02" beg="1879-05-01" city="Cleveland" country="US" end="1884-10-11" games="274" name="League Park I" state="OH">
+    <othername name="Kennard Street Park" auth="0" />
+    <othername name="League Park (Cleveland) I" auth="1" beg="1879" curr="0" end="1884" />
+    <othername name="League Park I" auth="1" beg="1879" curr="1" end="1884" />
+    <othername name="National League Park I" auth="0" />
+    <team teamID="CL2" beg="1879-05-01" end="1884-10-11" games="274" parknameBDB="CL2:Kennard Street Park" />
+  </park>
+  <park parkID="CLE03" beg="1887-05-04" city="Cleveland" country="US" end="1890-10-04" games="247" lat="41.4913120970331" lng="-81.64182502542099" name="League Park II" state="OH">
+    <othername name="American Association Park" auth="0" />
+    <othername name="League Park (Cleveland) II" auth="1" beg="1887" curr="0" end="1890" />
+    <othername name="League Park II" auth="1" beg="1887" curr="1" end="1890" />
+    <othername name="National League Park" auth="0" />
+    <othername name="National League Park II" auth="0" />
+    <team teamID="CL3" beg="1887-05-04" end="1888-09-15" games="115" parknameBDB="CL3:National League Park II" />
+    <team teamID="CL4" beg="1889-05-03" end="1890-10-04" games="132" parknameBDB="CL4:National League Park" />
+  </park>
+  <park parkID="CLE04" beg="1890-04-30" city="Cleveland" country="US" end="1890-10-04" games="62" name="Brotherhood Park" state="OH">
+    <othername name="Brotherhood Park" auth="1" beg="1890" curr="1" end="1890" />
+    <othername name="Players League Park" auth="0" />
+    <team teamID="CLP" beg="1890-04-30" end="1890-10-04" games="62" parknameBDB="CLP:" />
+  </park>
+  <park parkID="CLE05" beg="1891-05-01" city="Cleveland" country="US" end="1909-09-06" games="1220" lat="41.51123902839295" lng="-81.64212777519586" name="League Park III" state="OH">
+    <othername name="League Park (Cleveland) III" auth="1" beg="1891" curr="0" end="1909" />
+    <othername name="League Park I" auth="0" />
+    <othername name="League Park III" auth="1" beg="1891" curr="1" end="1909" />
+    <othername name="National League Park III" auth="0" />
+    <team teamID="CL4" beg="1891-05-01" end="1899-08-30" games="549" parknameBDB="CL4:League Park I" />
+    <team teamID="CLE" beg="1901-04-29" end="1909-09-06" games="671" parknameBDB="CLE:League Park I" />
+  </park>
+  <park parkID="CLE06" beg="1910-04-21" city="Cleveland" country="US" end="1946-09-21" games="2376" name="League Park IV" state="OH">
+    <othername name="Dunn Field" auth="1" beg="1916" curr="0" end="1927" />
+    <othername name="League Park (Cleveland) IV" auth="1" beg="1928" curr="0" end="1946" />
+    <othername name="League Park II" auth="0" />
+    <othername name="League Park IV" auth="1" beg="1928" curr="1" end="1946" />
+    <team teamID="CLE" beg="1910-04-21" end="1946-09-21" games="2376" parknameBDB="CLE:League Park II" />
+  </park>
+  <park parkID="CLE07" beg="1932-07-31" city="Cleveland" country="US" end="1993-10-03" games="4196" lat="39.08522036764402" lng="-94.55391525562005" name="Cleveland Stadium" state="OH">
+    <othername name="Cleveland Stadium" auth="1" beg="1932" curr="1" end="1993" />
+    <othername name="Municipal Stadium" auth="0" />
+    <team teamID="CLE" beg="1932-07-31" end="1993-10-03" games="4196" parknameBDB="CLE:Cleveland Stadium" />
+  </park>
+  <park parkID="CLE08" active="1" beg="1994-04-04" city="Cleveland" country="US" end="NULL" extaddr="" games="1012" href="http://indians.mlb.com" lat="41.49601" lng="-81.68510999999999" logofile="logo_cle_79x76.jpg" name="Jacobs Field" spanishurl="" state="OH" streetaddr="2401 Ontario Street" tel="(216) 420-4200" url="indians.com" zip="44115">
+    <othername name="Jacobs Field" auth="1" beg="1994" curr="1" end="NULL" />
+    <team teamID="CLE" beg="1994-04-04" end="NULL" games="1012" parknameBDB="CLE:Jacobs Field" />
+  </park>
+  <park parkID="CLE09" beg="1887-08-21" city="Cleveland" country="US" end="1887-08-21" games="1" name="Cedar Avenue Driving Park" state="OH">
+    <comment parkID="CLE09" comment="CL3 played 1 games here as an alternate (neutral) site from 1887-08-21 until 1887-08-21: Alternate park for Sunday and/or holiday games" />
+    <othername name="Cedar Avenue Driving Park" auth="1" beg="1887" curr="1" end="1887" />
+    <team teamID="CL3" beg="1887-08-21" end="1887-08-21" games="1" neutralsite="1" />
+  </park>
+  <park parkID="CLL01" beg="1898-06-12" city="Cleveland" country="US" end="1898-06-19" games="2" name="Euclid Beach Park" state="OH" zip="44110">
+    <comment parkID="CLL01" comment="CL4 played 2 games here as an alternate (neutral) site from 1898-06-12 until 1898-06-19: Alternate park for Sunday and/or holiday games" />
+    <othername name="Euclid Beach Park" auth="1" beg="1898" curr="1" end="1898" />
+    <team teamID="CL4" beg="1898-06-12" end="1898-06-19" games="2" neutralsite="1" />
+  </park>
+  <park parkID="COL01" beg="1883-05-01" city="Columbus" country="US" end="1884-09-22" games="102" name="Recreation Park (Columbus) I" state="OH">
+    <othername name="Recreation Park (Columbus) I" auth="1" beg="1883" curr="1" end="1884" />
+    <othername name="Recreation Park I" auth="1" beg="1883" curr="0" end="1884" />
+    <team teamID="CL5" beg="1883-05-01" end="1884-09-22" games="102" parknameBDB="CL5:Recreation Park I" />
+  </park>
+  <park parkID="COL02" beg="1889-04-28" city="Columbus" country="US" end="1891-09-22" games="203" name="Recreation Park (Columbus) II" state="OH">
+    <othername name="Recreation Park (Columbus) II" auth="1" beg="1889" curr="1" end="1891" />
+    <othername name="Recreation Park II" auth="1" beg="1889" curr="0" end="1891" />
+    <team teamID="CL6" beg="1889-04-28" end="1891-09-22" games="203" parknameBDB="CL6:Recreation Park II" />
+  </park>
+  <park parkID="COL03" beg="1902-08-03" city="Columbus" country="US" end="1903-05-17" games="2" name="Neil Park I" state="OH">
+    <comment parkID="COL03" comment="CLE played 2 games here as an alternate (neutral) site from 1902-08-03 until 1903-05-17: Alternate park for Sunday and/or holiday games" />
+    <othername name="Neil Park I" auth="1" beg="1902" curr="1" end="1903" />
+    <team teamID="CLE" beg="1902-08-03" end="1903-05-17" games="2" neutralsite="1" />
+  </park>
+  <park parkID="COL04" beg="1905-07-23" city="Columbus" country="US" end="1905-07-24" games="2" name="Neil Park II" state="OH">
+    <comment parkID="COL04" comment="DET played 2 games here as an alternate (neutral) site from 1905-07-23 until 1905-07-24: Opening of the Grand Circuit Trotting Meet in Detroit" />
+    <othername name="Neil Park II" auth="1" beg="1905" curr="1" end="1905" />
+    <team teamID="DET" beg="1905-07-23" end="1905-07-24" games="2" neutralsite="1" />
+  </park>
+  <park parkID="COV01" beg="1875-09-21" city="Covington" country="US" end="1875-09-21" games="1" name="Star Baseball Park" state="KY">
+    <comment parkID="COV01" comment="PH2 played 1 games here as an alternate (neutral) site from 1875-09-21 until 1875-09-21" />
+    <othername name="Star Baseball Park" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="PH2" beg="1875-09-21" end="1875-09-21" games="1" neutralsite="1" />
+  </park>
+  <park parkID="DAY01" beg="1902-06-08" city="Dayton" country="US" end="1902-06-08" games="1" name="Fairview Park" state="OH">
+    <comment parkID="DAY01" comment="CLE played 1 games here as an alternate (neutral) site from 1902-06-08 until 1902-06-08: Alternate park for Sunday and/or holiday games" />
+    <othername name="Fairview Park" auth="1" beg="1902" curr="1" end="1902" />
+    <team teamID="CLE" beg="1902-06-08" end="1902-06-08" games="1" neutralsite="1" />
+  </park>
+  <park parkID="DEN01" beg="1993-04-09" city="Denver" country="US" end="1994-08-11" games="138" lat="39.74309670691894" lng="-105.0199145160516" name="Mile High Stadium" state="CO">
+    <othername name="Mile High Stadium" auth="1" beg="1993" curr="1" end="1994" />
+    <team teamID="COL" beg="1993-04-09" end="1994-08-11" games="138" parknameBDB="COL:Mile High Stadium" />
+  </park>
+  <park parkID="DEN02" active="1" beg="1995-04-26" city="Denver" country="US" end="NULL" extaddr="" games="963" href="http://rockies.mlb.com" lat="39.7562" lng="-104.99402" logofile="logo_col_79x76.jpg" name="Coors Field" spanishurl="" state="CO" streetaddr="2001 Blake Street" tel="(303) 292-0200" url="coloradorockies.com" zip="80205-2000">
+    <othername name="Coors Field" auth="1" beg="1995" curr="1" end="NULL" />
+    <team teamID="COL" beg="1995-04-26" end="NULL" games="963" parknameBDB="COL:Coors Field" />
+  </park>
+  <park parkID="DET01" beg="1881-05-02" city="Detroit" country="US" end="1888-09-22" games="434" lat="42.35005432215035" lng="-83.05363877119591" name="Recreation Park (Detroit)" state="MI">
+    <othername name="Recreation Park" auth="1" beg="1881" curr="0" end="1888" />
+    <othername name="Recreation Park (Detroit)" auth="1" beg="1881" curr="1" end="1888" />
+    <team teamID="DTN" beg="1881-05-02" end="1888-09-22" games="434" parknameBDB="DTN:Recreation Park" />
+  </park>
+  <park parkID="DET02" beg="1901-04-25" city="Detroit" country="US" end="1911-09-10" games="796" lat="42.33729777518525" lng="-83.05776267092098" name="Bennett Park" state="MI">
+    <othername name="Bennett Park" auth="1" beg="1901" curr="1" end="1911" />
+    <team teamID="DET" beg="1901-04-25" end="1911-09-10" games="796" parknameBDB="DET:Bennett Park" />
+  </park>
+  <park parkID="DET03" beg="1901-04-28" city="Detroit" country="US" end="1902-09-07" games="23" name="Burns Park" state="MI">
+    <comment parkID="DET03" comment="Sundays only" />
+    <othername name="Burns Park" auth="1" beg="1901" curr="1" end="1902" />
+    <othername name="West End Park" auth="0" />
+    <team teamID="DET" beg="1901-04-28" end="1902-09-07" games="23" />
+  </park>
+  <park parkID="DET04" beg="1912-04-20" city="Detroit" country="US" end="1999-09-27" games="6879" lat="42.33251329869231" lng="-83.06811532917355" name="Tiger Stadium" state="MI">
+    <othername name="Briggs Stadium" auth="1" beg="1938" curr="0" end="1961" />
+    <othername name="Navin Field" auth="1" beg="1912" curr="0" end="1937" />
+    <othername name="Tiger Stadium" auth="1" beg="1962" curr="1" end="1999" />
+    <team teamID="DET" beg="1912-04-20" end="1999-09-27" games="6879" parknameBDB="DET:Tiger Stadium" />
+  </park>
+  <park parkID="DET05" active="1" beg="2000-04-11" city="Detroit" country="US" end="NULL" extaddr="" games="566" href="http://tigers.mlb.com" lat="42.33907" lng="-83.04843" logofile="logo_det_79x76.jpg" name="Comerica Park" spanishurl="" state="MI" streetaddr="2100 Woodward Avenue" tel="(313) 471-2000" url="tigers.com" zip="48201">
+    <othername name="Comerica Park" auth="1" beg="2000" curr="1" end="NULL" />
+    <team teamID="DET" beg="2000-04-11" end="NULL" games="566" parknameBDB="DET:Comerica Park" />
+  </park>
+  <park parkID="DOV01" beg="1875-06-24" city="Dover" country="US" end="1875-06-24" games="1" name="Fairview Park Fair Grounds" state="DE">
+    <comment parkID="DOV01" comment="PH1 played 1 games here as an alternate (neutral) site from 1875-06-24 until 1875-06-24" />
+    <othername name="Fairview Park Fair Grounds" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="PH1" beg="1875-06-24" end="1875-06-24" games="1" neutralsite="1" />
+  </park>
+  <park parkID="ELM01" beg="1885-10-10" city="Elmira" country="US" end="1885-10-10" games="2" name="Maple Avenue Driving Park" state="NY">
+    <comment parkID="ELM01" comment="BFN played 2 games here as an alternate (neutral) site from 1885-10-10 until 1885-10-10" />
+    <othername name="Maple Avenue Driving Park" auth="1" beg="1885" curr="1" end="1885" />
+    <team teamID="BFN" beg="1885-10-10" end="1885-10-10" games="2" neutralsite="1" />
+  </park>
+  <park parkID="FOR01" beg="1871-05-04" city="Fort Wayne" country="US" end="1871-08-29" games="9" name="Grand Duchess" state="IN">
+    <comment parkID="FOR01" comment="First ML game" />
+    <othername name="Grand Duchess" auth="1" beg="1871" curr="1" end="1871" />
+    <othername name="Hamilton Field" auth="0" />
+    <team teamID="FW1" beg="1871-05-04" end="1871-08-29" games="9" parknameBDB="FW1:Hamilton Field" />
+  </park>
+  <park parkID="FOR02" beg="1882-10-24" city="Fort Wayne" country="US" end="1882-10-24" name="Swinney Park" state="IN">
+    <comment parkID="FOR02" comment="Last game of playoffs (CHN &amp;amp; PRO)" />
+    <comment parkID="FOR02" comment="Stadium only found in old parkcodes.txt, data suspect" />
+    <othername name="Swinney Park" auth="1" curr="1" />
+    <team></team>
+  </park>
+  <park parkID="FOR03" beg="1902-06-22" city="Fort Wayne" country="US" end="1902-08-31" games="2" name="Jailhouse Flats" state="IN">
+    <comment parkID="FOR03" comment="CLE played 2 games here as an alternate (neutral) site from 1902-06-22 until 1902-08-31: Alternate park for Sunday and/or holiday games" />
+    <othername name="Jailhouse Flats" auth="1" beg="1902" curr="1" end="1902" />
+    <team teamID="CLE" beg="1902-06-22" end="1902-08-31" games="2" neutralsite="1" />
+  </park>
+  <park parkID="GEA01" beg="1888-07-22" city="Aurora" country="US" end="1888-09-02" games="4" name="Geauga Lake Grounds" state="OH" zip="44202">
+    <comment parkID="GEA01" comment="CL3 played 4 games here as an alternate (neutral) site from 1888-07-22 until 1888-09-02: Alternate park for Sunday and/or holiday games" />
+    <othername name="Geagua Lake Grounds" auth="0" />
+    <othername name="Geauga Lake Grounds" auth="1" beg="1888" curr="1" end="1888" />
+    <team teamID="CL3" beg="1888-07-22" end="1888-09-02" games="4" neutralsite="1" />
+  </park>
+  <park parkID="GLO01" beg="1888-06-10" city="Gloucester City" country="US" end="1890-10-12" games="31" name="Gloucester Point Grounds" state="NJ">
+    <comment parkID="GLO01" comment="PH4 played 31 games here as an alternate (neutral) site from 1888-06-10 until 1890-10-12: Alternate park for Sunday and/or holiday games" />
+    <comment parkID="GLO01" comment="Sundays" />
+    <othername name="Gloucester Point Grounds" auth="1" beg="1888" curr="1" end="1890" />
+    <team teamID="PH4" beg="1888-06-10" end="1890-10-12" games="31" neutralsite="1" />
+  </park>
+  <park parkID="GRA01" beg="1903-05-24" city="Grand Rapids" country="US" end="1903-05-24" games="1" name="Ramona Park" state="MI">
+    <comment parkID="GRA01" comment="DET played 1 games here as an alternate (neutral) site from 1903-05-24 until 1903-05-24: Alternate park for Sunday and/or holiday games" />
+    <othername name="Ramona Park" auth="1" beg="1903" curr="1" end="1903" />
+    <team teamID="DET" beg="1903-05-24" end="1903-05-24" games="1" neutralsite="1" />
+  </park>
+  <park parkID="HAR01" beg="1915-04-16" city="Harrison" country="US" end="1915-10-03" games="79" name="Harrison Park" state="NJ">
+    <othername name="Harrison Field" auth="0" />
+    <othername name="Harrison Park" auth="1" beg="1915" curr="1" end="1915" />
+    <team teamID="NEW" beg="1915-04-16" end="1915-10-03" games="79" parknameBDB="NEW:" />
+  </park>
+  <park parkID="HOB01" beg="1873-07-04" city="Hoboken" country="US" end="1873-07-04" games="1" lat="40.74988271342976" lng="-74.02682945522524" name="Elysian Field" state="NJ">
+    <comment parkID="HOB01" comment="NY2 played 1 games here as an alternate (neutral) site from 1873-07-04 until 1873-07-04" />
+    <othername name="Elysian Field" auth="1" beg="1873" curr="1" end="1873" />
+    <team teamID="NY2" beg="1873-07-04" end="1873-07-04" games="1" neutralsite="1" />
+  </park>
+  <park parkID="HON01" beg="1997-04-19" city="Honolulu" country="US" end="1997-04-20" games="3" name="Aloha Stadium" state="HI">
+    <comment parkID="HON01" comment="SDN played 3 games here as an alternate (neutral) site from 1997-04-19 until 1997-04-20: Marketing move by Major League Baseball" />
+    <othername name="Aloha Stadium" auth="1" beg="1997" curr="1" end="1997" />
+    <team teamID="SDN" beg="1997-04-19" end="1997-04-20" games="3" neutralsite="1" />
+  </park>
+  <park parkID="HOU01" beg="1962-04-10" city="Houston" country="US" end="1964-09-27" games="244" lat="29.6866908383102" lng="-95.40826017198386" name="Colt Stadium" state="TX">
+    <othername name="Colt Stadium" auth="1" beg="1962" curr="1" end="1964" />
+    <team teamID="HOU" beg="1962-04-10" end="1964-09-27" games="244" parknameBDB="HOU:Colt Stadium" />
+  </park>
+  <park parkID="HOU02" beg="1965-04-12" city="Houston" country="US" end="1999-10-03" games="2774" lat="29.68415980143823" lng="-95.40893752107466" name="Astrodome" state="TX">
+    <othername name="Astrodome" auth="1" beg="1965" curr="1" end="1999" />
+    <team teamID="HOU" beg="1965-04-12" end="1999-10-03" games="2774" parknameBDB="HOU:Astrodome" />
+  </park>
+  <park parkID="HOU03" active="1" beg="2000-04-07" city="Houston" country="US" end="NULL" extaddr="" games="567" href="http://astros.mlb.com" lat="29.7572" lng="-95.35518" logofile="logo_hou_79x76.jpg" name="Minute Maid Park" spanishurl="astrosdehouston.com" state="TX" streetaddr="501 Crawford Street" tel="(713) 259-8000" url="astros.com" zip="77002">
+    <othername name="Astros Field" auth="1" beg="2002" curr="0" end="2001" />
+    <othername name="Enron Field" auth="1" beg="2000" curr="0" end="2001" />
+    <othername name="Minute Maid Park" auth="1" beg="2002" curr="1" end="NULL" />
+    <team teamID="HOU" beg="2000-04-07" end="NULL" games="567" parknameBDB="HOU:Minute Maid Park" />
+  </park>
+  <park parkID="HRT01" beg="1874-05-01" city="Hartford" country="US" end="1876-09-16" games="99" lat="41.76361083984376" lng="-72.68555450439455" name="Hartford Ball Club Grounds" state="CT">
+    <othername name="Hartford Ball Club Grounds" auth="1" beg="1874" curr="1" end="1876" />
+    <team teamID="HAR" beg="1876-05-01" end="1876-09-16" games="32" parknameBDB="HAR:Hartford Ball Club Grounds" />
+    <team teamID="HR1" beg="1874-05-01" end="1875-10-29" games="67" parknameBDB="HR1:Hartford Ball Club Grounds" />
+  </park>
+  <park parkID="HRT02" beg="1872-06-21" city="Hartford" country="US" end="1872-08-09" games="3" name="Hartford Trotting Park" state="CT">
+    <comment parkID="HRT02" comment="MID played 3 games here as an alternate (neutral) site from 1872-06-21 until 1872-08-09" />
+    <othername name="Hartford Trotting Park" auth="1" beg="1872" curr="1" end="1872" />
+    <team teamID="MID" beg="1872-06-21" end="1872-08-09" games="3" neutralsite="1" />
+  </park>
+  <park parkID="IND01" beg="1878-05-01" city="Indianapolis" country="US" end="1878-09-13" games="22" lat="39.76152261592852" lng="-86.1500022165478" name="South Street Park" state="IN">
+    <othername name="South Street Park" auth="1" beg="1878" curr="1" end="1878" />
+    <team teamID="IN1" beg="1878-05-01" end="1878-09-13" games="22" parknameBDB="IN1:South Street Park" />
+  </park>
+  <park parkID="IND02" beg="1884-05-14" city="Indianapolis" country="US" end="1884-09-20" games="45" name="Seventh Street Park I" state="IN">
+    <othername name="Seventh Street Park" auth="0" />
+    <othername name="Seventh Street Park I" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="IN2" beg="1884-05-14" end="1884-09-20" games="45" parknameBDB="IN2:Seventh Street Park" />
+  </park>
+  <park parkID="IND03" beg="1884-05-18" city="Indianapolis" country="US" end="1884-09-21" games="11" name="Bruce Grounds" state="IN">
+    <comment parkID="IND03" comment="IN2:Sundays" />
+    <othername name="Bruce Grounds" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="IN2" beg="1884-05-18" end="1884-09-21" games="11" />
+  </park>
+  <park parkID="IND04" beg="1887-04-28" city="Indianapolis" country="US" end="1887-10-08" games="64" lat="39.78910786834408" lng="-86.15837571870941" name="Seventh Street Park II" state="IN">
+    <othername name="Athletic Park I" auth="0" />
+    <othername name="Seventh Street Park II" auth="1" beg="1887" curr="1" end="1887" />
+    <team teamID="IN3" beg="1887-04-28" end="1887-10-08" games="64" parknameBDB="IN3:Athletic Park I" />
+  </park>
+  <park parkID="IND05" beg="1888-04-20" city="Indianapolis" country="US" end="1889-10-05" games="135" lat="39.78910786834408" lng="-86.15837571870941" name="Seventh Street Park III" state="IN">
+    <othername name="Athletic Park II" auth="0" />
+    <othername name="Seventh Street Park III" auth="1" beg="1888" curr="1" end="1889" />
+    <team teamID="IN3" beg="1888-04-20" end="1889-10-05" games="135" parknameBDB="IN3:Athletic Park II" />
+  </park>
+  <park parkID="IND06" beg="1890-07-28" city="Indianapolis" country="US" end="1890-08-02" games="6" name="Indianapolis Park" state="IN">
+    <comment parkID="IND06" comment="CL4 played 3 games here as an alternate (neutral) site from 1890-07-30 until 1890-08-02" />
+    <othername name="Indianapolis Park" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="CL4" beg="1890-07-28" end="1890-08-02" games="6" neutralsite="1" />
+  </park>
+  <park parkID="IND07" beg="1914-04-23" city="Indianapolis" country="US" end="1914-10-08" games="80" name="Federal League Park" state="IN">
+    <othername name="Federal League Park" auth="1" beg="1914" curr="1" end="1914" />
+    <othername name="Washington Park" auth="0" />
+    <team teamID="IND" beg="1914-04-23" end="1914-10-08" games="80" parknameBDB="IND:" />
+  </park>
+  <park parkID="IRO01" beg="1890-05-11" city="Rochester" country="US" end="1890-07-20" games="6" name="Windsor Beach" state="NY">
+    <comment parkID="IRO01" comment="RC2 played 6 games here as an alternate (neutral) site from 1890-05-11 until 1890-07-20: Alternate park for Sunday and/or holiday games" />
+    <comment parkID="IRO01" comment="RC2: Sundays" />
+    <othername name="Windsor Beach" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="RC2" beg="1890-05-11" end="1890-07-20" games="6" neutralsite="1" />
+  </park>
+  <park parkID="JER01" beg="1889-04-24" city="Jersey City" country="US" end="1889-04-25" games="2" name="Oakdale Park (Jersey City)" state="NJ">
+    <comment parkID="JER01" comment="NY1 played 2 games here as an alternate (neutral) site from 1889-04-24 until 1889-04-25" />
+    <othername name="Oakdale Park" auth="1" beg="1889" curr="0" end="1889" />
+    <othername name="Oakdale Park (Jersey City)" auth="1" beg="1889" curr="1" end="1889" />
+    <team teamID="NY1" beg="1889-04-24" end="1889-04-25" games="2" neutralsite="1" />
+  </park>
+  <park parkID="JER02" beg="1956-04-19" city="Jersey City" country="US" end="1957-09-03" games="15" lat="40.70627938035634" lng="-74.10075547262043" name="Roosevelt Stadium" state="NJ">
+    <comment parkID="JER02" comment="BRO played 15 games here as an alternate (neutral) site from 1956-04-19 until 1957-09-03: Marketing move by Major League Baseball" />
+    <othername name="Roosevelt Stadium" auth="1" beg="1956" curr="1" end="1957" />
+    <team teamID="BRO" beg="1956-04-19" end="1957-09-03" games="15" neutralsite="1" />
+  </park>
+  <park parkID="KAN01" beg="1884-06-07" city="Kansas City" country="US" end="1884-10-19" games="36" name="Athletic Park (Kansas City)" state="MO">
+    <othername name="Athletic Park" auth="1" beg="1884" curr="0" end="1884" />
+    <othername name="Athletic Park (Kansas City)" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="KCU" beg="1884-06-07" end="1884-10-19" games="36" parknameBDB="KCU:" />
+  </park>
+  <park parkID="KAN02" beg="1886-04-30" city="Kansas City" country="US" end="1892-10-15" games="121" lat="39.09090980972644" lng="-94.54986900844828" name="Association Park" state="MO">
+    <comment parkID="KAN02" comment="SLN played 3 games here as an alternate (neutral) site from 1892-08-23 until 1892-10-15" />
+    <othername name="Association Park" auth="1" beg="1886" curr="1" end="1892" />
+    <othername name="Association Park I" auth="0" />
+    <team teamID="KC2" beg="1888-04-18" end="1888-09-30" games="57" parknameBDB="KC2:Association Park I" />
+    <team teamID="KCN" beg="1886-04-30" end="1886-09-18" games="61" parknameBDB="KCN:Association Park" />
+    <team teamID="SLN" beg="1892-08-23" end="1892-10-15" games="3" neutralsite="1" />
+  </park>
+  <park parkID="KAN03" beg="1889-04-25" city="Kansas City" country="US" end="1889-09-30" games="70" lat="40.44655106983498" lng="-80.00596487663123" name="Exposition Park" state="MO">
+    <othername name="Exposition Park" auth="1" beg="1889" curr="1" end="1889" />
+    <team teamID="KC2" beg="1889-04-25" end="1889-09-30" games="70" parknameBDB="KC2:Exposition Park" />
+  </park>
+  <park parkID="KAN04" beg="1914-04-16" city="Kansas City" country="US" end="1915-09-28" games="151" name="Gordon and Koppel Field" state="MO">
+    <othername name="Gordon and Koppel Field" auth="1" beg="1914" curr="1" end="1915" />
+    <team teamID="KCF" beg="1914-04-16" end="1915-09-28" games="151" parknameBDB="KCF:" />
+  </park>
+  <park parkID="KAN05" beg="1955-04-12" city="Kansas City" country="US" end="1972-10-04" games="1348" name="Municipal Stadium" state="MO">
+    <othername name="Municipal Stadium" auth="1" beg="1955" curr="1" end="1972" />
+    <othername name="Municipal Stadium I" auth="0" />
+    <othername name="Municipal Stadium II" auth="0" />
+    <team teamID="KC1" beg="1955-04-12" end="1967-09-27" games="1029" parknameBDB="KC1:Municipal Stadium I" />
+    <team teamID="KCA" beg="1969-04-08" end="1972-10-04" games="319" parknameBDB="KCA:Municipal Stadium II" />
+  </park>
+  <park parkID="KAN06" active="1" beg="1973-04-10" city="Kansas City" country="US" end="NULL" extaddr="" games="2684" href="http://royals.mlb.com" lat="39.05158" lng="-94.48009999999999" logofile="logo_kc_79x76.jpg" name="Kauffman Stadium" spanishurl="" state="MO" streetaddr="One Royal Way" tel="(816) 921-8000" url="royals.com" zip="64129">
+    <othername name="Kauffman Stadium" auth="1" beg="1993" curr="1" end="NULL" />
+    <othername name="Royals Stadium" auth="1" beg="1973" curr="0" end="1992" />
+    <team teamID="KCA" beg="1973-04-10" end="NULL" games="2684" parknameBDB="KCA:Royals Stadium" />
+  </park>
+  <park parkID="KEO01" beg="1875-05-04" city="Keokuk" country="US" end="1875-06-14" games="8" name="Perry Park" state="IA">
+    <othername name="Perry Park" auth="1" beg="1875" curr="1" end="1875" />
+    <othername name="Walte's Pasture" auth="0" />
+    <team teamID="KEO" beg="1875-05-04" end="1875-06-14" games="8" parknameBDB="KEO:Perry Park" />
+  </park>
+  <park parkID="LAS01" beg="1996-04-01" city="Las Vegas" country="US" end="1996-04-07" games="6" name="Cashman Field" state="NV">
+    <comment parkID="LAS01" comment="OAK played 6 games here as an alternate (neutral) site from 1996-04-01 until 1996-04-07: Incomplete football renovations to Oakland-Alameda County Coliseum" />
+    <othername name="Cashman Field" auth="1" beg="1996" curr="1" end="1996" />
+    <team teamID="OAK" beg="1996-04-01" end="1996-04-07" games="6" neutralsite="1" />
+  </park>
+  <park parkID="LBV01" beg="2007-05-15" city="Lake Buena Vista" country="US" end="2008-04-24" games="6" name="Champions Stadium" state="FL" zip="32830">
+    <comment parkID="LBV01" comment="TBA played 6 games here as an alternate (neutral) site from 2007-05-15 until 2008-04-24: Marketing move by Major League Baseball" />
+    <othername name="The Ballpark at Disney's Wide World of Sports" auth="1" curr="0" />
+    <othername name="Champions Stadium" auth="1" curr="1" />
+    <team teamID="TBA" beg="2007-05-15" end="2008-04-24" games="6" neutralsite="1" teamname="Tampa Bay Devil Rays" />
+  </park>
+  <park parkID="LOS01" beg="1958-04-18" city="Los Angeles" country="US" end="1961-09-20" games="309" lat="34.01422614295726" lng="-118.2876966114887" name="LA Memorial Coliseum" state="CA">
+    <othername name="LA Memorial Coliseum" auth="1" beg="1958" curr="1" end="1961" />
+    <othername name="Los Angeles Memorial Coliseum" auth="0" />
+    <team teamID="LAN" beg="1958-04-18" end="1961-09-20" games="309" parknameBDB="LAN:Los Angeles Memorial Coliseum" />
+  </park>
+  <park parkID="LOS02" beg="1961-04-27" city="Los Angeles" country="US" end="1961-10-01" games="82" lat="34.00748859542883" lng="-118.26655829157" name="Wrigley Field (Los Angeles)" state="CA">
+    <othername name="Wrigley Field" auth="1" beg="1961" curr="0" end="1961" />
+    <othername name="Wrigley Field (LA)" auth="0" />
+    <othername name="Wrigley Field (Los Angeles)" auth="1" beg="1961" curr="1" end="1961" />
+    <team teamID="LAA" beg="1961-04-27" end="1961-10-01" games="82" parknameBDB="LAA:Wrigley Field (LA)" />
+  </park>
+  <park parkID="LOS03" active="1" beg="1962-04-10" city="Los Angeles" country="US" end="NULL" extaddr="" games="3904" href="http://dodgers.mlb.com" lat="34.07388" lng="-118.23996" logofile="logo_la_79x76.jpg" name="Dodger Stadium" spanishurl="losdodgers.com" state="CA" streetaddr="1000 Elysian Park Avenue" tel="(323) 224-1500" url="dodgers.com" zip="90012-1199">
+    <othername name="Chavez Ravine" auth="0" />
+    <othername name="Dodger Stadium" auth="1" beg="1962" curr="1" end="NULL" />
+    <team teamID="CAL" beg="1965-04-13" end="1965-09-22" games="80" parknameBDB="CAL:Dodger Stadium" />
+    <team teamID="LAA" beg="1962-04-17" end="1964-09-27" games="243" parknameBDB="LAA:Dodger Stadium" />
+    <team teamID="LAN" beg="1962-04-10" end="NULL" games="3581" parknameBDB="LAN:Dodger Stadium" />
+  </park>
+  <park parkID="LOU01" beg="1876-04-25" city="Louisville" country="US" end="1877-09-29" games="63" lat="38.22738658876374" lng="-85.76299333267467" name="Louisville Baseball Park" state="KY">
+    <othername name="Louisville Baseball Park" auth="1" beg="1876" curr="1" end="1877" />
+    <team teamID="LS1" beg="1876-04-25" end="1877-09-29" games="63" parknameBDB="LS1:Louisville Baseball Park" />
+  </park>
+  <park parkID="LOU02" beg="1882-05-05" city="Louisville" country="US" end="1893-05-04" games="677" lat="38.23742610323328" lng="-85.75980603666545" name="Eclipse Park I" state="KY">
+    <othername name="Eclipse Park I" auth="1" beg="1882" curr="1" end="1893" />
+    <team teamID="LS2" beg="1882-05-05" end="1891-09-27" games="606" parknameBDB="LS2:Eclipse Park I" />
+    <team teamID="LS3" beg="1892-04-12" end="1893-05-04" games="71" parknameBDB="LS3:Eclipse Park I" />
+  </park>
+  <park parkID="LOU03" beg="1893-05-22" city="Louisville" country="US" end="1899-09-02" games="446" name="Eclipse Park II" state="KY">
+    <othername name="Eclipse Park II" auth="1" beg="1893" curr="1" end="1899" />
+    <team teamID="LS3" beg="1893-05-22" end="1899-09-02" games="446" parknameBDB="LS3:Eclipse Park II" />
+  </park>
+  <park parkID="LUD01" beg="1875-09-22" city="Covington" country="US" end="1875-09-22" games="1" name="Ludlow Baseball Park" state="KY" zip="41016">
+    <comment parkID="LUD01" comment="PH2 played 1 games here as an alternate (neutral) site from 1875-09-22 until 1875-09-22" />
+    <othername name="Ludlow Baseball Park" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="PH2" beg="1875-09-22" end="1875-09-22" games="1" neutralsite="1" />
+  </park>
+  <park parkID="MAS01" beg="1890-07-27" city="Maspeth" country="US" end="1890-08-03" games="2" name="Long Island Grounds" state="NY">
+    <comment parkID="MAS01" comment="BR4 played 2 games here as an alternate (neutral) site from 1890-07-27 until 1890-08-03" />
+    <othername name="Long Island Grounds" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="BR4" beg="1890-07-27" end="1890-08-03" games="2" neutralsite="1" />
+  </park>
+  <park parkID="MIA01" active="0" beg="1993-04-05" city="Miami" country="US" end="2011-09-28" extaddr="" games="1097" href="http://marlins.mlb.com" lat="25.95794" lng="-80.23868" logofile="logo_fla_79x76.jpg" name="Dolphins Stadium" spanishurl="marlinsbeisbol.com" state="FL" streetaddr="2269 Dan Marino Boulevard" tel="(305) 626-7400" url="floridamarlins.com" zip="33056">
+    <othername name="Dolphin Stadium" auth="0" />
+    <othername name="Dolphins Stadium" auth="1" beg="2005" curr="1" end="NULL" />
+    <othername name="Joe Robbie Stadium" auth="1" beg="1993" curr="0" end="1995" />
+    <othername name="Pro Player Stadium" auth="1" beg="1996" curr="0" end="2004" />
+    <team teamID="FLO" beg="1993-04-05" end="2011-09-28" games="1097" parknameBDB="FLO:Pro Player Stadium" />
+  </park>
+  <park parkID="MIA02" active="1" beg="2012-04-04" city="Miami" country="US" end="NULL" extaddr="" games="162" href="http://marlins.mlb.com" lat="" lng="" logofile="logo_fla_79x76.jpg" name="Dolphins Stadium" spanishurl="marlinsbeisbol.com" state="FL" streetaddr="501 Marlins Way" tel="(305) 480-1300" url="floridamarlins.com" zip="33125">
+    <othername name="Marlins Park" auth="0" />
+    <team teamID="MIA" beg="2012-04-04" end="NULL" games="162" />
+  </park>
+  <park parkID="MID01" beg="1872-05-02" city="Middletown" country="US" end="1872-07-27" games="7" name="Mansfield Club Grounds" state="CT">
+    <othername name="Mansfield Club Grounds" auth="1" beg="1872" curr="1" end="1872" />
+    <team teamID="MID" beg="1872-05-02" end="1872-07-27" games="7" parknameBDB="MID:Mansfield Club Grounds" />
+  </park>
+  <park parkID="MIL01" beg="1878-05-14" city="Milwaukee" country="US" end="1878-09-14" games="25" lat="43.05894771648431" lng="-87.93144115865087" name="Milwaukee Base-Ball Grounds" state="WI">
+    <othername name="Eclipse Park II" auth="0" />
+    <othername name="Milwaukee Base-Ball Grounds" auth="1" beg="1878" curr="1" end="1878" />
+    <team teamID="ML2" beg="1878-05-14" end="1878-09-14" games="25" parknameBDB="ML2:Eclipse Park II" />
+  </park>
+  <park parkID="MIL02" beg="1884-09-27" city="Milwaukee" country="US" end="1885-09-25" games="14" name="Wright Street Grounds" state="WI">
+    <comment parkID="MIL02" comment="BFN:9/4/1885" />
+    <comment parkID="MIL02" comment="CHN played 2 games here as an alternate (neutral) site from 1885-09-04 until 1885-09-25" />
+    <comment parkID="MIL02" comment="PRO: 9/25/1885" />
+    <comment parkID="MIL02" comment="UA:1884" />
+    <othername name="Wright Street Grounds" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="CHN" beg="1885-09-04" end="1885-09-25" games="2" neutralsite="1" />
+    <team teamID="MLU" beg="1884-09-27" end="1884-10-12" games="12" parknameBDB="MLU:" />
+  </park>
+  <park parkID="MIL03" beg="1891-09-10" city="Milwaukee" country="US" end="1891-10-04" games="20" name="Borchert Field" state="WI">
+    <othername name="Athletic Field" auth="0" />
+    <othername name="Borchert Field" auth="1" beg="1891" curr="1" end="1891" />
+    <team teamID="ML3" beg="1891-09-10" end="1891-10-04" games="20" parknameBDB="ML3:Athletic Field" />
+  </park>
+  <park parkID="MIL04" beg="1901-05-03" city="Milwaukee" country="US" end="1901-09-12" games="70" lat="43.05894771648299" lng="-87.9314411586509" name="Lloyd Street Grounds" state="WI">
+    <othername name="Lloyd Street Grounds" auth="1" beg="1901" curr="1" end="1901" />
+    <team teamID="MLA" beg="1901-05-03" end="1901-09-12" games="70" parknameBDB="MLA:Lloyd Street Grounds" />
+  </park>
+  <park parkID="MIL05" beg="1953-04-14" city="Milwaukee" country="US" end="2000-09-28" games="3484" lat="43.02989660812186" lng="-87.97237924603783" name="County Stadium" state="WI">
+    <comment parkID="MIL05" comment="CHA played 20 games here as an alternate (neutral) site from 1968-05-15 until 1969-09-26: Marketing move by Major League Baseball" />
+    <othername name="County Stadium" auth="1" beg="1953" curr="1" end="2000" />
+    <team teamID="CHA" beg="1968-05-15" end="1969-09-26" games="20" neutralsite="1" />
+    <team teamID="MIL" beg="1970-04-07" end="2000-09-28" games="2441" parknameBDB="MIL:County Stadium" />
+    <team teamID="MLN" beg="1953-04-14" end="1965-09-22" games="1023" parknameBDB="MLN:County Stadium" />
+  </park>
+  <park parkID="MIL06" active="1" beg="2001-04-06" city="Milwaukee" country="US" end="NULL" extaddr="" games="486" href="http://brewers.mlb.com" lat="43.02834" lng="-87.971" logofile="logo_mil_79x76.jpg" name="Miller Park" spanishurl="" state="WI" streetaddr="One Brewers Way" tel="(414) 902-4400" url="brewers.com" zip="53214">
+    <comment parkID="MIL06" comment="CLE played 3 games here as an alternate (neutral) site from 2007-04-10 until 2007-04-12: Snow and cold weather in Cleveland" />
+    <othername name="Miller Park" auth="1" beg="2001" curr="1" end="NULL" />
+    <team teamID="CLE" beg="2007-04-10" end="2007-04-12" games="3" neutralsite="1" />
+    <team teamID="MIL" beg="2001-04-06" end="NULL" games="486" parknameBDB="MIL:Miller Park" />
+    <team teamID="HOU" beg="2008-09-14" end="2008-09-15" games="2" />
+  </park>
+  <park parkID="MIN01" beg="1891-10-02" city="Minneapolis" country="US" end="1891-10-02" games="1" name="Athletic Park (Minneapolis)" state="MN">
+    <comment parkID="MIN01" comment="ML2" />
+    <comment parkID="MIN01" comment="ML3 played 1 games here as an alternate (neutral) site from 1891-10-02 until 1891-10-02" />
+    <othername name="Athletic Park" auth="1" beg="1891" curr="0" end="1891" />
+    <othername name="Athletic Park (Minneapolis)" auth="1" beg="1891" curr="1" end="1891" />
+    <team teamID="ML3" beg="1891-10-02" end="1891-10-02" games="1" neutralsite="1" />
+  </park>
+  <park parkID="MIN02" beg="1961-04-21" city="Minneapolis" country="US" end="1981-09-30" games="1674" lat="44.85450335142058" lng="-93.24202698477718" name="Metropolitan Stadium" state="MN">
+    <othername name="Metropolitan Stadium" auth="1" beg="1961" curr="1" end="1981" />
+    <team teamID="MIN" beg="1961-04-21" end="1981-09-30" games="1674" parknameBDB="MIN:Metropolitan Stadium" />
+  </park>
+  <park parkID="MIN03" active="0" beg="1982-04-06" city="Minneapolis" country="US" end="2009-10-11" extaddr="" games="1998" href="http://twins.mlb.com" lat="44.97379" lng="-93.25789" logofile="logo_min_79x76.jpg" name="Hubert H. Humphrey Metrodome" spanishurl="" state="MN" streetaddr="34 Kirby Puckett Place" tel="(612) 375-1366" url="twinsbaseball.com" zip="55415">
+    <othername name="Hubert H Humphrey Metrodome" auth="1" beg="1982" curr="1" end="NULL" />
+    <othername name="Metrodome" auth="0" />
+    <team teamID="MIN" beg="1982-04-06" end="2009-10-11" games="1998" parknameBDB="MIN:Hubert H Humphrey Metrodome" />
+  </park>
+  <park parkID="MIN04" active="1" beg="2010-04-12" city="Minneapolis" country="US" end="NULL" games="324" name="Target Field" state="MN" zip="">
+    <comment parkID="MIN04" comment="Target Field" />
+    <othername name="Target Field" auth="1" curr="0" />
+    <team teamID="MIN" beg="2010-04-12" end="NULL" games="0" teamname="Minnesota Twins" />
+  </park>
+  <park parkID="MNT01" beg="1996-08-16" city="Monterrey" country="MX" end="1999-04-04" games="4" name="Estadio Monterrey" state="NL">
+    <comment parkID="MNT01" comment="SDN played 4 games here as an alternate (neutral) site from 1996-08-16 until 1999-04-04: Marketing move by Major League Baseball" />
+    <othername name="Estadio de Beisbol Monterrey" auth="0" />
+    <othername name="Estadio Monterrey" auth="1" beg="1996" curr="1" end="1999" />
+    <team teamID="SDN" beg="1996-08-16" end="1996-08-18" games="3" neutralsite="1" />
+    <team teamID="SDN" beg="1999-04-04" end="1999-04-04" games="1" neutralsite="1" />
+  </park>
+  <park parkID="MON01" beg="1969-04-14" city="Montreal" country="CA" end="1976-09-26" games="641" lat="45.53533116750535" lng="-73.62809050109534" name="Parc Jarry" state="QC">
+    <othername name="Jarry Park" auth="0" />
+    <othername name="Parc Jarry" auth="1" beg="1969" curr="1" end="1976" />
+    <team teamID="MON" beg="1969-04-14" end="1976-09-26" games="641" parknameBDB="MON:Jarry Park" />
+  </park>
+  <park parkID="MON02" beg="1977-04-15" city="Montreal" country="CA" end="2004-09-29" games="2145" lat="45.55790784341417" lng="-73.55177785553683" name="Stade Olympique" state="QC">
+    <othername name="Olympic Stadium" auth="0" />
+    <othername name="Stade Olympique" auth="1" beg="1977" curr="1" end="2004" />
+    <team teamID="MON" beg="1977-04-15" end="2004-09-29" games="2145" parknameBDB="MON:Stade Olympique" />
+  </park>
+  <park parkID="NEW01" beg="1875-04-21" city="New Haven" country="US" end="1877-09-22" games="28" name="Howard Avenue Grounds" state="CT">
+    <comment parkID="NEW01" comment="HAR played 1 games here as an alternate (neutral) site from 1877-09-22 until 1877-09-22" />
+    <othername name="Brewster Park" auth="0" />
+    <othername name="Hamilton Park" auth="0" />
+    <othername name="Howard Avenue Grounds" auth="1" beg="1875" curr="1" end="1877" />
+    <team teamID="HAR" beg="1877-09-22" end="1877-09-22" games="1" neutralsite="1" />
+    <team teamID="NH1" beg="1875-04-21" end="1875-10-28" games="27" parknameBDB="NH1:Hamilton Park" />
+  </park>
+  <park parkID="NWK01" beg="1904-07-17" city="Newark" country="US" end="1904-07-17" games="1" name="Wiedenmeyer's Park" state="NJ">
+    <comment parkID="NWK01" comment="NYA played 1 games here as an alternate (neutral) site from 1904-07-17 until 1904-07-17: Alternate park for Sunday and/or holiday games" />
+    <othername name="Wiedenmeyer's Park" auth="1" beg="1904" curr="1" end="1904" />
+    <team teamID="NYA" beg="1904-07-17" end="1904-07-17" games="1" neutralsite="1" />
+  </park>
+  <park parkID="NYC01" beg="1871-05-25" city="Brooklyn" country="US" end="1878-07-26" games="313" lat="40.70342445941778" lng="-73.95357802396126" name="Union Grounds (Brooklyn)" state="NY">
+    <comment parkID="NYC01" comment="BS1 played 1 games here as an alternate (neutral) site from 1871-05-27 until 1871-05-27" />
+    <comment parkID="NYC01" comment="CH1 played 1 games here as an alternate (neutral) site from 1871-10-30 until 1871-10-30" />
+    <comment parkID="NYC01" comment="ELI played 1 games here as an alternate (neutral) site from 1873-06-12 until 1873-06-12" />
+    <comment parkID="NYC01" comment="HAR played 28 games here as an alternate (neutral) site from 1877-04-30 until 1877-09-21: Hartford played all but one 'home' game in Brooklyn" />
+    <comment parkID="NYC01" comment="PRO played 1 games here as an alternate (neutral) site from 1878-07-26 until 1878-07-26" />
+    <othername name="Union Grounds" auth="1" beg="1871" curr="0" end="1878" />
+    <othername name="Union Grounds (Brooklyn)" auth="1" beg="1871" curr="1" end="1878" />
+    <team teamID="BR1" beg="1872-05-07" end="1872-10-22" games="14" parknameBDB="BR1:Union Grounds" />
+    <team teamID="BR2" beg="1873-05-07" end="1875-10-09" games="85" parknameBDB="BR2:Union Grounds" />
+    <team teamID="BS1" beg="1871-05-27" end="1871-05-27" games="1" neutralsite="1" />
+    <team teamID="CH1" beg="1871-10-30" end="1871-10-30" games="1" neutralsite="1" />
+    <team teamID="ELI" beg="1873-06-12" end="1873-06-12" games="1" neutralsite="1" />
+    <team teamID="HAR" beg="1877-04-30" end="1877-09-21" games="28" neutralsite="1" parknameBDB="HAR:Union Grounds (Brooklyn)" />
+    <team teamID="NY2" beg="1871-05-25" end="1875-10-29" games="149" parknameBDB="NY2:Union Grounds (Brooklyn)" />
+    <team teamID="NY3" beg="1876-04-25" end="1876-10-17" games="33" parknameBDB="NY3:Union Grounds (Brooklyn)" />
+    <team teamID="PRO" beg="1878-07-26" end="1878-07-26" games="1" neutralsite="1" />
+  </park>
+  <park parkID="NYC02" beg="1872-05-06" city="Brooklyn" country="US" end="1872-10-31" games="18" name="Capitoline Grounds" state="NY">
+    <othername name="Capitoline Grounds" auth="1" beg="1872" curr="1" end="1872" />
+    <team teamID="BR2" beg="1872-05-06" end="1872-10-31" games="18" parknameBDB="BR2:Capitoline Grounds" />
+  </park>
+  <park parkID="NYC03" beg="1883-05-01" city="New York" country="US" end="1888-10-13" games="448" lat="40.79736908116188" lng="-73.94877489047369" name="Polo Grounds I (Southeast Diamond)" state="NY">
+    <othername name="Polo Grounds I" auth="0" />
+    <othername name="Polo Grounds I (Southeast Diamond)" auth="1" beg="1883" curr="1" end="1888" />
+    <othername name="Polo Grounds I West Diamond" auth="0" />
+    <team teamID="NY1" beg="1883-05-01" end="1888-10-13" games="364" parknameBDB="NY1:Polo Grounds I" />
+    <team teamID="NY4" beg="1883-05-12" end="1885-10-01" games="84" parknameBDB="NY4:Polo Grounds I West Diamond" />
+  </park>
+  <park parkID="NYC04" beg="1883-05-30" city="New York" country="US" end="1883-09-06" games="37" name="Polo Grounds II (Southwest Diamond)" state="NY">
+    <othername name="Polo Grounds II (Southwest Diamond)" auth="1" beg="1883" curr="1" end="1883" />
+    <team teamID="NY4" beg="1883-05-30" end="1883-09-06" games="37" />
+  </park>
+  <park parkID="NYC05" beg="1884-05-05" city="Brooklyn" country="US" end="1889-05-04" games="290" lat="40.67261575286495" lng="-73.98392432545359" name="Washington Park I" state="NY">
+    <comment parkID="NYC05" comment="CN2 played 1 games here as an alternate (neutral) site from 1884-10-10 until 1884-10-10" />
+    <othername name="Washington Park I" auth="1" beg="1884" curr="1" end="1889" />
+    <team teamID="BR3" beg="1884-05-05" end="1889-05-04" games="289" parknameBDB="BR3:Washington Park I" />
+    <team teamID="CN2" beg="1884-10-10" end="1884-10-10" games="1" neutralsite="1" />
+  </park>
+  <park parkID="NYC06" beg="1884-05-13" city="New York" country="US" end="1884-08-23" games="33" name="Metropolitan Park" state="NY">
+    <othername name="Metropolitan Park" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="NY4" beg="1884-05-13" end="1884-08-23" games="33" />
+  </park>
+  <park parkID="NYC07" beg="1886-05-02" city="Brooklyn" country="US" end="1886-09-19" games="14" name="Ridgewood Park I" state="NY">
+    <comment parkID="NYC07" comment="BR3:Sundays (1886-1889)" />
+    <othername name="Ridgewood Park" auth="0" />
+    <othername name="Ridgewood Park I" auth="1" beg="1886" curr="1" end="1886" />
+    <team teamID="BR3" beg="1886-05-02" end="1886-09-19" games="14" />
+  </park>
+  <park parkID="NYC08" beg="1889-05-30" city="Brooklyn" country="US" end="1890-10-03" games="123" lat="40.67464361342304" lng="-73.98705395435722" name="Washington Park II" state="NY">
+    <othername name="Washington Park II" auth="1" beg="1889" curr="1" end="1890" />
+    <team teamID="BR3" beg="1889-05-30" end="1889-10-05" games="49" />
+    <team teamID="BRO" beg="1890-04-28" end="1890-10-03" games="74" parknameBDB="BRO:Washington Park II" />
+  </park>
+  <park parkID="NYC09" beg="1889-07-08" city="New York" country="US" end="1890-09-13" games="112" name="Polo Grounds III" state="NY">
+    <othername name="Polo Grounds II" auth="0" />
+    <othername name="Polo Grounds III" auth="1" beg="1889" curr="1" end="1890" />
+    <team teamID="BR4" beg="1890-06-09" end="1890-08-02" games="8" />
+    <team teamID="NY1" beg="1889-07-08" end="1890-09-13" games="104" parknameBDB="NY1:Polo Grounds II" />
+  </park>
+  <park parkID="NYC10" beg="1890-04-19" city="New York" country="US" end="1911-04-13" games="1545" lat="40.83070495841643" lng="-73.93705403608595" name="Polo Grounds IV" state="NY">
+    <othername name="Polo Grounds III" auth="0" />
+    <othername name="Polo Grounds IV" auth="1" beg="1890" curr="1" end="1911" />
+    <team teamID="NY1" beg="1891-04-22" end="1911-04-13" games="1479" parknameBDB="NY1:Polo Grounds III" />
+    <team teamID="NYP" beg="1890-04-19" end="1890-09-18" games="66" parknameBDB="NYP:" />
+  </park>
+  <park parkID="NYC11" beg="1890-04-28" city="Brooklyn" country="US" end="1897-10-02" games="554" lat="40.66790781243824" lng="-73.90117448413889" name="Eastern Park" state="NY">
+    <othername name="Eastern Park" auth="1" beg="1890" curr="1" end="1897" />
+    <team teamID="BRO" beg="1891-04-27" end="1897-10-02" games="488" parknameBDB="BRO:Eastern Park" />
+    <team teamID="BRP" beg="1890-04-28" end="1890-09-12" games="66" parknameBDB="BRP:" />
+  </park>
+  <park parkID="NYC12" beg="1898-04-30" city="Brooklyn" country="US" end="1915-09-30" games="1279" name="Washington Park III" state="NY">
+    <othername name="Washington Park III" auth="1" beg="1898" curr="1" end="1915" />
+    <team teamID="BRF" beg="1914-05-11" end="1915-09-30" games="154" parknameBDB="BRF:" />
+    <team teamID="BRO" beg="1898-04-30" end="1912-10-05" games="1125" parknameBDB="BRO:Washington Park III" />
+  </park>
+  <park parkID="NYC13" beg="1903-04-30" city="New York" country="US" end="1912-10-05" games="776" lat="40.84051609457981" lng="-73.94187120181179" name="Hilltop Park" state="NY">
+    <comment parkID="NYC13" comment="NY1 played 28 games here as an alternate (neutral) site from 1911-04-15 until 1911-05-30: Fire at Polo Grounds IV" />
+    <othername name="Hilltop Park" auth="1" beg="1903" curr="1" end="1912" />
+    <team teamID="NY1" beg="1911-04-15" end="1911-05-30" games="28" neutralsite="1" />
+    <team teamID="NYA" beg="1903-04-30" end="1912-10-05" games="748" parknameBDB="NYA:Hilltop Park" />
+  </park>
+  <park parkID="NYC14" beg="1911-06-28" city="New York" country="US" end="1963-09-18" games="4490" lat="40.83261397394883" lng="-73.93673986866608" name="Polo Grounds V" state="NY">
+    <comment parkID="NYC14" comment="NYA played 3 games here as an alternate (neutral) site from 1912-05-30 until 1912-09-02: To accommodate large crowd" />
+    <othername name="Polo Grounds IV" auth="0" />
+    <othername name="Polo Grounds V" auth="1" beg="1911" curr="1" end="1963" />
+    <team teamID="NY1" beg="1911-06-28" end="1957-09-29" games="3565" parknameBDB="NY1:Polo Grounds IV" />
+    <team teamID="NYA" beg="1912-05-30" end="1922-09-10" games="764" neutralsite="1" parknameBDB="NYA:Polo Grounds IV" />
+    <team teamID="NYN" beg="1962-04-13" end="1963-09-18" games="161" parknameBDB="NYN:Polo Grounds IV" />
+  </park>
+  <park parkID="NYC15" beg="1913-04-09" city="Brooklyn" country="US" end="1957-09-24" games="3447" lat="40.66513105086408" lng="-73.95736966344093" name="Ebbets Field" state="NY">
+    <othername name="Ebbets Field" auth="1" beg="1913" curr="1" end="1957" />
+    <team teamID="BRO" beg="1913-04-09" end="1957-09-24" games="3447" parknameBDB="BRO:Ebbets Field" />
+  </park>
+  <park parkID="NYC16" active="0" beg="1923-04-18" city="Bronx" country="US" end="2008-09-21" extaddr="" games="6419" href="http://yankees.mlb.com" lat="40.82661" lng="-73.92740000000001" logofile="logo_nyy_79x76.jpg" name="Yankee Stadium" spanishurl="yankeesbeisbol.com" state="NY" streetaddr="161st Street and River Avenue" tel="(718) 293-4300" url="yankees.com" zip="10451">
+    <comment parkID="NYC16" comment="BDB designates as two different stadiums" />
+    <comment parkID="NYC16" comment="No games 1974-75" />
+    <othername name="Yankee Stadium" auth="1" beg="1923" curr="1" end="NULL" />
+    <othername name="Yankee Stadium I" auth="0" />
+    <othername name="Yankee Stadium II" auth="0" />
+    <team teamID="NYA" beg="1923-04-18" end="1973-09-30" games="" parknameBDB="NYA:Yankee Stadium II" />
+    <team teamID="NYA" beg="1976-04-15" end="2008-09-21" games="" parknameBDB="NYA:Yankee Stadium II" />
+  </park>
+  <park parkID="NYC17" active="0" beg="1964-04-17" city="Flushing" country="US" end="2008-09-28" extaddr="" games="3575" href="http://mets.mlb.com" lat="40.75551" lng="-73.84744999999999" logofile="logo_nym_79x76.jpg" name="Shea Stadium" spanishurl="losmets.com" state="NY" streetaddr="123-01 Roosevelt Avenue" tel="(718) 507-6387" url="mets.com" zip="11368-1699">
+    <comment parkID="NYC17" comment="NYA played 1 games here as an alternate (neutral) site from 1998-04-15 until 1998-04-15: Structural accident at Yankee Stadium (falling concrete and steel)" />
+    <othername name="Shea Stadium" auth="1" beg="1964" curr="1" end="2008" />
+    <othername name="William A. Shea Stadium" auth="0" />
+    <team teamID="NYA" beg="1974-04-06" end="1974-09-25" games="81" neutralsite="0" parknameBDB="NYA:Shea Stadium" />
+    <team teamID="NYA" beg="1975-04-11" end="1975-09-28" games="78" neutralsite="0" parknameBDB="NYA:Shea Stadium" />
+    <team teamID="NYA" beg="1998-04-15" end="1998-04-15" games="1" neutralsite="0" parknameBDB="NYA:Shea Stadium" />
+    <team teamID="NYN" beg="1964-04-17" end="2008-09-28" games="3415" parknameBDB="NYN:Shea Stadium" />
+  </park>
+  <park parkID="NYC18" beg="1887-04-24" city="Brooklyn" country="US" end="1890-06-08" games="77" name="Ridgewood Park II" state="NY">
+    <othername name="Ridgewood Park" auth="0" />
+    <othername name="Ridgewood Park II" auth="1" beg="1887" curr="1" end="1890" />
+    <team teamID="BR3" beg="1887-04-24" end="1889-10-06" games="49" />
+    <team teamID="BR4" beg="1890-04-17" end="1890-06-08" games="28" parknameBDB="BR4:Ridgewood Park" />
+  </park>
+  <park parkID="NYC19" beg="1914-05-11" city="Brooklyn" country="US" end="1915-09-30" games="154" name="Washington Park IV" state="NY" zip="">
+    <comment parkID="NYC19" comment="Washington Park IV" />
+    <othername name="Washington Park IV" auth="1" curr="1" />
+    <team teamID="BRO" beg="1914-05-11" end="1915-09-30" games="154" />
+  </park>
+  <park parkID="NYC20" active="1" beg="2009-04-13" city="New York" country="US" end="NULL" games="405" name="Citi Field" state="NY" zip="">
+    <comment parkID="NYC20" comment="Citi Field" />
+    <othername name="Citi Field" auth="1" curr="1" />
+    <team teamID="NYN" beg="2009-04-13" end="NULL" games="154" />
+  </park>
+  <park parkID="NYC21" active="1" beg="2009-04-16" city="New York" country="US" end="NULL" games="405" name="Yankee Stadium II" state="NY" zip="">
+    <comment parkID="NYC20" comment="Yankee Stadium II" />
+    <othername name="Yankee Stadium II" auth="1" curr="1" />
+    <team teamID="NYA" beg="2009-04-16" end="NULL" games="405" />
+  </park>
+  <park parkID="OAK01" active="1" beg="1968-04-17" city="Oakland" country="US" end="NULL" extaddr="" games="3091" href="http://athletics.mlb.com" lat="37.75162" lng="-122.20052" logofile="logo_oak_79x76.jpg" name="Network Associates Coliseum" spanishurl="" state="CA" streetaddr="7000 Coliseum Way" tel="(510) 638-4900" url="oaklandathletics.com" zip="94621">
+    <othername name="McAfee Coliseum" auth="0" />
+    <othername name="Network Associates Coliseum" auth="1" beg="1998" curr="1" end="NULL" />
+    <othername name="Oakland Coliseum" auth="0" />
+    <othername name="Oakland-Alameda County Coliseum" auth="1" beg="1968" curr="0" end="1996" />
+    <othername name="Oakland-Alameda County Stadium" auth="0" />
+    <othername name="UMAX Coliseum" auth="1" beg="1997" curr="0" end="1997" />
+    <team teamID="OAK" beg="1968-04-17" end="NULL" games="3091" parknameBDB="OAK:McAfee Coliseum" />
+  </park>
+  <park parkID="OAK02" beg="NULL" city="Oakland" country="US" end="NULL" games="0" name="Proposed Oakland Athletics Stadium" state="CA" zip="">
+    <comment parkID="OAK02" comment="Proposed Oakland Athletics Stadium" />
+    <othername name="Proposed Oakland Athletics Stadium" auth="1" curr="0" />
+    <team teamID="OAK" beg="NULL" end="NULL" games="0" teamname="Oakland Athletics" />
+  </park>
+  <park parkID="PEN01" beg="1891-04-25" city="Cincinnati" country="US" end="1891-08-13" games="44" lat="39.12503666279137" lng="-84.47419525130331" name="Pendleton Park" state="OH" zip="45226">
+    <othername name="East End Park" />
+    <othername name="Pendleton Park" auth="1" beg="1891" curr="1" end="1891" />
+    <team teamID="CN3" beg="1891-04-25" end="1891-08-13" games="44" parknameBDB="CN3:Pendleton Park" />
+  </park>
+  <park parkID="PHI01" beg="1871-06-03" city="Philadelphia" country="US" end="1891-10-05" games="814" name="Jefferson Street Grounds" state="PA">
+    <othername name="Athletic Park" auth="0" />
+    <othername name="Athletics Park" auth="0" />
+    <othername name="Jefferson Street Grounds" auth="1" beg="1871" curr="1" end="1891" />
+    <team teamID="PH1" beg="1871-06-03" end="1875-10-28" games="133" parknameBDB="PH1:Jefferson Street Grounds" />
+    <team teamID="PH2" beg="1873-05-01" end="1875-10-25" games="83" parknameBDB="PH2:Jefferson Street Grounds" />
+    <team teamID="PH4" beg="1883-05-10" end="1891-10-05" games="563" parknameBDB="PH4:Athletic Park" />
+    <team teamID="PHN" beg="1876-04-22" end="1876-09-16" games="35" parknameBDB="PHN:Jefferson Street Grounds" />
+  </park>
+  <park parkID="PHI02" beg="1875-04-21" city="Philadelphia" country="US" end="1875-06-04" games="8" name="Centennial Park" state="PA">
+    <othername name="Centennial Grounds" auth="0" />
+    <othername name="Centennial Park" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="PH1" beg="1875-06-04" end="1875-06-04" games="1" />
+    <team teamID="PH3" beg="1875-04-21" end="1875-05-24" games="7" parknameBDB="PH3:Centennial Grounds" />
+  </park>
+  <park parkID="PHI03" beg="1882-05-02" city="Philadelphia" country="US" end="1882-09-21" games="39" lat="40.73217713912687" lng="-74.05173312725809" name="Oakdale Park (Philadelphia)" state="PA">
+    <othername name="Oakdale Park" auth="1" beg="1882" curr="0" end="1882" />
+    <othername name="Oakdale Park (Philadelphia)" auth="1" beg="1882" curr="1" end="1882" />
+    <team teamID="PH4" beg="1882-05-02" end="1882-09-21" games="39" parknameBDB="PH4:Oakdale Park" />
+  </park>
+  <park parkID="PHI04" beg="1883-05-01" city="Philadelphia" country="US" end="1886-10-09" games="224" lat="39.98268420488962" lng="-75.17302818096445" name="Recreation Park (Philadelphia)" state="PA">
+    <othername name="Recreation Park" auth="1" beg="1883" curr="0" end="1886" />
+    <othername name="Recreation Park (Philadelphia)" auth="1" beg="1883" curr="1" end="1886" />
+    <team teamID="PHI" beg="1883-05-01" end="1886-10-09" games="224" parknameBDB="PHI:Recreation Park" />
+  </park>
+  <park parkID="PHI05" beg="1884-04-17" city="Philadelphia" country="US" end="1884-08-07" games="35" name="Keystone Park" state="PA">
+    <othername name="Keystone Park" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="PHU" beg="1884-04-17" end="1884-08-07" games="35" parknameBDB="PHU:" />
+  </park>
+  <park parkID="PHI06" beg="1887-04-30" city="Philadelphia" country="US" end="1894-08-04" games="531" lat="42.33910825538917" lng="-71.09279507170845" name="Huntingdon Grounds I" state="PA">
+    <comment parkID="PHI06" comment="Fire 8/6/1894" />
+    <comment parkID="PHI06" comment="No games 8/7/1894 to 8/17/1894" />
+    <othername name="Huntingdon Grounds I" auth="1" beg="1887" curr="1" end="1894" />
+    <othername name="Philadelphia Baseball Grounds" auth="0" />
+    <team teamID="PHI" beg="1887-04-30" end="1894-08-04" games="531" parknameBDB="PHI:Philadelphia Baseball Grounds" />
+  </park>
+  <park parkID="PHI07" beg="1890-04-30" city="Philadelphia" country="US" end="1890-09-17" games="65" name="Forepaugh Park" state="PA">
+    <othername name="Forepaugh Park" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="PHP" beg="1890-04-30" end="1890-09-17" games="65" parknameBDB="PHP:" />
+  </park>
+  <park parkID="PHI08" beg="1894-08-11" city="Philadelphia" country="US" end="1894-08-17" games="6" name="University of Penn. Athletic Field" state="PA">
+    <comment parkID="PHI08" comment="PHI played 6 games here as an alternate (neutral) site from 1894-08-11 until 1894-08-17: Fire at Huntington Street Grounds" />
+    <othername name="University of Penn. Athletic Field" auth="1" beg="1894" curr="1" end="1894" />
+    <team teamID="PHI" beg="1894-08-11" end="1894-08-17" games="6" neutralsite="1" />
+  </park>
+  <park parkID="PHI09" beg="1895-05-02" city="Philadelphia" country="US" end="1938-06-30" games="3218" lat="39.99321942610382" lng="-75.15558013401996" name="Baker Bowl" state="PA">
+    <comment parkID="PHI09" comment="CL4 played 9 games here as an alternate (neutral) site from 1898-07-29 until 1898-08-11" />
+    <othername name="Baker Bowl" auth="1" beg="1895" curr="1" end="1938" />
+    <team teamID="CL4" beg="1898-07-29" end="1898-08-11" games="9" neutralsite="1" />
+    <team teamID="PHI" beg="1895-05-02" end="1938-06-30" games="3209" parknameBDB="PHI:Baker Bowl" />
+  </park>
+  <park parkID="PHI10" beg="1901-04-26" city="Philadelphia" country="US" end="1908-10-03" games="599" lat="39.98008888537143" lng="-75.18130867535808" name="Columbia Park (Philadelphia)" state="PA">
+    <comment parkID="PHI10" comment="PHI played 16 games here as an alternate (neutral) site from 1903-08-20 until 1903-09-10: Serious structural accident at the Baker Bowl" />
+    <othername name="Columbia Park" auth="1" beg="1901" curr="0" end="1908" />
+    <othername name="Columbia Park (Philadelphia)" auth="1" beg="1901" curr="1" end="1908" />
+    <team teamID="PHA" beg="1901-04-26" end="1908-10-03" games="583" parknameBDB="PHA:Columbia Park" />
+    <team teamID="PHI" beg="1903-08-20" end="1903-09-10" games="16" neutralsite="1" />
+  </park>
+  <park parkID="PHI11" beg="1909-04-12" city="Philadelphia" country="US" end="1970-10-01" games="6055" lat="39.996071505" lng="-75.1651" name="Connie Mack Stadium" state="PA">
+    <comment parkID="PHI11" comment="PHI played 12 games here as an alternate (neutral) site from 1927-05-16 until 1927-05-28: Collapse of the RF grandstand at Baker Bowl" />
+    <othername name="Connie Mack Stadium" auth="1" beg="1954" curr="1" end="1970" />
+    <othername name="Shibe Park" auth="1" beg="1909" curr="0" end="1953" />
+    <team teamID="PHA" beg="1909-04-12" end="1954-09-19" games="3497" parknameBDB="PHA:Connie Mack Stadium" />
+    <team teamID="PHI" beg="1927-05-16" end="1970-10-01" games="2558" neutralsite="1" parknameBDB="PHI:Connie Mack Stadium" />
+  </park>
+  <park parkID="PHI12" beg="1971-04-10" city="Philadelphia" country="US" end="2003-09-28" games="2617" lat="39.90585192027404" lng="-75.16559721826575" name="Veterans Stadium" state="PA">
+    <othername name="Veterans Stadium" auth="1" beg="1971" curr="1" end="2003" />
+    <team teamID="PHI" beg="1971-04-10" end="2003-09-28" games="2617" parknameBDB="PHI:Veterans Stadium" />
+  </park>
+  <park parkID="PHI13" active="1" beg="2004-04-12" city="Philadelphia" country="US" end="NULL" extaddr="" games="243" href="http://phillies.mlb.com" lat="39.90596" lng="-75.16632" logofile="logo_phi_79x76.jpg" name="Citizens Bank Park" spanishurl="" state="PA" streetaddr="One Citizens Bank Way" tel="(215) 463-6000" url="phillies.com" zip="19148">
+    <othername name="Citizens Bank Park" auth="1" beg="2004" curr="1" end="NULL" />
+    <team teamID="PHI" beg="2004-04-12" end="NULL" games="243" parknameBDB="PHI:Citizens Bank Park" />
+    <team teamID="TOR" beg="2010-06-25" end="2010-06-25" games="3" />
+  </park>
+  <park parkID="PHI14" beg="1894-08-18" city="Philadelphia" country="US" end="1894-09-06" games="22" name="Huntingdon Grounds II" state="PA">
+    <othername name="Huntingdon Grounds II" auth="1" beg="1894" curr="1" end="1894" />
+    <team teamID="PHI" beg="1894-08-18" end="1894-09-06" games="22" />
+  </park>
+  <park parkID="PHO01" active="1" beg="1998-03-31" city="Phoenix" country="US" end="NULL" extaddr="" games="729" href="http://diamondbacks.mlb.com" lat="33.44526" lng="-112.06666" logofile="logo_ari_79x76.jpg" name="Chase Field" spanishurl="losdbacks.com" state="AZ" streetaddr="401 East Jefferson Street" tel="(602) 462-6500" url="dbacks.com" zip="85001">
+    <othername name="Bank One Ballpark" auth="1" beg="1998" curr="0" end="2005" />
+    <othername name="BOB" auth="0" />
+    <othername name="Chase Field" auth="1" beg="2006" curr="1" end="NULL" />
+    <team teamID="ARI" beg="1998-03-31" end="NULL" games="729" parknameBDB="ARI:Bank One Ballpark" />
+  </park>
+  <park parkID="PIT01" beg="1878-08-22" city="Pittsburgh" country="US" end="1878-08-24" games="3" name="Union Park" state="PA">
+    <comment parkID="PIT01" comment="IN1 played 3 games here as an alternate (neutral) site from 1878-08-22 until 1878-08-24" />
+    <comment parkID="PIT01" comment="PRO: 3 games" />
+    <othername name="Union Park" auth="1" beg="1878" curr="1" end="1878" />
+    <team teamID="IN1" beg="1878-08-22" end="1878-08-24" games="3" neutralsite="1" />
+  </park>
+  <park parkID="PIT02" beg="1882-05-10" city="Pittsburgh" country="US" end="1884-10-15" games="130" name="Exposition Park I" state="PA">
+    <comment parkID="PIT02" comment="CHU played 5 games here as an alternate (neutral) site from 1884-08-25 until 1884-08-30: Team moved from Chicago and played subsequent home games in Pittsburgh" />
+    <comment parkID="PIT02" comment="PT1:1882-1883" />
+    <comment parkID="PIT02" comment="PTU: 8/25 to 8/30/1884" />
+    <othername name="Exposition Park I" auth="1" beg="1882" curr="1" end="1884" />
+    <othername name="Lower Field" auth="0" />
+    <team teamID="CHU" beg="1884-08-25" end="1884-08-30" games="5" neutralsite="1" />
+    <team teamID="PT1" beg="1882-05-10" end="1884-10-15" games="125" parknameBDB="PT1:Exposition Park I" />
+  </park>
+  <park parkID="PIT03" beg="1883-05-01" city="Pittsburgh" country="US" end="1883-06-09" games="17" name="Exposition Park II" state="PA">
+    <othername name="Exposition Park II" auth="1" beg="1883" curr="1" end="1883" />
+    <othername name="Upper Field" auth="0" />
+    <team teamID="PT1" beg="1883-05-01" end="1883-06-09" games="17" />
+  </park>
+  <park parkID="PIT04" beg="1885-04-28" city="Pittsburgh" country="US" end="1890-09-30" games="372" name="Recreation Park (Pittsburgh)" state="PA">
+    <othername name="Recreation Park" auth="1" beg="1884" curr="0" end="1890" />
+    <othername name="Recreation Park (Pittsburgh)" auth="1" beg="1884" curr="1" end="1890" />
+    <team teamID="PIT" beg="1887-04-30" end="1890-09-30" games="242" parknameBDB="PIT:Recreation Park" />
+    <team teamID="PT1" beg="1885-04-28" end="1886-10-12" games="130" parknameBDB="PT1:Recreation Park" />
+  </park>
+  <park parkID="PIT05" beg="1890-04-19" city="Pittsburgh" country="US" end="1915-10-02" games="1570" name="Exposition Park III" state="PA">
+    <comment parkID="PIT05" comment="PHI played 2 games here as an alternate (neutral) site from 1892-06-30 until 1892-06-30" />
+    <othername name="Exposition Park" auth="0" />
+    <othername name="Exposition Park III" auth="1" beg="1890" curr="1" end="1915" />
+    <team teamID="PHI" beg="1892-06-30" end="1892-06-30" games="2" neutralsite="1" />
+    <team teamID="PIT" beg="1891-04-22" end="1909-06-29" games="1351" parknameBDB="PIT:Exposition Park" />
+    <team teamID="PTF" beg="1914-04-14" end="1915-10-02" games="152" parknameBDB="PTF:" />
+    <team teamID="PTP" beg="1890-04-19" end="1890-10-04" games="65" parknameBDB="PTP:" />
+  </park>
+  <park parkID="PIT06" beg="1909-06-30" city="Pittsburgh" country="US" end="1970-06-28" games="4760" lat="40.44136489096679" lng="-79.95479505520613" name="Forbes Field" state="PA">
+    <othername name="Forbes Field" auth="1" beg="1909" curr="1" end="1970" />
+    <team teamID="PIT" beg="1909-06-30" end="1970-06-28" games="4760" parknameBDB="PIT:Forbes Field" />
+  </park>
+  <park parkID="PIT07" beg="1970-07-16" city="Pittsburgh" country="US" end="2000-10-01" games="2407" lat="40.44718938020278" lng="-80.00648408124228" name="Three Rivers Stadium" state="PA">
+    <othername name="Three Rivers Stadium" auth="1" beg="1970" curr="1" end="2000" />
+    <team teamID="PIT" beg="1970-07-16" end="2000-10-01" games="2407" parknameBDB="PIT:Three Rivers Stadium" />
+  </park>
+  <park parkID="PIT08" active="1" beg="2001-04-09" city="Pittsburgh" country="US" end="NULL" extaddr="" games="484" href="http://pirates.mlb.com" lat="40.44684" lng="-80.0056" logofile="logo_pit_79x76.jpg" name="PNC Park" spanishurl="" state="PA" streetaddr="115 Federal Street" tel="(412) 323-5000" url="pirates.com" zip="15212">
+    <othername name="PNC Park" auth="1" beg="2001" curr="1" end="NULL" />
+    <team teamID="PIT" beg="2001-04-09" end="NULL" games="484" parknameBDB="PIT:PNC Park" />
+  </park>
+  <park parkID="PRO01" beg="1875-06-12" city="Providence" country="US" end="1875-06-22" games="2" name="Adelaide Avenue Grounds" state="RI">
+    <comment parkID="PRO01" comment="BS1 played 1 games here as an alternate (neutral) site from 1875-06-22 until 1875-06-22" />
+    <comment parkID="PRO01" comment="HR1 played 1 games here as an alternate (neutral) site from 1875-06-12 until 1875-06-12" />
+    <othername name="Adelaide Avenue Grounds" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="BS1" beg="1875-06-22" end="1875-06-22" games="1" neutralsite="1" />
+    <team teamID="HR1" beg="1875-06-12" end="1875-06-12" games="1" neutralsite="1" />
+  </park>
+  <park parkID="PRO02" beg="1878-05-01" city="Providence" country="US" end="1885-09-09" games="357" lat="41.81220555582305" lng="-71.43564781251332" name="Messer Street Grounds" state="RI">
+    <othername name="Messer Street Grounds" auth="1" beg="1878" curr="1" end="1885" />
+    <team teamID="PRO" beg="1878-05-01" end="1885-09-09" games="357" parknameBDB="PRO:Messer Street Grounds" />
+  </park>
+  <park parkID="RCK01" beg="1871-05-06" city="Rockford" country="US" end="1871-08-03" games="6" name="Agricultural Society Fair Grounds" state="IL">
+    <othername name="Agricultural Society Fair Grounds" auth="1" beg="1871" curr="1" end="1871" />
+    <team teamID="RC1" beg="1871-05-06" end="1871-08-03" games="6" parknameBDB="RC1:Agricultural Society Fair Grounds" />
+  </park>
+  <park parkID="RIC01" beg="1875-04-29" city="Richmond" country="US" end="1875-05-01" games="2" name="Richmond Fair Grounds" state="VA">
+    <comment parkID="RIC01" comment="WS6 played 2 games here as an alternate (neutral) site from 1875-04-29 until 1875-05-01" />
+    <othername name="Richmond Fair Grounds" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="WS6" beg="1875-04-29" end="1875-05-01" games="2" neutralsite="1" />
+  </park>
+  <park parkID="RIC02" beg="1884-08-05" city="Richmond" country="US" end="1884-10-15" games="22" name="Allens Pasture" state="VA">
+    <othername name="Allen Pasture" auth="0" />
+    <othername name="Allens Pasture" auth="1" beg="1884" curr="1" end="1884" />
+    <othername name="Virginia Base-Ball Park" auth="0" />
+    <team teamID="RIC" beg="1884-08-05" end="1884-10-15" games="22" parknameBDB="RIC:Allen Pasture" />
+  </park>
+  <park parkID="ROC01" beg="1890-04-28" city="Rochester" country="US" end="1890-10-04" games="57" name="Culver Field I" state="NY">
+    <othername name="Culver Field I" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="RC2" beg="1890-04-28" end="1890-10-04" games="57" parknameBDB="RC2:Culver Field I" />
+  </park>
+  <park parkID="ROC02" beg="1898-08-27" city="Rochester" country="US" end="1898-08-29" games="2" name="Culver Field II" state="NY">
+    <comment parkID="ROC02" comment="CL4 played 2 games here as an alternate (neutral) site from 1898-08-27 until 1898-08-29" />
+    <othername name="Culver Field II" auth="1" beg="1898" curr="1" end="1898" />
+    <team teamID="CL4" beg="1898-08-27" end="1898-08-29" games="2" neutralsite="1" />
+  </park>
+  <park parkID="ROC03" beg="1898-08-28" city="Rochester" country="US" end="1898-08-28" games="1" name="Ontario Beach Grounds" state="NY">
+    <comment parkID="ROC03" comment="CL4 played 1 games here as an alternate (neutral) site from 1898-08-28 until 1898-08-28" />
+    <othername name="Ontario Beach Grounds" auth="1" beg="1898" curr="1" end="1898" />
+    <team teamID="CL4" beg="1898-08-28" end="1898-08-28" games="1" neutralsite="1" />
+  </park>
+  <park parkID="SAI01" beg="1886-04-22" city="Staten Island" country="US" end="1889-06-14" games="150" lat="40.59026080884598" lng="-74.14344532318071" name="St. George Cricket Grounds" state="NY">
+    <comment parkID="SAI01" comment="NY1 played 23 games here as an alternate (neutral) site from 1889-04-29 until 1889-06-14" />
+    <othername name="St. George Cricket Grounds" auth="1" beg="1886" curr="1" end="1889" />
+    <team teamID="NY1" beg="1889-04-29" end="1889-06-14" games="23" neutralsite="1" />
+    <team teamID="NY4" beg="1886-04-22" end="1887-10-10" games="127" parknameBDB="NY4:St. George Cricket Grounds" />
+  </park>
+  <park parkID="SAN01" beg="1969-04-08" city="San Diego" country="US" end="2003-09-28" games="2768" lat="32.78170676945182" lng="-117.1196165573225" name="Qualcomm Stadium" state="CA">
+    <othername name="Jack Murphy Stadium" auth="1" beg="1981" curr="0" end="1996" />
+    <othername name="Qualcomm Stadium" auth="1" beg="1997" curr="1" end="2003" />
+    <othername name="San Diego Stadium" auth="1" beg="1969" curr="0" end="1980" />
+    <team teamID="SDN" beg="1969-04-08" end="2003-09-28" games="2768" parknameBDB="SDN:Qualcomm Stadium" />
+  </park>
+  <park parkID="SAN02" active="1" beg="2004-04-08" city="San Diego" country="US" end="NULL" extaddr="" games="243" href="http://padres.mlb.com" lat="32.70724" lng="-117.15708" logofile="logo_sd_79x76.jpg" name="PetCo Park" spanishurl="padresbeisbol.com" state="CA" streetaddr="100 Park Boulevard" tel="(619) 795-5000" url="padres.com" zip="92101">
+    <othername name="PETCO Park" auth="1" beg="2004" curr="1" end="NULL" />
+    <team teamID="SDN" beg="2004-04-08" end="NULL" games="243" parknameBDB="SDN:Petco Park" />
+  </park>
+  <park parkID="SEA01" beg="1969-04-11" city="Seattle" country="US" end="1969-10-02" games="82" lat="47.57895915115981" lng="-122.2963792137916" name="Sick's Stadium" state="WA">
+    <othername name="Sicks Stadium" auth="1" beg="1969" curr="1" end="1969" />
+    <team teamID="SE1" beg="1969-04-11" end="1969-10-02" games="82" parknameBDB="SE1:Sicks Stadium" />
+  </park>
+  <park parkID="SEA02" beg="1977-04-06" city="Seattle" country="US" end="1999-06-27" games="1755" lat="47.59418135010773" lng="-122.330028932739" name="Kingdome" state="WA">
+    <othername name="Kingdome" auth="1" beg="1977" curr="1" end="1999" />
+    <team teamID="SEA" beg="1977-04-06" end="1999-06-27" games="1755" parknameBDB="SEA:Kingdome" />
+  </park>
+  <park parkID="SEA03" active="1" beg="1999-07-15" city="Seattle" country="US" end="NULL" extaddr="" games="610" href="http://mariners.mlb.com" lat="47.59195" lng="-122.33178" logofile="logo_sea_79x76.jpg" name="Safeco Field" spanishurl="" state="WA" streetaddr="P.O. Box 4100" tel="(206) 346-4000" url="seattlemariners.com" zip="98104">
+    <othername name="Safeco Field" auth="1" beg="1999" curr="1" end="NULL" />
+    <team teamID="SEA" beg="1999-07-15" end="NULL" games="610" parknameBDB="SEA:Safeco Field" />
+    <team teamID="FLO" beg="2011-06-24" end="2011-06-26" games="3" />
+  </park>
+  <park parkID="SFO01" beg="1958-04-15" city="San Francisco" country="US" end="1959-09-20" games="154" lat="37.76687499391093" lng="-122.4091530117374" name="Seals Stadium" state="CA">
+    <othername name="Seals Stadium" auth="1" beg="1958" curr="1" end="1959" />
+    <team teamID="SFN" beg="1958-04-15" end="1959-09-20" games="154" parknameBDB="SFN:Seals Stadium" />
+  </park>
+  <park parkID="SFO02" beg="1960-04-12" city="San Francisco" country="US" end="1999-09-30" games="3173" lat="37.71277237853017" lng="-122.3875426193934" name="3Com Park at Candlestick Point" state="CA">
+    <othername name="3Com Park" auth="0" />
+    <othername name="3Com Park at Candlestick Point" auth="1" beg="1996" curr="1" end="1999" />
+    <othername name="Candlestick Park" auth="1" beg="1960" curr="0" end="1995" />
+    <team teamID="SFN" beg="1960-04-12" end="1999-09-30" games="3173" parknameBDB="SFN:3Com Park" />
+  </park>
+  <park parkID="SFO03" active="1" beg="2000-04-11" city="San Francisco" country="US" end="NULL" extaddr="" games="568" href="http://giants.mlb.com" lat="37.77866" lng="-122.38845" logofile="logo_sf_79x76.jpg" name="AT&amp;T Park" spanishurl="sfgigantes.com" state="CA" streetaddr="24 Willie Mays Plaza" tel="(415) 972-2000" url="sfgiants.com" zip="94107">
+    <othername name="AT&amp;T Park" auth="1" beg="2006" curr="1" end="NULL" />
+    <othername name="PacBell Park" auth="0" />
+    <othername name="Pacific Bell Park" auth="1" beg="2000" curr="0" end="2003" />
+    <othername name="SBC Park" auth="1" beg="2004" curr="0" end="2005" />
+    <team teamID="SFN" beg="2000-04-11" end="NULL" games="568" parknameBDB="SFN:AT&amp;T Park" />
+    <team teamID="CIN" beg="2013-07-23" end="2013-07-23" games="568" parknameBDB="SFN:AT&amp;T Park" />
+  </park>
+  <park parkID="SJU01" beg="2001-04-01" city="San Juan" country="US" end="2004-07-11" games="44" lat="18.41659004640432" lng="-66.07276961162016" name="Estadio Hiram Bithorn" state="PR">
+    <comment parkID="SJU01" comment="MON played 43 games here as an alternate (neutral) site from 2003-04-11 until 2004-07-11: Alternate home site for Expos" />
+    <comment parkID="SJU01" comment="TOR played 1 games here as an alternate (neutral) site from 2001-04-01 until 2001-04-01: Marketing move by Major League Baseball" />
+    <othername name="Estadio Hiram Bithorn" auth="1" beg="2001" curr="1" end="2004" />
+    <othername name="Hiram Bithorn Stadium" auth="0" />
+    <team teamID="MON" beg="2003-04-11" end="2004-07-11" games="43" neutralsite="1" parknameBDB="MON:Hiram Bithorn Stadium" />
+    <team teamID="TOR" beg="2001-04-01" end="2001-04-01" games="1" neutralsite="1" />
+    <team teamID="FLO" beg="2010-06-28" end="2010-06-30" games="3" neutralsite="1" />
+  </park>
+  <park parkID="SPR01" beg="1872-07-23" city="Springfield" country="US" end="1875-05-14" games="3" name="Hampden Park Race Track" state="MA">
+    <comment parkID="SPR01" comment="BS1 played 2 games here as an alternate (neutral) site from 1873-07-16 until 1875-05-14" />
+    <comment parkID="SPR01" comment="MID played 1 games here as an alternate (neutral) site from 1872-07-23 until 1872-07-23" />
+    <comment parkID="SPR01" comment="TRO:7/23/1872" />
+    <othername name="Hampden Park Race Track" auth="1" beg="1872" curr="1" end="1875" />
+    <othername name="Springfield Track" auth="0" />
+    <team teamID="BS1" beg="1873-07-16" end="1875-05-14" games="2" neutralsite="1" />
+    <team teamID="MID" beg="1872-07-23" end="1872-07-23" games="1" neutralsite="1" />
+  </park>
+  <park parkID="STL01" beg="1875-05-04" city="Saint Louis" country="US" end="1875-07-04" games="14" name="Red Stockings Base-Ball Park" state="MO">
+    <othername name="Red Stocking Base Ball Park" auth="0" />
+    <othername name="Red Stocking Baseball Park" auth="0" />
+    <othername name="Red Stockings Base-Ball Park" auth="1" beg="1875" curr="1" end="1875" />
+    <team teamID="SL1" beg="1875-05-04" end="1875-07-04" games="14" parknameBDB="SL1:Red Stocking Baseball Park" />
+  </park>
+  <park parkID="STL02" beg="1875-05-06" city="Saint Louis" country="US" end="1878-07-13" games="97" name="Grand Avenue Park" state="MO">
+    <comment parkID="STL02" comment="IN1 played 3 games here as an alternate (neutral) site from 1878-07-09 until 1878-07-13" />
+    <othername name="Grand Avenue Park" auth="1" beg="1875" curr="1" end="1878" />
+    <othername name="Sportsman's Park I" auth="0" />
+    <team teamID="IN1" beg="1878-07-09" end="1878-07-13" games="3" neutralsite="1" />
+    <team teamID="SL2" beg="1875-05-06" end="1875-10-08" games="34" parknameBDB="SL2:Grand Avenue Park" />
+    <team teamID="SL3" beg="1876-05-05" end="1877-10-06" games="60" parknameBDB="SL3:Sportsman's Park I" />
+  </park>
+  <park parkID="STL03" beg="1882-05-02" city="Saint Louis" country="US" end="1892-10-13" games="716" name="Sportsman's Park I" state="MO">
+    <othername name="Sportsman's Park I" auth="1" beg="1882" curr="1" end="1892" />
+    <team teamID="SL4" beg="1882-05-02" end="1891-10-04" games="644" parknameBDB="SL4:Sportsman's Park I" />
+    <team teamID="SLN" beg="1892-04-12" end="1892-10-13" games="72" parknameBDB="SLN:Sportsman's Park I" />
+  </park>
+  <park parkID="STL04" beg="1884-04-20" city="Saint Louis" country="US" end="1886-09-23" games="176" lat="38.6713307550417" lng="-90.21928502071027" name="Union Grounds" state="MO">
+    <othername name="Sportsman's Park I" auth="0" />
+    <othername name="Union Grounds" auth="1" beg="1884" curr="1" end="1886" />
+    <othername name="Union Grounds (Saint Louis)" auth="1" beg="1884" curr="0" end="1886" />
+    <team teamID="SL5" beg="1885-04-30" end="1886-09-23" games="121" parknameBDB="SL5:Sportsman's Park I" />
+    <team teamID="SLU" beg="1884-04-20" end="1884-10-19" games="55" parknameBDB="SLU:" />
+  </park>
+  <park parkID="STL05" beg="1893-04-27" city="Saint Louis" country="US" end="1920-06-06" games="2021" lat="38.66241093248001" lng="-90.22099936562806" name="Robison Field" state="MO">
+    <comment parkID="STL05" comment="CL4 played 3 games here as an alternate (neutral) site from 1898-09-28 until 1899-09-24" />
+    <othername name="Robison Field" auth="1" beg="1893" curr="1" end="1920" />
+    <team teamID="CL4" beg="1898-09-28" end="1899-09-24" games="3" neutralsite="1" />
+    <team teamID="SLN" beg="1893-04-27" end="1920-06-06" games="2018" parknameBDB="SLN:Robison Field" />
+  </park>
+  <park parkID="STL06" beg="1902-04-23" city="Saint Louis" country="US" end="1908-10-06" games="530" lat="38.65748801187019" lng="-90.21879052122364" name="Sportsman's Park II" state="MO">
+    <othername name="Sportsman's Park II" auth="1" beg="1902" curr="1" end="1908" />
+    <othername name="Sportsman's Park III" auth="0" />
+    <team teamID="SLA" beg="1902-04-23" end="1908-10-06" games="530" parknameBDB="SLA:Sportsman's Park III" />
+  </park>
+  <park parkID="STL07" beg="1909-04-14" city="Saint Louis" country="US" end="1966-05-08" games="7021" lat="38.65748801187019" lng="-90.21879052122364" name="Busch Stadium I" state="MO">
+    <othername name="Busch Stadium I" auth="1" beg="1953" curr="1" end="1966" />
+    <othername name="Sportsman's Park III" auth="1" beg="1909" curr="0" end="1952" />
+    <othername name="Sportsman's Park IV" auth="0" />
+    <team teamID="SLA" beg="1909-04-14" end="1953-09-27" games="3451" parknameBDB="SLA:Sportsman's Park IV" />
+    <team teamID="SLN" beg="1920-07-01" end="1966-05-08" games="3570" parknameBDB="SLN:Sportsman's Park IV" />
+  </park>
+  <park parkID="STL08" beg="1914-04-16" city="Saint Louis" country="US" end="1915-10-03" games="158" name="Handlan's Park" state="MO">
+    <othername name="Federal League Park" auth="0" />
+    <othername name="Handlan's Park" auth="1" beg="1914" curr="1" end="1915" />
+    <team teamID="SLF" beg="1914-04-16" end="1915-10-03" games="158" parknameBDB="SLF:" />
+  </park>
+  <park parkID="STL09" beg="1966-05-12" city="Saint Louis" country="US" end="2005-10-02" games="3174" lat="38.62336429983333" lng="-90.19267894978417" name="Busch Stadium II" state="MO">
+    <othername name="Busch Stadium II" auth="1" beg="1966" curr="1" end="2005" />
+    <team teamID="SLN" beg="1966-05-12" end="2005-10-02" games="3174" parknameBDB="SLN:Busch Stadium II" />
+  </park>
+  <park parkID="STL10" active="1" beg="2006-04-10" city="Saint Louis" country="US" end="NULL" extaddr="" games="80" href="http://cardinals.mlb.com" lat="38.62378" lng="-90.19249000000001" logofile="logo_stl_79x76.jpg" name="Busch Stadium III" spanishurl="" state="MO" streetaddr="700 Clark Street" tel="(314) 345-9600" url="stlcardinals.com" zip="63102">
+    <othername name="Busch Stadium" auth="0" />
+    <othername name="Busch Stadium III" auth="1" beg="2006" curr="1" end="NULL" />
+    <team teamID="SLN" beg="2006-04-10" end="NULL" games="80" parknameBDB="SLN:Busch Stadium III" />
+  </park>
+  <park parkID="STP01" active="1" beg="1998-03-31" city="Saint Petersburg" country="US" end="NULL" extaddr="" games="725" href="http://devilrays.mlb.com" lat="27.76799" lng="-82.65333" logofile="logo_tb_79x76.jpg" name="Tropicana Field" spanishurl="raysbeisbol.com" state="FL" streetaddr="One Tropicana Drive" tel="(727) 825-3137" url="devilrays.com" zip="33705">
+    <othername name="Tropicana Field" auth="1" beg="1998" curr="1" end="NULL" />
+    <team teamID="TBA" beg="1998-03-31" end="NULL" games="725" parknameBDB="TBA:Tropicana Field" />
+  </park>
+  <park parkID="SYR01" beg="1879-05-28" city="Syracuse" country="US" end="1879-09-10" games="34" lat="43.04802439189008" lng="-76.14834241651069" name="Star Park I" state="NY">
+    <othername name="Newell Park" auth="0" />
+    <othername name="Star Park I" auth="1" beg="1879" curr="1" end="1879" />
+    <team teamID="SR1" beg="1879-05-28" end="1879-09-10" games="34" parknameBDB="SR1:Newell Park" />
+  </park>
+  <park parkID="SYR02" beg="1890-04-28" city="Syracuse" country="US" end="1890-10-04" games="54" name="Star Park II" state="NY">
+    <othername name="Star Park II" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="SR2" beg="1890-04-28" end="1890-10-04" games="54" parknameBDB="SR2:Star Park II" />
+  </park>
+  <park parkID="SYR03" beg="1890-08-03" city="Syracuse" country="US" end="1890-08-03" games="1" name="Iron Pier" state="NY">
+    <comment parkID="SYR03" comment="No game ever played here: Forfeit by LS2 to SR2" />
+    <comment parkID="SYR03" comment="SR2 played 1 games here as an alternate (neutral) site from 1890-08-03 until 1890-08-03: Alternate park for Sunday and/or holiday games" />
+    <othername name="Iron Pier" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="SR2" beg="1890-08-03" end="1890-08-03" games="1" neutralsite="1" />
+  </park>
+  <park parkID="SYR04" beg="1879-05-31" city="Syracuse" country="US" end="1879-08-09" name="Lakeside Park" state="NY">
+    <comment parkID="SYR04" comment="SR1: Sundays" />
+    <comment parkID="SYR04" comment="stadium only found in old parkcodes.txt, data suspect" />
+    <othername name="Lakeside Park" auth="1" curr="1" />
+    <team></team>
+  </park>
+  <park parkID="THR01" beg="1890-05-18" city="Clay" country="US" end="1890-07-20" games="5" lat="43.20046509743499" lng="-76.2783593651379" name="Three Rivers Park" state="NY" zip="13041">
+    <comment parkID="THR01" comment="SR2 played 5 games here as an alternate (neutral) site from 1890-05-25 until 1890-07-20: Alternate park for Sunday and/or holiday games" />
+    <othername name="Three Rivers Park" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="SR2" beg="1890-05-18" end="1890-07-20" games="5" neutralsite="1" />
+  </park>
+  <park parkID="TOK01" beg="2000-03-29" city="Tokyo" country="JP" end="2004-03-31" games="4" lat="35.70531270006167" lng="139.7518475583807" name="Tokyo Dome" state="TK">
+    <comment parkID="TOK01" comment="CHN played 1 games here as an alternate (neutral) site from 2000-03-30 until 2000-03-30: Marketing move by Major League Baseball" />
+    <comment parkID="TOK01" comment="NYN played 1 games here as an alternate (neutral) site from 2000-03-29 until 2000-03-29: Marketing move by Major League Baseball" />
+    <comment parkID="TOK01" comment="TBA played 2 games here as an alternate (neutral) site from 2004-03-30 until 2004-03-31: Marketing move by Major League Baseball" />
+    <othername name="Tokyo Dome" auth="1" beg="2000" curr="1" end="2004" />
+    <team teamID="CHN" beg="2000-03-30" end="2000-03-30" games="1" neutralsite="1" />
+    <team teamID="NYN" beg="2000-03-29" end="2000-03-29" games="1" neutralsite="1" />
+    <team teamID="TBA" beg="2004-03-30" end="2004-03-31" games="2" neutralsite="1" />
+    <team teamID="OAK" beg="2008-03-25" end="2008-03-26" games="2" neutralsite="1" />
+    <team teamID="OAK" beg="2012-03-28" end="2012-03-29" games="2" neutralsite="1" />
+  </park>
+  <park parkID="TOL01" beg="1884-05-14" city="Toledo" country="US" end="1884-09-24" games="54" name="League Park (Toledo)" state="OH">
+    <othername name="League Park" auth="1" beg="1884" curr="0" end="1884" />
+    <othername name="League Park (Toledo)" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="TL1" beg="1884-05-14" end="1884-09-24" games="54" parknameBDB="TL1:League Park" />
+  </park>
+  <park parkID="TOL02" beg="1884-09-13" city="Toledo" country="US" end="1884-09-13" games="1" name="Tri-State Fair Grounds" state="OH">
+    <othername name="Tri-State Fair Grounds" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="TL1" beg="1884-09-13" end="1884-09-13" games="1" />
+  </park>
+  <park parkID="TOL03" beg="1890-05-01" city="Toledo" country="US" end="1890-10-02" games="68" name="Speranza Park" state="OH">
+    <othername name="Speranza Park" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="TL2" beg="1890-05-01" end="1890-10-02" games="68" parknameBDB="TL2:Speranza Park" />
+  </park>
+  <park parkID="TOL04" beg="1903-06-28" city="Toledo" country="US" end="1903-08-16" games="2" name="Armory Park" state="OH">
+    <comment parkID="TOL04" comment="DET played 2 games here as an alternate (neutral) site from 1903-06-28 until 1903-08-16: Alternate park for Sunday and/or holiday games" />
+    <othername name="Armory Park" auth="1" beg="1903" curr="1" end="1903" />
+    <team teamID="DET" beg="1903-06-28" end="1903-08-16" games="2" neutralsite="1" />
+  </park>
+  <park parkID="TOR01" beg="1977-04-07" city="Toronto" country="CA" end="1989-05-28" games="968" lat="43.63277956627864" lng="-79.41861037770211" name="Exhibition Stadium" state="ON">
+    <comment parkID="TOR01" comment="First game: snow covering outfield" />
+    <othername name="Exhibition Stadium" auth="1" beg="1977" curr="1" end="1989" />
+    <team teamID="TOR" beg="1977-04-07" end="1989-05-28" games="968" parknameBDB="TOR:Exhibition Stadium" />
+  </park>
+  <park parkID="TOR02" active="1" beg="1989-06-05" city="Toronto" country="CA" end="NULL" extaddr="Suite 3200" games="1401" href="http://bluejays.mlb.com" lat="43.6414" lng="-79.38916999999999" logofile="logo_tor_79x76.jpg" name="Rogers Centre" spanishurl="" state="ON" streetaddr="1 Blue Jays Way" tel="(416) 341-1000" url="bluejays.com" zip="M5V1J1">
+    <othername name="Rogers Centre" auth="1" beg="2005" curr="1" end="NULL" />
+    <othername name="Skydome" auth="1" beg="1989" curr="0" end="2004" />
+    <team teamID="TOR" beg="1989-06-05" end="NULL" games="1401" parknameBDB="TOR:Rogers Centre" />
+  </park>
+  <park parkID="TRO01" beg="1871-05-09" city="Troy" country="US" end="1881-09-30" games="108" name="Haymakers' Grounds" state="NY">
+    <othername name="Haymakers' Grounds" auth="1" beg="1871" curr="1" end="1881" />
+    <team teamID="TRN" beg="1880-05-18" end="1881-09-30" games="81" parknameBDB="TRN:Haymakers' Grounds" />
+    <team teamID="TRO" beg="1871-05-09" end="1872-06-06" games="27" parknameBDB="TRO:Haymakers' Grounds" />
+  </park>
+  <park parkID="TRO02" beg="1879-05-28" city="Troy" country="US" end="1882-05-30" games="42" name="Putnam Grounds" state="NY">
+    <comment parkID="TRO02" comment="TRN played 1 games here as an alternate (neutral) site from 1882-05-30 until 1882-05-30" />
+    <othername name="Putnam Grounds" auth="1" beg="1879" curr="1" end="1882" />
+    <team teamID="TRN" beg="1879-05-28" end="1882-05-30" games="42" neutralsite="1" parknameBDB="TRN:Putnam Grounds" />
+  </park>
+  <park parkID="WAR01" beg="1903-09-06" city="Warwick" country="US" end="1903-09-06" games="1" name="Rocky Point Park" state="RI">
+    <comment parkID="WAR01" comment="BSN played 1 games here as an alternate (neutral) site from 1903-09-06 until 1903-09-06: Alternate park for Sunday and/or holiday games" />
+    <comment parkID="WAR01" comment="outfield surrounded by ocean" />
+    <othername name="Rocky Point Park" auth="1" beg="1903" curr="1" end="1903" />
+    <team teamID="BSN" beg="1903-09-06" end="1903-09-06" games="1" neutralsite="1" />
+  </park>
+  <park parkID="WAS01" beg="1871-05-05" city="Washington" country="US" end="1875-06-08" games="47" name="Olympic Grounds" state="DC">
+    <comment parkID="WAS01" comment="BL1 played 1 games here as an alternate (neutral) site from 1873-05-14 until 1873-05-14" />
+    <comment parkID="WAS01" comment="WS5 played 1 games here as an alternate (neutral) site from 1873-05-14 until 1873-05-14" />
+    <othername name="Olympic Grounds" auth="1" beg="1871" curr="1" end="1875" />
+    <othername name="Olympics Grounds" auth="0" />
+    <team teamID="BL1" beg="1873-05-14" end="1873-05-14" games="1" neutralsite="1" />
+    <team teamID="WS3" beg="1871-05-05" end="1872-05-24" games="19" parknameBDB="WS3:Olympics Grounds" />
+    <team teamID="WS5" beg="1873-04-15" end="1873-10-23" games="18" neutralsite="1" parknameBDB="WS5:Olympics Grounds" />
+    <team teamID="WS6" beg="1875-04-26" end="1875-06-08" games="9" parknameBDB="WS6:Olympics Grounds" />
+  </park>
+  <park parkID="WAS02" beg="1872-04-20" city="Washington" country="US" end="1872-05-25" games="7" name="National Grounds" state="DC">
+    <othername name="National Grounds" auth="1" beg="1872" curr="1" end="1872" />
+    <othername name="Nationals Grounds" auth="0" />
+    <team teamID="WS4" beg="1872-04-20" end="1872-05-25" games="7" parknameBDB="WS4:Nationals Grounds" />
+  </park>
+  <park parkID="WAS03" beg="1884-04-18" city="Washington" country="US" end="1884-09-25" games="65" name="Capitol Grounds" state="DC">
+    <othername name="Capitol Grounds" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="WSU" beg="1884-04-18" end="1884-09-25" games="65" parknameBDB="WSU:" />
+  </park>
+  <park parkID="WAS04" beg="1884-05-01" city="Washington" country="US" end="1884-08-02" games="30" name="Athletic Park (Washington)" state="DC">
+    <othername name="Athletic Park" auth="1" beg="1884" curr="0" end="1884" />
+    <othername name="Athletic Park (Washington)" auth="1" beg="1884" curr="1" end="1884" />
+    <team teamID="WS7" beg="1884-05-01" end="1884-08-02" games="30" parknameBDB="WS7:Athletic Park" />
+  </park>
+  <park parkID="WAS05" beg="1886-04-29" city="Washington" country="US" end="1889-09-21" games="250" lat="38.89728435100093" lng="-77.00531903599924" name="Swampoodle Grounds" state="DC">
+    <othername name="Swampdoodle Grounds" auth="0" />
+    <othername name="Swampoodle Grounds" auth="1" beg="1886" curr="1" end="1889" />
+    <team teamID="WS8" beg="1886-04-29" end="1889-09-21" games="250" parknameBDB="WS8:Swampdoodle Grounds" />
+  </park>
+  <park parkID="WAS06" beg="1891-04-13" city="Washington" country="US" end="1899-10-14" games="617" lat="38.91758013940865" lng="-77.01739995397273" name="Boundary Field" state="DC">
+    <othername name="Boundary Field" auth="1" beg="1891" curr="1" end="1899" />
+    <team teamID="WS9" beg="1891-04-13" end="1891-10-06" games="72" parknameBDB="WS9:Boundary Field" />
+    <team teamID="WSN" beg="1892-04-12" end="1899-10-14" games="545" parknameBDB="WSN:Boundary Field" />
+  </park>
+  <park parkID="WAS07" beg="1901-04-29" city="Washington" country="US" end="1903-09-28" games="207" name="American League Park I" state="DC">
+    <comment parkID="WAS07" comment="First PA announcer (1902)" />
+    <othername name="American League Park I" auth="1" beg="1901" curr="1" end="1903" />
+    <team teamID="WS1" beg="1901-04-29" end="1903-09-28" games="207" parknameBDB="WS1:American League Park I" />
+  </park>
+  <park parkID="WAS08" beg="1904-04-14" city="Washington" country="US" end="1910-10-06" games="537" name="American League Park II" state="DC">
+    <othername name="American League Park II" auth="1" beg="1904" curr="1" end="1910" />
+    <team teamID="WS1" beg="1904-04-14" end="1910-10-06" games="537" parknameBDB="WS1:American League Park II" />
+  </park>
+  <park parkID="WAS09" beg="1911-04-12" city="Washington" country="US" end="1961-09-21" games="3945" lat="38.91687159834213" lng="-77.0175931457341" name="Griffith Stadium" state="DC">
+    <othername name="Griffith Stadium" auth="1" beg="1911" curr="1" end="1961" />
+    <othername name="Griffith Stadium I" auth="0" />
+    <othername name="Griffith Stadium II" auth="0" />
+    <team teamID="WS1" beg="1911-04-12" end="1960-10-02" games="3866" parknameBDB="WS1:Griffith Stadium II" />
+    <team teamID="WS2" beg="1961-04-10" end="1961-09-21" games="79" parknameBDB="WS2:Griffith Stadium II" />
+  </park>
+  <park parkID="WAS10" active="0" beg="1962-04-09" city="Washington" country="US" end="2007-09-23" extaddr="" games="966" href="http://nationals.mlb.com" lat="38.88989" lng="-76.97178" logofile="logo_was_79x76.jpg" name="Robert F. Kennedy Stadium" spanishurl="" state="DC" streetaddr="2400 East Capitol Street, SE" tel="(202) 349-0400" url="nationals.com" zip="20003">
+    <othername name="D.C. Stadium" auth="1" beg="1962" curr="0" end="1968" />
+    <othername name="RFK Stadium" auth="0" />
+    <othername name="Robert F. Kennedy Stadium" auth="1" beg="1969" curr="1" end="NULL" />
+    <team teamID="WAS" beg="2005-04-14" end="2007-09-23" games="162" parknameBDB="WAS:R.F.K. Stadium" />
+    <team teamID="WS2" beg="1962-04-09" end="1971-09-30" games="804" parknameBDB="WS2:R.F.K. Stadium" />
+  </park>
+  <park parkID="WAS11" active="1" beg="2008-03-30" city="Washington" country="US" end="NULL" extaddr="" games="" href="http://nationals.mlb.com" lat="" lng="" logofile="logo_was_79x76.jpg" name="Nationals Park" spanishurl="" state="DC" streetaddr="" tel="" url="nationals.com" zip="">
+    <team teamID="WAS" beg="2008-03-30" end="NULL" games="484" />
+  </park>
+  <park parkID="WAT01" beg="1882-05-20" city="Watervliet" country="US" end="1882-08-26" games="37" name="Troy Ball Club Grounds" state="NY">
+    <othername name="Troy Ball Club Grounds" auth="1" beg="1882" curr="1" end="1882" />
+    <team teamID="TRN" beg="1882-05-20" end="1882-08-26" games="37" parknameBDB="TRN:Troy Ball Club Grounds" />
+  </park>
+  <park parkID="WAV01" beg="1873-04-28" city="Newark" country="US" end="1873-07-23" games="7" lat="40.70306823115451" lng="-74.19738230019061" name="Waverly Fairgrounds" state="NJ" zip="3658">
+    <othername name="Waverly Fairgrounds" auth="1" beg="1873" curr="1" end="1873" />
+    <team teamID="ELI" beg="1873-04-28" end="1873-07-23" games="7" parknameBDB="ELI:Waverly Fairgrounds" />
+  </park>
+  <park parkID="WEE01" beg="1887-09-11" city="Weehawken" country="US" end="1887-09-11" games="1" name="Monitor Grounds" state="NJ">
+    <comment parkID="WEE01" comment="NY4 played 1 games here as an alternate (neutral) site from 1887-09-11 until 1887-09-11" />
+    <othername name="Monitor Grounds" auth="1" beg="1887" curr="1" end="1887" />
+    <othername name="Monitor Park" auth="0" />
+    <team teamID="NY4" beg="1887-09-11" end="1887-09-11" games="1" neutralsite="1" />
+  </park>
+  <park parkID="WHE01" beg="1890-09-22" city="Wheeling" country="US" end="1890-09-22" games="1" name="Island Grounds" state="WV">
+    <comment parkID="WHE01" comment="PIT played 1 games here as an alternate (neutral) site from 1890-09-22 until 1890-09-22" />
+    <othername name="Island Grounds" auth="1" beg="1890" curr="1" end="1890" />
+    <team teamID="PIT" beg="1890-09-22" end="1890-09-22" games="1" neutralsite="1" />
+  </park>
+  <park parkID="WIL01" beg="1884-09-02" city="Wilmington" country="US" end="1884-09-10" games="7" name="Union Street Park" state="DE">
+    <comment parkID="WIL01" comment="Forfeit on 1884-9-15" />
+    <othername name="Union Street Park" auth="1" beg="1884" curr="1" end="1884" />
+    <othername name="Wilmington Grounds" auth="0" />
+    <team teamID="WIL" beg="1884-09-02" end="1884-09-10" games="7" parknameBDB="WIL:" />
+  </park>
+  <park parkID="WNY01" beg="1898-09-11" city="West New York" country="US" end="1899-09-17" games="7" name="West New York Field Club Grounds" state="NJ">
+    <comment parkID="WNY01" comment="BRO played 2 games here as an alternate (neutral) site from 1898-09-18 until 1898-10-02" />
+    <comment parkID="WNY01" comment="NY1 played 5 games here as an alternate (neutral) site from 1898-09-11 until 1899-09-17" />
+    <othername name="West New York Field Club Grounds" auth="1" beg="1898" curr="1" end="1899" />
+    <team teamID="BRO" beg="1898-09-18" end="1898-10-02" games="2" neutralsite="1" />
+    <team teamID="NY1" beg="1898-09-11" end="1899-09-17" games="5" neutralsite="1" />
+  </park>
+  <park parkID="WOR01" beg="1874-10-30" city="Worcester" country="US" end="1882-09-29" games="127" name="Agricultural County Fair Grounds I" state="MA">
+    <comment parkID="WOR01" comment="BS1 played 1 games here as an alternate (neutral) site from 1874-10-30 until 1874-10-30" />
+    <othername name="Agricultural County Fair Grounds I" auth="1" beg="1880" curr="1" end="1882" />
+    <othername name="Worcester Driving Park Grounds" auth="0" />
+    <team teamID="BS1" beg="1874-10-30" end="1874-10-30" games="1" neutralsite="1" />
+    <team teamID="WOR" beg="1880-05-01" end="1882-09-29" games="126" parknameBDB="WOR:Worcester Driving Park Grounds" />
+  </park>
+  <park parkID="WOR02" beg="1887-08-17" city="Worcester" country="US" end="1887-08-17" games="1" name="Agricultural County Fair Grounds II" state="MA">
+    <comment parkID="WOR02" comment="BSN: 1 game" />
+    <comment parkID="WOR02" comment="WS8 played 1 games here as an alternate (neutral) site from 1887-08-17 until 1887-08-17" />
+    <othername name="Agricultural County Fair Grounds II" auth="1" beg="1887" curr="1" end="1887" />
+    <team teamID="WS8" beg="1887-08-17" end="1887-08-17" games="1" neutralsite="1" />
+  </park>
+</parks>

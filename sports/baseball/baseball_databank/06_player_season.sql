@@ -13,13 +13,15 @@ CREATE TABLE `bat_season` (
   `bbrefID`     VARCHAR(9)             CHARACTER SET ASCII NOT NULL,
   `retroID`     VARCHAR(9)             CHARACTER SET ASCII DEFAULT NULL,
   --
-  `nameCommon`  VARCHAR(100)           DEFAULT NULL,
+  `nameCommon`  varchar(100)           default NULL,
+  `nameFirst`   varchar(50)            default NULL,
+  `nameLast`    varchar(50) NOT NULL   default '',
   `age`         SMALLINT(2) UNSIGNED   DEFAULT NULL,
   --
   `yearID`      SMALLINT(3) UNSIGNED   DEFAULT NULL,
   `teamIDs`     VARCHAR(27)            NOT NULL,
   `lgIDs`       VARCHAR(18)            NOT NULL,
-  `stints`      SMALLINT(3) UNSIGNED   DEFAULT NULL,
+  `n_stints`    SMALLINT(3) UNSIGNED   DEFAULT NULL,
   --
   `G`           INT(5) UNSIGNED        DEFAULT NULL,
   `G_batting`   INT(5) UNSIGNED        DEFAULT NULL,
@@ -42,7 +44,9 @@ CREATE TABLE `bat_season` (
   `SH`          INT(5) UNSIGNED        DEFAULT NULL,
   `SF`          INT(5) UNSIGNED        DEFAULT NULL,
   `GIDP`        INT(5) UNSIGNED        DEFAULT NULL,
-  `CIB`         INT(5)                 DEFAULT NULL, -- catcher's interference while batting
+  -- defensive interference while batting.
+  -- Discrepancies between Baseball Reference our component stats from Baseball Databank mean that you can't trust this number very much
+  `CIB`         INT(5)                 DEFAULT NULL, 
   --
   `BAVG`        FLOAT                  DEFAULT NULL,
   `TB`          FLOAT                  DEFAULT NULL,
@@ -73,8 +77,8 @@ CREATE TABLE `bat_season` (
 
 INSERT INTO `bat_season`
   (
-    lahmanID, playerID, bbrefID, retroID, nameCommon,
-    yearID, teamIDs, lgIDs,stints,
+    lahmanID, playerID, bbrefID, retroID, nameFirst, nameLast, nameCommon,
+    yearID, teamIDs, lgIDs, n_stints,
     G, G_batting,
     allstar,
     AB, R, H, 2B, 3B, HR, RBI,
@@ -82,8 +86,8 @@ INSERT INTO `bat_season`
     SH, SF, GIDP)
 
   SELECT
-    lahmanID, peep.playerID, peep.bbrefID, peep.retroID, peep.nameCommon,
-    bat.yearID, GROUP_CONCAT(bat.teamID) AS teamIDs, GROUP_CONCAT(bat.lgID) AS lgIDs, COUNT(*) AS stints,
+    lahmanID, peep.playerID, peep.bbrefID, peep.retroID, peep.nameFirst, peep.nameLast, peep.nameCommon,
+    bat.yearID, GROUP_CONCAT(bat.teamID) AS teamIDs, GROUP_CONCAT(bat.lgID) AS lgIDs, COUNT(*) AS n_stints,
     SUM(bat.G) AS G, IFNULL(SUM(bat.G_batting),0) AS G_batting,
     IF(ast.playerID IS NOT NULL, TRUE, FALSE) AS allstar,
     SUM(AB) AS AB, SUM(R)  AS R,  SUM(H)  AS H,  SUM(2B) AS 2B, SUM(3B)  AS 3B,  SUM(HR)  AS HR,  SUM(RBI) AS RBI,
@@ -96,14 +100,14 @@ INSERT INTO `bat_season`
   LEFT JOIN (SELECT DISTINCT playerID, yearID FROM allstarfull) ast
     ON (bat.`playerID` = ast.`playerID` AND bat.`yearID` = ast.`yearID`)
   GROUP BY playerID, yearID
-  -- ORDER BY `playerID`, `yearID`, `stint`
   ;
 
 --
 -- Copy over WAR settings from baseball_reference tables
 --
 UPDATE `bat_season`,
-  (SELECT bbrefID, yearID, age, IF(MAX(isPitcher) = "Y", TRUE, FALSE) AS isPitcher,
+  (SELECT bbrefID, yearID, age, COUNT(*) as n_stints,
+    IF(MAX(isPitcher) = "Y", TRUE, FALSE) AS isPitcher,
     SUM(PA) AS PA,
     SUM(runs_above_avg) AS RAA, SUM(runs_above_avg_off) AS RAA_off, SUM(runs_above_avg_def) AS RAA_def,
     SUM(runs_above_rep) AS RAR,
@@ -112,6 +116,7 @@ UPDATE `bat_season`,
     FROM `bat_war` GROUP BY bbrefID, yearID) wart
   SET
        `bat_season`.`age`        = wart.`age`,
+       `bat_season`.`n_stints`   = wart.`n_stints`,
        `bat_season`.`PA`        = wart.`PA`,
        `bat_season`.`RAA`       = wart.`RAA`,
        `bat_season`.`RAA_off`   = wart.`RAA_off`,
@@ -132,13 +137,13 @@ UPDATE `bat_season`,
 -- Calculate derived statistics -- batting average and so forth
 --
 UPDATE bat_season SET
-  BAVG   = (H / AB),
-  TB    = (H + 2B + 2 * 3B + 3 * HR),
-  SLG   = ((H + 2B + 2 * 3B + 3 * HR) / AB),
-  OBP   = ( H + BB + IFNULL(HBP,0) ) / PA,
-  CIB   = PA - (AB + BB + IFNULL(HBP,0) + IFNULL(SH,0) + IFNULL(SF,0))
+  BAVG  = IF(AB>0,  (H / AB), 0),
+  TB    = IF(PA>0,  (H + 2B + 2 * 3B + 3 * HR), 0),
+  SLG   = IF(AB>0, ((H + 2B + 2 * 3B + 3 * HR) / AB), 0),
+  OBP   = IF(PA>0, ((H + BB + IFNULL(HBP,0))   / PA), 0),
+  CIB   = IF(PA>0,  (PA - (AB + BB + IFNULL(HBP,0) + IFNULL(SH,0) + IFNULL(SF,0))), 0)
   ;
 UPDATE bat_season SET
-  OPS   = (SLG + OBP),
-  ISO   = ((TB - H) / AB)
+  OPS   =          (SLG + OBP),
+  ISO   = IF(AB>0, ((TB - H) / AB), 0)
   ;

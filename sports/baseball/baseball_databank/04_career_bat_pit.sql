@@ -136,15 +136,15 @@ UPDATE `bat_career`,
 -- Calculate derived statistics -- batting average and so forth
 --
 UPDATE bat_career SET
-  BAVG   = (H / AB),
-  TB    = (H + 2B + 2 * 3B + 3 * HR),
-  SLG   = ((H + 2B + 2 * 3B + 3 * HR) / AB),
-  OBP   = ( H + BB + IFNULL(HBP,0) ) / PA,
-  CIB   = PA - (AB + BB + IFNULL(HBP,0) + IFNULL(SH,0) + IFNULL(SF,0))
+  BAVG  = IF(AB>0,  (H / AB), 0),
+  TB    = IF(PA>0,  (H + 2B + 2 * 3B + 3 * HR), 0),
+  SLG   = IF(AB>0, ((H + 2B + 2 * 3B + 3 * HR) / AB), 0),
+  OBP   = IF(PA>0, ((H + BB + IFNULL(HBP,0))   / PA), 0),
+  CIB   = IF(PA>0,  (PA - (AB + BB + IFNULL(HBP,0) + IFNULL(SH,0) + IFNULL(SF,0))), 0)
   ;
 UPDATE bat_career SET
-  OPS   = (SLG + OBP),
-  ISO   = ((TB - H) / AB)
+  OPS   =          (SLG + OBP),
+  ISO   = IF(AB>0, ((TB - H) / AB), 0)
   ;
 
 
@@ -269,7 +269,7 @@ UPDATE pit_career SET
   HR_9  = ( HR / (IPouts / 27) ),
   BB_9  = ( BB / (IPouts / 27) ),
   SO_9  = ( SO / (IPouts / 27) ),
-  SO_BB = ( SO / BB )
+  SO_BB = IF(BB>0, ( SO / BB ), 0)
   ;
 
 --
