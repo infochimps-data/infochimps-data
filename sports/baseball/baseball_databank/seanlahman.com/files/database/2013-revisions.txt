@@ -1,0 +1,20 @@
+Revisions - 2013 Beta
+
+2013-12-06	Initial beta release
+2013-12-07	First and last names were reversed in master table
+2013-12-08	Mets and Yankees 2013 W-L records were reversed in teams table
+		For players debuting in 2013, switch hitters were denoted as "S"
+		   instead of "B" in bats field of Master table
+		Picthing table contained "GS" value in "ERA" field for 2013 picthers
+2013-12-10	Updated RetrosheetIDs for some non-players and Negro Leaguers
+		Added 2014 HOF class from Vet's Committee announced 12/9/13
+		Normalized state and country names for birth and death places in master table
+2014-01-31	Removed depracated fields from Master table (outdated player IDs, nameNote, nameNick, and college)
+		Eliminated hofID and managerID from schema
+		Updated missing 2013 catcher data in fielding table
+		Added 2014 HOF voting results
+
+
+
+updated 2014-01-31  
+<eof>
