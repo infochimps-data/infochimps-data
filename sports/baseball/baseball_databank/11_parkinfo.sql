@@ -46,6 +46,8 @@ LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/
   `zip`, `tel`, `url`, `url_spanish`, `logofile`, `comments` )
   ;
 
+
+  
 DROP TABLE IF EXISTS `park_team_years`;
 CREATE TABLE `park_team_years` (
   `parkID`      VARCHAR(6) NOT NULL,
@@ -68,20 +70,33 @@ LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/
     active = IF(endDate IS NULL, 1, 0)
   ;
 
-
-SELECT park_id, home_team_id, rs.n_games, rs.n_teams, rs.yearID, pty.parkID FROM
-  (SELECT park_id, home_team_id, SUBSTR(game_id, 4,4) AS yearID, COUNT(*) AS n_games, COUNT(DISTINCT home_team_id) AS n_teams
-    FROM     retrosheet.games
-    WHERE    park_id != ""
-    GROUP BY park_id, home_team_id, yearID
-    ORDER BY park_id, home_team_id, yearID ) rs
-
-  LEFT JOIN (
-    SELECT * FROM park_team_years
-  ) pty
-  ON pty.parkID = rs.park_id AND pty.yearID = rs.yearID AND pty.teamID = rs.home_team_id
-  
-  WHERE pty.parkID IS NULL
-  ORDER BY rs.park_id, yearID
-  ;
+-- --
+-- -- Check against Retrosheet
+-- --
+-- SELECT rs.parkID, rs.teamID, rs.yearID, rs.n_games, pty.n_games, pty.begDate, pty.endDate, rs.begDate, rs.endDate
+--   , rs.n_games - pty.n_games AS g_diff, rs.begDate - pty.begDate AS bd_diff, rs.endDate - pty.endDate AS ed_diff
+--   FROM
+--   (SELECT 
+--       park_id AS parkID, home_team_id AS teamID, SUBSTR(game_id, 4,4) AS yearID, 
+--       DATE(MIN(SUBSTR(game_id, 4,8))) AS begDate, 
+--       DATE(MAX(SUBSTR(game_id, 4,8))) AS endDate, 
+--       COUNT(*) AS n_games, COUNT(DISTINCT home_team_id) AS n_teams
+--     FROM     retrosheet.games
+--     WHERE    park_id != ""
+--     GROUP BY park_id, home_team_id, yearID
+--     ORDER BY park_id, home_team_id, yearID ) rs
+-- 
+--   LEFT JOIN (
+--     SELECT * FROM park_team_years
+--   ) pty
+--   ON pty.parkID = rs.parkID AND pty.yearID = rs.yearID AND pty.teamID = rs.teamID
+--   
+--   WHERE pty.yearID > 1952 AND rs.parkID = "NYC16"
+--   -- GROUP BY park_id, yearID
+--   -- WHERE pty.parkID IS NULL
+--   -- rs.park_ID IS NULL AND 
+--   ORDER BY 
+--     -- ABS(bd_diff) DESC, ABS(ed_diff) DESC, g_diff DESC, 
+--     rs.parkID, rs.yearID, pty.parkID, pty.yearid
+--   ;
 
