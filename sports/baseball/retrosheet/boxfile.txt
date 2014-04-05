@@ -1,0 +1,203 @@
+This is a description of the new records created to support "Box Score
+Event Files" (BSEF).  These are intended to contain information
+sufficient to create box scores and construct player dailies for games
+that are missing complete play-by-play-accounts.
+
+These BSEF are marked by a file name extension of ".eba" and ".ebn" that
+distinguish them from AL event files (.eva) and NL event files (.evn).
+
+The header of the event file (the portion of the file from the "id"
+record until the end of the "start" records) will be unchanged.  The
+version record for these files will read:
+
+version,3
+
+to differentiate this game from ones without these new records.
+
+The new record types below may appear in any order.  In addition, all
+sequence information within record types is explicitly described in
+each record and is not implied by its order in the file.
+
+The new record types:
+
+
+stat,bline - a record describing a player's batting and base-running data
+for the game.
+
+Syntax:
+
+stat,bline,id,side,pos,seq,ab,r,h,2b,3b,hr,rbi,sh,sf,hbp,bb,ibb,k,sb,cs,gidp,int
+
+Where:
+
+  id - the player ID
+  side - the side he appeared for (0 or 1)
+  pos - the position in the lineup (1 to 9)
+  seq - the order he appeared in that position.  For starters, this field
+        will equal 1.  For players replacing the starter, this field will
+        equal 2 and so on.
+  ab...int - the player's statistics for the game.  Almost all of the
+             abbreviations should be obvious.  int - reached base on
+             interference.
+
+Examples:
+
+stat,bline,peara102,0,1,1,5,0,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+stat,bline,fregj101,0,2,1,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+stat,bline,wagnl101,0,3,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+
+stat,phline - a record describing a player's pinch-hitting appearance
+
+Syntax:
+
+stat,phline,id,inning,side,ab,r,h,2b,3b,hr,rbi,sh,sf,hbp,bb,ibb,k,sb,cs,gidp,int
+
+Where:
+
+  id - the player ID
+  inning - the inning he pinch-hit
+  side - the side he appeared for (0 or 1)
+  ab...int - same as bline
+
+Examples:
+
+stat,phline,perrb103,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+stat,phline,sadob101,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+stat,phline,alusg101,4,1,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+
+
+stat,prline - a record describing a player's pinch-running appearance
+
+Syntax:
+
+stat,prline,id,inning,side,r,sb,cs
+
+Where:
+
+  id - the player ID
+  inning - the inning he pinch-ran
+  side - the side he appeared for (0 or 1)
+  r...cs - runs, stolen bases and caught stealing during appearance
+
+Example:
+
+stat,prline,delgb101,4,1,0,0,0
+
+
+stat,dline - a record describing a player's defensive data for the game.
+
+Syntax:
+
+stat,dline,id,side,seq,pos,if*3,po,a,e,dp,tp,pb
+
+Where:
+
+  id - the player ID
+  side - the side he appeared for (0 or 1)
+  seq - the sequence number.  This will be 1 for the first position
+        played by the player in the game, 2 for the second position and
+        so on.
+  pos - the position played (1-9)
+  if*3 - innings fielded times 3 (the number of outs he was in the field)
+  po...pb - the traditional fielding stats
+
+Examples:
+
+stat,dline,morab101,0,1,4,27,3,4,0,1,0,0
+stat,dline,sadoe101,0,1,2,27,8,0,0,1,0,0
+stat,dline,chand102,0,1,1,11,0,1,0,0,0,0
+
+
+stat,pline - a record describing a player's pitching data for the game.
+
+Syntax:
+
+stat,pline,id,side,seq,ip*3,no-out,bfp,h,2b,3b,hr,r,er,bb,ibb,k,hbp,wp,balk,sh,sf
+
+Where:
+
+  id - the player ID
+  side - the side he appeared for (0 or 1)
+  seq - the sequence number.  This will be 1 for the first pitcher in
+        the game, 2 for the second pitcher, and so on.
+  ip*3 - innings pitched times 3
+  no-out - if the pitcher didn't retire a batter in an inning, the
+           number of batters faced
+  bfp...sf - the rest of the statistics
+
+Examples:
+
+stat,pline,deloi101,0,1,1,0,6,2,,,0,5,5,3,0,0,0,0,0,0,0
+stat,pline,lamaj101,0,2,1,0,4,2,,,0,1,1,1,1,0,0,0,0,0,0
+stat,pline,nichc102,0,3,1,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0
+
+
+line - a record describing a team's line-score.
+
+Syntax:
+
+line,side,inn-1,inn-2...
+
+Where:
+
+  side - 0 for the visiting team, 1 for the home team
+  inn-1 - the runs scored in the first inning
+  inn-2 - the runs scored in the second inning, and so on
+
+Examples:
+
+line,0,2,1,1,0,0,0,2,5,2
+line,1,0,0,0,0,0,1,0,1,1
+
+
+stat,tline - a record describing team statistical data for the game
+
+Syntax:
+
+stat,tline,side,lob,er,dp,tp
+
+Where:
+
+  side - 0 for the visiting team, 1 for the home team
+  lob - left-on-base
+  er  - team earned runs
+  dp  - defensive dps
+  tp  - defensive tps
+
+Examples:
+
+stat,tline,0,8,5,2,0
+stat,tline,1,7,2,1,0
+
+
+event,dpline - a line describing a DP
+event,tpline - a line describing a TP
+event,hpline - a line describing a HBP
+event,hrline - a line describing a HR
+event,sbline - a line describing a SB
+event,csline - a line describing a CS
+
+Syntax:
+
+event,dpline,side,player-id,player-id...
+event,tpline,side,player-id,player-id...
+event,hpline,side,pitcher-id,batter-id...
+event,hrline,side,batter-id,pitcher-id,inning,on,outs
+event,sbline,side,runner-id,pitcher-id,catcher-id,inning
+event,csline,side,runner-id,pitcher-id,catcher-id,inning
+
+Where:
+
+  side - 0 for the visiting team, 1 for the home team
+         For dpline and tpline this is the ID of team turning the DP
+         For hpline this is the pitcher's team
+         For hrline this is the batter's team
+         For sbline and csline this is the ID of base runners
+  player-id - the player IDs of the players involved in the event
+
+Examples:
+
+event,dpline,0,thoml103,sadoe101
+event,dpline,0,fregj101,morab101,deesc101
+event,dpline,1,causw101,lumpj101,siebn101

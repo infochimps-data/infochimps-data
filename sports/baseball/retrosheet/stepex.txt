@@ -1,0 +1,152 @@
+RETROSHEET: STEP-BY-STEP EXAMPLE
+
+
+The following step-by-step example is in response to several
+requests for more detailed instructions on using Retrosheet
+data and the programs on this web site. The tasks illustrated
+probably will not be exactly what you want to do, but they
+should show you how to generate box scores and extract data
+that can be imported into spreadsheet and database software
+for further processing and analysis. You may want to print
+this page for future reference.
+
+Comments, suggestions, and improvements are welcomed. You
+can send an e-mail using the mail link at the bottom of our
+home page.
+
+Press the back button on your browser to return to the previous
+page when done with this one.
+
+-------------
+
+I don't think I can take the time to write a complete
+and fairly foolproof set of instructions that a 5th grader
+can follow.  However, here is a list of steps to show you
+how to generate the Tigers box scores at Fenway in 1982.
+
+1) If you haven't done so already, download the following
+files from our site.  You should put them in the just one
+directory on your hard disk, which probably should be
+one set up to deal with retrosheet files.  I'll use
+C:\retro as the example, but you can put it in any
+directory that suits you.
+
+a) the program files (under Tools on the site)
+bevent.zip (which expands to bevent.exe)
+box.zip
+bgame.zip
+
+[Note you click on bevent.exe, box.exe, bgame.exe
+to do the downloads.]
+
+If you don't know how to "unzip" files, also download
+the program file pkunzip.exe. It won't hurt to download it
+if you are not sure.
+
+b) data files (under Game Data), choose a league & year,
+and then your teams or the whole league.  Since your message
+makes it sound like you want to work with all teams, after
+choosing the 1982 AL, click on Entire American League.  This
+will put the file 1982al.zip on your hard disk
+
+2) If you did not download to the C:\retro directory, move
+the downloaded files to this directory.  You can do this using
+Windows.
+
+3) Now you will need to use DOS. From the Windows Start button
+in the lower left, after clicking move up to Programs and then
+over to MS-DOS Prompt and select it.  A "DOS Window" should open
+on your screen with a prompt that looks like C:\WINDOWS>  (it
+may look a little different).  If it is small, you may be able
+to enlage it by clicking on the box just to the left of the X
+in the upper right corner.  This assumes Windows 95 or 98;
+Windows 3.1 works a bit differently, but there is a way to open
+a DOS window.
+
+4) Move to the retro directory (following my example directory name)
+by typing "cd \retro" and pressing the Enter key.  The prompt should
+now look like "C:\retro>".
+
+5) The next step is to unzip the files you downloaded if you have
+not already done so.  You can do so with the following four commands
+entered from the DOS prompt. Press enter after each one:
+
+[Note: DOS commands can be fussy; be sure to leave spaces where shown
+and no spaces where shown.  If you get a message indicating that
+something does not work right, then retype the command and try again.]
+
+a) pkunzip bgame.zip
+b) pkunzip bevent.zip
+c) pkunzip box.zip
+d) pkunzip 1982al.zip
+
+6) Use bgame to get a list of all games played at Boston:
+
+bgame -y 1982 82bos.eva >82bos.txt  (press Enter)
+
+The ">82bos.txt" causes the output to be written to the file 82bos.txt
+for further reference.  You can use a different name if you prefer.  Also
+if you end the command with ">prn" instead, the list of games will be
+printed on your printer.  You may want to do it both ways.  If your file
+name ends in ".txt" you can view the file by finding it a Windows file list
+(keep the DOS window open) by double clicking on its name or icon.  At that
+point, another window should open up showing the contents of the file.
+
+7) Find the games the Tigers played.  You can look at the file or printout
+or use the search feature in the program (NotePad or WordPad) that opened
+the file to look for DET.  I have already done it, and the Tigers played
+at Fenway June 21-23 (three games) and Sept 10-12 (three games).  I can tell
+the dates by the game IDs at the left of each line: BOS198206210. The zero
+at the end indicates that it was a single game.  Double header games end in
+a 1 or a 2.
+
+8) We can make the box scores with two commands in the DOS window, one for
+each series:
+
+box -y 1982 -s 0621 -e 0623 82bos.eva >box1.txt
+box -y 1982 -s 0910 -e 0912 82bos.eva >box2.txt
+
+As before, you can use >prn at the end instead to print the box scores.
+
+To see what the -y 1982, etc. means (if you can't guess), you can enter
+the command box -h and it will display a brief list of the program options
+and command syntax.  For example, if you wanted to make all the box scores
+for Red Sox home games, you could enter the command
+
+box -y 1982 82bos.eva >bos82box.txt
+
+[Note: due to how DOS works, do not use more than 8 characters before the .txt]
+
+9) If you want to try to put together the data for how the Tigers did in Fenway,
+the first step would be to extact the play-by-play records for the six games.
+This can be done using bevent, and the syntax is similar to that for box:
+
+bevent -y 1982 -s 0621 -e 0623 82bos.eva >detdata1.txt
+bevent -y 1982 -s 0910 -e 0912 82bos.eva >detdata2.txt
+
+That will produce two files that probably look almost nonsensical if you view
+them as above.  However, they can be read into database or spreadsheet programs
+for further processing.  At this point, I am not going to be able to give you
+directions.  I will refer you to the documentation on the web site for information
+about the output of the bevent program in the two files, but it may not help you
+a whole lot.  If I were going to get data on team performance in each park, I
+would either write a program in BASIC to pull everything together or do a fair
+amount of sorting and aggregating using a spreadsheet or database program.
+
+One final note. Instead of downloading the league file, you may find it better
+to download the team files.  The league file contains 14 files with all the
+home games for the AL teams, one per team.  However, if you are interested in
+how the Tigers did in each road park, the Detroit file has all of their games,
+and the home and road teams are identfied in the record for each game.  It will be
+easier to work with the road games in the Detroit file than the 13 home game files
+for the other teams.
+
+I hope this gets you at least part of the way to your goal.  I can try to answer
+questions, but I am not going to be able to provide any more detailed directions
+like those above.  As I said before, our data are not easy to use (except for
+making box scores) and require a fair amount of additional processing in most
+cases.
+
+Good luck. I hope you have some fun doing this.
+
+Mark
