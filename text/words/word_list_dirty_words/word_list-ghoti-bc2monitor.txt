@@ -1,0 +1,122 @@
+# From http://github.com/ghoti/BC2Monitor/raw/master/badwords.txt 
+
+anal
+ballsack
+bastard
+bitch
+biatch
+blowjob
+blow job
+boner
+buttplug
+clitoris
+cock
+dick
+dildo
+feck
+fellate
+fellatio
+felching
+fuck
+f u c k
+fcuking
+fcuk
+fcuked
+fudgepacker
+fudge packer
+Goddamn
+God damn
+homo
+jizz
+knobend
+labia
+muff
+penis
+prick
+pube
+pussy
+queer
+scrotum
+sex
+slut
+smegma
+twat
+vagina
+wank
+whore
+skank
+shithead
+gay
+g a y
+ghey
+ggay
+fucktard
+asshat
+cum
+shit stain
+douchebag
+quim
+cocksucker
+vaginal blood fart
+drippy dick
+poll smoker
+boy butter
+rectum
+clit
+cuntflaps
+shit head
+knob gobbler
+d1ld0
+fckin
+douche
+pussee
+b i t c h e s
+homo
+h o m o s
+PU55Y
+pussies
+fker
+fkers
+Fucking
+Fucked
+fucker
+F u c k i n g
+F u c k e d
+F u c k e r
+fuc
+fuk
+wtf
+stfu
+omfg
+cunt
+cunts
+motherfuckers
+motherfucker
+motherfker
+motherfkers
+
+cunt
+coon
+dyke
+nigger
+niger
+nigga
+ni55er
+ni55ers
+ni66er
+ni65er
+ni56er
+ni56ers
+ni65ers
+fag
+f a g
+fahgs
+fa55ot
+fa66ot
+faggot
+niggerz
+ni55erz
+ni56erz
+ni66erz
+niggah
+neggars

@@ -1,0 +1,106 @@
+---
+- dataset:
+    schema:
+      version:            1.0
+      name:               "Purported list of words banned in AOL Chat Rooms"
+      url:                http://www.lectlaw.com/files/elw06.htm
+      
+      tags:               >
+          aol chat im social 
+      credits:
+        - url:            http://www.lectlaw.com/files/elw06.htm
+    
+      notes:
+        desc:             >-
+          
+          
+        usage_note:       >-
+    
+    
+      fields:
+        - handle:        word
+          type_tags:      word:english
+          data_type:      str
+          
+        - handle:        category
+          type_tags:      word:english
+          data_type:      str
+          desc:           severity of perceived indecency
+          
+    payload:
+    - categories:
+        - name:       Unconditionally Vulgar
+          desc:       |
+            The rather obvious items of vulgarity are listed as VULGAR. There are
+            words that AOL considers Vulgar which are TOS violations regardless of
+            context. Some of these words Listed as VULGAR are topical in
+            nature. That is you would warn if the topic is being discussed, not just
+            the word being used.
+    
+        - name:       Unconditionally Vulgar
+          desc:       |
+            Conditionally Vulgar: These words would be warned for
+            (considered a violation of TOS) depending on the Context. In many cases
+            with these words or topics you would CAUTION folks before warning.
+    
+            Some are warned if they use these words to harass other members. Some
+            are warned if used in a sexual way but not warned if they are used in a
+            discussion as a medical term. Remember you never have to warn for any of
+            these. But should take in the tone of the room and the other member's
+            response. When in doubt DON'T warn for these terms. You should use good
+            judgement when deciding whether to warn for the Vulgar items on this
+            list.
+     
+            These terms are OK if used as a medical reference or in a way that is
+            NONSEXUAL. But can be warned for if someone is just trying to be crude
+            or disruptive.
+  
+      word_list: 
+        - { word: "blowjob",       category: "Unconditionally Vulgar" }
+        - { word: "clitoris",      category: "Unconditionally Vulgar" }
+        - { word: "cock",          category: "Unconditionally Vulgar" }
+        - { word: "cocksucker",    category: "Unconditionally Vulgar" }
+        - { word: "cornhole",      category: "Unconditionally Vulgar" }
+        - { word: "cunnilingus",   category: "Unconditionally Vulgar" }
+        - { word: "cunt",          category: "Unconditionally Vulgar" }
+        - { word: "cunt",          category: "Unconditionally Vulgar" }
+        - { word: "fellatio",      category: "Unconditionally Vulgar" }
+        - { word: "feltching",     category: "Unconditionally Vulgar" }
+        - { word: "fuck",          category: "Unconditionally Vulgar" }
+        - { word: "kike",          category: "Unconditionally Vulgar" }
+        - { word: "masturbation",  category: "Unconditionally Vulgar" }
+        - { word: "mutherfucker",  category: "Unconditionally Vulgar" }
+        - { word: "nigger",        category: "Unconditionally Vulgar" }
+        - { word: "rimjob",        category: "Unconditionally Vulgar" }
+        - { word: "shit",          category: "Unconditionally Vulgar" }
+        - { word: "sodomy",        category: "Unconditionally Vulgar" }
+        - { word: "spic",          category: "Unconditionally Vulgar" }
+        - { word: "tit",           category: "Unconditionally Vulgar" }
+        - { word: "twat",          category: "Unconditionally Vulgar" }
+        - { word: "ass",           category: "Conditionally Vulgar" }
+        - { word: "bitch",         category: "Conditionally Vulgar" }
+        - { word: "butthead",      category: "Conditionally Vulgar" }
+        - { word: "cornholio",     category: "Conditionally Vulgar" }
+        - { word: "crap",          category: "Conditionally Vulgar" }
+        - { word: "cum",           category: "Conditionally Vulgar" }
+        - { word: "defecation",    category: "Conditionally Vulgar" }
+        - { word: "douche",        category: "Conditionally Vulgar" }
+        - { word: "dyke",          category: "Conditionally Vulgar" }
+        - { word: "fag",           category: "Conditionally Vulgar" }
+        - { word: "faggot",        category: "Conditionally Vulgar" }
+        - { word: "fart",          category: "Conditionally Vulgar" }
+        - { word: "genitalia",     category: "Conditionally Vulgar" }
+        - { word: "ho",            category: "Conditionally Vulgar" }
+        - { word: "homo",          category: "Conditionally Vulgar" }
+        - { word: "horny",         category: "Conditionally Vulgar" }
+        - { word: "penis",         category: "Conditionally Vulgar" }
+        - { word: "piss",          category: "Conditionally Vulgar" }
+        - { word: "pussy",         category: "Conditionally Vulgar" }
+        - { word: "queer",         category: "Conditionally Vulgar" }
+        - { word: "sadomasochism", category: "Conditionally Vulgar" }
+        - { word: "semen",         category: "Conditionally Vulgar" }
+        - { word: "slut",          category: "Conditionally Vulgar" }
+        - { word: "urination",     category: "Conditionally Vulgar" }
+        - { word: "vagina",        category: "Conditionally Vulgar" }
+        - { word: "whore",         category: "Conditionally Vulgar" }
+  

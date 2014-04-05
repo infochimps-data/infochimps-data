@@ -1,0 +1,1586 @@
+--- 
+# From http://github.com/tjhanley/profanalyzer/raw/master/config/list.yml
+- dataset:
+    payload:
+    - word_list:
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: wtf
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 3
+          word: wop
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: whore
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: whoar
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: wetback
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: wank
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: vagina
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: twaty
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: twat
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: titty
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: titties
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: tits
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: testicles
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: teets
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: spunk
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: spic
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: snatch
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: smut
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: sluts
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: slut
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: sleaze
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: slag
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 2
+          word: shiz
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitty
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shittings
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitting
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitters
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitter
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitted
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shits
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitings
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shiting
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shitfull
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shited
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: shit
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: shemale
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 2
+          word: sheister
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: sh!t
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: scrotum
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: screw
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: schlong
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 2
+          word: retard
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: qweef
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 3
+          word: queer
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: queef
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: pussys
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: pussy
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: pussies
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: pusse
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: punk
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: prostitute
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: pricks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: prick
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: pr0n
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: pornos
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: pornography
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: porno
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: porn
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pissoff
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pissing
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pissin
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pisses
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pissers
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pisser
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: pissed
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: piss
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: pimp
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phuq
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phuks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phukking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phukked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phuking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phuked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phuk
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: phuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: phonesex
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: penis
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: pecker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: orgasms
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: orgasm
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: orgasims
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: orgasim
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: niggers
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: nigger
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: nigga
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: nerd
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: muff
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfucks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfuckings
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfuckin
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfuckers
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: motherfuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafucks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafuckings
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafuckin
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafuckers
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafuckaz
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafuckas
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafucka
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: mothafuck
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 3
+          word: mick
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: merde
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: masturbate
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 0
+          word: lusting
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 0
+          word: lust
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: loser
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: lesbo
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: lesbian
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kunilingus
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kums
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kumming
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kummer
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kum
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kuksuger
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kuk
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 3
+          word: kraut
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kondums
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kondum
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kock
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 0
+          word: knob
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: kike
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: kawk
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jizz
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jizm
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jiz
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jism
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: jesus h christ
+        - sexual: true
+          racist: true
+          profane: true
+          badness: 5
+          word: jesus fucking christ
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: jerk-off
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: jerk
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 4
+          word: jap
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jackoff
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jacking off
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jackass
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jack-off
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: jack off
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: hussy
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: hotsex
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: horny
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: horniest
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: hore
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: hooker
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 4
+          word: honkey
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 4
+          word: homo
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: hoer
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: hell
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: hardcoresex
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: hard on
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: h4x0r
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: h0r
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: guinne
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: gook
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: gonads
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 2
+          word: goddamn
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: gazongers
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: gaysex
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: gay
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: gangbangs
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: gangbanged
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: gangbang
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fux0r
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: furburger
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuk
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fucks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuckme
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuckings
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuckin
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuckers
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: fu
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: foreskin
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfucks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfuckings
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfuckers
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fistfuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fingerfucks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fingerfucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fingerfuckers
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fingerfucker
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: fingerfucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fingerfuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: fellatio
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: felatio
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 4
+          word: feg
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: feces
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: fcuk
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: fatso
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 2
+          word: fatass
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: farty
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: farts
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: fartings
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: farting
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: farted
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: fart
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fags
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fagots
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fagot
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: faggs
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: faggot
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: faggit
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fagging
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fagget
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: fag
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: ejaculation
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: ejaculatings
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: ejaculating
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: ejaculates
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: ejaculated
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: ejaculate
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: dyke
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: dumbass
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: douche bag
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: dong
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: dipshit
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: dinks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: dink
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: dildos
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: dildo
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: dike
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: dick
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: damn
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: damn
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cyberfucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cyberfuckers
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cyberfucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cyberfucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cyberfuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cyberfuc
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cunts
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cuntlicking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cuntlicker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cuntlick
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cunt
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cunnilingus
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cunillingus
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cunilingus
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cumshot
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cums
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cumming
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cummer
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cum
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: crap
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: cooter
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cocksucks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cocksucking
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cocksucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cocksucked
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cocksuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cocks
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cock
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: cobia
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: clits
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: clit
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: clam
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: circle jerk
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: chink
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: cawk
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: buttpicker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: butthole
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: butthead
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: buttfucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: buttfuck
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: buttface
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 3
+          word: butt hair
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: butt fucker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: butt breath
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: butt
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 3
+          word: butch
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 2
+          word: bung hole
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: bum
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 4
+          word: bullshit
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 4
+          word: bull shit
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 5
+          word: bucket cunt
+        - sexual: false
+          racist: true
+          profane: true
+          badness: 5
+          word: browntown
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: browneye
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: brown eye
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: boner
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: bonehead
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: blowjobs
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: blowjob
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: blow job
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bitching
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bitchin
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bitches
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bitchers
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bitcher
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bitch
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 4
+          word: bestiality
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: bestial
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: belly whacker
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: beaver
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: beastility
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: beastiality
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 4
+          word: beastial
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: bastard
+        - sexual: true
+          racist: false
+          profane: true
+          badness: 1
+          word: balls
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: asswipe
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 3
+          word: asskisser
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: assholes
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 5
+          word: asshole
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 1
+          word: asses
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 4
+          word: ass lick
+        - sexual: false
+          racist: false
+          profane: true
+          badness: 0
+          word: ass
+        

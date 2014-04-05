@@ -1,0 +1,63 @@
+---
+- dataset:
+    schema:
+      version:      1.0
+      name:         "George Carlin's Seven Filthy Words you Can't Say"
+      url:          http://www.georgecarlin.com/dirty/dirty3.html  
+      
+      credits:
+        - url:      http://www.georgecarlin.com/dirty/dirty3.html
+          name:     George Carlin
+        - name:     US Supreme Court
+          desc: >
+            Supreme Court Decision of
+            FEDERAL COMMUNICATIONS COMMISSION v. PACIFICA FOUNDATION, 438 U.S. 726,
+            98 S.Ct. 3026 (1978).
+    
+      notes:
+        desc:         >-
+            The comedian George Carlin had a famous act centering around "Seven
+            Filthy Words You Can't Say on Television".  Any list of indecent stop
+            words must surely begin here.
+    
+            **********************************************************************
+            __("from George Carlin's website":http://www.georgecarlin.com/dirty/dirty3.html)__
+            
+            The following is directly quoted from the Supreme Court Decision of
+            FEDERAL COMMUNICATIONS COMMISSION v. PACIFICA FOUNDATION, 438 U.S. 726,
+            98 S.Ct. 3026 (1978).
+    
+            Mr. Justice STEVENS (delivering the majority opinion)
+    
+            This case requires that we decide whether the Federal Communications
+            Commission has any power to regulate a radio broadcast that is indecent
+            but not obscene.
+    
+            A satiric humorist named George Carlin recorded a 12-minute monologue
+            entitled "Filthy Words" before a live audience in a California
+            theater. He began by referring to his thoughts about "the words you
+            couldn't say on the public, ah, airwaves, um, the ones you definitely
+            wouldn't say, ever." He proceeded to list those words and repeat them
+            over and over again in a variety of colloquialisms. The transcript of
+            the recording, which is appended to this opinion, indicates frequent
+            laughter from the audience.
+  
+        usage_note: >-
+            
+    
+      fields:
+        - handle:          word
+          type_tags:        word:english
+          data_type:        str
+          
+    payload:
+    - word_list: 
+        - { word: "shit" }
+        - { word: "piss" }
+        - { word: "fuck" }
+        - { word: "cunt" }
+        - { word: "cocksucker" }
+        - { word: "motherfucker" }
+        - { word: "tits" }
+
+  

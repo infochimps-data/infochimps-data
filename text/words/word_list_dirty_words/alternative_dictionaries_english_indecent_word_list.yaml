@@ -1,0 +1,2518 @@
+--- 
+- dataset: 
+    schema: 
+      credits: 
+        - desc: |
+              h2. The Alternative Dictionaries
+              ** Slang, profanities, insults and vulgarisms from all the world**
+          name: ~
+          handle:  ~
+          url: ~
+      name: "The Alternative Dictionaries: Multilingual indecent word lists"
+      url: "http://www.alternative-dictionaries.net/"
+      version: 1.0
+      
+    payload: 
+      - word_list: 
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so0"
+            lang: English
+            phrase: "arse bandit"
+            stem: arsebandit
+            word: "arse bandit"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so139"
+            lang: English
+            phrase: flange
+            stem: flange
+            word: flange
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so278"
+            lang: English
+            phrase: poop
+            stem: poop
+            word: poop
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so1"
+            lang: English
+            phrase: Arsehole
+            stem: arsehole
+            word: arsehole
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so140"
+            lang: English
+            phrase: "flash your gash"
+            stem: flashyourgash
+            word: "flash your gash"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so279"
+            lang: English
+            phrase: "poop chute"
+            stem: poopchute
+            word: "poop chute"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so2"
+            lang: English
+            phrase: arvo
+            stem: arvo
+            word: arvo
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so141"
+            lang: English
+            phrase: foursome
+            stem: foursome
+            word: foursome
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so280"
+            lang: English
+            phrase: pooper-scooper
+            stem: pooperscooper
+            word: pooperscooper
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so3"
+            lang: English
+            phrase: ass
+            stem: ass
+            word: ass
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so142"
+            lang: English
+            phrase: "french kiss"
+            stem: frenchkiss
+            word: "french kiss"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so281"
+            lang: English
+            phrase: poopshoot
+            stem: poopshoot
+            word: poopshoot
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so4"
+            lang: English
+            phrase: "ass boy"
+            stem: assboy
+            word: "ass boy"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so143"
+            lang: English
+            phrase: "french kiss"
+            stem: frenchkiss
+            word: "french kiss"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so282"
+            lang: English
+            phrase: poopshoot
+            stem: poopshoot
+            word: poopshoot
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so5"
+            lang: English
+            phrase: assfuck
+            stem: assfuck
+            word: assfuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so144"
+            lang: English
+            phrase: "french tickler"
+            stem: frenchtickler
+            word: "french tickler"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so283"
+            lang: English
+            phrase: "poor white trash or p.w.t."
+            stem: poorwhitetrashorpwt
+            word: "poor white trash or pwt"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so6"
+            lang: English
+            phrase: asshole
+            stem: asshole
+            word: asshole
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so145"
+            lang: English
+            phrase: fruit
+            stem: fruit
+            word: fruit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so284"
+            lang: English
+            phrase: "porch monkey"
+            stem: porchmonkey
+            word: "porch monkey"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so7"
+            lang: English
+            phrase: asswipe
+            stem: asswipe
+            word: asswipe
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so146"
+            lang: English
+            phrase: "fruit fly"
+            stem: fruitfly
+            word: "fruit fly"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so285"
+            lang: English
+            phrase: postal
+            stem: postal
+            word: postal
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so8"
+            lang: English
+            phrase: asswipe
+            stem: asswipe
+            word: asswipe
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so147"
+            lang: English
+            phrase: fuck
+            stem: fuck
+            word: fuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so286"
+            lang: English
+            phrase: prick
+            stem: prick
+            word: prick
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so9"
+            lang: English
+            phrase: asswipe
+            stem: asswipe
+            word: asswipe
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so148"
+            lang: English
+            phrase: fuck
+            stem: fuck
+            word: fuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so287"
+            lang: English
+            phrase: pubes
+            stem: pubes
+            word: pubes
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so10"
+            lang: English
+            phrase: aunty
+            stem: aunty
+            word: aunty
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so149"
+            lang: English
+            phrase: fuck
+            stem: fuck
+            word: fuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so288"
+            lang: English
+            phrase: "pull one's pud"
+            stem: pullonespud
+            word: "pull ones pud"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so11"
+            lang: English
+            phrase: ball
+            stem: ball
+            word: ball
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so150"
+            lang: English
+            phrase: fuck
+            stem: fuck
+            word: fuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so289"
+            lang: English
+            phrase: "pull the pin"
+            stem: pullthepin
+            word: "pull the pin"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so12"
+            lang: English
+            phrase: ball
+            stem: ball
+            word: ball
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so151"
+            lang: English
+            phrase: "fuck around"
+            stem: fuckaround
+            word: "fuck around"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so290"
+            lang: English
+            phrase: pussy
+            stem: pussy
+            word: pussy
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so13"
+            lang: English
+            phrase: ball
+            stem: ball
+            word: ball
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so152"
+            lang: English
+            phrase: "fuck around"
+            stem: fuckaround
+            word: "fuck around"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so291"
+            lang: English
+            phrase: quad
+            stem: quad
+            word: quad
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so14"
+            lang: English
+            phrase: baltic
+            stem: baltic
+            word: baltic
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so153"
+            lang: English
+            phrase: "fuck around"
+            stem: fuckaround
+            word: "fuck around"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so292"
+            lang: English
+            phrase: queef
+            stem: queef
+            word: queef
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so15"
+            lang: English
+            phrase: bang
+            stem: bang
+            word: bang
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so154"
+            lang: English
+            phrase: "fuck me harder"
+            stem: fuckmeharder
+            word: "fuck me harder"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so293"
+            lang: English
+            phrase: queen
+            stem: queen
+            word: queen
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so16"
+            lang: English
+            phrase: basket
+            stem: basket
+            word: basket
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so155"
+            lang: English
+            phrase: "fuck off"
+            stem: fuckoff
+            word: "fuck off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so294"
+            lang: English
+            phrase: queer
+            stem: queer
+            word: queer
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so17"
+            lang: English
+            phrase: bastard
+            stem: bastard
+            word: bastard
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so156"
+            lang: English
+            phrase: "fuck oneself"
+            stem: fuckoneself
+            word: "fuck oneself"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so295"
+            lang: English
+            phrase: Queer
+            stem: queer
+            word: queer
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so18"
+            lang: English
+            phrase: "baths, the"
+            stem: baths
+            word: baths
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so157"
+            lang: English
+            phrase: "fuck up"
+            stem: fuckup
+            word: "fuck up"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so296"
+            lang: English
+            phrase: quim
+            stem: quim
+            word: quim
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so19"
+            lang: English
+            phrase: "be on the rag"
+            stem: beontherag
+            word: "be on the rag"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so158"
+            lang: English
+            phrase: "fuck up"
+            stem: fuckup
+            word: "fuck up"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so297"
+            lang: English
+            phrase: quim
+            stem: quim
+            word: quim
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so20"
+            lang: English
+            phrase: bear
+            stem: bear
+            word: bear
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so159"
+            lang: English
+            phrase: "fucked (past tense of fuck),"
+            stem: fuckedpasttenseoffuck
+            word: "fucked past tense of fuck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so298"
+            lang: English
+            phrase: quim
+            stem: quim
+            word: quim
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so21"
+            lang: English
+            phrase: "beast with two backs"
+            stem: beastwithtwobacks
+            word: "beast with two backs"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so160"
+            lang: English
+            phrase: "fucked up"
+            stem: fuckedup
+            word: "fucked up"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so299"
+            lang: English
+            phrase: "quim nuts"
+            stem: quimnuts
+            word: "quim nuts"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so22"
+            lang: English
+            phrase: "beat off"
+            stem: beatoff
+            word: "beat off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so161"
+            lang: English
+            phrase: "fucked up"
+            stem: fuckedup
+            word: "fucked up"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so300"
+            lang: English
+            phrase: rack
+            stem: rack
+            word: rack
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so23"
+            lang: English
+            phrase: beaver
+            stem: beaver
+            word: beaver
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so162"
+            lang: English
+            phrase: fucker
+            stem: fucker
+            word: fucker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so301"
+            lang: English
+            phrase: "rag week"
+            stem: ragweek
+            word: "rag week"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so24"
+            lang: English
+            phrase: beef
+            stem: beef
+            word: beef
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so163"
+            lang: English
+            phrase: fucker
+            stem: fucker
+            word: fucker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so302"
+            lang: English
+            phrase: "Rainbow Kiss"
+            stem: rainbowkiss
+            word: "rainbow kiss"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so25"
+            lang: English
+            phrase: "beef curtains"
+            stem: beefcurtains
+            word: "beef curtains"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so164"
+            lang: English
+            phrase: fucking
+            stem: fucking
+            word: fucking
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so303"
+            lang: English
+            phrase: ranch
+            stem: ranch
+            word: ranch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so26"
+            lang: English
+            phrase: "bell end"
+            stem: bellend
+            word: "bell end"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so165"
+            lang: English
+            phrase: fugly
+            stem: fugly
+            word: fugly
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so304"
+            lang: English
+            phrase: "red tide"
+            stem: redtide
+            word: "red tide"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so27"
+            lang: English
+            phrase: berk
+            stem: berk
+            word: berk
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so166"
+            lang: English
+            phrase: gangbang
+            stem: gangbang
+            word: gangbang
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so305"
+            lang: English
+            phrase: "red wings"
+            stem: redwings
+            word: "red wings"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so28"
+            lang: English
+            phrase: bi
+            stem: bi
+            word: bi
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so167"
+            lang: English
+            phrase: gangbang
+            stem: gangbang
+            word: gangbang
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so306"
+            lang: English
+            phrase: redneck
+            stem: redneck
+            word: redneck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so29"
+            lang: English
+            phrase: biatch
+            stem: biatch
+            word: biatch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so168"
+            lang: English
+            phrase: "gangsta bitch"
+            stem: gangstabitch
+            word: "gangsta bitch"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so307"
+            lang: English
+            phrase: reestie
+            stem: reestie
+            word: reestie
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so30"
+            lang: English
+            phrase: biffy
+            stem: biffy
+            word: biffy
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so169"
+            lang: English
+            phrase: "get {one's} shit together"
+            stem: getonesshittogether
+            word: "get ones shit together"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so308"
+            lang: English
+            phrase: "rice queen"
+            stem: ricequeen
+            word: "rice queen"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so31"
+            lang: English
+            phrase: bitch
+            stem: bitch
+            word: bitch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so170"
+            lang: English
+            phrase: "get bent"
+            stem: getbent
+            word: "get bent"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so309"
+            lang: English
+            phrase: "riding the porcelain bus"
+            stem: ridingtheporcelainbus
+            word: "riding the porcelain bus"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so32"
+            lang: English
+            phrase: "bloody hell"
+            stem: bloodyhell
+            word: "bloody hell"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so171"
+            lang: English
+            phrase: "get it on"
+            stem: getiton
+            word: "get it on"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so310"
+            lang: English
+            phrase: rim
+            stem: rim
+            word: rim
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so33"
+            lang: English
+            phrase: "blow job"
+            stem: blowjob
+            word: "blow job"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so172"
+            lang: English
+            phrase: "get it up"
+            stem: getitup
+            word: "get it up"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so311"
+            lang: English
+            phrase: "rim job"
+            stem: rimjob
+            word: "rim job"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so34"
+            lang: English
+            phrase: "blow your wad"
+            stem: blowyourwad
+            word: "blow your wad"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so173"
+            lang: English
+            phrase: "get laid"
+            stem: getlaid
+            word: "get laid"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so312"
+            lang: English
+            phrase: rump-shaker
+            stem: rumpshaker
+            word: rumpshaker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so35"
+            lang: English
+            phrase: "blow your wad"
+            stem: blowyourwad
+            word: "blow your wad"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so174"
+            lang: English
+            phrase: "get off"
+            stem: getoff
+            word: "get off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so313"
+            lang: English
+            phrase: "sausage jockey"
+            stem: sausagejockey
+            word: "sausage jockey"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so36"
+            lang: English
+            phrase: bob
+            stem: bob
+            word: bob
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so175"
+            lang: English
+            phrase: "give a shit"
+            stem: giveashit
+            word: "give a shit"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so314"
+            lang: English
+            phrase: scallywag
+            stem: scallywag
+            word: scallywag
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so37"
+            lang: English
+            phrase: boiler
+            stem: boiler
+            word: boiler
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so176"
+            lang: English
+            phrase: "glory hole"
+            stem: gloryhole
+            word: "glory hole"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so315"
+            lang: English
+            phrase: scat
+            stem: scat
+            word: scat
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so38"
+            lang: English
+            phrase: boink
+            stem: boink
+            word: boink
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so177"
+            lang: English
+            phrase: "glory hole"
+            stem: gloryhole
+            word: "glory hole"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so316"
+            lang: English
+            phrase: screw
+            stem: screw
+            word: screw
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so39"
+            lang: English
+            phrase: "bollocks , bollicks"
+            stem: bollocks
+            word: "bollocks "
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so178"
+            lang: English
+            phrase: "go down on"
+            stem: godownon
+            word: "go down on"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so317"
+            lang: English
+            phrase: screw
+            stem: screw
+            word: screw
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so40"
+            lang: English
+            phrase: boner
+            stem: boner
+            word: boner
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so179"
+            lang: English
+            phrase: "Gob the knob"
+            stem: gobtheknob
+            word: "gob the knob"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so318"
+            lang: English
+            phrase: screw
+            stem: screw
+            word: screw
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so41"
+            lang: English
+            phrase: boob
+            stem: boob
+            word: boob
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so180"
+            lang: English
+            phrase: "god damn"
+            stem: goddamn
+            word: "god damn"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so319"
+            lang: English
+            phrase: "sex fight"
+            stem: sexfight
+            word: "sex fight"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so42"
+            lang: English
+            phrase: brown
+            stem: brown
+            word: brown
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so181"
+            lang: English
+            phrase: "golden shower"
+            stem: goldenshower
+            word: "golden shower"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so320"
+            lang: English
+            phrase: "sex fighter"
+            stem: sexfighter
+            word: "sex fighter"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so43"
+            lang: English
+            phrase: buddy
+            stem: buddy
+            word: buddy
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so182"
+            lang: English
+            phrase: gook
+            stem: gook
+            word: gook
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so321"
+            lang: English
+            phrase: shit
+            stem: shit
+            word: shit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so44"
+            lang: English
+            phrase: bugger
+            stem: bugger
+            word: bugger
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so183"
+            lang: English
+            phrase: Greek
+            stem: greek
+            word: greek
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so322"
+            lang: English
+            phrase: shit
+            stem: shit
+            word: shit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so45"
+            lang: English
+            phrase: buggery
+            stem: buggery
+            word: buggery
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so184"
+            lang: English
+            phrase: Groe
+            stem: groe
+            word: groe
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so323"
+            lang: English
+            phrase: shit
+            stem: shit
+            word: shit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so46"
+            lang: English
+            phrase: "built like a brick shithouse"
+            stem: builtlikeabrickshithouse
+            word: "built like a brick shithouse"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so185"
+            lang: English
+            phrase: grostulation
+            stem: grostulation
+            word: grostulation
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so324"
+            lang: English
+            phrase: shit
+            stem: shit
+            word: shit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so47"
+            lang: English
+            phrase: "bull dyke"
+            stem: bulldyke
+            word: "bull dyke"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so186"
+            lang: English
+            phrase: gummer
+            stem: gummer
+            word: gummer
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so325"
+            lang: English
+            phrase: shit
+            stem: shit
+            word: shit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so48"
+            lang: English
+            phrase: bum-bandit
+            stem: bumbandit
+            word: bumbandit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so187"
+            lang: English
+            phrase: "hair pie"
+            stem: hairpie
+            word: "hair pie"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so326"
+            lang: English
+            phrase: "shit on a shingle"
+            stem: shitonashingle
+            word: "shit on a shingle"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so49"
+            lang: English
+            phrase: bunghole
+            stem: bunghole
+            word: bunghole
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so188"
+            lang: English
+            phrase: hard-on
+            stem: hardon
+            word: hardon
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so327"
+            lang: English
+            phrase: "shit out of luck"
+            stem: shitoutofluck
+            word: "shit out of luck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so50"
+            lang: English
+            phrase: buns
+            stem: buns
+            word: buns
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so189"
+            lang: English
+            phrase: have
+            stem: have
+            word: have
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so328"
+            lang: English
+            phrase: shitcan
+            stem: shitcan
+            word: shitcan
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so51"
+            lang: English
+            phrase: "bush boogie"
+            stem: bushboogie
+            word: "bush boogie"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so190"
+            lang: English
+            phrase: have
+            stem: have
+            word: have
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so329"
+            lang: English
+            phrase: shitfaced
+            stem: shitfaced
+            word: shitfaced
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so52"
+            lang: English
+            phrase: butch
+            stem: butch
+            word: butch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so191"
+            lang: English
+            phrase: head
+            stem: head
+            word: head
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so330"
+            lang: English
+            phrase: shitfit
+            stem: shitfit
+            word: shitfit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so53"
+            lang: English
+            phrase: cacker
+            stem: cacker
+            word: cacker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so192"
+            lang: English
+            phrase: herb
+            stem: herb
+            word: herb
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so331"
+            lang: English
+            phrase: shithead
+            stem: shithead
+            word: shithead
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so54"
+            lang: English
+            phrase: "camel toes"
+            stem: cameltoes
+            word: "camel toes"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so193"
+            lang: English
+            phrase: "hershey highway"
+            stem: hersheyhighway
+            word: "hershey highway"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so332"
+            lang: English
+            phrase: shithouse
+            stem: shithouse
+            word: shithouse
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so55"
+            lang: English
+            phrase: can
+            stem: can
+            word: can
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so194"
+            lang: English
+            phrase: hodgie
+            stem: hodgie
+            word: hodgie
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so333"
+            lang: English
+            phrase: shithouse
+            stem: shithouse
+            word: shithouse
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so56"
+            lang: English
+            phrase: "cancer stick"
+            stem: cancerstick
+            word: "cancer stick"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so195"
+            lang: English
+            phrase: honkey
+            stem: honkey
+            word: honkey
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so334"
+            lang: English
+            phrase: shitlist
+            stem: shitlist
+            word: shitlist
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so57"
+            lang: English
+            phrase: "carpet muncher"
+            stem: carpetmuncher
+            word: "carpet muncher"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so196"
+            lang: English
+            phrase: hork
+            stem: hork
+            word: hork
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so335"
+            lang: English
+            phrase: shits
+            stem: shits
+            word: shits
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so58"
+            lang: English
+            phrase: cathouse
+            stem: cathouse
+            word: cathouse
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so197"
+            lang: English
+            phrase: "how's your hammer hangin'?"
+            stem: howsyourhammerhangin
+            word: "hows your hammer hangin"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so336"
+            lang: English
+            phrase: shits
+            stem: shits
+            word: shits
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so59"
+            lang: English
+            phrase: cherry
+            stem: cherry
+            word: cherry
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so198"
+            lang: English
+            phrase: hummer
+            stem: hummer
+            word: hummer
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so337"
+            lang: English
+            phrase: shitstain
+            stem: shitstain
+            word: shitstain
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so60"
+            lang: English
+            phrase: chicken
+            stem: chicken
+            word: chicken
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so199"
+            lang: English
+            phrase: hung
+            stem: hung
+            word: hung
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so338"
+            lang: English
+            phrase: shitstain
+            stem: shitstain
+            word: shitstain
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so61"
+            lang: English
+            phrase: "chicken hawk"
+            stem: chickenhawk
+            word: "chicken hawk"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so200"
+            lang: English
+            phrase: "itchy eye"
+            stem: itchyeye
+            word: "itchy eye"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so339"
+            lang: English
+            phrase: "shoot off"
+            stem: shootoff
+            word: "shoot off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so62"
+            lang: English
+            phrase: "chicken queen"
+            stem: chickenqueen
+            word: "chicken queen"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so201"
+            lang: English
+            phrase: "jack off"
+            stem: jackoff
+            word: "jack off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so340"
+            lang: English
+            phrase: "shoot one's load"
+            stem: shootonesload
+            word: "shoot ones load"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so63"
+            lang: English
+            phrase: chief
+            stem: chief
+            word: chief
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so202"
+            lang: English
+            phrase: "jack off"
+            stem: jackoff
+            word: "jack off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so341"
+            lang: English
+            phrase: "shoot one's wad"
+            stem: shootoneswad
+            word: "shoot ones wad"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so64"
+            lang: English
+            phrase: choad
+            stem: choad
+            word: choad
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so203"
+            lang: English
+            phrase: jackal
+            stem: jackal
+            word: jackal
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so342"
+            lang: English
+            phrase: sissy
+            stem: sissy
+            word: sissy
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so65"
+            lang: English
+            phrase: "chocolate cha cha"
+            stem: chocolatechacha
+            word: "chocolate cha cha"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so204"
+            lang: English
+            phrase: jackshit
+            stem: jackshit
+            word: jackshit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so343"
+            lang: English
+            phrase: sister
+            stem: sister
+            word: sister
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so66"
+            lang: English
+            phrase: "chode- OR -chode"
+            stem: chodeorchode
+            word: "chode or chode"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so205"
+            lang: English
+            phrase: jay
+            stem: jay
+            word: jay
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so344"
+            lang: English
+            phrase: sixty-nine
+            stem: sixtynine
+            word: sixtynine
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so67"
+            lang: English
+            phrase: "choke the chicken"
+            stem: chokethechicken
+            word: "choke the chicken"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so206"
+            lang: English
+            phrase: "jerk off"
+            stem: jerkoff
+            word: "jerk off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so345"
+            lang: English
+            phrase: sixty-nine
+            stem: sixtynine
+            word: sixtynine
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so68"
+            lang: English
+            phrase: "chow box"
+            stem: chowbox
+            word: "chow box"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so207"
+            lang: English
+            phrase: "Jesus H. Christ"
+            stem: jesushchrist
+            word: "jesus h christ"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so346"
+            lang: English
+            phrase: "skull fuck"
+            stem: skullfuck
+            word: "skull fuck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so69"
+            lang: English
+            phrase: Christacrutchian
+            stem: christacrutchian
+            word: christacrutchian
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so208"
+            lang: English
+            phrase: jizz
+            stem: jizz
+            word: jizz
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so347"
+            lang: English
+            phrase: slant
+            stem: slant
+            word: slant
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so70"
+            lang: English
+            phrase: "chubby chaser"
+            stem: chubbychaser
+            word: "chubby chaser"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so209"
+            lang: English
+            phrase: jizzum
+            stem: jizzum
+            word: jizzum
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so348"
+            lang: English
+            phrase: slapper
+            stem: slapper
+            word: slapper
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so71"
+            lang: English
+            phrase: chuck
+            stem: chuck
+            word: chuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so210"
+            lang: English
+            phrase: john
+            stem: john
+            word: john
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so349"
+            lang: English
+            phrase: slut
+            stem: slut
+            word: slut
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so72"
+            lang: English
+            phrase: chuck
+            stem: chuck
+            word: chuck
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so211"
+            lang: English
+            phrase: john
+            stem: john
+            word: john
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so350"
+            lang: English
+            phrase: snatch
+            stem: snatch
+            word: snatch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so73"
+            lang: English
+            phrase: "circle jerk"
+            stem: circlejerk
+            word: "circle jerk"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so212"
+            lang: English
+            phrase: jugs
+            stem: jugs
+            word: jugs
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so351"
+            lang: English
+            phrase: "sod off"
+            stem: sodoff
+            word: "sod off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so74"
+            lang: English
+            phrase: "clap, the"
+            stem: clap
+            word: clap
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so213"
+            lang: English
+            phrase: "jungle fever"
+            stem: junglefever
+            word: "jungle fever"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so352"
+            lang: English
+            phrase: "son of a bitch"
+            stem: sonofabitch
+            word: "son of a bitch"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so75"
+            lang: English
+            phrase: clipped
+            stem: clipped
+            word: clipped
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so214"
+            lang: English
+            phrase: "jungle fever"
+            stem: junglefever
+            word: "jungle fever"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so353"
+            lang: English
+            phrase: "spank the monkey"
+            stem: spankthemonkey
+            word: "spank the monkey"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so76"
+            lang: English
+            phrase: clit
+            stem: clit
+            word: clit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so215"
+            lang: English
+            phrase: kike
+            stem: kike
+            word: kike
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so354"
+            lang: English
+            phrase: "spear chunker"
+            stem: spearchunker
+            word: "spear chunker"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so77"
+            lang: English
+            phrase: "clit fight"
+            stem: clitfight
+            word: "clit fight"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so216"
+            lang: English
+            phrase: "knock up"
+            stem: knockup
+            word: "knock up"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so355"
+            lang: English
+            phrase: spooge
+            stem: spooge
+            word: spooge
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so78"
+            lang: English
+            phrase: closet
+            stem: closet
+            word: closet
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so217"
+            lang: English
+            phrase: knockers
+            stem: knockers
+            word: knockers
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so356"
+            lang: English
+            phrase: spunk
+            stem: spunk
+            word: spunk
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so79"
+            lang: English
+            phrase: "closet queen"
+            stem: closetqueen
+            word: "closet queen"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so218"
+            lang: English
+            phrase: "know {one's} shit"
+            stem: knowonesshit
+            word: "know ones shit"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so357"
+            lang: English
+            phrase: "squirt -n- spurt"
+            stem: squirtnspurt
+            word: "squirt n spurt"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so80"
+            lang: English
+            phrase: cock
+            stem: cock
+            word: cock
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so219"
+            lang: English
+            phrase: krunk
+            stem: krunk
+            word: krunk
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so358"
+            lang: English
+            phrase: stiffy
+            stem: stiffy
+            word: stiffy
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so81"
+            lang: English
+            phrase: "cock ring"
+            stem: cockring
+            word: "cock ring"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so220"
+            lang: English
+            phrase: "lace curtains"
+            stem: lacecurtains
+            word: "lace curtains"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so359"
+            lang: English
+            phrase: "suck a fatty"
+            stem: suckafatty
+            word: "suck a fatty"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so82"
+            lang: English
+            phrase: cocksmoker
+            stem: cocksmoker
+            word: cocksmoker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so221"
+            lang: English
+            phrase: Libido
+            stem: libido
+            word: libido
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so360"
+            lang: English
+            phrase: swedish
+            stem: swedish
+            word: swedish
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so83"
+            lang: English
+            phrase: cocksucker
+            stem: cocksucker
+            word: cocksucker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so222"
+            lang: English
+            phrase: loo
+            stem: loo
+            word: loo
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so361"
+            lang: English
+            phrase: "sweet f.a."
+            stem: sweetfa
+            word: "sweet fa"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so84"
+            lang: English
+            phrase: come
+            stem: come
+            word: come
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so223"
+            lang: English
+            phrase: loose
+            stem: loose
+            word: loose
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so362"
+            lang: English
+            phrase: "sweet fucking Jesus"
+            stem: sweetfuckingjesus
+            word: "sweet fucking jesus"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so85"
+            lang: English
+            phrase: "come stain"
+            stem: comestain
+            word: "come stain"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so224"
+            lang: English
+            phrase: "lop cock"
+            stem: lopcock
+            word: "lop cock"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so363"
+            lang: English
+            phrase: "take a crap"
+            stem: takeacrap
+            word: "take a crap"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so86"
+            lang: English
+            phrase: coon
+            stem: coon
+            word: coon
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so225"
+            lang: English
+            phrase: "love juice"
+            stem: lovejuice
+            word: "love juice"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so364"
+            lang: English
+            phrase: "take a dump"
+            stem: takeadump
+            word: "take a dump"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so87"
+            lang: English
+            phrase: cornhole
+            stem: cornhole
+            word: cornhole
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so226"
+            lang: English
+            phrase: "lucky Pierre"
+            stem: luckypierre
+            word: "lucky pierre"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so365"
+            lang: English
+            phrase: "take a piss"
+            stem: takeapiss
+            word: "take a piss"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so88"
+            lang: English
+            phrase: "cotton picker"
+            stem: cottonpicker
+            word: "cotton picker"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so227"
+            lang: English
+            phrase: meat
+            stem: meat
+            word: meat
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so366"
+            lang: English
+            phrase: "take a shit"
+            stem: takeashit
+            word: "take a shit"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so89"
+            lang: English
+            phrase: crabs
+            stem: crabs
+            word: crabs
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so228"
+            lang: English
+            phrase: "meat puppet"
+            stem: meatpuppet
+            word: "meat puppet"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so367"
+            lang: English
+            phrase: "tar baby"
+            stem: tarbaby
+            word: "tar baby"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so90"
+            lang: English
+            phrase: cracker
+            stem: cracker
+            word: cracker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so229"
+            lang: English
+            phrase: meatrack
+            stem: meatrack
+            word: meatrack
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so368"
+            lang: English
+            phrase: "tea bagging"
+            stem: teabagging
+            word: "tea bagging"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so91"
+            lang: English
+            phrase: crap
+            stem: crap
+            word: crap
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so230"
+            lang: English
+            phrase: "morning wood"
+            stem: morningwood
+            word: "morning wood"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so369"
+            lang: English
+            phrase: "Tea Room"
+            stem: tearoom
+            word: "tea room"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so92"
+            lang: English
+            phrase: crap
+            stem: crap
+            word: crap
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so231"
+            lang: English
+            phrase: "mother fucker"
+            stem: motherfucker
+            word: "mother fucker"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so370"
+            lang: English
+            phrase: telesis
+            stem: telesis
+            word: telesis
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so93"
+            lang: English
+            phrase: crap
+            stem: crap
+            word: crap
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so232"
+            lang: English
+            phrase: "mother fucking"
+            stem: motherfucking
+            word: "mother fucking"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so371"
+            lang: English
+            phrase: "the dogs bollocks"
+            stem: thedogsbollocks
+            word: "the dogs bollocks"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so94"
+            lang: English
+            phrase: crapper
+            stem: crapper
+            word: crapper
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so233"
+            lang: English
+            phrase: "muff diver"
+            stem: muffdiver
+            word: "muff diver"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so372"
+            lang: English
+            phrase: "The shit hit the fan."
+            stem: theshithitthefan
+            word: "the shit hit the fan"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so95"
+            lang: English
+            phrase: "cream one's jeans"
+            stem: creamonesjeans
+            word: "cream ones jeans"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so234"
+            lang: English
+            phrase: N.F.G.
+            stem: nfg
+            word: nfg
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so373"
+            lang: English
+            phrase: threesome
+            stem: threesome
+            word: threesome
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so96"
+            lang: English
+            phrase: cum
+            stem: cum
+            word: cum
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so235"
+            lang: English
+            phrase: nellie
+            stem: nellie
+            word: nellie
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so374"
+            lang: English
+            phrase: "threeway woman"
+            stem: threewaywoman
+            word: "threeway woman"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so97"
+            lang: English
+            phrase: cunt
+            stem: cunt
+            word: cunt
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so236"
+            lang: English
+            phrase: nigga
+            stem: nigga
+            word: nigga
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so375"
+            lang: English
+            phrase: tinkle
+            stem: tinkle
+            word: tinkle
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so98"
+            lang: English
+            phrase: cunt
+            stem: cunt
+            word: cunt
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so237"
+            lang: English
+            phrase: nigger
+            stem: nigger
+            word: nigger
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so376"
+            lang: English
+            phrase: tit
+            stem: tit
+            word: tit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so99"
+            lang: English
+            phrase: cunt
+            stem: cunt
+            word: cunt
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so238"
+            lang: English
+            phrase: nookey
+            stem: nookey
+            word: nookey
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so377"
+            lang: English
+            phrase: "tit in a wringer"
+            stem: titinawringer
+            word: "tit in a wringer"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/1.html#so100"
+            lang: English
+            phrase: "curry queen"
+            stem: curryqueen
+            word: "curry queen"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so239"
+            lang: English
+            phrase: noonan
+            stem: noonan
+            word: noonan
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so378"
+            lang: English
+            phrase: tittie
+            stem: tittie
+            word: tittie
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so101"
+            lang: English
+            phrase: cut
+            stem: cut
+            word: cut
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so240"
+            lang: English
+            phrase: "nooner, noun"
+            stem: nooner
+            word: nooner
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so379"
+            lang: English
+            phrase: "titty fuck"
+            stem: tittyfuck
+            word: "titty fuck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so102"
+            lang: English
+            phrase: cut
+            stem: cut
+            word: cut
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so241"
+            lang: English
+            phrase: "nooner, noun"
+            stem: nooner
+            word: nooner
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so380"
+            lang: English
+            phrase: "to dog"
+            stem: todog
+            word: "to dog"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so103"
+            lang: English
+            phrase: darky
+            stem: darky
+            word: darky
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so242"
+            lang: English
+            phrase: nudger
+            stem: nudger
+            word: nudger
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so381"
+            lang: English
+            phrase: "to swain"
+            stem: toswain
+            word: "to swain"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so104"
+            lang: English
+            phrase: dick
+            stem: dick
+            word: dick
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so243"
+            lang: English
+            phrase: nut
+            stem: nut
+            word: nut
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so382"
+            lang: English
+            phrase: "toss my salad"
+            stem: tossmysalad
+            word: "toss my salad"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so105"
+            lang: English
+            phrase: dickwad
+            stem: dickwad
+            word: dickwad
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so244"
+            lang: English
+            phrase: "oh shit!"
+            stem: ohshit
+            word: "oh shit"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so383"
+            lang: English
+            phrase: tosser
+            stem: tosser
+            word: tosser
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so106"
+            lang: English
+            phrase: diddle
+            stem: diddle
+            word: diddle
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so245"
+            lang: English
+            phrase: "old fart"
+            stem: oldfart
+            word: "old fart"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so384"
+            lang: English
+            phrase: "trailer trash"
+            stem: trailertrash
+            word: "trailer trash"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so107"
+            lang: English
+            phrase: diddle
+            stem: diddle
+            word: diddle
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so246"
+            lang: English
+            phrase: "on the blob"
+            stem: ontheblob
+            word: "on the blob"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so385"
+            lang: English
+            phrase: trick
+            stem: trick
+            word: trick
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so108"
+            lang: English
+            phrase: "diesel dyke"
+            stem: dieseldyke
+            word: "diesel dyke"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so247"
+            lang: English
+            phrase: "one's tits in a knot"
+            stem: onestitsinaknot
+            word: "ones tits in a knot"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so386"
+            lang: English
+            phrase: trick
+            stem: trick
+            word: trick
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so109"
+            lang: English
+            phrase: dildo
+            stem: dildo
+            word: dildo
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so248"
+            lang: English
+            phrase: "one's tits on"
+            stem: onestitson
+            word: "ones tits on"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so387"
+            lang: English
+            phrase: trick
+            stem: trick
+            word: trick
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so110"
+            lang: English
+            phrase: dildo
+            stem: dildo
+            word: dildo
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so249"
+            lang: English
+            phrase: orlando
+            stem: orlando
+            word: orlando
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so388"
+            lang: English
+            phrase: tripping/trippin
+            stem: trippingtrippin
+            word: trippingtrippin
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so111"
+            lang: English
+            phrase: dingleberry
+            stem: dingleberry
+            word: dingleberry
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so250"
+            lang: English
+            phrase: "pain in the ass"
+            stem: painintheass
+            word: "pain in the ass"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so389"
+            lang: English
+            phrase: "tubs, the"
+            stem: tubs
+            word: tubs
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so112"
+            lang: English
+            phrase: dink
+            stem: dink
+            word: dink
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so251"
+            lang: English
+            phrase: "pearl necklace"
+            stem: pearlnecklace
+            word: "pearl necklace"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so390"
+            lang: English
+            phrase: turd
+            stem: turd
+            word: turd
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so113"
+            lang: English
+            phrase: dipshit
+            stem: dipshit
+            word: dipshit
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so252"
+            lang: English
+            phrase: pecker
+            stem: pecker
+            word: pecker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so391"
+            lang: English
+            phrase: "turd burglar"
+            stem: turdburglar
+            word: "turd burglar"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so114"
+            lang: English
+            phrase: "Doesn't know shit from shinola"
+            stem: doesntknowshitfromshinola
+            word: "doesnt know shit from shinola"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so253"
+            lang: English
+            phrase: "pecker cheese"
+            stem: peckercheese
+            word: "pecker cheese"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so392"
+            lang: English
+            phrase: twat
+            stem: twat
+            word: twat
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so115"
+            lang: English
+            phrase: dong
+            stem: dong
+            word: dong
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so254"
+            lang: English
+            phrase: "pecker tracks"
+            stem: peckertracks
+            word: "pecker tracks"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so393"
+            lang: English
+            phrase: twink
+            stem: twink
+            word: twink
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so116"
+            lang: English
+            phrase: doo-doo
+            stem: doodoo
+            word: doodoo
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so255"
+            lang: English
+            phrase: peckerwood
+            stem: peckerwood
+            word: peckerwood
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so394"
+            lang: English
+            phrase: "up shit creek"
+            stem: upshitcreek
+            word: "up shit creek"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so117"
+            lang: English
+            phrase: dork
+            stem: dork
+            word: dork
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so256"
+            lang: English
+            phrase: pee
+            stem: pee
+            word: pee
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so395"
+            lang: English
+            phrase: "up shit creek"
+            stem: upshitcreek
+            word: "up shit creek"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so118"
+            lang: English
+            phrase: dork
+            stem: dork
+            word: dork
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so257"
+            lang: English
+            phrase: pee-pee
+            stem: peepee
+            word: peepee
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so396"
+            lang: English
+            phrase: "up yours"
+            stem: upyours
+            word: "up yours"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so119"
+            lang: English
+            phrase: drag
+            stem: drag
+            word: drag
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so258"
+            lang: English
+            phrase: period
+            stem: period
+            word: period
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so397"
+            lang: English
+            phrase: "vertical bacon sandwich"
+            stem: verticalbaconsandwich
+            word: "vertical bacon sandwich"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so120"
+            lang: English
+            phrase: "drag queen"
+            stem: dragqueen
+            word: "drag queen"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so259"
+            lang: English
+            phrase: phungky
+            stem: phungky
+            word: phungky
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so398"
+            lang: English
+            phrase: "-wad"
+            stem: wad
+            word: wad
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so121"
+            lang: English
+            phrase: "Dutch or Dutch Fuck"
+            stem: dutchordutchfuck
+            word: "dutch or dutch fuck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so260"
+            lang: English
+            phrase: "piece of ass"
+            stem: pieceofass
+            word: "piece of ass"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so399"
+            lang: English
+            phrase: wanker
+            stem: wanker
+            word: wanker
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so122"
+            lang: English
+            phrase: dyke
+            stem: dyke
+            word: dyke
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so261"
+            lang: English
+            phrase: "pillow biter"
+            stem: pillowbiter
+            word: "pillow biter"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/4.html#so400"
+            lang: English
+            phrase: wasted
+            stem: wasted
+            word: wasted
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so123"
+            lang: English
+            phrase: "eat shit"
+            stem: eatshit
+            word: "eat shit"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so262"
+            lang: English
+            phrase: "pinch one off"
+            stem: pinchoneoff
+            word: "pinch one off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so401"
+            lang: English
+            phrase: "water sports"
+            stem: watersports
+            word: "water sports"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so124"
+            lang: English
+            phrase: eddress
+            stem: eddress
+            word: eddress
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so263"
+            lang: English
+            phrase: piss
+            stem: piss
+            word: piss
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so402"
+            lang: English
+            phrase: "Wax the Dolphin"
+            stem: waxthedolphin
+            word: "wax the dolphin"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so125"
+            lang: English
+            phrase: fag
+            stem: fag
+            word: fag
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so264"
+            lang: English
+            phrase: piss
+            stem: piss
+            word: piss
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so403"
+            lang: English
+            phrase: wee-wee
+            stem: weewee
+            word: weewee
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so126"
+            lang: English
+            phrase: "fag hag"
+            stem: faghag
+            word: "fag hag"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so265"
+            lang: English
+            phrase: "piss ant"
+            stem: pissant
+            word: "piss ant"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so404"
+            lang: English
+            phrase: wetback
+            stem: wetback
+            word: wetback
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so127"
+            lang: English
+            phrase: "fag stag"
+            stem: fagstag
+            word: "fag stag"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so266"
+            lang: English
+            phrase: "piss flappers"
+            stem: pissflappers
+            word: "piss flappers"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so405"
+            lang: English
+            phrase: "whack off"
+            stem: whackoff
+            word: "whack off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so128"
+            lang: English
+            phrase: faggot
+            stem: faggot
+            word: faggot
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so267"
+            lang: English
+            phrase: "piss off"
+            stem: pissoff
+            word: "piss off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so406"
+            lang: English
+            phrase: "white swallow"
+            stem: whiteswallow
+            word: "white swallow"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so129"
+            lang: English
+            phrase: fairy
+            stem: fairy
+            word: fairy
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so268"
+            lang: English
+            phrase: "piss off"
+            stem: pissoff
+            word: "piss off"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so407"
+            lang: English
+            phrase: whiz
+            stem: whiz
+            word: whiz
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so130"
+            lang: English
+            phrase: fart
+            stem: fart
+            word: fart
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so269"
+            lang: English
+            phrase: "piss up a storm"
+            stem: pissupastorm
+            word: "piss up a storm"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so408"
+            lang: English
+            phrase: "wicked pisser"
+            stem: wickedpisser
+            word: "wicked pisser"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so131"
+            lang: English
+            phrase: fart
+            stem: fart
+            word: fart
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so270"
+            lang: English
+            phrase: pissed
+            stem: pissed
+            word: pissed
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so409"
+            lang: English
+            phrase: willie
+            stem: willie
+            word: willie
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so132"
+            lang: English
+            phrase: "fart along"
+            stem: fartalong
+            word: "fart along"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so271"
+            lang: English
+            phrase: pissed
+            stem: pissed
+            word: pissed
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so410"
+            lang: English
+            phrase: "wobbly pop"
+            stem: wobblypop
+            word: "wobbly pop"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so133"
+            lang: English
+            phrase: "fart around"
+            stem: fartaround
+            word: "fart around"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so272"
+            lang: English
+            phrase: "pissed to the gills"
+            stem: pissedtothegills
+            word: "pissed to the gills"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so411"
+            lang: English
+            phrase: woody
+            stem: woody
+            word: woody
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so134"
+            lang: English
+            phrase: felch
+            stem: felch
+            word: felch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so273"
+            lang: English
+            phrase: "pitch a tent in your shorts"
+            stem: pitchatentinyourshorts
+            word: "pitch a tent in your shorts"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so412"
+            lang: English
+            phrase: wordhole
+            stem: wordhole
+            word: wordhole
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so135"
+            lang: English
+            phrase: "feltch(ing,er)"
+            stem: feltch
+            word: feltch
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so274"
+            lang: English
+            phrase: plow
+            stem: plow
+            word: plow
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so413"
+            lang: English
+            phrase: wuss
+            stem: wuss
+            word: wuss
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so136"
+            lang: English
+            phrase: "finger fuck"
+            stem: fingerfuck
+            word: "finger fuck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so275"
+            lang: English
+            phrase: "pocket pool"
+            stem: pocketpool
+            word: "pocket pool"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so414"
+            lang: English
+            phrase: Yasser
+            stem: yasser
+            word: yasser
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so137"
+            lang: English
+            phrase: fish
+            stem: fish
+            word: fish
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so276"
+            lang: English
+            phrase: "pocket pool"
+            stem: pocketpool
+            word: "pocket pool"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so415"
+            lang: English
+            phrase: zipperhead
+            stem: zipperhead
+            word: zipperhead
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/2.html#so138"
+            lang: English
+            phrase: "fist fuck"
+            stem: fistfuck
+            word: "fist fuck"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/3.html#so277"
+            lang: English
+            phrase: "poon tang"
+            stem: poontang
+            word: "poon tang"
+          - 
+            definition_url: "http://www.alternative-dictionaries.net/dictionary/English/5.html#so416"
+            lang: English
+            phrase: zoom-in
+            stem: zoomin
+            word: zoomin
