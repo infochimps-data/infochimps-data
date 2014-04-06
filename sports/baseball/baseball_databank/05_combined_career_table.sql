@@ -6,7 +6,6 @@
 SELECT NOW() AS starting_datetime, "Find combined career stats";
 
 DROP TABLE IF EXISTS `comb_career`;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `comb_career` (
   `lahmanID`    int(11)               DEFAULT NULL,
   `playerID`    varchar(10)           CHARACTER SET ascii DEFAULT NULL,
@@ -128,7 +127,7 @@ CREATE TABLE `comb_career` (
   UNIQUE KEY `playerID`   (`playerID`),
   UNIQUE KEY `bbrefID`    (`bbrefID`),
   UNIQUE KEY `retroID`    (`retroID`,`bbrefID`)
-  ) ENGINE=InnoDB DEFAULT CHARSET=latin1
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
 REPLACE INTO comb_career

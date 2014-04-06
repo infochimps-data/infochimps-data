@@ -8,9 +8,9 @@ SELECT NOW() AS starting_datetime, "Creating WAR tables and adding indexable ids
 DROP TABLE IF EXISTS `bat_war`;
 CREATE TABLE bat_war (
   `lahmanID`            int(11)              DEFAULT NULL,
-  `playerID`            varchar(10)          CHARACTER SET ascii DEFAULT NULL,
-  `bbrefID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
-  `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
+  `playerID`            CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`             CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `retroID`             CHAR(8)              CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`          varchar(100),
   `age`                 smallint(2) unsigned DEFAULT NULL,
@@ -46,7 +46,7 @@ CREATE TABLE bat_war (
   `WAR_def`             float                default NULL,
   `WAR_rep`             float                default NULL,
   `salary`              int(10)              default NULL,
-  `isPitcher`           enum('Y','N')        default NULL,
+  `isPitcher`           BOOLEAN              default NULL,
   `teamRpG`             float                default NULL,
   `oppRpG`              float                default NULL,
   `oppRpPA_rep`         float                default NULL,
@@ -72,9 +72,10 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
     runs_defense,runs_position,runs_position_p,
     runs_replacement,runs_above_rep,runs_above_avg,runs_above_avg_off,runs_above_avg_def,
     WAA,WAA_off,WAA_def,WAR,WAR_def,WAR_off,WAR_rep,
-    salary, isPitcher,
+    salary, @isPitcherYN,
     teamRpG,oppRpG,oppRpPA_rep,oppRpG_rep,pyth_exponent,pyth_exponent_rep,
     waa_win_perc,waa_win_perc_off,waa_win_perc_def,waa_win_perc_rep)
+  SET isPitcher = IF(@isPitcherYN = "Y", TRUE, FALSE)
 ;
 SELECT NOW() AS starting_datetime, "Finished import batting WAR", COUNT(*) AS n_bat FROM bat_war;
 --
@@ -102,9 +103,9 @@ SELECT NOW() AS starting_datetime, "Finished fixing batting WAR", COUNT(*) AS n_
 DROP TABLE IF EXISTS `pit_war`;
 CREATE TABLE pit_war (
   `lahmanID`            int(11)              DEFAULT NULL,
-  `playerID`            varchar(10)          CHARACTER SET ascii DEFAULT NULL,
-  `bbrefID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
-  `retroID`             varchar(9)           CHARACTER SET ascii DEFAULT NULL,
+  `playerID`            CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `bbrefID`             CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `retroID`             CHAR(8)              CHARACTER SET ascii DEFAULT NULL,
   --
   `nameCommon`          varchar(100),
   `age`                 smallint(2) unsigned DEFAULT NULL,
@@ -133,7 +134,7 @@ CREATE TABLE pit_war (
   `runs_above_avg_adj`  float                default NULL,
   `runs_above_rep`      float                default NULL,
   `RpO_replacement`     float                default NULL,
-  `GR_leverage_index_avg` float              default NULL,
+  `GR_leverage_idx_avg` float                default NULL,
   `WAR`                 float                default NULL,
   `salary`              float                default NULL,
   `teamRpG`             float                default NULL,
@@ -159,7 +160,7 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
     G,GS,IPouts,IPouts_start,IPouts_relief,
     RA,xRA,xRA_sprp_adj,xRA_def_pitcher,PPF,PPF_custom,xRA_final,
     BIP,BIP_perc,RS_def_total,
-    runs_above_avg,runs_above_avg_adj,runs_above_rep,RpO_replacement,GR_leverage_index_avg,
+    runs_above_avg,runs_above_avg_adj,runs_above_rep,RpO_replacement,GR_leverage_idx_avg,
     WAR,salary,
     teamRpG,oppRpG,pyth_exponent,waa_win_perc,WAA,WAA_adj,oppRpG_rep,
     pyth_exponent_rep,waa_win_perc_rep,WAR_rep )

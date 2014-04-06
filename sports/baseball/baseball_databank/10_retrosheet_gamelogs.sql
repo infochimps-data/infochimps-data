@@ -9,22 +9,30 @@
 
 USE `retrosheet`;
 
+--
+-- Notes:
+--
+-- some field names modified to match baseball_databank ones: yearID vs year_ID, etc.
+-- note that players are identified with "retroID" in the people table, not playerID
+--
+
 DROP TABLE IF EXISTS `games`;
 CREATE TABLE         `games` (
-  game_ID             CHAR(12)          DEFAULT NULL,
-  year_ID             INT(4)            NOT NULL DEFAULT '0',
+  gameID              CHAR(12)          DEFAULT NULL,
+  yearID              INT(4)            NOT NULL DEFAULT '0',
   game_date           DATE              NOT NULL,
   game_start_time     TIME              NOT NULL DEFAULT "00:00:00",
-
+  --
   game_dt             CHAR(8)           NOT NULL,
   game_ct             TINYINT(1)        DEFAULT NULL,
   game_day_of_week    VARCHAR(9)        DEFAULT NULL,
-  away_team_ID        CHAR(3)           NOT NULL,
-  away_lg_ID          CHAR(3)           NOT NULL,
-  away_game_IDx       INT(3) UNSIGNED   NOT NULL,
-  home_team_ID        CHAR(3)           NOT NULL,
-  home_lg_ID          CHAR(3)           NOT NULL,
-  home_game_IDx       INT(3) UNSIGNED   NOT NULL,
+  away_teamID         CHAR(3)           NOT NULL,
+  away_lgID           CHAR(3)           NOT NULL,
+  away_game_seq       INT(3) UNSIGNED   NOT NULL,
+  home_teamID         CHAR(3)           NOT NULL,
+  home_lgID           CHAR(3)           NOT NULL,
+  home_game_seq       INT(3) UNSIGNED   NOT NULL,
+  --
   away_runs_ct        INT(3) SIGNED     DEFAULT NULL,  -- 10
   home_runs_ct        INT(3) SIGNED     DEFAULT NULL,
   tot_outs_ct         INT(3) SIGNED     DEFAULT NULL,
@@ -32,11 +40,12 @@ CREATE TABLE         `games` (
   completion_info     VARCHAR(50)       DEFAULT NULL,
   forfeit_info        VARCHAR(50)       DEFAULT NULL,
   protest_info        VARCHAR(50)       DEFAULT NULL,
-  park_ID             CHAR(5)           DEFAULT NULL,
+  parkID              CHAR(5)           DEFAULT NULL,
   park_attendence     INT(7) SIGNED     DEFAULT NULL,
-  game_minutes_ct     INT(3) SIGNED     DEFAULT NULL, 
+  game_minutes_ct     INT(3) SIGNED     DEFAULT NULL,
   away_linescore      VARCHAR(100)      DEFAULT NULL, -- 20
   home_linescore      VARCHAR(100)      DEFAULT NULL,
+  --
   away_AB             INT(3) SIGNED     DEFAULT NULL,
   away_H              INT(3) SIGNED     DEFAULT NULL,
   away_D              INT(3) SIGNED     DEFAULT NULL,
@@ -54,7 +63,7 @@ CREATE TABLE         `games` (
   away_GDP            INT(3) SIGNED     DEFAULT NULL,
   away_CI             INT(3) SIGNED     DEFAULT NULL,
   away_LOB            INT(3) SIGNED     DEFAULT NULL,
-  away_pit_IDs        VARCHAR(255)      DEFAULT NULL,
+  away_pitIDs         VARCHAR(255)      DEFAULT NULL,
   away_ER             INT(3) SIGNED     DEFAULT NULL, -- 40
   away_TER            INT(3) SIGNED     DEFAULT NULL,
   away_WP             INT(3) SIGNED     DEFAULT NULL,
@@ -65,6 +74,7 @@ CREATE TABLE         `games` (
   away_passed         INT(3) SIGNED     DEFAULT NULL,
   away_DB             INT(3) SIGNED     DEFAULT NULL,
   away_TP             INT(3) SIGNED     DEFAULT NULL,
+  --
   home_AB             INT(3) SIGNED     DEFAULT NULL, -- 50
   home_H              INT(3) SIGNED     DEFAULT NULL,
   home_D              INT(3) SIGNED     DEFAULT NULL,
@@ -82,7 +92,7 @@ CREATE TABLE         `games` (
   home_GDP            INT(3) SIGNED     DEFAULT NULL,
   home_CI             INT(3) SIGNED     DEFAULT NULL,
   home_LOB            INT(3) SIGNED     DEFAULT NULL,
-  home_pit_IDs        VARCHAR(255)      DEFAULT NULL,
+  home_pitIDs         VARCHAR(255)      DEFAULT NULL,
   home_ER             INT(3) SIGNED     DEFAULT NULL,
   home_TER            INT(3) SIGNED     DEFAULT NULL,
   home_WP             INT(3) SIGNED     DEFAULT NULL,
@@ -93,20 +103,22 @@ CREATE TABLE         `games` (
   home_passed         INT(3) SIGNED     DEFAULT NULL,
   home_DB             INT(3) SIGNED     DEFAULT NULL,
   home_TP             INT(3) SIGNED     DEFAULT NULL,
-  ump_H_ID            CHAR(8)           DEFAULT NULL,
-  ump_1B_ID           CHAR(8)           DEFAULT NULL,
-  ump_2B_ID           CHAR(8)           DEFAULT NULL, -- 80
-  ump_3B_ID           CHAR(8)           DEFAULT NULL,
-  ump_LF_ID           CHAR(8)           DEFAULT NULL,
-  ump_RF_ID           CHAR(8)           DEFAULT NULL,
-  manager_away_ID     CHAR(8)           DEFAULT NULL,
-  manager_home_ID     CHAR(8)           DEFAULT NULL,
-  pit_win_ID          CHAR(8)           DEFAULT NULL,
-  pit_loss_ID         CHAR(8)           DEFAULT NULL,
-  pit_save_ID         CHAR(8)           DEFAULT NULL,
-  bat_gwRBI_ID        CHAR(8)           DEFAULT NULL,
-  pit_away_start_ID   CHAR(8)           DEFAULT NULL, -- 90
-  pit_home_start_ID   CHAR(8)           DEFAULT NULL,
+  --
+  ump_HID             CHAR(8)           DEFAULT NULL,
+  ump_1BID            CHAR(8)           DEFAULT NULL,
+  ump_2BID            CHAR(8)           DEFAULT NULL, -- 80
+  ump_3BID            CHAR(8)           DEFAULT NULL,
+  ump_LFID            CHAR(8)           DEFAULT NULL,
+  ump_RFID            CHAR(8)           DEFAULT NULL,
+  manager_awayID      CHAR(8)           DEFAULT NULL,
+  manager_homeID      CHAR(8)           DEFAULT NULL,
+  pit_winID           CHAR(8)           DEFAULT NULL,
+  pit_lossID          CHAR(8)           DEFAULT NULL,
+  pit_saveID          CHAR(8)           DEFAULT NULL,
+  bat_gwRBIID         CHAR(8)           DEFAULT NULL,
+  pit_away_startID    CHAR(8)           DEFAULT NULL, -- 90
+  pit_home_startID    CHAR(8)           DEFAULT NULL,
+  --
   bat_away_1_ID       CHAR(8)           DEFAULT NULL,
   bat_away_1_pos      TINYINT(1) SIGNED DEFAULT NULL,
   bat_away_2_ID       CHAR(8)           DEFAULT NULL,
@@ -143,21 +155,21 @@ CREATE TABLE         `games` (
   bat_home_8_pos      TINYINT(1) SIGNED DEFAULT NULL,
   bat_home_9_ID       CHAR(8)           DEFAULT NULL,
   bat_home_9_pos      TINYINT(1) SIGNED DEFAULT NULL,
+  --
   additional_info     VARCHAR(255)      DEFAULT NULL,
   acquisition_info    VARCHAR(100)      DEFAULT NULL, -- 129
   --
-  PRIMARY KEY `igame`         (`game_ID`, `year_ID`),
-  UNIQUE KEY  `iteam_away`    (`away_team_ID`, `year_ID`, `game_date`, `game_ct`),
-  UNIQUE KEY  `iteam_home`    (`home_team_ID`, `year_ID`, `game_date`, `game_ct`),
-  KEY         `ipark`         (`park_ID`,      `year_ID`, `game_date`),
+  PRIMARY KEY `igame`         (`gameID`,           `yearID`),
+  UNIQUE KEY  `iteam_away`    (`away_teamID`,      `yearID`, `game_date`, `game_ct`),
+  UNIQUE KEY  `iteam_home`    (`home_teamID`,      `yearID`, `game_date`, `game_ct`),
+  KEY         `ipark`         (`parkID`,           `yearID`, `game_date`),
   --
-  KEY         `iyear_away`    (`year_ID`, `away_team_ID`),
-  KEY         `iyear_home`    (`year_ID`, `home_team_ID`),
-  KEY         `iyear_park`    (`year_ID`, `park_ID`),
-  KEY         `pit_away`      (`pit_away_start_ID`, `year_ID`),
-  KEY         `pit_home`      (`pit_home_start_ID`, `year_ID`)
-) ENGINE=MyISAM DEFAULT CHARSET=ascii /*!50100 PARTITION BY LIST (YEAR_ID) (PARTITION pearly VALUES IN (1871,1872,1873,1874,1875,1876,1877,1878,1879,1880,1881,1882,1883,1884,1885,1886,1887,1888,1889,1890,1891,1892,1893,1894,1895,1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919) ENGINE = MyISAM, PARTITION p1920s VALUES IN (1920,1921,1922,1923,1924,1925,1926,1927,1928,1929) ENGINE = MyISAM, PARTITION p1930s VALUES IN (1930,1931,1932,1933,1934,1935,1936,1937,1938,1939) ENGINE = MyISAM, PARTITION p1940s VALUES IN (1940,1941,1942,1943,1944,1945,1946,1947,1948,1949) ENGINE = MyISAM, PARTITION p1950s VALUES IN (1950,1951,1952,1953,1954,1955,1956,1957,1958,1959) ENGINE = MyISAM, PARTITION p1960s VALUES IN (1960,1961,1962,1963,1964,1965,1966,1967,1968,1969) ENGINE = MyISAM, PARTITION p1970s VALUES IN (1970,1971,1972,1973,1974,1975,1976,1977,1978,1979) ENGINE = MyISAM, PARTITION p1980s VALUES IN (1980,1981,1982,1983,1984,1985,1986,1987,1988,1989) ENGINE = MyISAM, PARTITION p1990s VALUES IN (1990,1991,1992,1993,1994,1995,1996,1997,1998,1999) ENGINE = MyISAM, PARTITION p2000s VALUES IN (2000,2001,2002,2003,2004,2005,2006,2007,2008,2009) ENGINE = MyISAM, PARTITION p2010s VALUES IN (2010,2011,2012,2013,2014,2015,2016,2017,2018,2019) ENGINE = MyISAM) */;
-
+  KEY         `iyear_away`    (`yearID`,           `away_teamID`),
+  KEY         `iyear_home`    (`yearID`,           `home_teamID`),
+  KEY         `iyear_park`    (`yearID`,           `parkID`),
+  KEY         `pit_away`      (`pit_away_startID`, `yearID`),
+  KEY         `pit_home`      (`pit_home_startID`, `yearID`)
+) ENGINE=MyISAM DEFAULT CHARSET=ascii /*!50100 PARTITION BY LIST (YEARID) (PARTITION pearly VALUES IN (1871,1872,1873,1874,1875,1876,1877,1878,1879,1880,1881,1882,1883,1884,1885,1886,1887,1888,1889,1890,1891,1892,1893,1894,1895,1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919) ENGINE = MyISAM, PARTITION p1920s VALUES IN (1920,1921,1922,1923,1924,1925,1926,1927,1928,1929) ENGINE = MyISAM, PARTITION p1930s VALUES IN (1930,1931,1932,1933,1934,1935,1936,1937,1938,1939) ENGINE = MyISAM, PARTITION p1940s VALUES IN (1940,1941,1942,1943,1944,1945,1946,1947,1948,1949) ENGINE = MyISAM, PARTITION p1950s VALUES IN (1950,1951,1952,1953,1954,1955,1956,1957,1958,1959) ENGINE = MyISAM, PARTITION p1960s VALUES IN (1960,1961,1962,1963,1964,1965,1966,1967,1968,1969) ENGINE = MyISAM, PARTITION p1970s VALUES IN (1970,1971,1972,1973,1974,1975,1976,1977,1978,1979) ENGINE = MyISAM, PARTITION p1980s VALUES IN (1980,1981,1982,1983,1984,1985,1986,1987,1988,1989) ENGINE = MyISAM, PARTITION p1990s VALUES IN (1990,1991,1992,1993,1994,1995,1996,1997,1998,1999) ENGINE = MyISAM, PARTITION p2000s VALUES IN (2000,2001,2002,2003,2004,2005,2006,2007,2008,2009) ENGINE = MyISAM, PARTITION p2010s VALUES IN (2010,2011,2012,2013,2014,2015,2016,2017,2018,2019) ENGINE = MyISAM) */;
 
 --
 -- Not keeping the _name fields for players; to restore them, add to schema above and remove the '@' below
@@ -171,12 +183,12 @@ IGNORE 1 ROWS
   game_dt,
   game_ct,
   game_day_of_week,
-  away_team_ID,
-  away_lg_ID,
-  away_game_IDx,
-  home_team_ID,
-  home_lg_ID,
-  home_game_IDx,
+  away_teamID,
+  away_lgID,
+  away_game_seq,
+  home_teamID,
+  home_lgID,
+  home_game_seq,
 
   away_runs_ct,
   home_runs_ct,
@@ -185,7 +197,7 @@ IGNORE 1 ROWS
   completion_info,
   forfeit_info,
   protest_info,
-  park_ID,
+  parkID,
   @park_attendence,
   @game_minutes_ct,
   away_linescore,
@@ -208,7 +220,7 @@ IGNORE 1 ROWS
   away_GDP,
   away_CI,
   away_LOB,
-  away_pit_IDs,
+  away_pitIDs,
   away_ER,
   away_TER,
   away_WP,
@@ -237,7 +249,7 @@ IGNORE 1 ROWS
   home_GDP,
   home_CI,
   home_LOB,
-  home_pit_IDs,
+  home_pitIDs,
   home_ER,
   home_TER,
   home_WP,
@@ -249,34 +261,34 @@ IGNORE 1 ROWS
   home_DB,
   home_TP,
 
-  ump_H_ID,
+  ump_HID,
   @ump_H_name,
-  ump_1B_ID,
+  ump_1BID,
   @ump_1B_name,
-  ump_2B_ID,
+  ump_2BID,
   @ump_2B_name,
-  ump_3B_ID,
+  ump_3BID,
   @ump_3B_name,
-  ump_LF_ID,
+  ump_LFID,
   @ump_LF_name,
-  ump_RF_ID,
+  ump_RFID,
   @ump_RF_name,
-  manager_away_ID,
+  manager_awayID,
   @manager_away_name,
-  manager_home_ID,
+  manager_homeID,
   @manager_home_name,
 
-  pit_win_ID,
+  pit_winID,
   @pit_win_name,
-  pit_loss_ID,
+  pit_lossID,
   @pit_loss_name,
-  pit_save_ID,
+  pit_saveID,
   @pit_save_name,
-  bat_gwRBI_ID,
+  bat_gwRBIID,
   @bat_gwRBI_name,
-  pit_away_start_ID,
+  pit_away_startID,
   @pit_away_start_name,
-  pit_home_start_ID,
+  pit_home_startID,
   @pit_home_start_name,
 
   bat_away_1_ID,
@@ -341,8 +353,8 @@ IGNORE 1 ROWS
   SET
     park_attendence = IF(@park_attendence = '', NULL, @park_attendence),
     game_minutes_ct = IF(@game_minutes_ct = '', NULL, @game_minutes_ct),
-    game_ID   = CONCAT(home_team_ID, game_dt, game_ct),
+    gameID    = CONCAT(home_teamID, game_dt, game_ct),
     game_date = STR_TO_DATE(game_dt, "%Y%m%d"),
     -- game_time = STR_TO_TIME(game_dt, game_time), "%Y%m%d%H%M%S"),
-    year_ID   = LEFT(game_dt, 4)
+    yearID    = LEFT(game_dt, 4)
   ;

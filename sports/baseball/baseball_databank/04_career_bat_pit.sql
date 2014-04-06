@@ -6,7 +6,6 @@
 SELECT NOW() AS starting_datetime, "Find career batting stats";
 
 DROP TABLE IF EXISTS `bat_career`;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `bat_career` (
   `lahmanID`    int(11)                DEFAULT NULL,
   `playerID`    varchar(10)            CHARACTER SET ascii DEFAULT NULL,
@@ -69,7 +68,7 @@ CREATE TABLE `bat_career` (
   UNIQUE KEY `playerID`   (`playerID`),
   UNIQUE KEY `bbrefID`    (`bbrefID`),
   UNIQUE KEY `retroID`    (`retroID`,`bbrefID`)
-  ) ENGINE=InnoDB DEFAULT CHARSET=latin1
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ;
 
 REPLACE INTO bat_career
@@ -109,7 +108,7 @@ REPLACE INTO bat_career
 -- Copy over WAR settings from baseball_reference tables
 --
 UPDATE `bat_career`,
-  (SELECT bbrefID, IF(MAX(isPitcher) = "Y", TRUE, FALSE) AS isPitcher,
+  (SELECT bbrefID, MAX(isPitcher) AS isPitcher,
     SUM(PA) AS PA,
     SUM(runs_above_avg) AS RAA, SUM(runs_above_avg_off) AS RAA_off, SUM(runs_above_avg_def) AS RAA_def,
     SUM(runs_above_rep) AS RAR,

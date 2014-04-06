@@ -6,12 +6,11 @@
 SELECT NOW() AS starting_datetime, "Find season batting stats", COUNT(*) AS n_bat from batting;
 
 DROP TABLE IF EXISTS `bat_season`;
-/*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `bat_season` (
   `lahmanID`    INT(11)                NOT NULL,
-  `playerID`    VARCHAR(10)            CHARACTER SET ASCII NOT NULL,
-  `bbrefID`     VARCHAR(9)             CHARACTER SET ASCII NOT NULL,
-  `retroID`     VARCHAR(9)             CHARACTER SET ASCII DEFAULT NULL,
+  `playerID`    CHAR(9)                CHARACTER SET ASCII NOT NULL,
+  `bbrefID`     CHAR(9)                CHARACTER SET ASCII NOT NULL,
+  `retroID`     CHAR(8)                CHARACTER SET ASCII DEFAULT NULL,
   --
   `nameCommon`  varchar(100)           default NULL,
   `nameFirst`   varchar(50)            default NULL,
@@ -19,6 +18,8 @@ CREATE TABLE `bat_season` (
   `age`         SMALLINT(2) UNSIGNED   DEFAULT NULL,
   --
   `yearID`      SMALLINT(3) UNSIGNED   DEFAULT NULL,
+  `teamID`      CHAR(3)                DEFAULT NULL,
+  `lgID`        CHAR(2)                DEFAULT NULL,
   `teamIDs`     VARCHAR(27)            NOT NULL,
   `lgIDs`       VARCHAR(18)            NOT NULL,
   `n_stints`    SMALLINT(3) UNSIGNED   DEFAULT NULL,
@@ -46,7 +47,7 @@ CREATE TABLE `bat_season` (
   `GIDP`        INT(5) UNSIGNED        DEFAULT NULL,
   -- defensive interference while batting.
   -- Discrepancies between Baseball Reference our component stats from Baseball Databank mean that you can't trust this number very much
-  `CIB`         INT(5)                 DEFAULT NULL, 
+  `CIB`         INT(5)                 DEFAULT NULL,
   --
   `BAVG`        FLOAT                  DEFAULT NULL,
   `TB`          FLOAT                  DEFAULT NULL,
@@ -72,7 +73,7 @@ CREATE TABLE `bat_season` (
   UNIQUE KEY  `bbref`     (`bbrefID`,  `yearID`),
   KEY         `retro`     (`retroID`,  `bbrefID`, `yearID`),
   KEY         `yearID`    (`yearID`)
-  ) ENGINE=INNODB DEFAULT CHARSET=latin1
+  ) ENGINE=INNODB DEFAULT CHARSET=utf8
 ;
 
 INSERT INTO `bat_season`
@@ -107,7 +108,7 @@ INSERT INTO `bat_season`
 --
 UPDATE `bat_season`,
   (SELECT bbrefID, yearID, age, COUNT(*) as n_stints,
-    IF(MAX(isPitcher) = "Y", TRUE, FALSE) AS isPitcher,
+    MAX(isPitcher) AS isPitcher,
     SUM(PA) AS PA,
     SUM(runs_above_avg) AS RAA, SUM(runs_above_avg_off) AS RAA_off, SUM(runs_above_avg_def) AS RAA_def,
     SUM(runs_above_rep) AS RAR,

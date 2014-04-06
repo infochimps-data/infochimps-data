@@ -14,8 +14,11 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unport
 
 ### Loading
 
-    date ; ( echo 'DROP DATABASE IF EXISTS `lahman`;' ; cat $lahmandir/lahman2012.sql ) | mysql -u root
-    for foo in  ./{01,02,03,04,05,06}_*.sql ; do echo "  === $foo" ; cat $foo | mysql --show-warnings -u root lahman ; done 
+    lahmandir=/data/rawd/sports/baseball/baseball_databank
+    date ; ( echo 'DROP DATABASE IF EXISTS `lahman`;' ; cat $lahmandir/sql/lahman2012.sql ) | mysql -u root
+    for foo in ./{01,02,03,04,05,06}_*.sql ; do echo "  === $foo" ; cat $foo | mysql --show-warnings -u root lahman ; done
+
+Ignore the "Unknown table 'lahman.X'" warnings -- they come from the DROP TABLE IF EXISTS statements. (Pay attention to other errors though.)
 
 ### The 2012 Version
 
