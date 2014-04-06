@@ -742,10 +742,10 @@
     <othername name="Metropolitan Stadium" auth="1" beg="1961" curr="1" end="1981" />
     <team teamID="MIN" beg="1961-04-21" end="1981-09-30" games="1674" parknameBDB="MIN:Metropolitan Stadium" />
   </park>
-  <park parkID="MIN03" active="0" beg="1982-04-06" city="Minneapolis" country="US" end="2009-10-11" extaddr="" games="1998" href="http://twins.mlb.com" lat="44.97379" lng="-93.25789" logofile="logo_min_79x76.jpg" name="Hubert H. Humphrey Metrodome" spanishurl="" state="MN" streetaddr="34 Kirby Puckett Place" tel="(612) 375-1366" url="twinsbaseball.com" zip="55415">
+  <park parkID="MIN03" active="0" beg="1982-04-06" city="Minneapolis" country="US" end="2009-10-06" extaddr="" games="1998" href="http://twins.mlb.com" lat="44.97379" lng="-93.25789" logofile="logo_min_79x76.jpg" name="Hubert H. Humphrey Metrodome" spanishurl="" state="MN" streetaddr="34 Kirby Puckett Place" tel="(612) 375-1366" url="twinsbaseball.com" zip="55415">
     <othername name="Hubert H Humphrey Metrodome" auth="1" beg="1982" curr="1" end="NULL" />
     <othername name="Metrodome" auth="0" />
-    <team teamID="MIN" beg="1982-04-06" end="2009-10-11" games="1998" parknameBDB="MIN:Hubert H Humphrey Metrodome" />
+    <team teamID="MIN" beg="1982-04-06" end="2009-10-06" games="1998" parknameBDB="MIN:Hubert H Humphrey Metrodome" />
   </park>
   <park parkID="MIN04" active="1" beg="2010-04-12" city="Minneapolis" country="US" end="NULL" games="324" name="Target Field" state="MN" zip="">
     <comment parkID="MIN04" comment="Target Field" />

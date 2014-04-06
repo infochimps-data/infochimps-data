@@ -46,57 +46,65 @@ LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/
   `zip`, `tel`, `url`, `url_spanish`, `logofile`, `comments` )
   ;
 
-
-  
 DROP TABLE IF EXISTS `park_team_years`;
 CREATE TABLE `park_team_years` (
-  `parkID`      VARCHAR(6) NOT NULL,
-  `teamID`      VARCHAR(255) DEFAULT NULL,
-  `yearID`      INT(4) DEFAULT NULL,
-  `begDate`     DATE DEFAULT NULL,
-  `endDate`     DATE DEFAULT NULL,
-  `n_games`     INT(4),
-  `active`      BOOLEAN,
-  `alt_site`    BOOLEAN,
-  PRIMARY KEY   (`parkID`, `teamID`, `yearID`),
-  UNIQUE KEY    team (`teamID`, `yearID`, `parkID`)
+  `parkID`    VARCHAR(6) NOT NULL,
+  `teamID`    VARCHAR(255) NOT NULL DEFAULT '',
+  `yearID`    INT(4) NOT NULL DEFAULT '0',
+  `begDate`   DATE DEFAULT NULL,
+  `endDate`   DATE DEFAULT NULL,
+  `n_games`   INT(4) DEFAULT NULL,
+  PRIMARY KEY        (`parkID`,`teamID`,`yearID`),
+  UNIQUE KEY  `team` (`teamID`,`yearID`,`parkID`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
-LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/baseball_databank/park-team-years.tsv' REPLACE
-  INTO TABLE `park_team_years`
-  FIELDS TERMINATED BY '\t' ENCLOSED BY '"' ESCAPED BY '\\'
-  ( `parkid`, `teamID`, `yearID`, `begDate`, `endDate`, `n_games`, `alt_site` )
-  SET
-    active = IF(endDate IS NULL, 1, 0)
-  ;
-
--- --
--- -- Check against Retrosheet
--- --
+INSERT INTO `park_team_years` (parkID, teamID, yearID, begDate, endDate, n_games)
+  SELECT 
+      park_id AS parkID, home_team_id AS teamID, SUBSTR(game_id, 4,4) AS yearID, 
+      DATE(MIN(SUBSTR(game_id, 4,8))) AS begDate, 
+      DATE(MAX(SUBSTR(game_id, 4,8))) AS endDate, 
+      COUNT(*) AS n_games
+    FROM     retrosheet.games
+    WHERE    park_id != ""
+    GROUP BY park_id, teamID, yearID
+    ORDER BY park_id, teamID, yearID 
+    ;
+    
+-- DROP TABLE IF EXISTS `park_team_years_old`;
+-- CREATE TABLE `park_team_years_old` (
+--   `parkID`      VARCHAR(6) NOT NULL,
+--   `teamID`      VARCHAR(255) DEFAULT NULL,
+--   `yearID`      INT(4) DEFAULT NULL,
+--   `begDate`     DATE DEFAULT NULL,
+--   `endDate`     DATE DEFAULT NULL,
+--   `n_games`     INT(4),
+--   `active`      BOOLEAN,
+--   `alt_site`    BOOLEAN,
+--   PRIMARY KEY   (`parkID`, `teamID`, `yearID`),
+--   UNIQUE KEY    team (`teamID`, `yearID`, `parkID`)
+-- ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+-- 
+-- LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/baseball_databank/park-team-years.tsv' REPLACE
+--   INTO TABLE `park_team_years_old`
+--   FIELDS TERMINATED BY '\t' ENCLOSED BY '"' ESCAPED BY '\\'
+--   ( `parkid`, `teamID`, `yearID`, `begDate`, `endDate`, `n_games`, `alt_site` )
+--   SET
+--     active = IF(endDate IS NULL, 1, 0)
+--   ;
+--     
 -- SELECT rs.parkID, rs.teamID, rs.yearID, rs.n_games, pty.n_games, pty.begDate, pty.endDate, rs.begDate, rs.endDate
 --   , rs.n_games - pty.n_games AS g_diff, rs.begDate - pty.begDate AS bd_diff, rs.endDate - pty.endDate AS ed_diff
---   FROM
---   (SELECT 
---       park_id AS parkID, home_team_id AS teamID, SUBSTR(game_id, 4,4) AS yearID, 
---       DATE(MIN(SUBSTR(game_id, 4,8))) AS begDate, 
---       DATE(MAX(SUBSTR(game_id, 4,8))) AS endDate, 
---       COUNT(*) AS n_games, COUNT(DISTINCT home_team_id) AS n_teams
---     FROM     retrosheet.games
---     WHERE    park_id != ""
---     GROUP BY park_id, home_team_id, yearID
---     ORDER BY park_id, home_team_id, yearID ) rs
--- 
---   LEFT JOIN (
---     SELECT * FROM park_team_years
---   ) pty
---   ON pty.parkID = rs.parkID AND pty.yearID = rs.yearID AND pty.teamID = rs.teamID
---   
---   WHERE pty.yearID > 1952 AND rs.parkID = "NYC16"
---   -- GROUP BY park_id, yearID
---   -- WHERE pty.parkID IS NULL
+--   FROM      
+--     -- park_team_years_old rs
+--     (SELECT parkID, teamID, yearID, SUM(IF(yearID <= 2006, n_games, 0)) AS n_games, MIN(begDate) AS begDate, MAX(endDate) AS endDate FROM park_team_years_old GROUP BY parkID, teamID) rs
+--   LEFT JOIN 
+--     -- park_team_years_old    pty
+--     (SELECT parkID, teamID, yearID,     n_games  AS n_games, MIN(begDate) AS begDate, MAX(endDate) AS endDate FROM park_team_years_old     GROUP BY parkID, teamID) pty
+--     ON  pty.parkID = rs.parkID AND pty.yearID = rs.yearID AND pty.teamID = rs.teamID
+--   -- AND  pty.parkID IS NULL
+--   -- GROUP BY rs.parkID, rs.yearID
 --   -- rs.park_ID IS NULL AND 
 --   ORDER BY 
---     -- ABS(bd_diff) DESC, ABS(ed_diff) DESC, g_diff DESC, 
+--     ABS(g_diff) DESC, ABS(bd_diff) DESC, ABS(ed_diff) DESC, 
 --     rs.parkID, rs.yearID, pty.parkID, pty.yearid
 --   ;
-
