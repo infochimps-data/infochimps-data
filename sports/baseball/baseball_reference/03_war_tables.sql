@@ -7,18 +7,18 @@ SELECT NOW() AS starting_datetime, "Creating WAR tables and adding indexable ids
 
 DROP TABLE IF EXISTS `bat_war`;
 CREATE TABLE bat_war (
-  `lahmanID`            int(11)              DEFAULT NULL,
-  `playerID`            CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
-  `bbrefID`             CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
-  `retroID`             CHAR(8)              CHARACTER SET ascii DEFAULT NULL,
+  `lahman_id`            int(11)              DEFAULT NULL,
+  `player_id`            CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `bbref_id`             CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `retro_id`             CHAR(8)              CHARACTER SET ascii DEFAULT NULL,
   --
-  `nameCommon`          varchar(100),
+  `name_common`          varchar(100),
   `age`                 smallint(2) unsigned DEFAULT NULL,
   --
-  `yearID`              smallint(4)          NOT NULL,
-  `teamID`              char(3)              NOT NULL,
-  `stint`               smallint(2) unsigned NOT NULL,
-  `lgID`                char(2)              NOT NULL,
+  `year_id`              smallint(4)          NOT NULL,
+  `team_id`              char(3)              NOT NULL,
+  `stint_id`               smallint(2) unsigned NOT NULL,
+  `lg_id`                char(2)              NOT NULL,
   `PA`                  int(5)      unsigned default NULL,
   `G`                   int(5)      unsigned default NULL,
   `Inn`                 float                default NULL,
@@ -46,7 +46,7 @@ CREATE TABLE bat_war (
   `WAR_def`             float                default NULL,
   `WAR_rep`             float                default NULL,
   `salary`              int(10)              default NULL,
-  `isPitcher`           BOOLEAN              default NULL,
+  `is_pitcher`           BOOLEAN              default NULL,
   `teamRpG`             float                default NULL,
   `oppRpG`              float                default NULL,
   `oppRpPA_rep`         float                default NULL,
@@ -58,7 +58,7 @@ CREATE TABLE bat_war (
   `waa_win_perc_def`    float                default NULL,
   `waa_win_perc_rep`    float                default NULL,
   --
-  PRIMARY KEY           (`bbrefID`, `yearID`, `stint`)
+  PRIMARY KEY           (`bbref_id`, `year_id`, `stint_id`)
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
@@ -67,30 +67,30 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
   INTO TABLE `bat_war`
   FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY ''
   IGNORE 1 ROWS
-  ( nameCommon,age,bbrefID,yearID,teamID,stint,lgID,PA,G,Inn,
+  ( name_common,age,bbref_id,year_id,team_id,stint_id,lg_id,PA,G,Inn,
     runs_bat,runs_br,runs_dp,runs_field,runs_infield,runs_outfield,runs_catcher,runs_good_plays,
     runs_defense,runs_position,runs_position_p,
     runs_replacement,runs_above_rep,runs_above_avg,runs_above_avg_off,runs_above_avg_def,
     WAA,WAA_off,WAA_def,WAR,WAR_def,WAR_off,WAR_rep,
-    salary, @isPitcherYN,
+    salary, @is_pitcherYN,
     teamRpG,oppRpG,oppRpPA_rep,oppRpG_rep,pyth_exponent,pyth_exponent_rep,
     waa_win_perc,waa_win_perc_off,waa_win_perc_def,waa_win_perc_rep)
-  SET isPitcher = IF(@isPitcherYN = "Y", TRUE, FALSE)
+  SET is_pitcher = IF(@is_pitcherYN = "Y", TRUE, FALSE)
 ;
 SELECT NOW() AS starting_datetime, "Finished import batting WAR", COUNT(*) AS n_bat FROM bat_war;
 --
 UPDATE `bat_war`, `people`
-   SET `bat_war`.`playerID` = `people`.`playerID`,
-       `bat_war`.`retroID`  = `people`.`retroID`,
-       `bat_war`.`lahmanID` = `people`.`lahmanID`
- WHERE `bat_war`.`bbrefID`  = `people`.`bbrefID` ;
+   SET `bat_war`.`player_id` = `people`.`player_id`,
+       `bat_war`.`retro_id`  = `people`.`retro_id`,
+       `bat_war`.`lahman_id` = `people`.`lahman_id`
+ WHERE `bat_war`.`bbref_id`  = `people`.`bbref_id` ;
 --
 ALTER TABLE `bat_war`
-  ADD UNIQUE KEY `lahman`   (`lahmanID`,`yearID`, `stint`),
-  ADD UNIQUE KEY `player`   (`playerID`,`yearID`, `stint`),
-  ADD KEY        `retro`    (`retroID`,`bbrefID`, `yearID`, `stint`),
-  ADD KEY        `season`   (`yearID`),
-  ADD KEY        `team`     (`teamID`,  `yearID`, `lgID`, `stint`)
+  ADD UNIQUE KEY `lahman`   (`lahman_id`,`year_id`, `stint_id`),
+  ADD UNIQUE KEY `player`   (`player_id`,`year_id`, `stint_id`),
+  ADD KEY        `retro`    (`retro_id`,`bbref_id`, `year_id`, `stint_id`),
+  ADD KEY        `season`   (`year_id`),
+  ADD KEY        `team`     (`team_id`,  `year_id`, `lg_id`, `stint_id`)
   ;
 SELECT NOW() AS starting_datetime, "Finished fixing batting WAR", COUNT(*) AS n_bat FROM bat_war;
 
@@ -102,18 +102,18 @@ SELECT NOW() AS starting_datetime, "Finished fixing batting WAR", COUNT(*) AS n_
 
 DROP TABLE IF EXISTS `pit_war`;
 CREATE TABLE pit_war (
-  `lahmanID`            int(11)              DEFAULT NULL,
-  `playerID`            CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
-  `bbrefID`             CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
-  `retroID`             CHAR(8)              CHARACTER SET ascii DEFAULT NULL,
+  `lahman_id`            int(11)              DEFAULT NULL,
+  `player_id`            CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `bbref_id`             CHAR(9)              CHARACTER SET ascii DEFAULT NULL,
+  `retro_id`             CHAR(8)              CHARACTER SET ascii DEFAULT NULL,
   --
-  `nameCommon`          varchar(100),
+  `name_common`          varchar(100),
   `age`                 smallint(2) unsigned DEFAULT NULL,
   --
-  `yearID`              smallint(4) NOT NULL default '0',
-  `teamID`              char(3)     NOT NULL default '',
-  `stint`               smallint(2) unsigned NOT NULL default '0',
-  `lgID`                char(2)     NOT NULL default '',
+  `year_id`              smallint(4) NOT NULL default '0',
+  `team_id`              char(3)     NOT NULL default '',
+  `stint_id`               smallint(2) unsigned NOT NULL default '0',
+  `lg_id`                char(2)     NOT NULL default '',
   --
   `G`                   int(5)      unsigned default NULL,
   `GS`                  int(5)      unsigned default NULL,
@@ -148,7 +148,7 @@ CREATE TABLE pit_war (
   `waa_win_perc_rep`    float                default NULL,
   `WAR_rep`             float                default NULL,
   --
-  PRIMARY KEY           (`bbrefID`, `yearID`, `stint`)
+  PRIMARY KEY           (`bbref_id`, `year_id`, `stint_id`)
   ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 ;
 
@@ -156,7 +156,7 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
   INTO TABLE `pit_war`
   FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY ''
   IGNORE 1 ROWS
-  ( nameCommon,age,bbrefID,yearID,teamID,stint,lgID,
+  ( name_common,age,bbref_id,year_id,team_id,stint_id,lg_id,
     G,GS,IPouts,IPouts_start,IPouts_relief,
     RA,xRA,xRA_sprp_adj,xRA_def_pitcher,PPF,PPF_custom,xRA_final,
     BIP,BIP_perc,RS_def_total,
@@ -168,18 +168,18 @@ LOAD DATA INFILE '/Users/flip/ics/core/wukong/data/sports/baseball/baseball_refe
 SELECT NOW() AS starting_datetime, "Finished import pitching WAR", COUNT(*) as n_pit FROM pit_war;
 --
 UPDATE `pit_war`,`people`
-   SET `pit_war`.`playerID` = `people`.`playerID`,
-       `pit_war`.`retroID`  = `people`.`retroID`,
-       `pit_war`.`lahmanID` = `people`.`lahmanID`
- WHERE `pit_war`.`bbrefID`  = `people`.`bbrefID`
+   SET `pit_war`.`player_id` = `people`.`player_id`,
+       `pit_war`.`retro_id`  = `people`.`retro_id`,
+       `pit_war`.`lahman_id` = `people`.`lahman_id`
+ WHERE `pit_war`.`bbref_id`  = `people`.`bbref_id`
  ;
 --
 ALTER TABLE `pit_war`
-  ADD UNIQUE KEY `lahman`   (`lahmanID`,`yearID`, `stint`),
-  ADD UNIQUE KEY `player`   (`playerID`,`yearID`, `stint`),
-  ADD KEY        `retro`    (`retroID`,`bbrefID`, `yearID`, `stint`),
-  ADD KEY        `season`   (`yearID`),
-  ADD KEY        `team`     (`teamID`,  `yearID`, `lgID`, `stint`)
+  ADD UNIQUE KEY `lahman`   (`lahman_id`,`year_id`, `stint_id`),
+  ADD UNIQUE KEY `player`   (`player_id`,`year_id`, `stint_id`),
+  ADD KEY        `retro`    (`retro_id`,`bbref_id`, `year_id`, `stint_id`),
+  ADD KEY        `season`   (`year_id`),
+  ADD KEY        `team`     (`team_id`,  `year_id`, `lg_id`, `stint_id`)
   ;
 SELECT NOW() AS starting_datetime, "Finished fixing pitching WAR", COUNT(*) as n_pit FROM pit_war;
 
@@ -189,10 +189,10 @@ SELECT NOW() AS starting_datetime, "Finished fixing pitching WAR", COUNT(*) as n
 --
 
 UPDATE `pit_war`, `people`
-   SET `people`.`nameCommon` = `pit_war`.`nameCommon`
- WHERE `pit_war`.`bbrefID` = `people`.`bbrefID`
+   SET `people`.`name_common` = `pit_war`.`name_common`
+ WHERE `pit_war`.`bbref_id` = `people`.`bbref_id`
  ;
 UPDATE `bat_war`, `people`
-   SET `people`.`nameCommon` = `bat_war`.`nameCommon`
- WHERE `bat_war`.`bbrefID`    = `people`.`bbrefID`
+   SET `people`.`name_common` = `bat_war`.`name_common`
+ WHERE `bat_war`.`bbref_id`    = `people`.`bbref_id`
  ;

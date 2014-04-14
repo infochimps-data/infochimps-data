@@ -1,21 +1,19 @@
-
-
--- tail -n+2 parkinfo.tsv | ruby -ne 'parkid,parkname,begDate,endDate,active,n_games,lat,lng,allteams,allnames,streetaddr,extaddr,city,state,country,zip,tel,url,url_spanish,logofile,comments = $_.split("\t"); teams = allteams.split(/; /); teams.each{|team| m = /^(...) \((\d+)-(\d+|now)\)( \[alt\])?/.match(team) ; unless m then p team ; next ; end ; teamID, t_begYear, t_endYear, alt = m.captures.to_a; puts [parkid, teamID, t_begYear, t_endYear, alt.nil? ? 0 : 1, n_games].join("\t") }' | sort > park-team-seasons-b.tsv
--- cat parkinfo-all.xml |  ruby -e 'parkID, begYear, endYear = ["","",""]; $stdin.readlines[1..-2].each{|line| case when (line =~ %r{<park parkID="(.....)".*beg="([^"\-]+).*end="([^"\-]+)}) then parkID, begParkYear, endParkYear = [$1, $2, $3] ; when line =~ %r{<team></team>} then next ; when line =~ %r{<team} then line =~ %r{teamID="(...)" beg="([^"]+)" end="([^"]+)" games="(\d+)"(?: neutralsite="(.)")?} or (p line; next) ; by, ey = [$2, $3] ; next if (by == "NULL" && ey == "NULL") ; begUseYear = by[0..3].to_i; endUseYear = (ey =="NULL" ? 2013: ey[0..3].to_i); (begUseYear .. endUseYear).each{|yearID| puts [parkID, $1, yearID, $2, $3, $4, $5||"0"].join("\t") } ; end }'
--- SELECT GROUP_CONCAT(DISTINCT home_teamID), parkID, SUBSTR(gameID, 4,4) AS yearID, COUNT(*) AS n_games, COUNT(DISTINCT home_teamID) AS n_teams
+-- tail -n+2 parkinfo.tsv | ruby -ne 'park_id,parkname,beg_date,end_date,is_active,n_games,lat,lng,allteams,allnames,streetaddr,extaddr,city,state,country,zip,tel,url,url_spanish,logofile,comments = $_.split("\t"); teams = allteams.split(/; /); teams.each{|team| m = /^(...) \((\d+)-(\d+|now)\)( \[alt\])?/.match(team) ; unless m then p team ; next ; end ; team_id, t_begYear, t_endYear, alt = m.captures.to_a; puts [park_id, team_id, t_begYear, t_endYear, alt.nil? ? 0 : 1, n_games].join("\t") }' | sort > park-team-seasons-b.tsv
+-- cat parkinfo-all.xml |  ruby -e 'park_id, begYear, endYear = ["","",""]; $stdin.readlines[1..-2].each{|line| case when (line =~ %r{<park park_id="(.....)".*beg="([^"\-]+).*end="([^"\-]+)}) then park_id, begParkYear, endParkYear = [$1, $2, $3] ; when line =~ %r{<team></team>} then next ; when line =~ %r{<team} then line =~ %r{team_id="(...)" beg="([^"]+)" end="([^"]+)" games="(\d+)"(?: neutralsite="(.)")?} or (p line; next) ; by, ey = [$2, $3] ; next if (by == "NULL" && ey == "NULL") ; begUseYear = by[0..3].to_i; endUseYear = (ey =="NULL" ? 2013: ey[0..3].to_i); (begUseYear .. endUseYear).each{|year_id| puts [park_id, $1, year_id, $2, $3, $4, $5||"0"].join("\t") } ; end }'
+-- SELECT GROUP_CONCAT(DISTINCT home_team_id), park_id, SUBSTR(game_id, 4,4) AS year_id, COUNT(*) AS n_games, COUNT(DISTINCT home_team_id) AS n_teams
 --   FROM games
---   WHERE parkID != ""
---   GROUP BY parkID, yearID
+--   WHERE park_id != ""
+--   GROUP BY park_id, year_id
 --   HAVING n_teams > 1
---   ORDER BY yearID
+--   ORDER BY year_id
 
 DROP TABLE IF EXISTS `parks`;
 CREATE TABLE `parks` (
-  `parkID`      VARCHAR(6) NOT NULL,
-  `parkname`    VARCHAR(255) DEFAULT NULL,
-  `begDate`     DATE DEFAULT NULL,
-  `endDate`     DATE DEFAULT NULL,
-  `active`      BOOLEAN,
+  `park_id`     VARCHAR(6       ) NOT NULL,
+  `park_name`   VARCHAR(255) DEFAULT NULL,
+  `beg_date`    DATE DEFAULT NULL,
+  `end_date`    DATE DEFAULT NULL,
+  `is_active`      BOOLEAN,
   `n_games`     INT(4),
   `lat`         FLOAT,
   `lng`         FLOAT,
@@ -32,39 +30,39 @@ CREATE TABLE `parks` (
   `url_spanish` VARCHAR(255) CHARSET ascii DEFAULT NULL,
   `logofile`    VARCHAR(255) CHARSET ascii DEFAULT NULL,
   `comments`    VARCHAR(1024) CHARSET ascii DEFAULT NULL,
-  PRIMARY KEY (`parkid`),
-  KEY         (`begDate`),
-  KEY         (`parkname`)
+  PRIMARY KEY (`park_id`),
+  KEY         (`beg_date`),
+  KEY         (`park_name`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/baseball_databank/parks/parkinfo.tsv' REPLACE
   INTO TABLE `parks`
   FIELDS TERMINATED BY '\t' ENCLOSED BY '"' ESCAPED BY '\\'
   IGNORE 1 ROWS
-  ( `parkid`, `parkname`, `begDate`, `endDate`, `active`, `n_games`, `lat`, `lng`,
+  ( `park_id`, `park_name`, `beg_date`, `end_date`, `is_active`, `n_games`, `lat`, `lng`,
   `allteams`, `allnames`, `streetaddr`, `extaddr`, `city`, `state`, `country`,
   `zip`, `tel`, `url`, `url_spanish`, `logofile`, `comments` )
   ;
 
 DROP TABLE IF EXISTS `park_team_years`;
 CREATE TABLE `park_team_years` (
-  `parkID`    VARCHAR(6) NOT NULL,
-  `teamID`    VARCHAR(255) NOT NULL DEFAULT '',
-  `yearID`    INT(4) NOT NULL DEFAULT '0',
-  `begDate`   DATE DEFAULT NULL,
-  `endDate`   DATE DEFAULT NULL,
+  `park_id`    VARCHAR(6) NOT NULL,
+  `team_id`    VARCHAR(255) NOT NULL DEFAULT '',
+  `year_id`    INT(4) NOT NULL DEFAULT '0',
+  `beg_date`   DATE DEFAULT NULL,
+  `end_date`   DATE DEFAULT NULL,
   `n_games`   INT(4) DEFAULT NULL,
-  PRIMARY KEY        (`parkID`,`teamID`,`yearID`),
-  UNIQUE KEY  `team` (`teamID`,`yearID`,`parkID`)
+  PRIMARY KEY        (`park_id`,`team_id`,`year_id`),
+  UNIQUE KEY  `team` (`team_id`,`year_id`,`park_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
-INSERT INTO `park_team_years` (parkID, teamID, yearID, begDate, endDate, n_games)
+INSERT INTO `park_team_years` (park_id, team_id, year_id, beg_date, end_date, n_games)
   SELECT
-      parkID, home_teamID AS teamID, yearID,
-      MIN(game_date) AS begDate, MAX(game_date) AS endDate,
+      park_id, home_team_id AS team_id, year_id,
+      MIN(game_date) AS beg_date, MAX(game_date) AS end_date,
       COUNT(*) AS n_games
     FROM     retrosheet.games
-    WHERE    parkID != ""
-    GROUP BY parkID, teamID, yearID
-    ORDER BY parkID, teamID, yearID
+    WHERE    park_id != ""
+    GROUP BY park_id, team_id, year_id
+    ORDER BY park_id, team_id, year_id
     ;
