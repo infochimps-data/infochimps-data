@@ -1,1 +1,0 @@
-../baseball_reference/03_war_tables.sql
