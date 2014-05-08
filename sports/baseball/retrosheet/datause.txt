@@ -8,7 +8,7 @@ the Tools selection.  Several other programs can expand and
 manage .zip files.  The game data archives contain event files,
 roster files for the league, and a team names and abbreviations
 file.  All files are standard ASCII text files.
-  
+
 In the team archive files there is an event file that contains
 all of the team's games for the season. These files have an
 .EVX extension.  For example, for the 1983 Yankees, this file is
@@ -17,162 +17,162 @@ event files for each team, which have an .EVA extension for AL
 teams and an .EVN extension for NL teams. The 1983 Yankees home
 games file is named 83NYA.EVA for example. The files are standard
 ASCII text files and in each file the games are in chronological
-order.  
-  
-For each game there are eight different record types.  Each  
-record type has a unique designator, which is followed by several 
-fields separated by commas.  The eight record types and their  
+order.
+
+For each game there are eight different record types.  Each
+record type has a unique designator, which is followed by several
+fields separated by commas.  The eight record types and their
 possible fields are described below.  There are two other record
 types not described here which are used to indicate a batter or pitcher
-batting or throwing other than his normal handedness.  
-  
-ID   Each game begins with a twelve character ID record which identifies 
+batting or throwing other than his normal handedness.
+
+ID   Each game begins with a twelve character ID record which identifies
      the date, location, and number of the game.  For example,
      BAL198304040 should be read as follows.  The first three characters
      identify the home team (the Orioles).  The next two are the last two
      digits of the year (1983).  The next two are the month (April), the
      next two are the day (04).  The last digit is the number of the
      game: here it is a 0 for a single game; it would be 1 for the
-     first game of a double header, 2 for the second game.  
-  
-version   The version statement is next and tracks when the file  
+     first game of a double header, 2 for the second game.
+
+version   The version statement is next and tracks when the file
           was created.  The current version is '1'.
-  
-info      There are up to 30 info records, each of which contains a  
-          single piece of information, such as the temperature,  
-          the attendance, the identity of each umpire, etc.  
-  
-start     There are 18 (for the NL or pre-DH AL) or 20 (for the  
-          AL with the DH) start records, which identify the  
-          starting lineups for the game.  Each start record has  
-          five fields.   
-  
-       1. The first field is the Retrosheet ID code,  
-          which is unique for each player.  This 8 digit code is  
-          constructed from the first four letters of the player's 
-          last name, the first initial of his common name, and a  
+
+info      There are up to 30 info records, each of which contains a
+          single piece of information, such as the temperature,
+          the attendance, the identity of each umpire, etc.
+
+start     There are 18 (for the NL or pre-DH AL) or 20 (for the
+          AL with the DH) start records, which identify the
+          starting lineups for the game.  Each start record has
+          five fields.
+
+       1. The first field is the Retrosheet ID code,
+          which is unique for each player.  This 8 digit code is
+          constructed from the first four letters of the player's
+          last name, the first initial of his common name, and a
           three digit number.
-  
-       2. The second field is the player's name.  
-  
-       3. The next field is either 0 (for visiting team), or 1  
-          (for home team).  
-  
-       4. The next field is the position in the batting order.  
-  
-       5. The last field is the starting fielding position.  The  
-          numbers are the standard notation, with designated  
-          hitters being identified as position 10.  
-  
-play      The play records contain the events of the game.  Each  
-          play record has 7 fields.  
-  
-       1. The first field is the inning.  
-  
-       2. The second field is either 0 (for visiting team) or 1  
-          (for home team).  
-  
-       3. The third field is the Retrosheet ID code.  
-  
-       4. The fourth field is the count on the batter when this  
+
+       2. The second field is the player's name.
+
+       3. The next field is either 0 (for visiting team), or 1
+          (for home team).
+
+       4. The next field is the position in the batting order.
+
+       5. The last field is the starting fielding position.  The
+          numbers are the standard notation, with designated
+          hitters being identified as position 10.
+
+play      The play records contain the events of the game.  Each
+          play record has 7 fields.
+
+       1. The first field is the inning.
+
+       2. The second field is either 0 (for visiting team) or 1
+          (for home team).
+
+       3. The third field is the Retrosheet ID code.
+
+       4. The fourth field is the count on the batter when this
           particular event (play) occurred.  Most Retrosheet
           games do not have this information, and in such cases,
-          "??" appears in this field. 
-  
-       5. The fifth field is of variable length and contains all  
-          pitches to this batter in this plate appearance.  The  
-          standard pitches are:  C for called strike, S for  
-          swinging strike, B for ball, F for foul ball.  In  
-          addition, pickoff throws are indicated by the number of 
-          the base the throw went to.  For example, "1" means the 
-          pitcher made a throw to first, "2" a throw to second,  
-          etc.  If the base number is preceded by a "+" sign, the 
+          "??" appears in this field.
+
+       5. The fifth field is of variable length and contains all
+          pitches to this batter in this plate appearance.  The
+          standard pitches are:  C for called strike, S for
+          swinging strike, B for ball, F for foul ball.  In
+          addition, pickoff throws are indicated by the number of
+          the base the throw went to.  For example, "1" means the
+          pitcher made a throw to first, "2" a throw to second,
+          etc.  If the base number is preceded by a "+" sign, the
           pickoff throw was made by the catcher. Some of the less
           common pitch codes are L:foul bunt, M:missed bunt,
           Q:swinging strike on a pitchout, R:foul ball on a pitchout,
           I:intentional ball, P:pitchout, H:hit by pitch, K:strike of
-          unknown type, U:unkown or missing pitch.  Most Retrosheet  
-          games do not have pitch data and consequnetly this field  
-          is blank for such games. 
-  
-          There is occasionally more than one event for each  
-          plate appearance, such as stolen bases, wild pitches,  
-          and balks in which the same batter remains at the  
-          plate.  On these occasions the pitch sequence is  
-          interrupted by a period, and there is another play  
-          record for the resumption of the batter's plate  
-          appearance.  
-  
-       6. The sixth field describes the play which occurred.   
-          This field is variable in length and has three main  
-          portions which follow the Retrosheet scoring  
-          system.  The scoring procedure description also  
-          contains a diagram that explains clearly how each area  
+          unknown type, U:unkown or missing pitch.  Most Retrosheet
+          games do not have pitch data and consequnetly this field
+          is blank for such games.
+
+          There is occasionally more than one event for each
+          plate appearance, such as stolen bases, wild pitches,
+          and balks in which the same batter remains at the
+          plate.  On these occasions the pitch sequence is
+          interrupted by a period, and there is another play
+          record for the resumption of the batter's plate
+          appearance.
+
+       6. The sixth field describes the play which occurred.
+          This field is variable in length and has three main
+          portions which follow the Retrosheet scoring
+          system.  The scoring procedure description also
+          contains a diagram that explains clearly how each area
           of the playing field is designated.  (The diagram is
           available under Docs, but most Retrosheet game
-          accounts do not contain detailed location codes.) 
-  
-            a. The first portion is a description of the basic  
-               play, following standard baseball scoring  
-               notation.  For example, a fly ball to center field 
-               is "8", a ground ball to second is "43", etc.   
-               Base hits are abbreviated with a letter (S for  
-               singles, D for doubles, T for triples, H for home  
-               runs) and (usually) a number identifying the  
-               fielder who played the ball.  Therefore "S7" is a  
-               single fielded by the left fielder.  
-  
-            b. The second portion is a modifier of the first part 
-               and is separated from it with a forward slash,  
-               "/".  In fact, there may be more than one second  
-               portion.  Typical examples are hit locations.  For  
-               example, "D8/78" indicates a double fielded by the 
-               center fielder on a ball hit to left center.   
-               Other possible second portion modifiers are "SH"  
-               for sacrifice hits, GDP for grounding into double  
-               plays, etc.  
-  
-            c. The third portion describes the advancement of any 
-               runners, separated from the earlier parts by a  
-               period.  For example, "S9/L9S.2-H;1-3"  should be  
-               read as: single fielded by the right fielder, line 
-               drive  to short right field.  The runner on 2nd 
-               scored (advanced to home), and the runner on first 
-               advanced to third.  Note that any advances after  
-               the first are separated by semicolons.  
-  
-com  This record is used for those plays which require a special  
-     comment to describe the event.  
-  
-sub  Whenever any change in the lineup occurs, there is a  
-     substitute record.  There are five fields in this type of  
-     record.  
-  
-       a. The first field is the Retrosheet ID code.  
-  
-       b. The second field is the player's name.  
-  
-       c. The third field is either 0 (visiting team) or 1 (home  
-          team).  
-  
-       d. The fourth field is batting order position of the  
-          substitute.  
-  
-       e. The fifth field is the position the substitute is going 
-          to play.  Code "11" is for pinch hitters and "12" is  
-          for pinch runners.  
-  
-     Note that whenever a substitution occurs, it is preceded by  
-     a play record with the play event described as "NP", meaning 
-     No Play.  The purpose of this record is to "mark the place"  
-     of the substitution for other programs. 
-  
-data      The several data records appear after all plays from  
-     the game and contain the number of earned runs allowed by  
-     each pitcher.  Each record contains the pitcher's Project  
-     Scoresheet code and the number of earned runs he allowed.  
-  
-  
+          accounts do not contain detailed location codes.)
+
+            a. The first portion is a description of the basic
+               play, following standard baseball scoring
+               notation.  For example, a fly ball to center field
+               is "8", a ground ball to second is "43", etc.
+               Base hits are abbreviated with a letter (S for
+               singles, D for doubles, T for triples, H for home
+               runs) and (usually) a number identifying the
+               fielder who played the ball.  Therefore "S7" is a
+               single fielded by the left fielder.
+
+            b. The second portion is a modifier of the first part
+               and is separated from it with a forward slash,
+               "/".  In fact, there may be more than one second
+               portion.  Typical examples are hit locations.  For
+               example, "D8/78" indicates a double fielded by the
+               center fielder on a ball hit to left center.
+               Other possible second portion modifiers are "SH"
+               for sacrifice hits, GDP for grounding into double
+               plays, etc.
+
+            c. The third portion describes the advancement of any
+               runners, separated from the earlier parts by a
+               period.  For example, "S9/L9S.2-H;1-3"  should be
+               read as: single fielded by the right fielder, line
+               drive  to short right field.  The runner on 2nd
+               scored (advanced to home), and the runner on first
+               advanced to third.  Note that any advances after
+               the first are separated by semicolons.
+
+com  This record is used for those plays which require a special
+     comment to describe the event.
+
+sub  Whenever any change in the lineup occurs, there is a
+     substitute record.  There are five fields in this type of
+     record.
+
+       a. The first field is the Retrosheet ID code.
+
+       b. The second field is the player's name.
+
+       c. The third field is either 0 (visiting team) or 1 (home
+          team).
+
+       d. The fourth field is batting order position of the
+          substitute.
+
+       e. The fifth field is the position the substitute is going
+          to play.  Code "11" is for pinch hitters and "12" is
+          for pinch runners.
+
+     Note that whenever a substitution occurs, it is preceded by
+     a play record with the play event described as "NP", meaning
+     No Play.  The purpose of this record is to "mark the place"
+     of the substitution for other programs.
+
+data      The several data records appear after all plays from
+     the game and contain the number of earned runs allowed by
+     each pitcher.  Each record contains the pitcher's Project
+     Scoresheet code and the number of earned runs he allowed.
+
+
 There are three programs available for downloading under Tools
 that facilitate your analysis of the raw play by play information.
 These programs are  called BOX, BEVENT and BGAME.  Their
@@ -181,68 +181,68 @@ to use these programs, you must have the TEAM file and the ROSTER
 files in the directory with the program and the event files.  The
 name of the TEAM file includes the year, TEAM1967 for example.
 These files are included in the .zip archive files.
- 
-_________________________ 
-  
-BOX  
-     The purpose of BOX is to generate newspaper (or Sporting  
-News) style box scores from the event file.  It is designed so  
-that you can print box scores of specific games or all games in  
-an event file.  There are three specific ways in which BOX may be 
+
+_________________________
+
+BOX
+     The purpose of BOX is to generate newspaper (or Sporting
+News) style box scores from the event file.  It is designed so
+that you can print box scores of specific games or all games in
+an event file.  There are three specific ways in which BOX may be
 run, each of which involves invoking a different "switch".  All of
 these programs must have the year specified after the -y switch on
-the command line.  
- 
-  
-  1. The simplest use of BOX is to print all the games in the  
-     file.  For example, the file 1967NYA.EVA contains all the Yanks 
-     home games.  To print a box score of all games in this file, 
-     be sure your printer is on and ready and type:  
-  
-          BOX -y 1967 1967NYA.EVA>PRN  
-  
-     If you leave out the ">PRN" at the end of the command, then  
-     all the box scores will be displayed on your monitor in a  
-     continuous unreadable stream.  As an alternative you may  
-     direct the output to a new file on your disk for later  
-     examination.  In this example such a file might have the  
-     name "Yanksbox".  In that case the command would be:  
-  
-          BOX -y 1967 67NYA.EVA>YANKSBOX  
-  
-  2. The second choice is to print a box score for a specific  
-     game for which you know the GameID, for example, NYA6704140, 
-     the game we considered above.  In this case, prepare your  
-     printer and type:  
-  
-          BOX -y 1967 -i NYA6704140 67NYA.EVA>PRN  
-  
-     Note that you must specify both the GameID as well as the  
+the command line.
+
+
+  1. The simplest use of BOX is to print all the games in the
+     file.  For example, the file 1967NYA.EVA contains all the Yanks
+     home games.  To print a box score of all games in this file,
+     be sure your printer is on and ready and type:
+
+          BOX -y 1967 1967NYA.EVA>PRN
+
+     If you leave out the ">PRN" at the end of the command, then
+     all the box scores will be displayed on your monitor in a
+     continuous unreadable stream.  As an alternative you may
+     direct the output to a new file on your disk for later
+     examination.  In this example such a file might have the
+     name "Yanksbox".  In that case the command would be:
+
+          BOX -y 1967 67NYA.EVA>YANKSBOX
+
+  2. The second choice is to print a box score for a specific
+     game for which you know the GameID, for example, NYA6704140,
+     the game we considered above.  In this case, prepare your
+     printer and type:
+
+          BOX -y 1967 -i NYA6704140 67NYA.EVA>PRN
+
+     Note that you must specify both the GameID as well as the
      name of the file which contains the game.
-  
-     When this -i switch is used, the BOX program searches the  
-     entire event file from the start for the GameID you specify.  
-     Depending on your equipment, this search may take many  
-     seconds or even a few minutes.  After your requested game  
-     has been printed, the BOX program will continue to search to 
-     the end of the file, another potentially time-consuming  
-     process.  
-  
-  3. The third choice for using BOX is important if you don't  
-     remember a desired GameId.  In this option, the BOX program  
-     searches through the file you specify, displays each GameID  
-     on the screen for you, and asks if you want that game  
-     printed.  You must respond yes or no for each game.  The  
-     format of this command is:  
-  
-          BOX -y 1967 -q 67NYA.EVA>PRN  
-  
-It is important to note that in order to use BOX, you must have  
-the TEAM file and the ROSTER files in the directory with the BOX  
-program and the event files.  These files are included in the .zip  
-archive.  
- 
-_________________________ 
+
+     When this -i switch is used, the BOX program searches the
+     entire event file from the start for the GameID you specify.
+     Depending on your equipment, this search may take many
+     seconds or even a few minutes.  After your requested game
+     has been printed, the BOX program will continue to search to
+     the end of the file, another potentially time-consuming
+     process.
+
+  3. The third choice for using BOX is important if you don't
+     remember a desired GameId.  In this option, the BOX program
+     searches through the file you specify, displays each GameID
+     on the screen for you, and asks if you want that game
+     printed.  You must respond yes or no for each game.  The
+     format of this command is:
+
+          BOX -y 1967 -q 67NYA.EVA>PRN
+
+It is important to note that in order to use BOX, you must have
+the TEAM file and the ROSTER files in the directory with the BOX
+program and the event files.  These files are included in the .zip
+archive.
+
+_________________________
 There are two utility programs which will greatly facilitate your
 analysis of the play-by-play data.  These programs are called
 BEVENT and BGAME.  Instructions for using both of these programs are
@@ -261,8 +261,8 @@ the -y switch on the command line.  Sample syntax for use:
 
 In addition, these programs work with the standard DOS wildcards
 "*" and "?" in the names of the input files.
-  
-BEVENT  
+
+BEVENT
      The purpose of BEVENT is to prepare a report of a game in a format
 that is suitable for importing into a data base or spreadsheet.  It
 would be reasonable to think of BEVENT functioning as a parser to
@@ -293,7 +293,7 @@ Some BEVENT fields are numbers and some are strings (that is,
 non-numeric characters).  In all cases, the strings are enclosed by
 double quotes so that the records can be correctly interpreted as
 numbers or strings when imported into spreadsheet and data base
-programs.  Following are descriptions of each field. 
+programs.  Following are descriptions of each field.
 
 
      game id.  Game ID following the format described in the
@@ -302,13 +302,13 @@ programs.  Following are descriptions of each field.
      event num.  All events are numbered consecutively throughout
                  each game for easy reference.
 
-     inning.  Inning in which this play took place. 
+     inning.  Inning in which this play took place.
 
      batting team.  A one-character identification of the team at
                     bat ("0" for the visiting team and "1" for the
                     home team).
 
-     outs.  Number of outs before this play. 
+     outs.  Number of outs before this play.
 
      balls, strikes, pitch sequence.  These three consecutive
             fields present the pitch information for this play.
@@ -429,30 +429,30 @@ programs.  Following are descriptions of each field.
      SF flag.  One character indicating sacrifice fly (T = yes;
              F = no).
 
-     outs on play.  Number of outs recorded on this play.  
+     outs on play.  Number of outs recorded on this play.
 
-     double play flag.  One character field of DP or not. 
+     double play flag.  One character field of DP or not.
 
-     triple play flag.  Once character field of TP or not. 
+     triple play flag.  Once character field of TP or not.
 
-     RBI on play.  Number of RBI credited to batter on this play. 
+     RBI on play.  Number of RBI credited to batter on this play.
 
      wild pitch flag, passed ball flag.  Two records with
              indication of whether there was a WP or PB on this play.
 
-     fielded by.  Identity of the fielder who played the ball. 
+     fielded by.  Identity of the fielder who played the ball.
              This is especially important for base hits when no
              formal fielding credit is given.
 
      batted ball type.  Descriptor which is either F (fly ball), L
              (line drive), P (pop-up), or G (ground ball).
 
-     bunt flag.  Descriptor for whether or not play was a bunt. 
+     bunt flag.  Descriptor for whether or not play was a bunt.
 
      foul flag.  Descriptor for whether or not ball was played in
              foul ground.
 
-     hit location.  The zone on the field where the ball was hit. 
+     hit location.  The zone on the field where the ball was hit.
              Refer to the Scoring System attachments for a
              diagram of all locations.
 
@@ -524,7 +524,7 @@ specified to the program.  It is strongly suggested that you
 generate only a subset of all possible fields at any single time,
 since most studies will not need all of the information at one
 time.  BEVENT may then be run again, specifying different fields
-for the output for a subsequent study. 
+for the output for a subsequent study.
 
 
 The following list presents all of the above options with the numbers to use
@@ -631,23 +631,23 @@ number    field
 95   Fielder with Fifth Assist (0 if none)
 96   event num
 
-  
-***IMPORTANT:    If you run BEVENT and generate all the possible 
-fields, the output will be more than three times the size of the 
-event file you specified to the program.  It is suggested that 
-you generate only a subset of all possible fields at any single 
-time, since most studies will not need all of the information at 
-one time.  BEVENT may then be run again, specifying different 
-fields for the output, for a subsequent study. 
- 
-_________________________ 
- 
-BGAME 
-  
+
+***IMPORTANT:    If you run BEVENT and generate all the possible
+fields, the output will be more than three times the size of the
+event file you specified to the program.  It is suggested that
+you generate only a subset of all possible fields at any single
+time, since most studies will not need all of the information at
+one time.  BEVENT may then be run again, specifying different
+fields for the output, for a subsequent study.
+
+_________________________
+
+BGAME
+
 The purpose of this program is to generate a summary of those items
 which are constant for each game, such as date, indication of day
 or night, identity of umpires, etc.  There is also summary data of
-the game, such as the final score.  
+the game, such as the final score.
 
 The output of BGAME may be coordinated with that from BEVENT since
 they use the same Game ID code.  The use of this program is similar
