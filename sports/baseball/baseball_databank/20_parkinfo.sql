@@ -35,8 +35,8 @@ CREATE TABLE `parks` (
   KEY         (`park_name`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
-LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/baseball_databank/parks/parkinfo.tsv' REPLACE
-  INTO TABLE `parks`
+LOAD DATA INFILE '/Users/flip/ics/book/big_data_for_chimps/data/sports/baseball/baseball_databank/parks/parkinfo.tsv'
+  REPLACE INTO TABLE `parks`
   FIELDS TERMINATED BY '\t' ENCLOSED BY '"' ESCAPED BY '\\'
   IGNORE 1 ROWS
   ( `park_id`, `park_name`, `beg_date`, `end_date`, `is_active`, `n_games`, `lat`, `lng`,

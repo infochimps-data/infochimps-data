@@ -95,7 +95,7 @@ REPLACE INTO bat_career
   JOIN `people` peep
     ON bat.`player_id` = peep.`player_id`
   LEFT JOIN (
-    SELECT player_id, count(DISTINCT year_id) AS Y_allstar FROM allstar ast
+    SELECT player_id, count(DISTINCT year_id) AS Y_allstar FROM allstars ast
       GROUP BY player_id ) ast
     ON bat.`player_id` = ast.`player_id`
   LEFT JOIN `halloffame` hof
@@ -248,7 +248,7 @@ REPLACE INTO pit_career
   JOIN `people` peep
     ON pit.`player_id` = peep.`player_id`
   LEFT JOIN (
-    SELECT player_id, count(DISTINCT year_id) AS Y_allstar FROM allstar ast
+    SELECT player_id, count(DISTINCT year_id) AS Y_allstar FROM allstars ast
       GROUP BY player_id ) ast
     ON pit.`player_id` = ast.`player_id`
   LEFT JOIN `halloffame` hof

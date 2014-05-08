@@ -111,7 +111,7 @@ ALTER TABLE `salaries`
   ;
 
 ALTER TABLE `allstarfull`
-  RENAME TO `allstar`,
+  RENAME TO `allstars`,
   CHANGE `playerID`     `player_id`     varchar(9) NOT NULL,
   CHANGE `yearID`       `year_id`       int(11) NOT NULL,
   CHANGE `gameNum`      `game_seq`      int(11) NOT NULL,
