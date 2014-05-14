@@ -1,10 +1,9 @@
 
-
 * `us_combined_statistical_areas.tsv` -- Census ID, Name, Census area type, Parent census code (for case of MDv), Children (separated by `|`)
   - CSA = Combined Statistical Area; CBSA = Core-based Statistical Area; MDv = Metropolitan Division; MSA = Metropolitan Statistical Area; µSA = Micropolitan Statistical Area.
-  
 
 
+* `us_msa.tsv` -- Rank	Name	Type	2013 Est	2010 Census	Change	Encompassing Combined Statistical Area
 
 ### Metro areas
 
@@ -12,9 +11,7 @@ Beware of encoding in the below
 
 Data taken from:
 
-
 * [Combined statistical areas and component core based statistical areas, December 2009, with codes](http://www.census.gov/population/metro/files/lists/2009/List6.txt)
-
 
 Combined statistical areas defined by the Office of Management and Budget, December 2009;  U.S. Census Bureau, Population Division
 
