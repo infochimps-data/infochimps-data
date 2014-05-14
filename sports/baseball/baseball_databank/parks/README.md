@@ -65,11 +65,50 @@ where
 
 I've left five 'proposed' stadiums in the set, including the future NYA stadium and a few others whose status I'm unsure of.  These are easy enough to remove if the idea offends.
 
-I'm going to try to spin off a Google Earth .kml file from this data, hopefully later tonight, which will placemark all the geolocated sites with all the above info in the descriptions.
+Seamheads:
 
-Cheers,
-Philip (Flip) Kromer
-http://vizsage.com
+```
+^\([^
+	]+\)	\(.+?\)
+\([0-9]+/[0-9]+/[0-9]+\)
+\([0-9]+/[0-9]+/[0-9]+
+\)? ?	
+\([0-9]+\)
+\([0-9]+\)
+ 	
+\(-?[0-9]+\.[0-9]+\)
+\(-?[0-9]+\.[0-9]+\)
+\([0-9]+\)
+ 	
+Map
+Map
+```
+
+```
+^[ 	]+<tr.*
+.*onmouse.*
+.*onmouse.*
+.*bgcolo.*
+.*td.*parkID=\(.....\)">\([^<]+\)</a>
+.*td.*
+.*<a href="city\.php\?City=[^"]+">\([^<]+\)</a>
+.*td.*
+[^0-9/]*\([0-9]+/[0-9]+/[0-9]+\).*
+[^/0-9]+\([0-9]+/[0-9]+/[0-9]+\)?.*</div.*</td.*
+.*nbsp.*
+[^0-9]*[0-9]+.*div.*td.*
+[^0-9]*\([0-9]+\).*div.*td.*
+.*nbsp.*
+[^0-9]*\(-?[0-9]+\.[0-9]+\).*div.*td.*
+[^0-9\-]*\(-?[0-9]+\.[0-9]+\).*div.*td.*
+[^0-9]*\([0-9]+\).*div.*td.*
+.*nbsp.*
+.*
+.*left.*
+.*
+.*
+.*</tr>.*
+```
 
 PS If you enjoyed playing with the Google Earth thing, I'd also like to point to these other Google Earth files:
   All Minor Lg http://bbs.keyhole.com/ubb/placemarks/997756-minorleague.kmz     
