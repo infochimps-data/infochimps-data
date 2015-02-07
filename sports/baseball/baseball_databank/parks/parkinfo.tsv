@@ -25,7 +25,6 @@ BOS05	South End Grounds III	1894-07-20	1914-08-11	0	1489	-71.09	42.34	Boston	MA	
 BOS06	Huntington Avenue Baseball Grounds	1901-05-08	1911-10-07	0	831	-71.09	42.34	Boston	MA	US								BOS (831:1901-1911)	Huntington Avenue Baseball Grounds (1901-1911); Huntington Avenue Grounds	
 BOS07	Fenway Park	1912-04-20	2013-09-22	1	8013	-71.1	42.35	Boston	MA	US	02215	4 Yawkey Way		(617) 267-9440	redsox.com		logo_bos_79x76.jpg	BOS (7926:1912-now); BSN (87:1913-1946 alt)	Fenway Park (1912-now); Fenway Park II; Fenway Park I	BSN played 52 games here as an alternate (neutral) site from 1915-04-14 until 1915-07-26: Delay in the opening of Braves Field | BSN played 31 games here as an altern
 BOS08	Braves Field	1915-08-18	1952-09-21	0	2871	-71.12	42.35	Boston	MA	US								BSN (2811:1915-1952 alt); BOS (60:1916-1932 alt)	Braves Field (1915-1952); Bee Hive	BOS played 52 games here as an alternate (neutral) site from 1929-04-28 until 1932-05-29: Alternate park for Sunday and/or holiday games | BOS played 2 games here as 
-BOS09	Proposed Boston Red Sox Park	0000-00-00	0000-00-00	0	0	NULL	NULL	Boston	MA	US	02215							BOS	Proposed Boston Red Sox Park	Proposed (but not currently planned) Boston Red Sox Park: All info suspect
 BUF01	Riverside Grounds	1879-05-01	1883-09-08	0	212	-78.89	42.91	Buffalo	NY	US								BFN (212:1879-1883)	Riverside Grounds (1879-1883); Riverside Park	
 BUF02	Olympic Park I	1884-05-21	1885-10-07	0	108	-78.88	42.91	Buffalo	NY	US								BFN (108:1884-1885)	Olympic Park I (1884-1885)	
 BUF03	Olympic Park II	1890-04-19	1890-10-04	0	65	-78.86	42.91	Buffalo	NY	US								BFP (65:1890-1890)	Olympic Park II (1890-1890)	
@@ -131,7 +130,7 @@ MIL06	Miller Park	2001-04-06	2013-09-22	1	1058	-87.97	43.03	Milwaukee	WI	US	5321
 MIN01	Athletic Park (Minneapolis)	1891-10-02	1891-10-02	0	1	-93.27	44.98	Minneapolis	MN	US								ML3 (1:1891-1891 alt)	Athletic Park (Minneapolis) (1891-1891); Athletic Park (1891-1891)	ML3 played 1 games here as an alternate (neutral) site from 1891-10-02 until 1891-10-02 | ML2
 MIN02	Metropolitan Stadium	1961-04-21	1981-09-30	0	1674	-93.24	44.85	Minneapolis	MN	US								MIN (1674:1961-1981)	Metropolitan Stadium (1961-1981)	
 MIN03	Hubert H. Humphrey Metrodome	1982-04-06	2009-10-06	0	2242	-93.26	44.97	Minneapolis	MN	US	55415	34 Kirby Puckett Place		(612) 375-1366	twinsbaseball.com		logo_min_79x76.jpg	MIN (2242:1982-now)	Hubert H Humphrey Metrodome (1982-now); Metrodome	
-MIN04	Target Field	2010-04-12	2013-09-29	1	324	-93.28	44.98	Minneapolis	MN	US								MIN (324:2010-now)	Proposed Minnesota Twins Park	Proposed Minnesota Twins Park
+MIN04	Target Field	2010-04-12	2013-09-29	1	324	-93.28	44.98	Minneapolis	MN	US								MIN (324:2010-now)	Target Field	
 MNT01	Estadio Monterrey	1996-08-16	1999-04-04	0	4	-100.32	25.72	Monterrey	NL	MX								SDN (4:1996-1999 alt)	Estadio Monterrey (1996-1999); Estadio de Beisbol Monterrey	SDN played 4 games here as an alternate (neutral) site from 1996-08-16 until 1999-04-04: Marketing move by Major League Baseball
 MON01	Parc Jarry	1969-04-14	1976-09-26	0	641	-73.63	45.53	Montreal	QC	CA								MON (641:1969-1976)	Parc Jarry (1969-1976); Jarry Park	
 MON02	Stade Olympique	1977-04-15	2004-09-29	0	2145	-73.55	45.56	Montreal	QC	CA								MON (2145:1977-2004)	Stade Olympique (1977-2004); Olympic Stadium	
@@ -161,7 +160,6 @@ NYC19	Washington Park IV	1914-05-11	1915-09-30	0	154	-73.99	40.67	Brooklyn	NY	US
 NYC20	Citi Field	2009-04-13	2013-09-29	1	405	-73.85	40.76	New York	NY	US								NYN (405:2009-now)	Citi Field	
 NYC21	Yankee Stadium II	2009-04-16	2013-09-26	1	405	-73.93	40.83	New York	NY	US								NYA (405:2009-now)	Yankee Stadium II	
 OAK01	Oakland-Alameda County Coliseum	1968-04-17	2013-09-22	1	3654	-122.2	37.75	Oakland	CA	US	94621	7000 Coliseum Way		(510) 638-4900	oaklandathletics.com		logo_oak_79x76.jpg	OAK (3654:1968-now)	Oakland-Alameda County Coliseum (1968-2013); Overstock.com Coliseum(2011-2011); McAfee Coliseum (2005-2008); Network Associates Coliseum (1998-2004); UMAX Coliseum (1997-1997); Oakland Coliseum	
-OAK02	Proposed Oakland Athletics Stadium	0000-00-00	0000-00-00	0	0	NULL	NULL	Oakland	CA	US									Proposed Oakland Athletics Stadium	Proposed Oakland Athletics Stadium
 PEN01	Pendleton Park	1891-04-25	1891-08-13	0	45	-84.45	39.12	Cincinnati	OH	US	45226							CN3 (45:1891-1891)	Pendleton Park (1891-1891); East End Park; East End Grounds: Cincinnati Gym Grounds	
 PHI01	Jefferson Street Grounds	1871-06-03	1890-10-11	0	746	-75.18	39.98	Philadelphia	PA	US								PHN (35:1876-1876); PH4 (494:1883-1890); PH2 (83:1873-1875); PH1 (134:1871-1875)	Jefferson Street Grounds (1871-1891); Athletics Park; Athletic Park	
 PHI02	Centennial Park	1875-04-21	1875-06-04	0	8	-75.17	39.98	Philadelphia	PA	US								PH3 (7:1875-1875); PH1 (1:1875-1875 alt)	Centennial Park (1875-1875); Centennial Grounds	
