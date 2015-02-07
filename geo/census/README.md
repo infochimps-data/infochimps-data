@@ -61,3 +61,7 @@ Last Revised:
 
 CBSA                                                                           FIPS    FIPS
 Code    CBSA Titles and Principal Cities                                      State   Place 
+
+US Cities Population: http://www.census.gov/popest/data/cities/totals/2011/tables/SUB-EST2011-01.csv
+
+  and https://en.wikipedia.org/wiki/Cities_and_metropolitan_areas_of_the_United_States
