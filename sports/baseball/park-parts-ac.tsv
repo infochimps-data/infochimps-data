@@ -1,0 +1,70 @@
+NYC01	Union Grounds (Brooklyn)	1871-05-25	1878-07-26	0	315	-73.96	40.7	Brooklyn	NY	US
+NYC02	Capitoline Grounds	1872-05-06	1872-10-31	0	18	-73.95	40.68	Brooklyn	NY	US
+NYC03	Polo Grounds I (Southeast Diamond)	1883-05-01	1888-10-13	0	472	-73.95	40.8	New York	NY	US
+NYC04	Polo Grounds II (Southwest Diamond)	1883-05-30	1883-09-04	0	13	-73.95	40.8	New York	NY	US
+NYC05	Washington Park I	1884-05-05	1889-05-04	0	290	-73.99	40.67	Brooklyn	NY	US
+NYC06	Metropolitan Park	1884-05-13	1884-08-23	0	33	-73.94	40.79	New York	NY	US
+NYC07	Grauer's Ridgewood Park	1886-05-02	1886-09-19	0	14	-73.9	40.7	Brooklyn	NY	US
+NYC08	Washington Park II	1889-05-30	1890-10-03	0	123	-73.99	40.67	Brooklyn	NY	US
+NYC09	Polo Grounds III	1889-07-08	1890-09-13	0	112	-73.94	40.83	New York	NY	US
+NYC10	Polo Grounds IV	1890-04-19	1911-04-13	0	1545	-73.94	40.83	New York	NY	US
+NYC11	Eastern Park	1890-04-28	1897-10-02	0	554	-73.9	40.67	Brooklyn	NY	US
+NYC12	Washington Park III	1898-04-30	1912-10-05	0	1125	-73.99	40.68	Brooklyn	NY	US
+NYC13	Hilltop Park	1903-04-30	1912-10-05	0	776	-73.94	40.84	New York	NY	US
+NYC14	Polo Grounds V	1911-06-28	1963-09-18	0	4490	-73.94	40.83	New York	NY	US
+NYC15	Ebbets Field	1913-04-09	1957-09-24	0	3447	-73.96	40.66	Brooklyn	NY	US
+NYC16	Yankee Stadium I	1923-04-18	2008-09-21	0	6581	-73.93	40.83	Bronx	NY	US
+NYC17	Shea Stadium	1964-04-17	2008-09-28	0	3737	-73.85	40.76	Flushing	NY	US
+NYC18	Wallace's Ridgewood Park	1887-04-24	1890-06-08	0	77	-73.91	40.69	Brooklyn	NY	US
+NYC19	Washington Park IV	1914-05-11	1915-09-30	0	154	-73.99	40.67	Brooklyn	NY	US
+NYC20	Citi Field	2009-04-13	2013-09-29	1	405	-73.85	40.76	New York	NY	US
+NYC21	Yankee Stadium II	2009-04-16	2013-09-26	1	405	-73.93	40.83	New York	NY	US
+OAK01	Oakland-Alameda County Coliseum	1968-04-17	2013-09-22	1	3654	-122.2	37.75	Oakland	CA	US
+PEN01	Pendleton Park	1891-04-25	1891-08-13	0	45	-84.45	39.12	Cincinnati	OH	US
+PHI01	Jefferson Street Grounds	1871-06-03	1890-10-11	0	746	-75.18	39.98	Philadelphia	PA	US
+PHI02	Centennial Park	1875-04-21	1875-06-04	0	8	-75.17	39.98	Philadelphia	PA	US
+PHI03	Oakdale Park (Philadelphia)	1882-05-02	1882-09-21	0	39	-75.15	39.99	Philadelphia	PA	US
+PHI04	Recreation Park (Philadelphia)	1883-05-01	1886-10-09	0	224	-75.17	39.98	Philadelphia	PA	US
+PHI05	Keystone Park	1884-04-17	1884-08-07	0	35	-75.17	39.93	Philadelphia	PA	US
+PHI06	Huntingdon Grounds I	1887-04-30	1894-08-04	0	531	-75.16	39.99	Philadelphia	PA	US
+PHI07	Forepaugh Park	1890-04-30	1891-10-05	0	137	-75.15	39.99	Philadelphia	PA	US
+PHI08	University of Penn. Athletic Field	1894-08-11	1894-08-17	0	6	-75.2	39.95	Philadelphia	PA	US
+PHI09	Baker Bowl	1895-05-02	1938-06-30	0	3218	-75.16	39.99	Philadelphia	PA	US
+PHI10	Columbia Park (Philadelphia)	1901-04-26	1908-10-03	0	599	-75.18	39.98	Philadelphia	PA	US
+PHI11	Shibe Park	1909-04-12	1970-10-01	0	6055	-75.16	40	Philadelphia	PA	US
+PHI12	Veterans Stadium	1971-04-10	2003-09-28	0	2617	-75.17	39.91	Philadelphia	PA	US
+PHI13	Citizens Bank Park	2004-04-12	2013-09-22	1	813	-75.17	39.91	Philadelphia	PA	US
+PHI14	Huntingdon Grounds II	1894-08-18	1894-09-06	0	22	-75.16	39.99	Philadelphia	PA	US
+PHO01	Chase Field	1998-03-31	2013-09-29	1	1296	-112.07	33.45	Phoenix	AZ	US
+PIT01	Union Park	1878-08-22	1878-08-24	0	3	-80.03	40.45	Pittsburgh	PA	US
+PIT02	Exposition Park I	1882-05-10	1883-09-06	0	69	-80.01	40.45	Pittsburgh	PA	US
+PIT03	Exposition Park II	1883-05-01	1884-08-30	0	22	-80.01	40.45	Pittsburgh	PA	US
+PIT04	Recreation Park (Pittsburgh)	1884-05-01	1890-09-30	0	429	-80.03	40.45	Pittsburgh	PA	US
+PIT05	Exposition Park III	1890-04-19	1915-10-02	0	1572	-80.01	40.45	Pittsburgh	PA	US
+PIT06	Forbes Field	1909-06-30	1970-06-28	0	4760	-79.95	40.44	Pittsburgh	PA	US
+PIT07	Three Rivers Stadium	1970-07-16	2000-10-01	0	2407	-80.01	40.45	Pittsburgh	PA	US
+PIT08	PNC Park	2001-04-09	2013-09-22	1	1051	-80.01	40.45	Pittsburgh	PA	US
+PRO01	Adelaide Avenue Grounds	1875-06-12	1875-06-22	0	2	-71.42	41.8	Providence	RI	US
+PRO02	Messer Street Grounds	1878-05-01	1885-09-09	0	358	-71.44	41.81	Providence	RI	US
+RCK01	Virginia State Agricultural Society Fair Grounds	1871-05-06	1871-08-03	0	6	-89.1	42.28	Rockford	IL	US
+RIC01	Richmond Fair Grounds	1875-04-29	1875-05-01	0	2	-77.45	37.55	Richmond	VA	US
+RIC02	Allens Pasture	1884-08-05	1884-10-15	0	22	-77.46	37.55	Richmond	VA	US
+ROC01	Culver Field I	1890-04-28	1890-10-04	0	57	-77.58	43.15	Rochester	NY	US
+ROC02	Culver Field II	1898-08-27	1898-08-29	0	2	-77.58	43.15	Rochester	NY	US
+ROC03	Ontario Beach Grounds	1898-08-28	1898-08-28	0	1	-77.61	43.26	Rochester	NY	US
+SAI01	St. George Cricket Grounds	1886-04-22	1889-06-14	0	148	-74.08	40.65	Staten Island	NY	US
+SAN01	Qualcomm Stadium	1969-04-08	2003-09-28	0	2768	-117.12	32.78	San Diego	CA	US
+SAN02	PetCo Park	2004-04-08	2013-09-26	1	810	-117.16	32.71	San Diego	CA	US
+SEA01	Sicks' Stadium	1969-04-11	1969-10-02	0	82	-122.3	47.58	Seattle	WA	US
+SEA02	Kingdome	1977-04-06	1999-06-27	0	1755	-122.33	47.6	Seattle	WA	US
+SEA03	Safeco Field	1999-07-15	2013-09-29	1	1181	-122.33	47.59	Seattle	WA	US
+SFO01	Seals Stadium	1958-04-15	1959-09-20	0	154	-122.41	37.77	San Francisco	CA	US
+SFO02	Candlestick Park	1960-04-12	1999-09-30	0	3173	-122.39	37.71	San Francisco	CA	US
+SFO03	AT&T Park	2000-04-11	2013-09-29	1	1135	-122.39	37.78	San Francisco	CA	US
+SJU01	Estadio Hiram Bithorn	2001-04-01	2010-06-30	0	47	-66.07	18.42	San Juan	PR	US
+SPR01	Hampden Park Race Track	1872-07-23	1875-05-14	0	3	-72.61	42.11	Springfield	MA	US
+STL01	Red Stocking Base-Ball Park	1875-05-04	1875-07-04	0	14	-90.23	38.63	St. Louis	MO	US
+STL02	Grand Avenue Park	1875-05-06	1878-07-13	0	97	-90.22	38.66	St. Louis	MO	US
+STL03	Sportsman's Park I	1882-05-02	1892-10-13	0	717	-90.22	38.66	St. Louis	MO	US
+STL04	Palace Park of America	1884-04-20	1886-09-23	0	175	-90.21	38.65	St. Louis	MO	US
+STL05	Robison Field	1893-04-27	1920-06-06	0	2021	-90.22	38.66	St. Louis	MO	US

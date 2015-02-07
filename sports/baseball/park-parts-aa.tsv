@@ -1,0 +1,70 @@
+ALB01	Riverside Park	1880-09-11	1882-05-30	0	7	-73.75	42.64	Albany	NY	US
+ALB02	Greenbush Grounds	1882-05-30	1882-05-30	0	1	\N	\N	Rensselaer	NY	US
+ALT01	Columbia Park (Altoona)	1884-04-30	1884-05-31	0	18	-78.41	40.49	Altoona	PA	US
+ANA01	Angel Stadium of Anaheim	1966-04-19	2013-09-25	1	3836	-117.88	33.8	Anaheim	CA	US
+ARL01	Arlington Stadium	1972-04-21	1993-10-03	0	1750	-97.08	32.76	Arlington	TX	US
+ARL02	Globe Life Park	1994-04-11	2013-09-30	1	1595	-97.08	32.75	Arlington	TX	US
+ATL01	Atlanta-Fulton County Stadium	1966-04-12	1996-09-23	0	2435	-84.39	33.74	Atlanta	GA	US
+ATL02	Turner Field	1997-04-04	2013-09-29	1	1377	-84.39	33.74	Atlanta	GA	US
+BAL01	Madison Avenue Grounds	1871-07-08	1871-07-08	0	1	-76.63	39.31	Baltimore	MD	US
+BAL02	Newington Park	1872-04-22	1882-09-30	0	112	-76.64	39.31	Baltimore	MD	US
+BAL03	Oriole Park I	1883-05-01	1888-10-13	0	352	-76.61	39.32	Baltimore	MD	US
+BAL04	Belair Lot	1884-04-17	1884-09-24	0	50	-76.6	39.29	Baltimore	MD	US
+BAL05	Monumental Park	1884-08-25	1884-08-25	0	1	-76.61	39.29	Baltimore	MD	US
+BAL06	Oriole Park II	1889-04-18	1891-05-09	0	103	-76.61	39.32	Baltimore	MD	US
+BAL07	Oriole Park III	1891-05-11	1899-10-10	0	616	-76.61	39.32	Baltimore	MD	US
+BAL09	Oriole Park IV	1901-04-26	1902-09-29	0	130	-76.61	39.32	Baltimore	MD	US
+BAL10	Terrapin Park	1914-04-13	1915-10-02	0	158	-76.61	39.32	Baltimore	MD	US
+BAL11	Memorial Stadium	1954-04-15	1991-10-06	0	3006	-76.6	39.33	Baltimore	MD	US
+BAL12	Oriole Park at Camden Yards	1992-04-06	2013-09-29	1	1746	-76.62	39.28	Baltimore	MD	US
+BOS01	South End Grounds I	1871-05-16	1887-09-10	0	685	-71.09	42.34	Boston	MA	US
+BOS02	Dartmouth Grounds	1884-04-30	1884-09-24	0	57	-71.1	42.32	Boston	MA	US
+BOS03	South End Grounds II	1888-05-25	1894-05-14	0	420	-71.09	42.34	Boston	MA	US
+BOS04	Congress Street Grounds	1890-04-19	1894-06-20	0	167	-71.05	42.35	Boston	MA	US
+BOS05	South End Grounds III	1894-07-20	1914-08-11	0	1489	-71.09	42.34	Boston	MA	US
+BOS06	Huntington Avenue Baseball Grounds	1901-05-08	1911-10-07	0	831	-71.09	42.34	Boston	MA	US
+BOS07	Fenway Park	1912-04-20	2013-09-22	1	8013	-71.1	42.35	Boston	MA	US
+BOS08	Braves Field	1915-08-18	1952-09-21	0	2871	-71.12	42.35	Boston	MA	US
+BUF01	Riverside Grounds	1879-05-01	1883-09-08	0	212	-78.89	42.91	Buffalo	NY	US
+BUF02	Olympic Park I	1884-05-21	1885-10-07	0	108	-78.88	42.91	Buffalo	NY	US
+BUF03	Olympic Park II	1890-04-19	1890-10-04	0	65	-78.86	42.91	Buffalo	NY	US
+BUF04	International Fair Association Grounds	1914-05-11	1915-09-08	0	156	-78.85	42.92	Buffalo	NY	US
+CAN01	Mahaffey Park	1902-06-15	1903-06-21	0	3	-81.41	40.82	Canton	OH	US
+CAN02	Pastime Park	1890-09-18	1890-09-18	0	1	-81.42	40.81	Canton	OH	US
+CHI01	White Stocking Grounds	1871-05-08	1871-09-29	0	17	-87.62	41.88	Chicago	IL	US
+CHI02	23rd Street Park	1872-05-29	1877-10-06	0	129	-87.63	41.85	Chicago	IL	US
+CHI03	White Stocking Park	1878-05-14	1882-09-30	0	208	-87.62	41.88	Chicago	IL	US
+CHI04	Lake Front Park III	1883-05-05	1884-10-11	0	106	-87.62	41.88	Chicago	IL	US
+CHI05	South Side Park I	1884-05-02	1884-08-01	0	35	-87.62	41.82	Chicago	IL	US
+CHI06	West Side Park	1885-06-06	1891-10-02	0	429	-87.66	41.87	Chicago	IL	US
+CHI07	South Side Park II	1890-05-05	1893-05-24	0	181	-87.63	41.83	Chicago	IL	US
+CHI08	West Side Grounds	1893-05-14	1915-10-03	0	1739	-87.67	41.87	Chicago	IL	US
+CHI09	South Side Park III	1901-04-24	1910-06-27	0	718	-87.63	41.82	Chicago	IL	US
+CHI10	Comiskey Park I	1910-07-01	1990-09-30	0	6247	-87.63	41.83	Chicago	IL	US
+CHI11	Wrigley Field	1914-04-23	2013-09-25	1	7871	-87.66	41.95	Chicago	IL	US
+CHI12	U.S. Cellular Field	1991-04-18	2013-09-29	1	1831	-87.63	41.83	Chicago	IL	US
+CIN01	Lincoln Park Grounds	1871-05-13	1871-07-22	0	3	-84.53	39.11	Cincinnati	OH	US
+CIN02	Avenue Grounds	1876-04-25	1879-08-27	0	132	-84.55	39.14	Cincinnati	OH	US
+CIN03	Bank Street Grounds	1880-05-01	1884-10-15	0	185	-84.54	39.12	Cincinnati	OH	US
+CIN04	League Park (Cincinnati) I	1884-05-01	1893-09-29	0	698	-84.54	39.12	Cincinnati	OH	US
+CIN05	League Park (Cincinnati) II	1894-04-20	1901-10-06	0	577	-84.54	39.12	Cincinnati	OH	US
+CIN06	Palace of the Fans	1902-04-17	1911-10-12	0	779	-84.54	39.12	Cincinnati	OH	US
+CIN07	Crosley Field	1912-04-11	1970-06-24	0	4544	-84.54	39.12	Cincinnati	OH	US
+CIN08	Riverfront Stadium	1970-06-30	2002-09-22	0	2576	-84.51	39.1	Cincinnati	OH	US
+CIN09	Great American Ballpark	2003-03-31	2013-09-29	1	892	-84.51	39.1	Cincinnati	OH	US
+CLE01	National Association Grounds	1871-05-11	1872-08-19	0	16	-81.65	41.48	Cleveland	OH	US
+CLE02	League Park I	1879-05-01	1884-10-11	0	275	-81.65	41.5	Cleveland	OH	US
+CLE03	League Park II	1887-05-04	1890-10-04	0	246	-81.66	41.5	Cleveland	OH	US
+CLE04	Brotherhood Park	1890-04-30	1890-10-04	0	62	-81.65	41.48	Cleveland	OH	US
+CLE05	League Park III	1891-05-01	1909-09-06	0	1220	-81.64	41.51	Cleveland	OH	US
+CLE06	League Park IV	1910-04-21	1946-09-21	0	2376	-81.64	41.51	Cleveland	OH	US
+CLE07	Cleveland Stadium	1932-07-31	1993-10-03	0	4196	-81.7	41.51	Cleveland	OH	US
+CLE08	Progressive Field	1994-04-04	2013-09-25	1	1575	-81.69	41.5	Cleveland	OH	US
+CLE09	Cedar Avenue Driving Park	1887-08-21	1887-08-21	0	1	-81.63	41.5	Cleveland	OH	US
+CLL01	Euclid Beach Park	1898-06-12	1898-06-19	0	2	-81.57	41.58	Cleveland	OH	US
+COL01	Recreation Park (Columbus) I	1883-05-01	1884-09-22	0	102	-82.98	39.96	Columbus	OH	US
+COL02	Recreation Park (Columbus) II	1889-04-28	1891-09-22	0	202	-82.99	39.95	Columbus	OH	US
+COL03	Neil Park I	1902-08-03	1903-05-17	0	2	-82.99	39.97	Columbus	OH	US
+COL04	Neil Park II	1905-07-23	1905-07-24	0	2	-82.99	39.97	Columbus	OH	US
+COV01	Star Baseball Park	1875-09-21	1875-09-21	0	1	-84.51	39.07	Covington	KY	US
+DAY01	Fairview Park	1902-06-08	1902-06-08	0	1	-84.21	39.79	Dayton	OH	US

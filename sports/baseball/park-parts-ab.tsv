@@ -1,0 +1,70 @@
+DEN01	Mile High Stadium	1993-04-09	1994-08-11	0	138	-105.02	39.75	Denver	CO	US
+DEN02	Coors Field	1995-04-26	2013-09-25	1	1531	-104.99	39.76	Denver	CO	US
+DET01	Recreation Park (Detroit)	1881-05-02	1890-09-23	0	439	-83.06	42.35	Detroit	MI	US
+DET02	Bennett Park	1901-04-25	1911-09-10	0	796	-83.07	42.33	Detroit	MI	US
+DET03	Burns Park	1901-04-28	1902-09-07	0	23	-83.13	42.32	Detroit	MI	US
+DET04	Tiger Stadium	1912-04-20	1999-09-27	0	6879	-83.07	42.33	Detroit	MI	US
+DET05	Comerica Park	2000-04-11	2013-09-22	1	1133	-83.05	42.34	Detroit	MI	US
+DOV01	Fairview Park Fair Grounds	1875-06-24	1875-06-24	0	1	-75.54	39.17	Dover	DE	US
+ELM01	Maple Avenue Driving Park	1885-10-10	1885-10-10	0	2	-76.78	42.08	Elmira	NY	US
+FOR01	Grand Duchess	1871-05-13	1871-08-29	0	8	-85.16	41.08	Fort Wayne	IN	US
+FOR02	Swinney Park	1882-10-24	1882-10-24	0	\N	\N	\N	Fort Wayne	IN	US
+FOR03	Jailhouse Flats	1902-06-22	1902-08-31	0	2	-85.14	41.08	Fort Wayne	IN	US
+GEA01	Geauga Lake Grounds	1888-07-22	1888-08-26	0	3	-81.37	41.35	Aurora	OH	US
+GLO01	Gloucester Point Grounds	1888-08-05	1890-10-12	0	30	-75.13	39.89	Gloucester City	NJ	US
+GRA01	Ramona Park	1903-05-24	1903-05-24	0	1	-85.61	42.95	Grand Rapids	MI	US
+HAR01	Harrison Field	1915-04-16	1915-10-03	0	79	-74.16	40.74	Harrison	NJ	US
+HOB01	Elysian Field	1873-07-04	1873-07-04	0	1	-74.0268	40.7499	Hoboken	NJ	US
+HON01	Aloha Stadium	1997-04-19	1997-04-20	0	3	-157.93	21.37	Honolulu	HI	US
+HOU01	Colt Stadium	1962-04-10	1964-09-27	0	244	-95.41	29.69	Houston	TX	US
+HOU02	Astrodome	1965-04-12	1999-10-03	0	2774	-95.41	29.68	Houston	TX	US
+HOU03	Minute Maid Park	2000-04-07	2013-09-29	1	1131	-95.36	29.76	Houston	TX	US
+HRT01	Hartford Ball Club Grounds	1874-05-01	1876-09-16	0	100	-72.67	41.76	Hartford	CT	US
+HRT02	Hartford Trotting Park	1872-06-21	1872-08-09	0	3	-72.7	41.78	Hartford	CT	US
+IND01	South Street Park	1878-05-01	1878-09-13	0	22	-86.15	39.76	Indianapolis	IN	US
+IND02	Seventh Street Park I	1884-05-14	1885-09-15	0	45	-86.16	39.79	Indianapolis	IN	US
+IND03	Bruce Grounds	1884-05-18	1884-09-21	0	11	-86.14	39.8	Indianapolis	IN	US
+IND04	Seventh Street Park II	1887-04-28	1887-10-08	0	64	-86.16	39.79	Indianapolis	IN	US
+IND05	Seventh Street Park III	1888-04-20	1889-10-05	0	135	-86.16	39.79	Indianapolis	IN	US
+IND06	Indianapolis Park	1890-07-28	1890-08-02	0	6	-86.13	39.77	Indianapolis	IN	US
+IND07	Federal League Park	1914-04-23	1914-10-08	0	80	-86.17	39.76	Indianapolis	IN	US
+IRO01	Windsor Beach Grounds	1890-05-11	1890-07-20	0	6	-77.59	43.25	Rochester	NY	US
+JER01	Oakland Park	1889-04-24	1889-04-25	0	2	-74.05	40.73	Jersey City	NJ	US
+JER02	Roosevelt Stadium	1956-04-19	1957-09-03	0	15	-74.1	40.71	Jersey City	NJ	US
+KAN01	Athletic Park (Kansas City)	1884-06-07	1884-10-19	0	36	-94.59	39.08	Kansas City	MO	US
+KAN02	Association Park	1886-04-30	1888-09-29	0	114	-94.56	39.11	Kansas City	MO	US
+KAN03	Exposition Park	1888-09-30	1892-10-15	0	74	-94.55	39.09	Kansas City	MO	US
+KAN04	Gordon and Koppel Field	1914-04-16	1915-09-28	0	151	-94.57	39.04	Kansas City	MO	US
+KAN05	Municipal Stadium	1955-04-12	1972-10-04	0	1348	-94.56	39.09	Kansas City	MO	US
+KAN06	Kauffman Stadium	1973-04-10	2013-09-22	1	3251	-94.48	39.05	Kansas City	MO	US
+KEO01	Perry Park	1875-05-04	1875-06-14	0	8	-91.39	40.41	Keokuk	IA	US
+LAS01	Cashman Field	1996-04-01	1996-04-07	0	6	-115.13	36.18	Las Vegas	NV	US
+LBV01	Champion Stadium	2007-05-15	2008-04-24	0	6	-81.56	28.34	Lake Buena Vista	FL	US
+LOS01	Los Angeles Memorial Coliseum	1958-04-18	1961-09-20	0	309	-118.29	34.01	Los Angeles	CA	US
+LOS02	Wrigley Field (Los Angeles)	1961-04-27	1961-10-01	0	82	-118.27	34.01	Los Angeles	CA	US
+LOS03	Dodger Stadium	1962-04-10	2013-09-29	1	4471	-118.24	34.07	Los Angeles	CA	US
+LOU01	Louisville Baseball Park	1876-04-25	1877-09-29	0	62	-85.76	38.23	Louisville	KY	US
+LOU02	Eclipse Park I	1882-05-05	1893-05-04	0	676	-85.8	38.25	Louisville	KY	US
+LOU03	Eclipse Park II	1893-05-22	1899-09-02	0	447	-85.8	38.25	Louisville	KY	US
+LUD01	Ludlow Baseball Park	1875-09-22	1875-09-22	0	1	-84.52	39.09	Covington	KY	US
+MAS01	Long Island Grounds	1890-07-27	1890-08-03	0	2	-73.91	40.72	Maspeth	NY	US
+MIA01	Pro Player Stadium	1993-04-05	2011-09-28	0	1496	-80.24	25.96	Miami	FL	US
+MIA02	Marlins Park	2012-04-04	2013-09-29	1	162	-80.22	25.78	Miami	FL	US
+MID01	Mansfield Club Grounds	1872-05-02	1872-07-27	0	7	-72.63	41.56	Middletown	CT	US
+MIL01	Milwaukee Base-Ball Grounds	1878-05-14	1878-09-14	0	25	-87.93	43.04	Milwaukee	WI	US
+MIL02	Wright Street Grounds	1884-09-27	1885-09-25	0	14	-87.93	43.06	Milwaukee	WI	US
+MIL03	Borchert Field	1891-09-10	1891-10-04	0	20	-87.92	43.07	Milwaukee	WI	US
+MIL04	Lloyd Street Grounds	1901-05-03	1901-09-12	0	70	-87.93	43.06	Milwaukee	WI	US
+MIL05	County Stadium	1953-04-14	2000-09-28	0	3484	-87.97	43.03	Milwaukee	WI	US
+MIL06	Miller Park	2001-04-06	2013-09-22	1	1058	-87.97	43.03	Milwaukee	WI	US
+MIN01	Athletic Park (Minneapolis)	1891-10-02	1891-10-02	0	1	-93.27	44.98	Minneapolis	MN	US
+MIN02	Metropolitan Stadium	1961-04-21	1981-09-30	0	1674	-93.24	44.85	Minneapolis	MN	US
+MIN03	Hubert H. Humphrey Metrodome	1982-04-06	2009-10-06	0	2242	-93.26	44.97	Minneapolis	MN	US
+MIN04	Target Field	2010-04-12	2013-09-29	1	324	-93.28	44.98	Minneapolis	MN	US
+MNT01	Estadio Monterrey	1996-08-16	1999-04-04	0	4	-100.32	25.72	Monterrey	NL	MX
+MON01	Parc Jarry	1969-04-14	1976-09-26	0	641	-73.63	45.53	Montreal	QC	CA
+MON02	Stade Olympique	1977-04-15	2004-09-29	0	2145	-73.55	45.56	Montreal	QC	CA
+NEW01	Howard Avenue Grounds	1875-04-26	1877-09-22	0	27	-72.93	41.29	New Haven	CT	US
+NEW02	Hamilton Park	1875-04-21	1875-04-21	0	1	-72.95	41.32	New Haven	CT	US
+NEW03	Beyerle's Park	1888-09-02	1888-09-02	0	1	-81.66	41.46	Newburgh Township	OH	US
+NWK01	Wiedenmeyer's Park	1904-07-17	1904-07-17	0	1	-74.15	40.72	Newark	NJ	US

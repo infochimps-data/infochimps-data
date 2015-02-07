@@ -1,0 +1,1 @@
+* `helpers/numbers` -- more useful than you'd think, these files have one column, holding a 0 (`zeros-*.tsv`), a 1 (`ones-*.tsv`) or the line number starting at zero (`integers-*.tsv`). The files labeled `1Mi` have `2^20` (a bit over one million) lines; the files labeled `1ki` have `2^10` (1024) lines.

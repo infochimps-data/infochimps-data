@@ -1,0 +1,120 @@
+ALT	Altoona Mountain City	N	\N
+ANA	Los Angeles Angels of Anaheim	Y	\N
+ARI	Arizona Diamondbacks	Y	\N
+ATH	Philadelphia Athletics	N	PNA
+ATL	Atlanta Braves	Y	BNA
+BAL	Baltimore Orioles	Y	\N
+BFB	Buffalo Bisons	N	\N
+BFL	Buffalo Bisons	N	\N
+BLC	Baltimore Canaries	NA	\N
+BLO	Baltimore Orioles	N	\N
+BLT	Baltimore Terrapins	N	\N
+BLU	Baltimore Monumentals	N	\N
+BNA	Boston Red Stockings	NA	ATL
+BOS	Boston Red Sox	Y	\N
+BRA	Brooklyn Atlantics	NA	\N
+BRD	Boston Reds	N	\N
+BRG	Brooklyn Gladiators	N	\N
+BRS	Boston Reds	N	\N
+BTT	Brooklyn Tip-Tops	N	\N
+BUF	Buffalo Bisons	N	\N
+BWW	Brooklyn Ward's Wonders	N	\N
+CBK	Columbus Buckeyes	N	\N
+CBL	Cleveland Blues	N	\N
+CEN	Philadelphia Centennials	NA	\N
+CFC	Cleveland Forest Citys	NA	\N
+CHC	Chicago Cubs	Y	CNA
+CHH	Chicago Whales	N	\N
+CHP	Chicago Pirates	N	\N
+CHW	Chicago White Sox	Y	\N
+CIN	Cincinnati Reds	Y	\N
+CKK	Cincinnati Kelly's Killers	N	\N
+CLE	Cleveland Indians	Y	\N
+CLI	Cleveland Infants	N	\N
+CLS	Columbus Solons	N	\N
+CLV	Cleveland Spiders	N	\N
+CNA	Chicago White Stockings	NA	CHC
+CNR	Cincinnati Reds	N	\N
+COL	Colorado Rockies	Y	\N
+COR	Cincinnati Outlaw Reds	N	\N
+CPI	Chicago/Pittsburgh (Union League)	N	\N
+DET	Detroit Tigers	Y	\N
+DTN	Detroit Wolverines	N	\N
+ECK	Brooklyn Eckfords	NA	\N
+FLA	Florida Marlins	Y	\N
+HAR	Hartford Dark Blues	N	HNA
+HNA	Hartford Dark Blues	NA	HAR
+HOU	Houston Astros	Y	\N
+IBL	Indianapolis Blues	N	\N
+IHO	Indianapolis Hoosiers	N	\N
+IND	Indianapolis Hoosiers	N	\N
+KCC	Kansas City Cowboys	N	\N
+KCN	Kansas City Cowboys	N	\N
+KCP	Kansas City Packers	N	\N
+KCR	Kansas City Royals	Y	\N
+KCU	Kansas City Cowboys	N	\N
+KEK	Fort Wayne Kekiongas	NA	\N
+LAD	Los Angeles Dodgers	Y	\N
+LGR	Louisville Grays	N	\N
+LOU	Louisville Colonels	N	\N
+MAN	Middletown Mansfields	NA	\N
+MAR	Baltimore Marylands	NA	\N
+MIL	Milwaukee Brewers	Y	\N
+MIN	Minnesota Twins	Y	\N
+MLA	Milwaukee Brewers	N	\N
+MLG	Milwaukee Grays	N	\N
+MLU	Milwaukee Brewers	N	\N
+NAT	Washington Nationals	NA	\N
+NEW	Newark Pepper	N	\N
+NHV	New Haven Elm Citys	NA	\N
+NNA	New York Mutuals	NA	NYU
+NYI	New York Giants	N	\N
+NYM	New York Mets	Y	\N
+NYP	New York Metropolitans	N	\N
+NYU	New York Mutuals	N	NNA
+NYY	New York Yankees	Y	\N
+OAK	Oakland Athletics	Y	\N
+OLY	Washington Olympics	NA	\N
+PBB	Pittsburgh Burghers	N	\N
+PBS	Pittsburgh Rebels	N	\N
+PHA	Philadelphia Athletics	N	\N
+PHI	Philadelphia Phillies	Y	\N
+PHK	Philadelphia Keystones	N	\N
+PHQ	Philadelphia Athletics	N	\N
+PIT	Pittsburgh Pirates	Y	\N
+PNA	Philadelphia Athletics	NA	ATH
+PRO	Providence Grays	N	\N
+PWS	Philadelphia White Stockings	NA	\N
+RES	Elizabeth Resolutes	NA	\N
+RIC	Richmond Virginians	N	\N
+ROC	Rochester Broncos	N	\N
+ROK	Rockford Forest Citys	NA	\N
+SBS	St. Louis Brown Stockings	N	SNA
+SDP	San Diego Padres	Y	\N
+SEA	Seattle Mariners	Y	\N
+SFG	San Francisco Giants	Y	\N
+SLI	St. Louis Terriers	N	\N
+SLM	St. Louis Maroons	N	\N
+SLR	St. Louis Red Stockings	NA	\N
+SNA	St. Louis Brown Stockings	NA	SBS
+STL	St. Louis Cardinals	Y	\N
+STP	St. Paul Apostles	N	\N
+SYR	Syracuse Stars	N	\N
+SYS	Syracuse Stars	N	\N
+TBD	Tampa Bay Rays	Y	\N
+TEX	Texas Rangers	Y	\N
+TLM	Toledo Maumees	N	\N
+TOL	Toledo Blue Stockings	N	\N
+TOR	Toronto Blue Jays	Y	\N
+TRO	Troy Haymakers	NA	\N
+TRT	Troy Trojans	N	\N
+WAS	Washington Senators	N	\N
+WBL	Washington Blue Legs	NA	\N
+WES	Keokuk Westerns	NA	\N
+WIL	Wilmington Quicksteps	N	\N
+WNA	Washington Nationals	N	\N
+WNL	Washington Nationals	N	\N
+WNT	Washington Nationals	NA	\N
+WOR	Worcester Ruby Legs	N	\N
+WSN	Washington Nationals	Y	\N
+WST	Washington Statesmen	N	\N
