@@ -11,3 +11,9 @@ If you followed the instructions and cloned the repo with `git clone --recursive
 
 The large datasets are stored separately as their bulk requires special handling.
 
+
+## How to save a ton of space by burning bridges behind you
+
+It may be worth deleting the .git directories if you are short on space. This makes pulling in changes from git in the future difficult, but it's unlikely that really interesting changes happen.
+
+    find . -iname .git -exec rm -rfi {} \;
