@@ -1,0 +1,3 @@
+[submodule "wikipedia/pagecounts"]
+	path = wikipedia/pagecounts
+	url = https://github.com/infochimps-data/wikipedia-pagecounts.git
