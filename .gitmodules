@@ -1,3 +1,6 @@
 [submodule "wikipedia/pagecounts"]
 	path = wikipedia/pagecounts
 	url = https://github.com/infochimps-data/wikipedia-pagecounts.git
+[submodule "geo/geonames"]
+	path = geo/geonames
+	url = https://github.com/infochimps-data/geo-geonames
