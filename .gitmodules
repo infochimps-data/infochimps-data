@@ -4,3 +4,6 @@
 [submodule "geo/geonames"]
 	path = geo/geonames
 	url = https://github.com/infochimps-data/geo-geonames
+[submodule "sports/baseball/retrosheet-eventlogs"]
+	path = sports/baseball/retrosheet-eventlogs
+	url = https://github.com/infochimps-data/sports-retrosheet-eventlogs.git
